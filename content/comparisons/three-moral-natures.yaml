@@ -1,0 +1,76 @@
+id: three-moral-natures
+title_zh: 善、不善、無記；有漏與無漏
+title_en: Wholesome, unwholesome, neutral; defiled and undefiled
+terms: [ kusala-moral, akusala, avyakrta, sasrava, anasrava ]
+summary_zh: 三性以「此世他世」的益損判定：順益為善、違損為不善、不可記別為無記。有漏／無漏則看煩惱能否在其上增長——善法也可以是有漏的。
+summary_en: The three natures are judged by benefit or harm across this life and the next; defiled/undefiled asks whether afflictions can grow on a dharma — so even wholesome things can be defiled.
+table:
+  columns:
+    - { zh: 善, en: Wholesome }
+    - { zh: 不善, en: Unwholesome }
+    - { zh: 無記, en: Neutral }
+  rows:
+    - label: { zh: 判準, en: Criterion }
+      cells:
+        - { zh: 此世他世順益, en: Benefits now and later }
+        - { zh: 此世他世違損, en: Harms now and later }
+        - { zh: 不可記別, en: Cannot be determined }
+    - label: { zh: 例, en: Example }
+      cells:
+        - { zh: 信、慚、無貪等十一心所, en: The eleven wholesome factors }
+        - { zh: 貪瞋癡、無慚無愧, en: 'Three poisons; lack of self-respect and decorum' }
+        - { zh: 阿賴耶（無覆）、末那（有覆）, en: 'Ālaya (unobscured), manas (obscured)' }
+    - label: { zh: 有漏／無漏, en: Defiled or not }
+      cells:
+        - { zh: 世間善有漏，聖道無漏, en: 'Worldly good is defiled; the noble path is undefiled' }
+        - { zh: 皆有漏, en: Always defiled }
+        - { zh: 多為有漏；三無為無漏, en: 'Mostly defiled; the unconditioned undefiled' }
+explanation_zh: |
+  **兩個不同的維度**：善／不善／無記是**道德**維度；有漏／無漏是**是否與煩惱相應**的維度。世間的布施、持戒是善，但仍有漏——煩惱能在其上增長，仍招感三界果報；只有聖道與無為法是無漏。
+
+  **果不稱善惡**：《成唯識論》指出人天樂果「雖於此世能為順益，非於他世，故不名善」——善惡是就業因說的，果報本身是無記（異熟無記）。
+explanation_en: |
+  **Two different axes**: wholesome/unwholesome/neutral is the **moral** axis; defiled/undefiled is whether **afflictions** accompany or can grow on something. Worldly giving and morality are wholesome yet defiled — afflictions can grow on them and they bring results within the three realms; only the noble path and the unconditioned are undefiled.
+
+  **Results are not good or bad**: the Cheng weishi lun notes that pleasant human and heavenly results "benefit in this life but not the next, so they are not called wholesome" — good and bad describe karmic causes; results themselves are neutral (resultant neutral).
+quotes:
+  - text: 於善、不善；益、損義中，不可記別，故名無記。
+    source: 《成唯識論》卷5
+    source_en: Cheng weishi lun, fasc. 5
+    ref: T31n1585_p0026b16
+    refEnd: T31n1585_p0026b17
+    note_en: Where there can be no determination in terms of wholesome or unwholesome, benefit or harm, it is called neutral.
+  - text: 有漏無漏法，除道餘有為，於彼漏隨增，故說名有漏。
+    source: 《阿毘達磨俱舍論》卷1
+    source_en: Abhidharmakośabhāṣya, fasc. 1
+    ref: T29n1558_p0001b29
+    refEnd: T29n1558_p0001c01
+    note_en: Of defiled and undefiled dharmas — the conditioned, other than the path, are called defiled, because the outflows grow in them.
+questions:
+  - type: tf
+    q_zh: 世間的布施善行是有漏的。
+    q_en: Worldly acts of giving are defiled.
+    answer: true
+    explain_zh: 除聖道外的有為法皆有漏；世間善仍有漏。
+    explain_en: All conditioned things except the noble path are defiled, including worldly good.
+  - type: mcq
+    q_zh: 第七末那識屬於？
+    q_en: The seventh consciousness, manas, is…
+    options:
+      - { zh: 善, en: wholesome }
+      - { zh: 不善, en: unwholesome }
+      - { zh: 有覆無記, en: obscured-neutral }
+      - { zh: 無覆無記, en: unobscured-neutral }
+    answer: 2
+    explain_zh: 末那有我執覆蔽，但不造善惡業。
+    explain_en: Veiled by self-grasping but producing no good or bad karma.
+  - type: mcq
+    q_zh: 人天樂果為何不稱為「善」？
+    q_en: Why are pleasant human and heavenly results not called wholesome?
+    options:
+      - { zh: 只在此世順益，非於他世, en: 'they benefit only in this life, not the next' }
+      - { zh: 因為它們是無為法, en: they are unconditioned }
+      - { zh: 因為它們是惡的, en: they are evil }
+    answer: 0
+    explain_zh: 「雖於此世能為順益，非於他世，故不名善。」
+    explain_en: '"Though beneficial in this life, not in the next — so not called wholesome."'

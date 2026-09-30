@@ -1,0 +1,564 @@
+# 基本概念（續）
+
+- id: kusala-moral
+  skt: kuśala
+  deva: कुशल
+  pali: kusala
+  zh: 善
+  zhAlt: [ 善法, 善性 ]
+  en: wholesome
+  enAlt: [ skilful, skillful, good, virtuous, kusala ]
+  root: 「善巧、有益的」 · "skilful, beneficial"
+  short_zh: 三性之一：於此世、他世都能帶來順益的法。
+  short_en: Wholesome — one of the three moral qualities; what brings benefit in this life and the next.
+  detail_zh: |
+    佛教把一切法依道德性質分為**三性**：善、不善、無記。《成唯識論》：「能為此世、他世順益，故名為善。」論中特別指出：人天樂果只在此世順益，不能延及他世，所以樂果本身不稱為善——「善」是就能帶來長遠利益的因而說的。
+
+    kuśala 原義是「善巧、熟練」，所以英文常譯 skilful：善就是對身心與未來「有益的做法」。
+  detail_en: |
+    Buddhism divides all dharmas by moral quality into **three natures**: wholesome, unwholesome, neutral. Cheng weishi lun: "What benefits in this world and the next is called wholesome." It notes that pleasant results in human and heavenly realms benefit only in this life, not the next, so they are not themselves "wholesome" — the word applies to causes of lasting benefit.
+
+    Kuśala originally means "skilful, expert", hence the English "skilful": wholesome is what works well for body, mind and the future.
+  quotes:
+    - text: 能為此世、他世順益，故名為善
+      source: 《成唯識論》卷5
+      source_en: Cheng weishi lun, fasc. 5
+      ref: T31n1585_p0026b12
+      note_en: What can bring benefit in this world and in other worlds is called wholesome.
+  related: [ akusala, avyakrta, sraddha ]
+  compare: [ three-moral-natures ]
+
+- id: akusala
+  skt: akuśala
+  deva: अकुशल
+  pali: akusala
+  zh: 不善
+  zhAlt: [ 惡, 不善法 ]
+  en: unwholesome
+  enAlt: [ unskilful, unskillful, bad, evil, akusala, non-virtuous ]
+  root: a-「非」＋ kuśala「善」 · a- + kuśala
+  short_zh: 三性之一：於此世、他世都帶來違損的法，如貪、瞋、癡所發之業。
+  short_en: Unwholesome — one of the three moral qualities; what brings harm in this life and the next, such as acts driven by greed, hatred and delusion.
+  detail_zh: |
+    《成唯識論》：「能為此世、他世違損，故名不善。」貪、瞋、癡是**三不善根**；無慚、無愧遍於一切不善心（中隨煩惱）。
+
+    與善相同，惡趣的苦果本身不稱不善：苦果只在此世違損，它是過去不善的「果」而非「因」。
+  detail_en: |
+    Cheng weishi lun: "What brings harm in this world and in other worlds is called unwholesome." Greed, hatred and delusion are the **three unwholesome roots**; lack of self-respect and decorum pervade every unwholesome mind.
+
+    As with the wholesome, painful results in the lower realms are not themselves "unwholesome": they are effects of past unwholesome causes, not causes.
+  quotes:
+    - text: 能為此世、他世違損，故名『不善』
+      source: 《成唯識論》卷5
+      source_en: Cheng weishi lun, fasc. 5
+      ref: T31n1585_p0026b14
+      note_en: What brings harm in this world and in other worlds is called unwholesome.
+  related: [ kusala-moral, avyakrta, raga, ahrikya ]
+  compare: [ three-moral-natures ]
+
+- id: avyakrta
+  skt: avyākṛta
+  deva: अव्याकृत
+  pali: abyākata
+  zh: 無記
+  zhAlt: [ 無記性 ]
+  en: neutral
+  enAlt: [ indeterminate, morally neutral, undetermined, unspecified, avyakrta ]
+  root: a-「非」＋ vyākṛta「被判定的」 · a- + vyākṛta "declared, determined"
+  short_zh: 三性之一：不能判定為善或不善的法。分有覆無記（如末那）與無覆無記（如阿賴耶）。
+  short_en: Neutral — one of the three moral qualities; what cannot be declared wholesome or unwholesome. Obscured-neutral (manas) and unobscured-neutral (ālaya).
+  detail_zh: |
+    《成唯識論》：「於善、不善，益、損義中，不可記別，故名無記。」「記」是判定、記別。
+
+    **有覆與無覆**：有覆無記雖不造善惡業，但被煩惱覆蔽，障礙聖道——第七末那識恆有我執，屬有覆無記；阿賴耶識無煩惱相應，屬無覆無記。大隨煩惱遍於一切染心，連有覆無記心也有。
+
+    注意：「無記」另有一義——佛陀對某些形而上問題「不記別」（十四無記），與此不同。
+  detail_en: |
+    Cheng weishi lun: "Where it cannot be declared in terms of wholesome or unwholesome, benefit or harm, it is called neutral." 記 means "to declare, determine".
+
+    **Obscured and unobscured**: obscured-neutral states produce no good or bad karma but are veiled by affliction and obstruct the path — manas, always grasping a self, is obscured-neutral; the ālaya, unaccompanied by afflictions, is unobscured-neutral. The major secondary afflictions accompany all defiled minds, including obscured-neutral ones.
+
+    Note: avyākṛta also names the metaphysical questions the Buddha "left undeclared" (the fourteen undeclared points) — a different use.
+  quotes:
+    - text: 於善、不善；益、損義中，不可記別，故名無記。
+      source: 《成唯識論》卷5
+      source_en: Cheng weishi lun, fasc. 5
+      ref: T31n1585_p0026b16
+      refEnd: T31n1585_p0026b17
+      note_en: Where there can be no determination in terms of wholesome or unwholesome, benefit or harm, it is called neutral.
+  related: [ kusala-moral, akusala, klista-manas, alaya-vijnana ]
+  compare: [ three-moral-natures ]
+
+- id: sasrava
+  skt: sāsrava
+  deva: सास्रव
+  pali: sāsava
+  zh: 有漏
+  zhAlt: [ 有漏法 ]
+  en: defiled
+  enAlt: [ contaminated, with outflows, impure, tainted, sasrava ]
+  root: sa-「有」＋ āsrava「漏」 · sa- "with" + āsrava "outflow"
+  short_zh: 與煩惱（漏）相應、能增長煩惱的法；除聖道外的一切有為法。
+  short_en: Defiled — dharmas in which afflictions ("outflows") grow; all conditioned dharmas except the noble path.
+  detail_zh: |
+    āsrava（漏）是煩惱的別名：煩惱使心識從六根門頭不斷「漏」出，也使有情漏落生死。《俱舍論》：「有漏無漏法，除道餘有為，於彼漏隨增，故說名有漏。」除了聖道以外的一切有為法，煩惱都能在其上增長，所以稱有漏。
+
+    五蘊中有漏的部分稱「五取蘊」。
+  detail_en: |
+    Āsrava ("outflow") is another name for affliction: afflictions make the mind "leak" out through the sense doors and make beings "leak" into saṃsāra. Abhidharmakośa: "Of dharmas defiled and pure: conditioned dharmas other than the path are defiled, because the outflows grow in them." Afflictions can increase on every conditioned dharma except the noble path.
+
+    The defiled aggregates are the "aggregates of clinging".
+  quotes:
+    - text: 有漏無漏法，除道餘有為，於彼漏隨增，故說名有漏。
+      source: 《阿毘達磨俱舍論》卷1
+      source_en: Abhidharmakośabhāṣya, fasc. 1
+      ref: T29n1558_p0001b29
+      refEnd: T29n1558_p0001c01
+      note_en: Of defiled and undefiled dharmas — the conditioned, other than the path, are called defiled, because the outflows grow in them.
+  related: [ anasrava, klesa, upadana ]
+  compare: [ three-moral-natures ]
+
+- id: anasrava
+  skt: anāsrava
+  deva: अनास्रव
+  pali: anāsava
+  zh: 無漏
+  zhAlt: [ 無漏法 ]
+  en: undefiled
+  enAlt: [ uncontaminated, pure, without outflows, untainted, anasrava ]
+  root: an-「無」＋ āsrava「漏」 · an- + āsrava
+  short_zh: 不與煩惱相應、煩惱不能在其上增長的法：聖道與無為法。
+  short_en: 'Undefiled — dharmas on which afflictions cannot grow: the noble path and the unconditioned.'
+  detail_zh: |
+    《俱舍論》：「無漏謂道諦，及三種無為。」聖者的無漏智慧，以及虛空、擇滅、非擇滅等無為法，煩惱都不能在其上增長。
+
+    唯識說阿賴耶識中本有無漏種子，是成佛的根據；修道就是讓無漏種子增長、有漏種子消減。
+  detail_en: |
+    Abhidharmakośa: "The undefiled are the path and the three unconditioned." The noble ones' pure wisdom, and space and the two cessations, are dharmas on which afflictions cannot grow.
+
+    Yogācāra holds that pure seeds exist innately in the store consciousness — the basis for buddhahood; practice makes pure seeds grow and defiled seeds wane.
+  quotes:
+    - text: 無漏謂道諦，及三種無為
+      source: 《阿毘達磨俱舍論》卷1
+      source_en: Abhidharmakośabhāṣya, fasc. 1
+      ref: T29n1558_p0001c02
+      note_en: The undefiled are the truth of the path and the three kinds of unconditioned.
+  related: [ sasrava, asamskrta, bija ]
+  compare: [ three-moral-natures ]
+
+- id: traidhatuka
+  skt: traidhātuka
+  deva: त्रैधातुक
+  pali: tedhātuka
+  zh: 三界
+  zhAlt: [ 欲界色界無色界, 三有 ]
+  en: three realms
+  enAlt: [ three worlds, triple world, three spheres, three realms of existence ]
+  root: tri「三」＋ dhātu「界」 · tri "three" + dhātu "realm"
+  short_zh: 有情輪迴的三個層次：欲界、色界、無色界。
+  short_en: The three realms of rebirth — the desire realm, the form realm and the formless realm.
+  detail_zh: |
+    - **欲界**：有飲食、男女之欲的眾生所居，包括地獄、傍生、鬼、人及六欲天。《俱舍論》：「地獄傍生鬼，人及六欲天，名欲界二十。」
+    - **色界**：已離欲貪，仍有微妙色身，即四禪天。
+    - **無色界**：沒有色身，只有心識，即四空處。
+
+    三界都是有漏的輪迴之處。《法華經》：「三界無安，猶如火宅。」注意十八界的「色界」與三界的「色界」是不同的詞。
+  detail_en: |
+    - **Desire realm**: beings with desire for food and sex — hells, animals, ghosts, humans and the six desire heavens. Abhidharmakośa: "Hells, animals, ghosts, humans and the six desire heavens are the twenty [places] of the desire realm."
+    - **Form realm**: free of sensual desire but with subtle bodies — the four dhyāna heavens.
+    - **Formless realm**: no body, only mind — the four formless spheres.
+
+    All three are defiled realms of rebirth. Lotus Sūtra: "There is no peace in the three realms; they are like a burning house." The "form element" among the eighteen is a different word from the "form realm" here.
+  quotes:
+    - text: 三界無安，猶如火宅
+      source: 《妙法蓮華經》卷2
+      source_en: Lotus Sūtra, tr. Kumārajīva, fasc. 2
+      ref: T09n0262_p0014c22
+      note_en: There is no peace in the three realms; they are like a burning house.
+    - text: 地獄傍生鬼，人及六欲天，名欲界二十
+      source: 《阿毘達磨俱舍論》卷8
+      source_en: Abhidharmakośabhāṣya, fasc. 8
+      ref: T29n1558_p0040c25
+      refEnd: T29n1558_p0040c26
+      note_en: Hells, animals, ghosts, humans and the six desire heavens are called the twenty [places] of the desire realm.
+  related: [ samsara, dhyana, bhava, gati ]
+
+- id: vipaka
+  skt: vipāka
+  deva: विपाक
+  pali: vipāka
+  zh: 異熟
+  zhAlt: [ 果報, 異熟果, 報 ]
+  en: karmic maturation
+  enAlt: [ maturation, ripening, karmic result, fruition, vipaka, result of karma ]
+  root: vi-√pac「成熟」 · vi-√pac "to ripen"
+  short_zh: 業的果報：善惡業成熟時所招感的無記果，因與果性質不同，故名「異熟」。
+  short_en: Karmic maturation — the neutral result that ripens from good or bad karma; "different in kind" from its cause.
+  detail_zh: |
+    《俱舍論》：「異類而熟是異熟義。」善或不善的業（因），成熟時招感的果報（如生為人、天）本身卻是無記的——因與果性質不同，所以稱異熟。
+
+    唯識稱阿賴耶識為「異熟識」，因為它是善惡業所招感的總果報體。《唯識三十頌》：「初阿賴耶識，異熟一切種。」
+  detail_en: |
+    Abhidharmakośa: "Ripening as something different in kind — that is the meaning of maturation." Wholesome or unwholesome karma (the cause) ripens into a result (e.g. human or heavenly birth) that is itself neutral — cause and effect differ in kind, hence "maturation" (異熟, "differently ripened").
+
+    Yogācāra calls the store consciousness the "resultant consciousness", the overall fruit of good and bad karma. Thirty Verses: "First, the ālaya consciousness, the resultant, bearing all seeds."
+  quotes:
+    - text: 異類而熟是異熟義，謂異熟因唯異類熟。
+      source: 《阿毘達磨俱舍論》卷6
+      source_en: Abhidharmakośabhāṣya, fasc. 6
+      ref: T29n1558_p0033a15
+      refEnd: T29n1558_p0033a16
+      note_en: Ripening as something of a different kind is the meaning of maturation; that is, the cause of maturation ripens only into a different kind.
+  related: [ karma, alaya-vijnana, avyakrta ]
+
+- id: prajnapti
+  skt: prajñapti
+  deva: प्रज्ञप्ति
+  pali: paññatti
+  zh: 假有
+  zhAlt: [ 假立, 施設, 假名, 假名有 ]
+  en: designation
+  enAlt: [ nominal existence, conventional designation, provisional existence, imputed existence, prajnapti ]
+  root: pra-√jñā 的使役「令人知、施設」 · causative of pra-√jñā, "making known"
+  short_zh: 依他法而施設、沒有獨立實體的存在，如瓶、軍隊、人我。
+  short_en: 'Designation — existence imputed on other things, with no independent entity: a pot, an army, a person.'
+  detail_zh: |
+    佛典常判某法為「假」或「實」。**假有**是依其他法而施設的名稱：瓶是依泥土、形狀等假立；「軍隊」是依許多士兵假立；「人」是依五蘊假立。《俱舍論》：「彼覺破便無，慧析餘亦爾，如瓶水世俗」——瓶打破了，瓶的概念就沒了；用慧分析，水也分解為色香等——這類就是假有（世俗有）。
+
+    在百法中，不放逸、行捨、不害、小隨煩惱等都被判為假有；心不相應行也都是假立。
+  detail_en: |
+    Buddhist texts often judge a dharma "designated" or "real". **Designated** existence is a name imputed on other things: a pot on clay and shape, an "army" on many soldiers, a "person" on the aggregates. Abhidharmakośa: "If, when it is broken or analysed, the idea of it disappears — like a pot or water — it is conventional." Break the pot and the notion is gone; analyse water and it resolves into colour, smell and so on — such things exist by designation.
+
+    In the hundred dharmas, conscientiousness, equanimity, non-harming, the minor secondary afflictions and all non-associated formations are designated.
+  quotes:
+    - text: 彼覺破便無，慧析餘亦爾，如瓶水世俗，異此名勝義。
+      source: 《阿毘達磨俱舍論》卷22
+      source_en: Abhidharmakośabhāṣya, fasc. 22
+      ref: T29n1558_p0116b13
+      refEnd: T29n1558_p0116b14
+      note_en: If, when it is broken, the idea of it vanishes, or likewise when it is analysed by wisdom — like a pot or water — it is conventional; what differs from this is ultimate.
+  related: [ dravya, samvrti-satya, viprayukta-samskara ]
+  compare: [ prajnapti-dravya ]
+
+- id: dravya
+  skt: dravya
+  deva: द्रव्य
+  pali: dabba
+  zh: 實有
+  zhAlt: [ 實, 實法, 實體 ]
+  en: substantial existence
+  enAlt: [ real entity, substance, substantially existent, dravya, real existence ]
+  root: 「物、實體」 · "thing, substance"
+  short_zh: 不依他法施設、有自己體性的存在。阿毗達磨判定哪些法是實有。
+  short_en: Substantial existence — what exists with its own nature, not merely imputed on other things. Abhidharma decides which dharmas are real.
+  detail_zh: |
+    **實有**與假有相對：一法若不依其他法而施設，有自己的體性（如受、想、思等心所），就稱實有。說一切有部判七十五法皆實有；唯識則認為心、心所、色法等依他起法是「實」（相對於假），但它們也無獨立自性，只是在世俗上有其體用。
+
+    例：《成唯識論》：「無慚、無愧、不信、懈怠定是實有」，而「小十、大三定是假有」。
+  detail_en: |
+    Substantial existence contrasts with designation: a dharma not imputed on others, with its own nature (e.g. feeling, perception, volition), is "real". The Sarvāstivāda holds all seventy-five dharmas real; Yogācāra treats mind, mental factors and matter — dependent dharmas — as "real" relative to designations, though still lacking independent own-being.
+
+    Example: the Cheng weishi lun rules lack of self-respect, lack of decorum, faithlessness and laziness "definitely real", but "the ten minor and three major definitely designated".
+  quotes:
+    - text: 如是二十隨煩惱中，小十、大三，定是假有；無慚、無愧、不信、懈怠定是實有；教、理成故。掉舉、惛沈、散亂三種，有義是假，有義是實。
+      source: 《成唯識論》卷6
+      source_en: Cheng weishi lun, fasc. 6
+      ref: T31n1585_p0034c27
+      refEnd: T31n1585_p0035a01
+      note_en: Among these twenty secondary afflictions, the ten minor and three of the major are definitely designated; lack of self-respect, lack of decorum, faithlessness and laziness are definitely real, as established by scripture and reasoning; restlessness, torpor and distraction — some say designated, some say real.
+  related: [ prajnapti, paramartha-satya ]
+  compare: [ prajnapti-dravya ]
+
+- id: mahabhuta
+  skt: mahābhūta
+  deva: महाभूत
+  pali: mahābhūta
+  zh: 四大種
+  zhAlt: [ 四大, 大種, 地水火風 ]
+  en: great elements
+  enAlt: [ four great elements, four elements, primary elements, elements, mahabhuta ]
+  root: mahā「大」＋ bhūta「已生成者、元素」 · mahā "great" + bhūta "element"
+  short_zh: 地、水、火、風四種能造一切色法的元素，即堅、濕、煖、動四種性質。
+  short_en: 'The four great elements — earth, water, fire, wind: the properties of solidity, cohesion, heat and motion from which all matter derives.'
+  detail_zh: |
+    《大乘五蘊論》：「云何四大種？謂地界、水界、火界、風界。云何地界？謂堅強性。云何水界？謂流濕性。云何火界？謂溫燥性。云何風界？謂輕等動性。」
+
+    四大種不是字面上的泥土、河水，而是物質的四種基本性質。一切色法都是「四大種及四大種所造色」。「大」是因為它們遍在一切色法中，能造作其他色法。
+  detail_en: |
+    Pañcaskandhaka: "What are the four great elements? The earth, water, fire and wind elements. Earth is solidity; water is fluid cohesion; fire is heat; wind is lightness and motion."
+
+    They are not literal soil or river water but four basic properties of matter; all matter is "the four great elements and form derived from them". "Great" because they pervade all matter and produce the rest.
+  quotes:
+    - text: 云何四大種？謂地界、水界、火界、風界。云何地界？謂堅強性。云何水界？謂流濕性。云何火界？謂溫燥性。云何風界？謂輕等動性。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0848b08
+      refEnd: T31n1612_p0848b11
+      note_en: What are the four great elements? The earth, water, fire and wind elements. What is the earth element? Solidity. The water element? Fluid moisture. The fire element? Warmth. The wind element? Lightness and motion.
+  related: [ rupa, sprastavya, avijnapti ]
+
+- id: avijnapti
+  skt: avijñapti-rūpa
+  deva: अविज्ञप्तिरूप
+  pali: ''
+  zh: 無表色
+  zhAlt: [ 無表, 無作色 ]
+  en: unmanifest form
+  enAlt: [ non-revealing form, non-informative matter, unmanifest matter, avijnapti ]
+  root: a-「非」＋ vijñapti「表示」＋ rūpa「色」 · "form that does not reveal"
+  short_zh: 由身語業或定所生、看不見也不障礙的色法，如受戒後持續的「戒體」。
+  short_en: Unmanifest form — invisible, unobstructing matter produced by bodily or verbal acts or by meditation, e.g. the continuing "vow-body" after taking precepts.
+  detail_zh: |
+    《大乘五蘊論》：「云何名為無表色等？謂有表業及三摩地所生色等，無見無對。」例如受戒時的身語表業結束後，仍有一種防非止惡的力量持續存在，這就是無表色（戒體）。
+
+    說一切有部認為無表色是實有的色法，歸入法處；經部與唯識則認為是依思（意志）的種子假立。
+  detail_en: |
+    Pañcaskandhaka: "What is unmanifest form and the like? Form produced by manifest action and by concentration, invisible and unobstructing." After the bodily and verbal act of taking precepts ends, a force restraining wrongdoing continues — unmanifest form (the "vow-body").
+
+    The Sarvāstivāda holds it a real form, in the dharma base; the Sautrāntika and Yogācāra designate it on seeds of volition.
+  quotes:
+    - text: 云何名為無表色等？謂有表業及三摩地所生色等，無見無對。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0848b23
+      refEnd: T31n1612_p0848b25
+      note_en: What is unmanifest form and so on? Form produced by manifest action and by concentration, which is invisible and unobstructing.
+  related: [ rupa, sila, dharmayatana, cetana ]
+
+- id: hetu
+  skt: hetu
+  deva: हेतु
+  pali: hetu
+  zh: 因
+  zhAlt: [ 因緣 ]
+  en: cause
+  enAlt: [ primary cause, reason, root cause, hetu ]
+  root: √hi「推動」 · √hi "to impel"
+  short_zh: 直接產生結果的主要條件，如種子之於芽。
+  short_en: Cause — the main condition that directly produces a result, as a seed does a sprout.
+  detail_zh: |
+    佛典常「因緣」並稱：因是親生果的主因，緣是助成的條件（如種子是因，水土陽光是緣）。《成唯識論》解釋四緣中的因緣：「謂有為法親辦自果。」
+
+    說一切有部另立六因：能作因、俱有因、同類因、相應因、遍行因、異熟因。《俱舍論》說四緣中的「因緣」即「五因性」（六因除能作因）。
+  detail_en: |
+    Texts often pair cause and condition: the cause directly produces the result, conditions assist (seed is the cause; water, soil and sun are conditions). The Cheng weishi lun defines the causal condition among the four: "a conditioned dharma that directly accomplishes its own result."
+
+    The Sarvāstivāda lists six causes (efficient, co-existent, homogeneous, associated, pervasive, maturational); the Abhidharmakośa says the "causal condition" is five of them (all but the efficient cause).
+  quotes:
+    - text: 謂有為法親辦自果。
+      source: 《成唯識論》卷7
+      source_en: Cheng weishi lun, fasc. 7
+      ref: T31n1585_p0040a21
+      refEnd: T31n1585_p0040a22
+      note_en: '[The causal condition] is a conditioned dharma that directly accomplishes its own result.'
+  related: [ pratyaya, pratityasamutpada, bija ]
+  compare: [ hetu-pratyaya ]
+
+- id: pratyaya
+  skt: pratyaya
+  deva: प्रत्यय
+  pali: paccaya
+  zh: 緣
+  zhAlt: [ 助緣, 條件 ]
+  en: condition
+  enAlt: [ conditions, supporting condition, cooperating condition, pratyaya ]
+  root: prati-√i「依靠」 · prati-√i "to go toward, rely on"
+  short_zh: 協助結果生起的條件；廣義包括因。唯識與有部立四緣。
+  short_en: Condition — what helps a result arise; broadly includes the cause. Four conditions are listed.
+  detail_zh: |
+    pratyaya 與 pratītya（緣起的「緣」）同根：「依靠」。狹義的緣是助緣，廣義的緣包含因在內。
+
+    《俱舍論》：「說有四種緣：因緣五因性，等無間非後，心心所已生，所緣一切法，增上即能作。」四緣是：因緣、等無間緣、所緣緣、增上緣（見「四緣」條與比較卡）。
+  detail_en: |
+    Pratyaya shares its root with pratītya in pratītyasamutpāda: "relying on". Narrowly, a condition assists; broadly it includes the cause.
+
+    Abhidharmakośa: "Four conditions are taught: the causal condition is five causes; the immediately preceding condition is minds and mental factors already arisen, except the last; the object condition is all dharmas; the dominant condition is the efficient cause." The four: causal, immediately preceding, object and dominant conditions.
+  quotes:
+    - text: 說有四種緣，因緣五因性，等無間非後，心心所已生，所緣一切法，增上即能作。
+      source: 《阿毘達磨俱舍論》卷7
+      source_en: Abhidharmakośabhāṣya, fasc. 7
+      ref: T29n1558_p0036b11
+      refEnd: T29n1558_p0036b13
+      note_en: Four kinds of condition are taught — the causal condition is the nature of the five causes; the immediately preceding condition is minds and mental factors that have arisen, except the last; the object condition is all dharmas; the dominant condition is the efficient cause.
+  related: [ hetu, catvarah-pratyayah, pratityasamutpada ]
+  compare: [ hetu-pratyaya ]
+
+- id: catvarah-pratyayah
+  skt: catvāraḥ pratyayāḥ
+  deva: चत्वारः प्रत्ययाः
+  pali: ''
+  zh: 四緣
+  zhAlt: [ 四種緣 ]
+  en: four conditions
+  enAlt: [ four kinds of condition, the four conditions ]
+  root: catvāraḥ「四」＋ pratyayāḥ「緣」 · "four conditions"
+  short_zh: 因緣、等無間緣、所緣緣、增上緣——說明一切有為法如何生起的四種條件。
+  short_en: The four conditions — causal, immediately preceding, object and dominant — explaining how conditioned things arise.
+  detail_zh: |
+    《成唯識論》逐一定義：
+    1. **因緣**：「謂有為法親辦自果」——如種子生現行；
+    2. **等無間緣**：前一念心心所「等而開導，令彼定生」——前念讓位給後念；
+    3. **所緣緣**：「謂若有法是帶己相心或相應所慮、所託」——心識所認識的對象；
+    4. **增上緣**：「謂若有法有勝勢用，能於餘法或順、或違」——其他一切有助或有阻的條件。
+
+    心、心所的生起需要四緣具足；色法只需因緣與增上緣。
+  detail_en: |
+    The Cheng weishi lun defines each:
+    1. **Causal**: "a conditioned dharma that directly accomplishes its own result" — as seeds produce manifestation;
+    2. **Immediately preceding**: the previous moment of mind "equally opens the way, making the next certainly arise";
+    3. **Object**: "a dharma that is what the mind, bearing its image, or its associated factors, cognize and rest on";
+    4. **Dominant**: "a dharma with strong power that aids or hinders other dharmas".
+
+    Minds and mental factors need all four; matter needs only the causal and dominant conditions.
+  quotes:
+    - text: 等而開導，令彼定生。
+      source: 《成唯識論》卷7
+      source_en: Cheng weishi lun, fasc. 7
+      ref: T31n1585_p0040b07
+      note_en: '[The immediately preceding condition] opens the way equally, making the following [mind] certainly arise.'
+    - text: 謂若有法有勝勢用，能於餘法或順、或違。
+      source: 《成唯識論》卷7
+      source_en: Cheng weishi lun, fasc. 7
+      ref: T31n1585_p0041a06
+      note_en: '[The dominant condition] is any dharma with superior power that can aid or hinder other dharmas.'
+  related: [ hetu, pratyaya, alambana ]
+  compare: [ hetu-pratyaya ]
+
+- id: alambana
+  skt: ālambana
+  deva: आलम्बन
+  pali: ārammaṇa
+  zh: 所緣
+  zhAlt: [ 所緣緣, 緣境 ]
+  en: cognitive object
+  enAlt: [ object, object of cognition, support, referent, alambana ]
+  root: ā-√lamb「攀附、依靠」 · ā-√lamb "to hang on to"
+  short_zh: 心與心所攀緣、認識的對象；四緣中的所緣緣。
+  short_en: Cognitive object — what mind and mental factors take hold of and cognize; the object condition among the four.
+  detail_zh: |
+    ālambana 字面是「攀附之處」——心像藤蔓一樣攀緣對象而生起。《成唯識論》：「謂若有法是帶己相心或相應所慮、所託。」
+
+    **所緣與境**：境（viṣaya）側重根的作用範圍；所緣側重心識所攀取的對象。唯識分「親所緣緣」（識自身變現的相分）與「疏所緣緣」（本質）。
+  detail_en: |
+    Ālambana literally means "what one hangs on to" — mind arises clinging to its object like a vine. Cheng weishi lun: "a dharma that the mind bearing its image, or its associated factors, cognize and rest on."
+
+    **Object vs domain**: viṣaya stresses a faculty's range; ālambana what the mind takes hold of. Yogācāra distinguishes the "immediate" object condition (the image manifested by consciousness itself) from the "remote" one (the underlying basis).
+  quotes:
+    - text: 謂若有法是帶己相心或相應所慮、所託。
+      source: 《成唯識論》卷7
+      source_en: Cheng weishi lun, fasc. 7
+      ref: T31n1585_p0040c15
+      refEnd: T31n1585_p0040c16
+      note_en: '[The object condition] is a dharma that is what the mind bearing its image, or its associated factors, cognize and rest upon.'
+  related: [ visaya, catvarah-pratyayah, citta ]
+  compare: [ hetu-pratyaya ]
+
+- id: samskrta-laksana
+  skt: saṃskṛta-lakṣaṇa
+  deva: संस्कृतलक्षण
+  pali: saṅkhatalakkhaṇa
+  zh: 有為四相
+  zhAlt: [ 四相, 生住異滅, 有為相 ]
+  en: characteristics of the conditioned
+  enAlt: [ four characteristics, marks of the conditioned, arising abiding decay ceasing, four marks ]
+  root: saṃskṛta「有為」＋ lakṣaṇa「相」 · saṃskṛta + lakṣaṇa "mark"
+  short_zh: 一切有為法都具有的生、住、異、滅四種特徵；屬心不相應行。
+  short_en: The four characteristics every conditioned thing has — arising, abiding, decay, ceasing; non-associated formations.
+  detail_zh: |
+    《俱舍論》：「相謂諸有為，生住異滅性。」有為法剎那生起（生）、暫時延續（住）、變異（異）、滅去（滅）。經中也常說三相（生、住異、滅）。
+
+    《大乘五蘊論》分別定義：生「諸行本無今有」，老「諸行相續變異」，住「諸行相續隨轉」，無常「諸行相續謝滅」。說一切有部認為四相是實有；唯識認為是依有為法的分位假立。
+  detail_en: |
+    Abhidharmakośa: "The characteristics are the arising, abiding, decay and ceasing of conditioned things." Each conditioned dharma arises, briefly persists, changes and ceases. Sūtras also give three (arising, abiding-and-change, ceasing).
+
+    The Pañcaskandhaka defines: arising "formations not existing before and existing now", ageing "their continuum changing", abiding "their continuum continuing", impermanence "their continuum ceasing". The Sarvāstivāda holds the four real; Yogācāra designates them on phases of conditioned things.
+  quotes:
+    - text: 相謂諸有為，生住異滅性。
+      source: 《阿毘達磨俱舍論》卷5
+      source_en: Abhidharmakośabhāṣya, fasc. 5
+      ref: T29n1558_p0027a13
+      note_en: The characteristics are the arising, abiding, decay and ceasing of conditioned dharmas.
+  related: [ samskrta, anitya, viprayukta-samskara ]
+
+- id: atman
+  skt: ātman
+  deva: आत्मन्
+  pali: attā
+  zh: 我
+  zhAlt: [ 自我, 神我 ]
+  en: self
+  enAlt: [ soul, ego, atman, the self ]
+  root: 「自身、氣息」 · "self, breath"
+  short_zh: 常、一、主宰的自我；佛教以「無我」否定其實在。
+  short_en: Self — a permanent, unitary, controlling self, whose reality Buddhism denies through "non-self".
+  detail_zh: |
+    ātman 在奧義書中是永恆的真我，與梵（brahman）合一。佛教所說的「我」指具有**常、一、主宰**特性的實體。《成唯識論》：「我謂主宰，法謂軌持。」
+
+    佛教否定的是這種實體的我，而不否定世俗假名的「我」——佛陀也說「我」，是隨順世俗的說法。
+  detail_en: |
+    In the Upaniṣads ātman is the eternal true self, one with brahman. Buddhism's "self" is an entity that is **permanent, unitary and controlling**. Cheng weishi lun: "Self means master; dharma means holding a pattern."
+
+    Buddhism denies such an entity, not the conventional "I" — the Buddha too said "I", following worldly usage.
+  quotes:
+    - text: 我謂主宰，法謂軌持。
+      source: 《成唯識論》卷1
+      source_en: Cheng weishi lun, fasc. 1
+      ref: T31n1585_p0001a24
+      note_en: '"Self" means a master; "dharma" means that which holds a pattern.'
+  related: [ anatman, pudgala, klista-manas ]
+
+- id: sattva
+  skt: sattva
+  deva: सत्त्व
+  pali: satta
+  zh: 有情
+  zhAlt: [ 眾生, 含識 ]
+  en: sentient being
+  enAlt: [ being, beings, living being, sentient beings, sattva ]
+  root: sat「存在」＋ -tva「性」 · "beingness, a being"
+  short_zh: 有情識的生命，即眾生。玄奘譯「有情」，舊譯「眾生」。
+  short_en: Sentient being — a living being with consciousness. Xuanzang renders 有情, older translations 眾生.
+  detail_zh: |
+    sattva 意為「存在者」。舊譯「眾生」取眾緣和合而生；玄奘譯「有情」取有情識、有情愛——與草木等無情相對。
+
+    《金剛經》說菩薩度一切眾生：「所有一切眾生之類，若卵生、若胎生、若濕生、若化生……我皆令入無餘涅槃而滅度之。」而緊接著說「實無眾生得滅度者」——度眾生而不執眾生相。
+  detail_en: |
+    Sattva means "one who is". The older 眾生 stresses "born of many conditions"; Xuanzang's 有情 "having feeling" stresses consciousness and affection — as opposed to insentient plants.
+
+    The Diamond Sūtra: the bodhisattva vows to lead "all beings — born from eggs, wombs, moisture or transformation … into nirvāṇa without remainder", and then says "yet in truth no being is led to nirvāṇa" — liberating beings without clinging to the notion of beings.
+  quotes:
+    - text: 所有一切眾生之類，若卵生、若胎生、若濕生、若化生，若有色、若無色，若有想、若無想、若非有想非無想，我皆令入無餘涅槃而滅度之。
+      source: 《金剛般若波羅蜜經》
+      source_en: Vajracchedikā (Diamond Sūtra), tr. Kumārajīva
+      ref: T08n0235_p0749a06
+      refEnd: T08n0235_p0749a09
+      note_en: All kinds of beings — born from eggs, from wombs, from moisture or by transformation, with form or without form, with perception, without perception, or neither with nor without perception — I shall lead them all into nirvāṇa without remainder.
+  related: [ bodhisattva, pudgala, samsara ]
+
+- id: pudgala
+  skt: pudgala
+  deva: पुद्गल
+  pali: puggala
+  zh: 補特伽羅
+  zhAlt: [ 數取趣, 人 ]
+  en: person
+  enAlt: [ individual, personal entity, pudgala ]
+  root: 「人、個體」 · "person, individual"
+  short_zh: 「數取趣」：一再往來諸趣的主體。佛教說人無我，即補特伽羅無我。
+  short_en: '"One who repeatedly takes rebirth" — the person. Buddhism teaches the selflessness of the person.'
+  detail_zh: |
+    pudgala 意為「人、個體」，漢譯意為「數取趣」——屢次取五趣之身者。部派中犢子部主張有「不可說」的補特伽羅作為輪迴主體，受到其他部派批評。
+
+    唯識說二無我的第一種即「補特伽羅無我」：《大乘百法明門論》：「言無我者，略有二種：一補特伽羅無我、二法無我。」
+  detail_en: |
+    Pudgala means "person, individual"; Chinese glosses it "one who repeatedly takes [rebirth in] destinies". The Vātsīputrīya school posited an "inexpressible" person as the subject of rebirth, criticized by other schools.
+
+    Yogācāra's first selflessness is the selflessness of the person. Hundred Dharmas: "Non-self is briefly of two kinds: non-self of the person and non-self of dharmas."
+  quotes:
+    - text: 言無我者，略有二種：一補特伽羅無我、二法無我。
+      source: 《大乘百法明門論》
+      source_en: Mahāyāna Hundred Dharmas Treatise
+      ref: T31n1614_p0855c20
+      refEnd: T31n1614_p0855c21
+      note_en: As for non-self, it is briefly of two kinds — the non-self of the person and the non-self of dharmas.
+  related: [ atman, pudgala-nairatmya, sattva ]

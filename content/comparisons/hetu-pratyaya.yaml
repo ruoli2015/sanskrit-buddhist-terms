@@ -1,0 +1,74 @@
+id: hetu-pratyaya
+title_zh: 因與緣；四緣
+title_en: Cause and condition; the four conditions
+terms: [ hetu, pratyaya, catvarah-pratyayah, alambana ]
+summary_zh: 因是親生果的主因，緣是助成的條件（廣義的緣包括因）。四緣：因緣（親辦自果）、等無間緣（前念開導後念）、所緣緣（所認識的對象）、增上緣（其他一切助力或阻力）。
+summary_en: 'A cause directly produces its result; conditions assist (broadly, conditions include the cause). The four: causal (directly producing), immediately preceding (the prior mind opening the way), object (what is cognized), dominant (every other aid or hindrance).'
+table:
+  columns:
+    - { zh: 因緣, en: Causal }
+    - { zh: 等無間緣, en: Immediately preceding }
+    - { zh: 所緣緣, en: Object }
+    - { zh: 增上緣, en: Dominant }
+  rows:
+    - label: { zh: 定義, en: Definition }
+      cells:
+        - { zh: 有為法親辦自果, en: A conditioned dharma directly producing its own result }
+        - { zh: 前念心心所等而開導，令後念定生, en: 'The prior mind opens the way for the next' }
+        - { zh: 帶己相心所慮所託, en: What the mind cognizes and rests on }
+        - { zh: 有勝勢用，於餘法或順或違, en: Power to aid or hinder other dharmas }
+    - label: { zh: 例（見色）, en: Example (seeing) }
+      cells:
+        - { zh: 眼識的種子, en: The seed of eye-consciousness }
+        - { zh: 前一剎那的心, en: The previous moment of mind }
+        - { zh: 所見的色, en: The visible form }
+        - { zh: 眼根、光明、空間等, en: 'The eye faculty, light, space…' }
+    - label: { zh: 誰需要, en: Needed by }
+      cells:
+        - { zh: 心與色皆需, en: Mind and matter }
+        - { zh: 唯心心所, en: Minds only }
+        - { zh: 唯心心所, en: Minds only }
+        - { zh: 心與色皆需, en: Mind and matter }
+explanation_zh: |
+  **因與緣**：種子是因，水土陽光是緣；廣義地說，一切條件都是緣，因只是其中親生果的那一種（因緣）。
+
+  **四緣**：《俱舍論》：「說有四種緣：因緣五因性，等無間非後，心心所已生，所緣一切法，增上即能作。」《成唯識論》逐一定義。心與心所的生起四緣具足；色法只需因緣與增上緣——色法不認識對象，也沒有「前念開導後念」的關係。
+explanation_en: |
+  **Cause and condition**: the seed is the cause, water, soil and sun the conditions; broadly, all factors are conditions, the cause being the one that directly produces the result (the causal condition).
+
+  **Four conditions**: Abhidharmakośa: "Four conditions are taught: the causal condition is five causes; the immediately preceding is minds and mental factors already arisen, except the last; the object is all dharmas; the dominant is the efficient cause." The Cheng weishi lun defines each. Minds need all four; matter only the causal and dominant — matter cognizes no object and has no "prior mind opening the way".
+quotes:
+  - text: 說有四種緣，因緣五因性，等無間非後，心心所已生，所緣一切法，增上即能作。
+    source: 《阿毘達磨俱舍論》卷7
+    source_en: Abhidharmakośabhāṣya, fasc. 7
+    ref: T29n1558_p0036b11
+    refEnd: T29n1558_p0036b13
+    note_en: Four kinds of condition are taught — the causal condition is the nature of the five causes; the immediately preceding condition is minds and mental factors that have arisen, except the last; the object condition is all dharmas; the dominant condition is the efficient cause.
+questions:
+  - type: mcq
+    q_zh: 眼見色時，「所見的色」是哪一種緣？
+    q_en: When the eye sees, the visible form seen is which condition?
+    options:
+      - { zh: 因緣, en: causal }
+      - { zh: 等無間緣, en: immediately preceding }
+      - { zh: 所緣緣, en: object }
+      - { zh: 增上緣, en: dominant }
+    answer: 2
+    explain_zh: 心所認識的對象是所緣緣。
+    explain_en: What the mind cognizes is the object condition.
+  - type: mcq
+    q_zh: 色法的生起需要哪兩種緣？
+    q_en: Which two conditions does matter need to arise?
+    options:
+      - { zh: 因緣、增上緣, en: causal and dominant }
+      - { zh: 等無間緣、所緣緣, en: immediately preceding and object }
+      - { zh: 四緣皆需, en: all four }
+    answer: 0
+    explain_zh: 等無間緣與所緣緣只對心心所而言。
+    explain_en: The immediately preceding and object conditions apply only to minds.
+  - type: tf
+    q_zh: 「前念心讓位給後念心」是等無間緣。
+    q_en: The previous moment of mind giving way to the next is the immediately preceding condition.
+    answer: true
+    explain_zh: 「等而開導，令彼定生。」
+    explain_en: '"Opens the way equally, making the next certainly arise."'

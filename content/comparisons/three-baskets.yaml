@@ -1,0 +1,62 @@
+id: three-baskets
+title_zh: 三藏：經、律、論
+title_en: The three baskets — discourse, discipline, treatise
+terms: [ sutra, vinaya, abhidharma ]
+summary_zh: 經藏是佛陀的說法（定學為主），律藏是僧團的戒律（戒學），論藏是對法義的系統分析（慧學）。
+summary_en: The Sūtra basket holds the Buddha's discourses (mainly concentration), the Vinaya the monastic discipline (morality), the Abhidharma the systematic analysis (wisdom).
+table:
+  columns:
+    - { zh: 經 sūtra, en: Discourse }
+    - { zh: 律 vinaya, en: Discipline }
+    - { zh: 論 abhidharma, en: Treatise }
+  rows:
+    - label: { zh: 內容, en: Content }
+      cells:
+        - { zh: 佛與弟子的說法, en: Discourses of the Buddha and disciples }
+        - { zh: 戒條、制戒因緣、僧團規則, en: 'Precepts, their origins, community procedures' }
+        - { zh: 法義的分析與論證, en: Analysis and argument }
+    - label: { zh: 對應三學, en: Training }
+      cells:
+        - { zh: 定, en: Concentration }
+        - { zh: 戒, en: Morality }
+        - { zh: 慧, en: Wisdom }
+    - label: { zh: 例, en: Example }
+      cells:
+        - { zh: 雜阿含經、心經, en: 'Saṃyuktāgama, Heart Sūtra' }
+        - { zh: 四分律、波羅提木叉, en: 'Dharmaguptaka Vinaya, prātimokṣa' }
+        - { zh: 俱舍論、成唯識論, en: 'Abhidharmakośa, Cheng weishi lun' }
+explanation_zh: |
+  傳統說三藏分別詮顯三學：經詮定、律詮戒、論詮慧。經典以「如是我聞」開頭；律藏的核心是波羅提木叉；論藏則如《俱舍論》所說：「淨慧隨行名對法，及能得此諸慧論。」
+
+  本 App 的心所、五蘊、十八界等內容，多引自論藏（《俱舍論》《成唯識論》《大乘五蘊論》）。
+explanation_en: |
+  Tradition says the three baskets express the three trainings: sūtras concentration, vinaya morality, abhidharma wisdom. Sūtras open with "Thus have I heard"; the core of the Vinaya is the prātimokṣa; the Abhidharma is, in the Abhidharmakośa's words, "pure wisdom with its accompaniments, and the treatises that lead to it."
+
+  Much of this app's material on mental factors, aggregates and elements is drawn from the Abhidharma basket (Abhidharmakośa, Cheng weishi lun, Pañcaskandhaka).
+quotes:
+  - text: 淨慧隨行名對法，及能得此諸慧論。
+    source: 《阿毘達磨俱舍論》卷1
+    source_en: Abhidharmakośabhāṣya, fasc. 1
+    ref: T29n1558_p0001b02
+    note_en: Pure wisdom together with its accompaniments is called Abhidharma, as are the treatises that enable one to attain this wisdom.
+questions:
+  - type: mcq
+    q_zh: 論藏傳統上對應三學中的哪一學？
+    q_en: Traditionally, the Abhidharma corresponds to which training?
+    options:
+      - { zh: 戒, en: morality }
+      - { zh: 定, en: concentration }
+      - { zh: 慧, en: wisdom }
+    answer: 2
+    explain_zh: 經詮定、律詮戒、論詮慧。
+    explain_en: Sūtra — concentration, Vinaya — morality, Abhidharma — wisdom.
+  - type: mcq
+    q_zh: 《成唯識論》屬於三藏中的？
+    q_en: The Cheng weishi lun belongs to which basket?
+    options:
+      - { zh: 經藏, en: Sūtra }
+      - { zh: 律藏, en: Vinaya }
+      - { zh: 論藏, en: Abhidharma }
+    answer: 2
+    explain_zh: 它是論典。
+    explain_en: It is a treatise.

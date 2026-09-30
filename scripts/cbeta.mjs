@@ -113,6 +113,7 @@ const WORKS = {
   T0389: ['佛垂般涅槃略說教誡經', 'Sūtra of the Bequeathed Teaching (Yijiao jing)'],
   T0374: ['大般涅槃經', 'Mahāparinirvāṇa-sūtra (Dharmakṣema)'],
   T0475: ['維摩詰所說經', 'Vimalakīrti-nirdeśa, tr. Kumārajīva'],
+  T0784: ['四十二章經', 'Sūtra in Forty-two Sections'],
   T0666: ['大方等如來藏經', 'Tathāgatagarbha-sūtra'],
   T0670: ['楞伽阿跋多羅寶經', 'Laṅkāvatāra-sūtra (Guṇabhadra)'],
   T0676: ['解深密經', 'Saṃdhinirmocana-sūtra'],
@@ -256,7 +257,11 @@ async function resolve(files) {
     // Plain one-line values containing ": " or " #" are invalid YAML; wrap them in single quotes.
     const src = readFileSync(file, 'utf8').split('\n').map((line) => {
       const m = line.match(/^(\s*(?:- )?[A-Za-z_]+: )(.+)$/);
-      if (!m || /^['"|>\[{]/.test(m[2]) || !(/: /.test(m[2]) || / #/.test(m[2]))) return line;
+      if (!m) return line;
+      // Prose fields that start with [ or { would parse as a list/map.
+      const prose = /^(\s*(?:- )?)(note_en|note_zh|short_en|short_zh|explain_en|explain_zh|q_en|q_zh|summary_en|summary_zh): $/.test(m[1]);
+      if (prose && /^[\[{]/.test(m[2])) return m[1] + "'" + m[2].replace(/'/g, "''") + "'";
+      if (/^['"|>\[{]/.test(m[2]) || !(/: /.test(m[2]) || / #/.test(m[2]))) return line;
       return m[1] + "'" + m[2].replace(/'/g, "''") + "'";
     }).join('\n')
       // In flow maps like { zh: …, en: a, b } an unquoted comma splits the value; quote such en values.

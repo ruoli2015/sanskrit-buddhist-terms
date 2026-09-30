@@ -1,0 +1,65 @@
+id: prajnapti-dravya
+title_zh: 假有與實有
+title_en: Designated vs. substantial existence
+terms: [ prajnapti, dravya, viprayukta-samskara, pudgala ]
+summary_zh: 假有依他法施設（瓶、軍隊、人、不相應行、小隨煩惱）；實有有自己的體性（受、想、思等）。判準：分析之後，概念是否消失。
+summary_en: 'Designated existence is imputed on other things (pot, army, person, non-associated formations, minor secondary afflictions); substantial existence has its own nature (feeling, perception, volition…). Test: does the notion vanish under analysis?'
+table:
+  columns:
+    - { zh: 假有 prajñapti, en: Designated }
+    - { zh: 實有 dravya, en: Substantial }
+  rows:
+    - label: { zh: 判準, en: Test }
+      cells:
+        - { zh: 破析則無（如瓶）, en: Gone when broken or analysed (a pot) }
+        - { zh: 破析仍在, en: Remains under analysis }
+    - label: { zh: 例, en: Examples }
+      cells:
+        - { zh: 人我、瓶、不放逸、忿等小隨煩惱、不相應行, en: 'Person, pot, conscientiousness, minor afflictions, non-associated formations' }
+        - { zh: 受、想、思、信、無慚、懈怠等, en: 'Feeling, perception, volition, faith, lack of self-respect, laziness' }
+    - label: { zh: 對應二諦, en: Two truths }
+      cells:
+        - { zh: 世俗有, en: Conventional }
+        - { zh: 勝義有（有部）, en: Ultimate (Sarvāstivāda) }
+explanation_zh: |
+  《俱舍論》：「彼覺破便無，慧析餘亦爾，如瓶水世俗，異此名勝義。」打破瓶子，瓶的概念就沒了；用慧分析水為色香味觸，水的概念也沒了——這些是世俗有、假有。分析到不可再分、概念仍在的，是勝義有、實有。
+
+  **唯識的立場**：唯識也判假實（如「小十、大三定是假有」），但認為即使「實有」的依他起法也無獨立自性，不同於有部的實有論。
+explanation_en: |
+  Abhidharmakośa: "If, when broken, the notion disappears, or likewise when analysed by wisdom — like a pot or water — it is conventional; otherwise it is ultimate." Break a pot and the notion of pot is gone; analyse water into colour, smell, taste and touch and the notion of water is gone — these exist conventionally, by designation. What remains after analysis is ultimate, substantial.
+
+  **Yogācāra's position**: it also sorts designated from real (e.g. "the ten minor and three major are definitely designated"), but holds that even "real" dependent dharmas lack independent own-being, unlike Sarvāstivāda realism.
+quotes:
+  - text: 彼覺破便無，慧析餘亦爾，如瓶水世俗，異此名勝義。
+    source: 《阿毘達磨俱舍論》卷22
+    source_en: Abhidharmakośabhāṣya, fasc. 22
+    ref: T29n1558_p0116b13
+    refEnd: T29n1558_p0116b14
+    note_en: If, when it is broken, the idea of it vanishes, or likewise when analysed by wisdom — like a pot or water — it is conventional; what differs from this is ultimate.
+questions:
+  - type: mcq
+    q_zh: 依《俱舍論》，下列何者是世俗有（假有）？
+    q_en: According to the Abhidharmakośa, which is conventionally (designatively) existent?
+    options:
+      - { zh: 瓶, en: a pot }
+      - { zh: 受, en: feeling }
+      - { zh: 思, en: volition }
+    answer: 0
+    explain_zh: 「如瓶水世俗。」
+    explain_en: '"Like a pot or water — conventional."'
+  - type: tf
+    q_zh: 心不相應行在唯識中被視為假立。
+    q_en: In Yogācāra the non-associated formations are regarded as designations.
+    answer: true
+    explain_zh: 「依色、心、心法分位，但假建立。」
+    explain_en: '"Merely designated on phases of matter, mind and mental factors."'
+  - type: mcq
+    q_zh: 下列哪一個隨煩惱被判為「定是實有」？
+    q_en: Which secondary affliction is ruled definitely real?
+    options:
+      - { zh: 忿, en: wrath }
+      - { zh: 不信, en: faithlessness }
+      - { zh: 放逸, en: heedlessness }
+    answer: 1
+    explain_zh: 「無慚、無愧、不信、懈怠定是實有。」
+    explain_en: '"Lack of self-respect, lack of decorum, faithlessness and laziness are definitely real."'

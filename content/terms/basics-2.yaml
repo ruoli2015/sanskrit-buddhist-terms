@@ -1,0 +1,546 @@
+# 常用名相（續）
+
+- id: sangha
+  skt: saṅgha
+  deva: संघ
+  pali: saṅgha
+  zh: 僧伽
+  zhAlt: [ 僧, 眾, 僧團 ]
+  en: community
+  enAlt: [ sangha, monastic community, assembly, order ]
+  root: saṃ-√han「聚合」 · saṃ-√han "to come together"
+  short_zh: 和合的出家修行團體；三寶之一。
+  short_en: The harmonious community of monastics; one of the Three Jewels.
+  detail_zh: |
+    《大智度論》：「僧伽秦言眾；多比丘一處和合，是名僧伽。」僧伽的要義是「和合」——至少四位比丘依戒律共住。
+
+    中文「僧」原指整個團體，後來也用來稱呼個別出家人。三寶中的「僧寶」指和合的僧團，也泛指證果的賢聖僧。
+  detail_en: |
+    Dazhidu lun: "Saṅgha means 'assembly': many monks dwelling together in harmony are called a saṅgha." Its essence is harmony — at least four monastics living together under the discipline.
+
+    Chinese 僧 first meant the whole community, later also an individual monk. The Saṅgha Jewel means the harmonious community, and also the noble ones who have attained the fruits.
+  quotes:
+    - text: 『僧伽』秦言眾；多比丘一處和合，是名僧伽。
+      source: 《大智度論》卷3
+      source_en: Dazhidu lun (*Mahāprajñāpāramitāśāstra), fasc. 3
+      ref: T25n1509_p0080a10
+      refEnd: T25n1509_p0080a11
+      note_en: Saṅgha in our language means "assembly"; many monks dwelling together in harmony are called a saṅgha.
+  related: [ triratna, bhiksu, buddha, dharma ]
+
+- id: triratna
+  skt: triratna
+  deva: त्रिरत्न
+  pali: tiratana
+  zh: 三寶
+  zhAlt: [ 佛法僧, 三寶佛法僧 ]
+  en: Three Jewels
+  enAlt: [ triple gem, three treasures, triple jewel, triratna ]
+  root: tri「三」＋ ratna「寶」 · tri "three" + ratna "jewel"
+  short_zh: 佛、法、僧三者，是佛弟子歸依的對象。
+  short_en: The Buddha, the Dharma and the Saṅgha — the refuge of Buddhists.
+  detail_zh: |
+    佛是覺悟的導師，法是佛所說的真理與教法，僧是依法修行的和合團體。稱「寶」是因為它們稀有、珍貴，能使人離苦。成為佛弟子的第一步就是歸依三寶。
+
+    《成唯識論》說信的對象之一是「德」——「於三寶真淨德中，深信樂」。
+  detail_en: |
+    The Buddha is the awakened teacher, the Dharma the truth he taught, the Saṅgha the harmonious community practising it. They are "jewels" because they are rare, precious and free one from suffering. Taking refuge in them is the first step as a Buddhist.
+
+    The Cheng weishi lun lists "virtue" among the objects of faith — deep faith and delight in the true, pure qualities of the Three Jewels.
+  quotes:
+    - text: 我今歸依佛、法、僧寶，為優婆塞，證知我，我今盡壽歸依三寶。
+      source: 《雜阿含經》卷5（第107經）
+      source_en: Saṃyuktāgama, fasc. 5, sūtra 107
+      ref: T02n0099_p0033b24
+      refEnd: T02n0099_p0033b25
+      note_en: I now take refuge in the Buddha, the Dharma and the Saṅgha Jewels and become a lay follower; bear witness that I take refuge in the Three Jewels for as long as I live.
+  related: [ buddha, dharma, sangha, sarana ]
+
+- id: sarana
+  skt: śaraṇa
+  deva: शरण
+  pali: saraṇa
+  zh: 歸依
+  zhAlt: [ 皈依, 三歸依, 歸命 ]
+  en: refuge
+  enAlt: [ taking refuge, going for refuge, shelter, sarana ]
+  root: √śṛ「庇護」 · "shelter, protection"
+  short_zh: 以三寶為依靠與方向；受三歸依是成為佛弟子的標誌。
+  short_en: Refuge — relying on the Three Jewels as protection and direction; taking the three refuges marks becoming a Buddhist.
+  detail_zh: |
+    śaraṇa 原義是「庇護所」。歸依是把身心的依靠從世間事物轉向佛、法、僧。經中在家弟子說：「我今歸依佛、法、僧寶，為優婆塞……我今盡壽歸依三寶。」
+
+    佛陀臨終又教導「自依止、法依止」——歸依三寶最終是要依法而行。
+  detail_en: |
+    Śaraṇa originally means "shelter". Taking refuge turns one's reliance from worldly things to the Buddha, Dharma and Saṅgha. Lay disciples declare: "I now take refuge in the Buddha, the Dharma and the Saṅgha, and become a lay follower … for as long as I live."
+
+    Before passing away the Buddha also taught "rely on yourself, rely on the Dharma" — refuge ultimately means living by the Dharma.
+  quotes:
+    - text: 我今歸依佛、法、僧寶，為優婆塞，證知我，我今盡壽歸依三寶。
+      source: 《雜阿含經》卷5（第107經）
+      source_en: Saṃyuktāgama, fasc. 5, sūtra 107
+      ref: T02n0099_p0033b24
+      refEnd: T02n0099_p0033b25
+      note_en: I now take refuge in the Buddha, the Dharma and the Saṅgha Jewels and become a lay follower; bear witness that I take refuge in the Three Jewels for as long as I live.
+  related: [ triratna, upasaka ]
+
+- id: sutra
+  skt: sūtra
+  deva: सूत्र
+  pali: sutta
+  zh: 經
+  zhAlt: [ 修多羅, 契經, 經藏 ]
+  en: discourse
+  enAlt: [ sutra, scripture, sutta, discourses ]
+  root: '√siv「縫」→「線、綱要」 · √siv "to sew": thread, aphorism'
+  short_zh: 佛陀所說的教法；三藏之一。多以「如是我聞」開頭。
+  short_en: Discourse — the Buddha's teachings; one of the three baskets. Usually opening with "Thus have I heard".
+  detail_zh: |
+    sūtra 原義是「線」——像線一樣貫穿法義。玄奘譯「契經」（契理契機的經典）。經藏收錄佛陀及大弟子的說法，是三藏（經、律、論）之一。
+
+    經典的標準開頭：「如是我聞：一時，佛住舍衛國祇樹給孤獨園」——由阿難誦出，說明信、聞、時、主、處、眾六種成就。
+  detail_en: |
+    Sūtra originally means "thread" — running through the teaching like a thread. Xuanzang renders 契經 "scripture fitting truth and hearers". The Sūtra basket collects the discourses of the Buddha and great disciples; it is one of the three baskets (discourse, discipline, treatise).
+
+    The standard opening "Thus have I heard: at one time the Buddha dwelt at Śrāvastī in Jeta's Grove" — recited by Ānanda — establishes faith, hearing, time, teacher, place and audience.
+  quotes:
+    - text: 如是我聞：一時，佛住舍衛國祇樹給孤獨園。
+      source: 《雜阿含經》卷1（第1經）
+      source_en: Saṃyuktāgama, fasc. 1, sūtra 1
+      ref: T02n0099_p0001a06
+      refEnd: T02n0099_p0001a07
+      note_en: 'Thus have I heard: at one time the Buddha was staying at Śrāvastī, in Jeta''s Grove, Anāthapiṇḍada''s park.'
+  related: [ vinaya, abhidharma, dharma ]
+  compare: [ three-baskets ]
+
+- id: vinaya
+  skt: vinaya
+  deva: विनय
+  pali: vinaya
+  zh: 律
+  zhAlt: [ 毘奈耶, 毘尼, 律藏, 戒律 ]
+  en: discipline
+  enAlt: [ vinaya, monastic discipline, monastic code, rules of conduct ]
+  root: vi-√nī「調伏、引導」 · vi-√nī "to lead away, discipline"
+  short_zh: 佛陀制定的出家僧團規範與戒律；三藏之一。
+  short_en: Discipline — the rules and procedures the Buddha laid down for the monastic community; one of the three baskets.
+  detail_zh: |
+    vinaya 意為「調伏」：調伏身口的過失。律藏記載戒條（波羅提木叉）的制定因緣、內容與僧團的羯磨（議事）程序。
+
+    《遺教經》：「當尊重珍敬波羅提木叉，如闇遇明、貧人得寶。當知此則是汝大師。」佛陀涅槃後，以戒為師。
+  detail_en: |
+    Vinaya means "taming": disciplining faults of body and speech. The Vinaya basket records the origin and content of the precepts (prātimokṣa) and the community's formal procedures.
+
+    Yijiao jing: "Revere and treasure the prātimokṣa, like light in darkness or treasure found by the poor; know that it is your great teacher." After the Buddha's passing, the precepts are the teacher.
+  quotes:
+    - text: 當尊重珍敬波羅提木叉，如闇遇明、貧人得寶。當知此則是汝大師
+      source: 《佛垂般涅槃略說教誡經》
+      source_en: Sūtra of the Bequeathed Teaching (Yijiao jing)
+      ref: T12n0389_p1110c20
+      refEnd: T12n0389_p1110c22
+      note_en: You should revere and treasure the prātimokṣa, like meeting light in darkness or a poor man finding treasure. Know that this is your great teacher.
+  related: [ pratimoksa, sila, sutra, abhidharma ]
+  compare: [ three-baskets ]
+
+- id: abhidharma
+  skt: abhidharma
+  deva: अभिधर्म
+  pali: abhidhamma
+  zh: 論
+  zhAlt: [ 阿毘達磨, 對法, 論藏, 阿毗曇 ]
+  en: higher teaching
+  enAlt: [ abhidharma, treatise, systematic doctrine, further dharma, abhidhamma ]
+  root: abhi「向、殊勝」＋ dharma「法」 · abhi "toward, higher" + dharma
+  short_zh: 對佛法的系統分析與論述；三藏之一。玄奘譯「對法」。
+  short_en: The systematic analysis of the teachings; one of the three baskets. Xuanzang renders 對法.
+  detail_zh: |
+    abhidharma 意為「對向於法」或「殊勝的法」。《俱舍論》：「淨慧隨行名對法，及能得此諸慧論。」真正的阿毗達磨是無漏的淨慧及其伴隨法；能引生這種智慧的論書也稱阿毗達磨。
+
+    本 App 的心所、五蘊、十八界等分析，大多來自阿毗達磨傳統（《俱舍論》）與唯識論典（《成唯識論》《大乘五蘊論》）。
+  detail_en: |
+    Abhidharma means "facing the Dharma" or "the higher Dharma". Abhidharmakośa: "Pure wisdom with its accompaniments is Abhidharma, and so are the treatises that lead to it." True Abhidharma is pure wisdom; the treatises producing it are also called Abhidharma.
+
+    Much of this app's analysis of mental factors, aggregates and elements comes from the Abhidharma (Abhidharmakośa) and Yogācāra treatises (Cheng weishi lun, Pañcaskandhaka).
+  quotes:
+    - text: 淨慧隨行名對法，及能得此諸慧論。
+      source: 《阿毘達磨俱舍論》卷1
+      source_en: Abhidharmakośabhāṣya, fasc. 1
+      ref: T29n1558_p0001b02
+      note_en: Pure wisdom together with its accompaniments is called Abhidharma, as are the treatises that enable one to attain this wisdom.
+  related: [ sutra, vinaya, prajna, dharma ]
+  compare: [ three-baskets ]
+
+- id: pratimoksa
+  skt: prātimokṣa
+  deva: प्रातिमोक्ष
+  pali: pātimokkha
+  zh: 波羅提木叉
+  zhAlt: [ 別解脫, 別解脫戒, 戒本 ]
+  en: code of discipline
+  enAlt: [ pratimoksha, prātimokṣa, individual liberation vows, monastic code ]
+  root: prati「各別」＋ mokṣa「解脫」 · prati "individually" + mokṣa "liberation"
+  short_zh: 出家僧眾的戒條總集；每半月誦戒時誦出。意譯「別解脫」。
+  short_en: The code of monastic rules, recited every fortnight; "individual liberation".
+  detail_zh: |
+    意譯「別解脫」：持守一條戒，便在那方面得到解脫（遠離那種過失）。比丘、比丘尼各有其戒本，僧團每半月集會誦戒（布薩）。
+
+    《遺教經》：「戒是正順解脫之本，故名波羅提木叉。」
+  detail_en: |
+    "Individual liberation": keeping each precept frees one from that particular fault. Monks and nuns each have their code, recited when the community gathers every fortnight (uposatha).
+
+    Yijiao jing: "Morality is the foundation that accords with liberation; hence it is called prātimokṣa."
+  quotes:
+    - text: 戒是正順解脫之本，故名波羅提木叉。
+      source: 《佛垂般涅槃略說教誡經》
+      source_en: Sūtra of the Bequeathed Teaching (Yijiao jing)
+      ref: T12n0389_p1111a02
+      refEnd: T12n0389_p1111a03
+      note_en: Morality is the foundation that accords with liberation; hence it is called prātimokṣa.
+  related: [ vinaya, sila, bhiksu, avijnapti ]
+
+- id: bhiksu
+  skt: bhikṣu
+  deva: भिक्षु
+  pali: bhikkhu
+  zh: 比丘
+  zhAlt: [ 苾芻, 乞士 ]
+  en: monk
+  enAlt: [ bhikshu, bhikkhu, fully ordained monk, mendicant ]
+  root: √bhikṣ「乞食」 · √bhikṣ "to beg"
+  short_zh: 受具足戒的出家男眾；意譯「乞士」。
+  short_en: A fully ordained male monastic; "mendicant".
+  detail_zh: |
+    bhikṣu 源自「乞食」。《大智度論》：「比丘名乞士，清淨活命故，名為乞士。」比丘以乞食維生，不從事營利，以清淨的方式生活。
+
+    傳統又解釋比丘有三義：乞士、破惡、怖魔。
+  detail_en: |
+    Bhikṣu comes from "to beg for alms". Dazhidu lun: "A monk is called a mendicant, because he lives purely." Monks live on alms rather than commerce, supporting themselves in a pure way.
+
+    Tradition gives three meanings: mendicant, destroyer of evil, one who frightens Māra.
+  quotes:
+    - text: 比丘名乞士，清淨活命故，名為乞士。
+      source: 《大智度論》卷3
+      source_en: Dazhidu lun (*Mahāprajñāpāramitāśāstra), fasc. 3
+      ref: T25n1509_p0079c01
+      refEnd: T25n1509_p0079c02
+      note_en: A bhikṣu is called a mendicant; because he lives purely, he is called a mendicant.
+  related: [ bhiksuni, sangha, pratimoksa, sramana ]
+  compare: [ four-assemblies ]
+
+- id: bhiksuni
+  skt: bhikṣuṇī
+  deva: भिक्षुणी
+  pali: bhikkhunī
+  zh: 比丘尼
+  zhAlt: [ 苾芻尼, 尼 ]
+  en: nun
+  enAlt: [ bhikshuni, bhikkhuni, fully ordained nun ]
+  root: bhikṣu 的陰性 · feminine of bhikṣu
+  short_zh: 受具足戒的出家女眾；四眾之一。
+  short_en: A fully ordained female monastic; one of the four assemblies.
+  detail_zh: |
+    比丘尼僧團由佛陀的姨母摩訶波闍波提出家而成立。比丘尼的戒條多於比丘。比丘、比丘尼、優婆塞、優婆夷合稱**四眾**，構成完整的佛教團體。
+  detail_en: |
+    The nuns' order began with the ordination of the Buddha's aunt Mahāprajāpatī. Nuns keep more precepts than monks. Monks, nuns, laymen and laywomen together are the **four assemblies**, the complete Buddhist community.
+  quotes:
+    - text: 比丘、比丘尼、優婆塞、優婆夷、天龍、夜叉、乾闥婆、阿修羅、迦樓羅、緊那羅、摩睺羅伽、人非人，及諸小王、轉輪聖王，是諸大眾，得未曾有，歡喜合掌，一心觀佛。
+      source: 《妙法蓮華經》卷1
+      source_en: Lotus Sūtra, tr. Kumārajīva, fasc. 1
+      ref: T09n0262_p0002b13
+      refEnd: T09n0262_p0002b16
+      note_en: Monks, nuns, laymen and laywomen, gods, nāgas, yakṣas, gandharvas, asuras, garuḍas, kiṃnaras, mahoragas, humans and non-humans, the lesser kings and wheel-turning kings — this whole great assembly, having gained what they never had before, joyfully joined their palms and gazed at the Buddha single-mindedly.
+  related: [ bhiksu, upasika, sangha ]
+  compare: [ four-assemblies ]
+
+- id: upasaka
+  skt: upāsaka
+  deva: उपासक
+  pali: upāsaka
+  zh: 優婆塞
+  zhAlt: [ 近事男, 清信士 ]
+  en: layman
+  enAlt: [ lay follower, lay disciple, upasaka, male lay follower ]
+  root: upa-√ās「近坐、親近侍奉」 · upa-√ās "to sit near, attend"
+  short_zh: 歸依三寶、受持五戒的在家男眾；意譯「近事男」。
+  short_en: A male lay follower who has taken refuge and keeps the five precepts; "one who attends closely".
+  detail_zh: |
+    upāsaka 意為「親近侍奉者」——親近三寶、承事供養。成為優婆塞的標誌是歸依三寶：「我今歸依佛、法、僧寶，為優婆塞……盡壽歸依三寶。」通常並受持五戒。
+  detail_en: |
+    Upāsaka means "one who sits near, attends" — near to the Three Jewels, serving and supporting them. One becomes a layman by taking refuge: "I now take refuge in the Buddha, the Dharma and the Saṅgha and become a lay follower … for as long as I live." Usually one also keeps the five precepts.
+  quotes:
+    - text: 我今歸依佛、法、僧寶，為優婆塞，證知我，我今盡壽歸依三寶。
+      source: 《雜阿含經》卷5（第107經）
+      source_en: Saṃyuktāgama, fasc. 5, sūtra 107
+      ref: T02n0099_p0033b24
+      refEnd: T02n0099_p0033b25
+      note_en: I now take refuge in the Buddha, the Dharma and the Saṅgha Jewels and become a lay follower; bear witness that I take refuge in the Three Jewels for as long as I live.
+  related: [ upasika, sarana, triratna ]
+  compare: [ four-assemblies ]
+
+- id: upasika
+  skt: upāsikā
+  deva: उपासिका
+  pali: upāsikā
+  zh: 優婆夷
+  zhAlt: [ 近事女, 清信女 ]
+  en: laywoman
+  enAlt: [ female lay follower, lay disciple, upasika ]
+  root: upāsaka 的陰性 · feminine of upāsaka
+  short_zh: 歸依三寶、受持五戒的在家女眾；意譯「近事女」。
+  short_en: A female lay follower who has taken refuge and keeps the five precepts.
+  detail_zh: |
+    優婆夷是在家女性佛弟子。佛世著名的優婆夷如毘舍佉（鹿母），護持僧團甚力。四眾中在家二眾以布施、持戒護持佛法，出家二眾以修行、弘法住持佛法。
+  detail_en: |
+    A laywoman disciple. Famous ones in the Buddha's time, such as Viśākhā, greatly supported the community. Of the four assemblies, the two lay groups sustain the Dharma through giving and morality, the two monastic groups through practice and teaching.
+  quotes:
+    - text: 比丘、比丘尼、優婆塞、優婆夷、天龍、夜叉、乾闥婆、阿修羅、迦樓羅、緊那羅、摩睺羅伽、人非人，及諸小王、轉輪聖王，是諸大眾，得未曾有，歡喜合掌，一心觀佛。
+      source: 《妙法蓮華經》卷1
+      source_en: Lotus Sūtra, tr. Kumārajīva, fasc. 1
+      ref: T09n0262_p0002b13
+      refEnd: T09n0262_p0002b16
+      note_en: Monks, nuns, laymen and laywomen, gods, nāgas, yakṣas, gandharvas, asuras, garuḍas, kiṃnaras, mahoragas, humans and non-humans, the lesser kings and wheel-turning kings — this whole great assembly, having gained what they never had before, joyfully joined their palms and gazed at the Buddha single-mindedly.
+  related: [ upasaka, bhiksuni ]
+  compare: [ four-assemblies ]
+
+- id: sramana
+  skt: śramaṇa
+  deva: श्रमण
+  pali: samaṇa
+  zh: 沙門
+  zhAlt: [ 桑門, 勤息 ]
+  en: renunciant
+  enAlt: [ ascetic, recluse, wandering ascetic, sramana, shramana ]
+  root: √śram「勤勞、苦修」 · √śram "to exert oneself"
+  short_zh: 出家修道者的通稱；意譯「勤息」——勤修善法、息滅惡法。
+  short_en: A general term for one who has left home to practise; "diligently stilling" — cultivating good, stilling evil.
+  detail_zh: |
+    śramaṇa 原指古印度不屬婆羅門傳統的出家修行者，佛陀及其弟子即屬沙門。漢譯意為「勤息」。《四十二章經》：「辭親出家為道，名曰沙門。」
+
+    佛經中常見「沙門、婆羅門」並稱，指當時的兩大宗教人士。
+  detail_en: |
+    Śramaṇa originally meant renunciants outside the brahmin tradition in ancient India; the Buddha and his disciples were śramaṇas. Chinese glosses it "diligent stilling". Sūtra in Forty-two Sections: "One who leaves family and home for the Way is called a śramaṇa."
+
+    Sūtras often pair "śramaṇas and brahmins", the two kinds of religious figure of the time.
+  quotes:
+    - text: 辭親出家為道，名曰沙門
+      source: 《四十二章經》
+      source_en: Sūtra in Forty-two Sections
+      ref: T17n0784_p0722a24
+      note_en: One who takes leave of family and goes forth for the Way is called a śramaṇa.
+  related: [ bhiksu, sangha ]
+
+- id: asamkhyeya
+  skt: asaṃkhyeya
+  deva: असंख्येय
+  pali: asaṅkheyya
+  zh: 阿僧祇
+  zhAlt: [ 無數, 阿僧祇劫, 無數劫 ]
+  en: incalculable
+  enAlt: [ innumerable, countless, asamkhyeya, incalculable aeon ]
+  root: a-「不」＋ saṃkhyeya「可數的」 · a- + saṃkhyeya "countable"
+  short_zh: 「無數」：極大的數目單位；菩薩修行成佛需經三大阿僧祇劫。
+  short_en: '"Incalculable": an immense number; a bodhisattva needs three incalculable aeons to become a buddha.'
+  detail_zh: |
+    阿僧祇是印度數學中的極大數目，意為「不可數」。「三大阿僧祇劫」是菩薩從發心到成佛所經的時間。《俱舍論》描述釋迦牟尼佛的因地：「三無數劫滿，逆次逢勝觀，然燈寶髻佛，初釋迦牟尼。」
+  detail_en: |
+    Asaṃkhyeya is an enormous number in Indian mathematics, "uncountable". "Three incalculable aeons" is the time from the bodhisattva's first resolve to buddhahood. The Abhidharmakośa on Śākyamuni's past: "At the completion of the three incalculable aeons, in reverse order, he met the buddhas Vipaśyin, Dīpaṃkara, Ratnaśikhin, and first, [the earlier] Śākyamuni."
+  quotes:
+    - text: 三無數劫滿，逆次逢勝觀，然燈寶髻佛，初釋迦牟尼。
+      source: 《阿毘達磨俱舍論》卷18
+      source_en: Abhidharmakośabhāṣya, fasc. 18
+      ref: T29n1558_p0095a26
+      refEnd: T29n1558_p0095a27
+      note_en: At the end of each of the three incalculable aeons — in reverse order — he met the buddhas Vipaśyin, Dīpaṃkara and Ratnaśikhin; at the very beginning, [a buddha named] Śākyamuni.
+  related: [ kalpa, bodhisattva, sambhogakaya ]
+
+- id: yojana
+  skt: yojana
+  deva: योजन
+  pali: yojana
+  zh: 由旬
+  zhAlt: [ 踰繕那, 由延 ]
+  en: league
+  enAlt: [ yojana, league (distance), day's march ]
+  root: '√yuj「套軛」→「一次套車所行的距離」 · √yuj "to yoke": a day''s yoking'
+  short_zh: 古印度的長度單位，約為牛車一日的行程（說法不一，約十餘公里）。
+  short_en: An ancient Indian unit of distance, roughly a day's journey by ox-cart (estimates vary, around a dozen kilometres).
+  detail_zh: |
+    由旬源自「套軛」——一次套牛車所行的路程。佛經中常用來描述佛土、須彌山、世界的尺度，也用於譬喻。《雜阿含經》形容劫之長：「譬如鐵城，方一由旬，高下亦爾，滿中芥子……盡其芥子，劫猶不竟。」
+  detail_en: |
+    Yojana comes from "yoking": the distance of one yoking of an ox-cart. Sūtras use it for the size of buddha-lands, Mount Sumeru and worlds, and in similes. The Saṃyuktāgama on the length of an aeon: "Suppose an iron city one yojana on each side and as high, filled with mustard seeds … the seeds would be exhausted before the aeon ended."
+  quotes:
+    - text: 譬如鐵城，方一由旬，高下亦爾，滿中芥子，有人百年取一芥子，盡其芥子，劫猶不竟。
+      source: 《雜阿含經》卷34（第948經）
+      source_en: Saṃyuktāgama, fasc. 34, sūtra 948
+      ref: T02n0099_p0242b22
+      refEnd: T02n0099_p0242b24
+      note_en: Suppose an iron city one yojana square and as high, filled with mustard seeds; if someone took one seed every hundred years, the seeds would run out and still the aeon would not be over.
+  related: [ kalpa, asamkhyeya ]
+
+- id: gatha
+  skt: gāthā
+  deva: गाथा
+  pali: gāthā
+  zh: 偈
+  zhAlt: [ 偈頌, 伽陀, 頌 ]
+  en: verse
+  enAlt: [ gatha, stanza, verses, hymn ]
+  root: √gai「歌唱」 · √gai "to sing"
+  short_zh: 經論中的詩句，便於記誦；如《唯識三十頌》、七佛通偈。
+  short_en: Verse — metrical passages in scripture, easy to memorize, such as the Thirty Verses or the verse common to all buddhas.
+  detail_zh: |
+    gāthā 音譯「伽陀」，漢譯「偈」「頌」。經典常以偈頌重述或總結法義，便於背誦流傳；論典如《唯識三十頌》《中論》更全以偈頌為本。漢譯偈頌多為四、五、七言，不押韻。
+
+    最有名的偈頌之一是七佛通偈：「諸惡莫作，諸善奉行，自淨其意，是諸佛教。」
+  detail_en: |
+    Gāthā is transliterated 伽陀 and rendered 偈 or 頌. Sūtras often restate or sum up teachings in verse for memorization; treatises such as the Thirty Verses and the Madhyamaka verses are built entirely on verses. Chinese verses usually have four, five or seven characters per line, unrhymed.
+
+    One of the most famous is the verse common to all buddhas: "Do no evil, do all good, purify one's mind — this is the teaching of the buddhas."
+  quotes:
+    - text: 諸惡莫作，諸善奉行，自淨其意，是諸佛教。
+      source: 《增壹阿含經》卷1
+      source_en: Ekottarikāgama, fasc. 1
+      ref: T02n0125_p0551a13
+      refEnd: T02n0125_p0551a14
+      note_en: Do nothing evil, practise all that is good, purify one's own mind — this is the teaching of the buddhas.
+  related: [ sutra ]
+
+- id: punya
+  skt: puṇya
+  deva: पुण्य
+  pali: puñña
+  zh: 福德
+  zhAlt: [ 福, 功德, 福報 ]
+  en: merit
+  enAlt: [ punya, virtue, meritorious deeds, good fortune ]
+  root: 「吉祥、善淨」 · "auspicious, good"
+  short_zh: 善行所積累、能招感樂果的力量。
+  short_en: Merit — the power accumulated by good deeds that brings happy results.
+  detail_zh: |
+    福德由布施、持戒、修定等善行積累，能招感世間與出世間的安樂。大乘強調福德與智慧（福慧二資糧）並修。
+
+    **福德與功德**：常混用，禪宗則區分：修福是有為的善果，功德是自性的德用。《金剛經》破除對福德的執著：「是福德即非福德性，是故如來說福德多。」
+  detail_en: |
+    Merit accrues from giving, morality, meditation and other good deeds, bringing worldly and transcendent happiness. The Mahāyāna stresses cultivating merit and wisdom together (the two accumulations).
+
+    **福德 vs 功德**: often interchangeable, though Chan distinguishes conditioned good results (福) from the qualities of one's nature (功德). The Diamond Sūtra undoes clinging to merit: "This merit is not the nature of merit; therefore the Tathāgata says the merit is great."
+  quotes:
+    - text: 是福德即非福德性，是故如來說福德多。
+      source: 《金剛般若波羅蜜經》
+      source_en: Vajracchedikā (Diamond Sūtra), tr. Kumārajīva
+      ref: T08n0235_p0749b20
+      refEnd: T08n0235_p0749b21
+      note_en: This merit is not the nature of merit; therefore the Tathāgata says the merit is great.
+  related: [ dana, parinamana, kusala-moral ]
+
+- id: parinamana
+  skt: pariṇāmanā
+  deva: परिणामना
+  pali: ''
+  zh: 迴向
+  zhAlt: [ 回向 ]
+  en: dedication of merit
+  enAlt: [ dedication, transfer of merit, turning over merit, parinamana ]
+  root: pari-√nam「轉向」 · pari-√nam "to turn toward"
+  short_zh: 把自己的功德轉向菩提、轉施一切眾生。
+  short_en: Dedication — turning one's merit toward awakening and toward all beings.
+  detail_zh: |
+    pariṇāmanā 意為「轉向」：將所修的善根不求個人果報，而轉向無上菩提（迴向菩提），並回施一切眾生（迴向眾生），或迴向真如實際。
+
+    最常見的迴向偈出自《法華經》：「願以此功德，普及於一切，我等與眾生，皆共成佛道。」
+  detail_en: |
+    Pariṇāmanā means "turning toward": directing one's roots of goodness not to personal reward but to supreme awakening, to all beings, or to suchness.
+
+    The most common dedication verse comes from the Lotus Sūtra: "May this merit extend to all, so that we and all beings together attain the buddha-way."
+  quotes:
+    - text: 願以此功德，普及於一切，我等與眾生，皆共成佛道。』
+      source: 《妙法蓮華經》卷3
+      source_en: Lotus Sūtra, tr. Kumārajīva, fasc. 3
+      ref: T09n0262_p0024c21
+      refEnd: T09n0262_p0024c22
+      note_en: May this merit extend universally to all, so that we and all beings together accomplish the buddha-way.
+  related: [ punya, bodhicitta, bodhisattva ]
+
+- id: gati
+  skt: gati
+  deva: गति
+  pali: gati
+  zh: 趣
+  zhAlt: [ 五趣, 六道, 六趣, 道 ]
+  en: destiny
+  enAlt: [ realm of rebirth, destinies, paths of rebirth, six realms, gati ]
+  root: '√gam「去」 · √gam "to go": where one goes'
+  short_zh: 有情依業所往生的去處：地獄、餓鬼、畜生、人、天（五趣），加阿修羅為六道。
+  short_en: 'Destiny — where beings go according to karma: hell, ghost, animal, human, god (five), plus asura for six.'
+  detail_zh: |
+    gati 意為「去處」。說一切有部立**五趣**：地獄、傍生（畜生）、鬼（餓鬼）、人、天；大乘經典常加阿修羅為**六道**。《俱舍論》：「地獄傍生鬼，人及六欲天，名欲界二十。」
+
+    六道都在三界之內，都是輪迴的處所。
+  detail_en: |
+    Gati means "where one goes". The Sarvāstivāda lists **five destinies**: hell, animal, hungry ghost, human, god; Mahāyāna texts often add the asuras for **six paths**. Abhidharmakośa: "Hells, animals, ghosts, humans and the six desire heavens make up the twenty [places] of the desire realm."
+
+    All six lie within the three realms — the places of saṃsāra.
+  quotes:
+    - text: 地獄傍生鬼，人及六欲天，名欲界二十
+      source: 《阿毘達磨俱舍論》卷8
+      source_en: Abhidharmakośabhāṣya, fasc. 8
+      ref: T29n1558_p0040c25
+      refEnd: T29n1558_p0040c26
+      note_en: Hells, animals, ghosts, humans and the six desire heavens are called the twenty [places] of the desire realm.
+  related: [ traidhatuka, samsara, karma ]
+
+- id: mara
+  skt: māra
+  deva: मार
+  pali: māra
+  zh: 魔
+  zhAlt: [ 魔羅, 四魔, 天魔 ]
+  en: Māra
+  enAlt: [ mara, the Evil One, tempter, killer ]
+  root: '√mṛ「死」→「致死者」 · √mṛ "to die": the killer'
+  short_zh: 「能奪命者」：障礙修行、奪人慧命者。分煩惱魔、五陰魔、死魔、天子魔四種。
+  short_en: '"The one who takes life": whatever obstructs practice and destroys the life of wisdom. Four kinds — affliction, aggregates, death, the divine Māra.'
+  detail_zh: |
+    māra 源自 √mṛ（死）。《大智度論》：「魔，秦言能奪命者。雖死魔實能奪命，餘者亦能作奪命因緣，亦奪智慧命，是故名殺者。」
+
+    **四魔**：煩惱魔、五陰魔、死魔、天子魔（欲界他化自在天的魔王）。佛陀成道前在菩提樹下降魔，象徵戰勝一切障礙。《華嚴經》說「忘失菩提心修諸善根，是為魔業」——魔也指內心偏離正道的力量。
+  detail_en: |
+    Māra comes from √mṛ "to die". Dazhidu lun: "Māra means 'one who takes life'. Though only the Māra of death actually takes life, the others create the conditions for it and take the life of wisdom, so all are called killers."
+
+    **Four Māras**: afflictions, the aggregates, death, and the divine Māra (lord of the highest desire heaven). The Buddha's defeat of Māra under the bodhi tree symbolizes overcoming every obstacle. "To cultivate good while forgetting the awakening mind is the work of Māra" — Māra also means inner forces that pull one off the path.
+  quotes:
+    - text: 魔，秦言能奪命者。雖死魔實能奪命，餘者亦能作奪命因緣，亦奪智慧命，是故名殺者。
+      source: 《大智度論》卷68
+      source_en: Dazhidu lun (*Mahāprajñāpāramitāśāstra), fasc. 68
+      ref: T25n1509_p0534a06
+      refEnd: T25n1509_p0534a08
+      note_en: Māra in our language means "one who takes life". Although only the Māra of death actually takes life, the others can create the conditions for taking life and also take the life of wisdom; therefore they are called killers.
+  related: [ klesa, skandha, bodhicitta ]
+
+- id: buddhaksetra
+  skt: buddhakṣetra
+  deva: बुद्धक्षेत्र
+  pali: ''
+  zh: 佛土
+  zhAlt: [ 淨土, 佛國, 佛剎, 佛國土 ]
+  en: buddha-field
+  enAlt: [ buddha land, pure land, buddhakshetra, buddha realm, buddha-land ]
+  root: buddha「佛」＋ kṣetra「田、國土」 · buddha + kṣetra "field"
+  short_zh: 佛所教化的國土；清淨的佛土稱淨土。
+  short_en: Buddha-field — the land a buddha teaches in; a purified one is a pure land.
+  detail_zh: |
+    kṣetra 是「田地」：佛土是佛教化眾生的「田」。大乘經典描述十方有無量佛土，如阿彌陀佛的極樂世界。
+
+    **心淨則土淨**：《維摩詰經》：「若菩薩欲得淨土，當淨其心；隨其心淨，則佛土淨。」淨土不只是他方世界，也是修心的結果。
+  detail_en: |
+    Kṣetra means "field": a buddha-field is the "field" where a buddha teaches beings. Mahāyāna sūtras describe countless buddha-fields in the ten directions, such as Amitābha's Land of Bliss.
+
+    **A pure mind makes a pure land**: Vimalakīrti: "If a bodhisattva wishes to attain a pure land, he should purify his mind; as the mind is purified, the buddha-land is purified." The pure land is not only another world but the fruit of purifying the mind.
+  quotes:
+    - text: 若菩薩欲得淨土，當淨其心；隨其心淨，則佛土淨。
+      source: 《維摩詰所說經》卷1
+      source_en: Vimalakīrti-nirdeśa, tr. Kumārajīva, fasc. 1
+      ref: T14n0475_p0538c04
+      refEnd: T14n0475_p0538c05
+      note_en: If a bodhisattva wishes to obtain a pure land, he should purify his mind; in accordance with the purity of his mind, the buddha-land is pure.
+  related: [ buddha, nirmanakaya, sambhogakaya ]

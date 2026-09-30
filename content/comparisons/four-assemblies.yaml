@@ -1,0 +1,59 @@
+id: four-assemblies
+title_zh: 四眾：比丘、比丘尼、優婆塞、優婆夷
+title_en: The four assemblies — monks, nuns, laymen, laywomen
+terms: [ bhiksu, bhiksuni, upasaka, upasika ]
+summary_zh: 出家二眾受具足戒，以修行弘法住持佛法；在家二眾歸依三寶、受五戒，以布施護持佛法。
+summary_en: The two monastic assemblies take full ordination and sustain the Dharma through practice and teaching; the two lay assemblies take refuge and the five precepts and support it through giving.
+table:
+  columns:
+    - { zh: 比丘, en: Monk }
+    - { zh: 比丘尼, en: Nun }
+    - { zh: 優婆塞, en: Layman }
+    - { zh: 優婆夷, en: Laywoman }
+  rows:
+    - label: { zh: 身分, en: Status }
+      cells:
+        - { zh: 出家男眾, en: Monastic male }
+        - { zh: 出家女眾, en: Monastic female }
+        - { zh: 在家男眾, en: Lay male }
+        - { zh: 在家女眾, en: Lay female }
+    - label: { zh: 戒, en: Precepts }
+      cells:
+        - { zh: 具足戒, en: Full ordination }
+        - { zh: 具足戒（戒條較多）, en: Full ordination (more rules) }
+        - { zh: 三歸五戒, en: 'Refuge, five precepts' }
+        - { zh: 三歸五戒, en: 'Refuge, five precepts' }
+    - label: { zh: 意譯, en: Meaning }
+      cells:
+        - { zh: 乞士, en: Mendicant }
+        - { zh: 乞士女, en: Female mendicant }
+        - { zh: 近事男, en: Male attendant }
+        - { zh: 近事女, en: Female attendant }
+explanation_zh: |
+  四眾合成完整的佛教團體，經典常以「比丘、比丘尼、優婆塞、優婆夷」開列聽法大眾。出家眾以乞食清淨活命（「比丘名乞士，清淨活命故」）；在家眾以歸依三寶為起點（「我今歸依佛、法、僧寶，為優婆塞」）。
+explanation_en: |
+  The four together form the complete Buddhist community; sūtras list audiences as "monks, nuns, laymen and laywomen". Monastics live purely on alms ("a monk is called a mendicant, because he lives purely"); lay followers begin by taking refuge ("I now take refuge in the Buddha, the Dharma and the Saṅgha and become a lay follower").
+quotes:
+  - text: 比丘名乞士，清淨活命故，名為乞士。
+    source: 《大智度論》卷3
+    source_en: Dazhidu lun (*Mahāprajñāpāramitāśāstra), fasc. 3
+    ref: T25n1509_p0079c01
+    refEnd: T25n1509_p0079c02
+    note_en: A bhikṣu is called a mendicant; because he lives purely, he is called a mendicant.
+questions:
+  - type: mcq
+    q_zh: 優婆塞的意譯是？
+    q_en: What does upāsaka mean?
+    options:
+      - { zh: 乞士, en: mendicant }
+      - { zh: 近事男, en: male attendant }
+      - { zh: 勤息, en: diligent stiller }
+    answer: 1
+    explain_zh: upāsaka「親近侍奉者」，漢譯近事男。
+    explain_en: Upāsaka is "one who attends closely".
+  - type: tf
+    q_zh: 比丘尼的戒條比比丘多。
+    q_en: Nuns keep more precepts than monks.
+    answer: true
+    explain_zh: 比丘尼戒條多於比丘戒。
+    explain_en: The nuns' code has more rules.
