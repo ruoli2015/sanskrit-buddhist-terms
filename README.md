@@ -10,7 +10,7 @@ A phone-first web app (PWA) for learning Sanskrit Buddhist terms with their Chin
 - **Study in short bursts**: sessions of 5, 15 or 40 cards. Every answer is saved immediately, so you can stop at any point.
 - **Stages**: new term → multiple choice → typed Chinese + English. You move to typing after 5 correct answers spread over at least 2 days, then to Chinese → Sanskrit spelling. Two misses in a row move a term back one stage. FSRS spaced repetition decides when each term returns.
 - **Retire** a word you know from its page or right after answering. **Add** your own words one at a time, or paste many at once.
-- **Sync** across devices by signing in under Settings with your email and a 6-digit code.
+- **Sync** across devices: create an account once in Settings, then sign in with the same email and password on each device.
 
 ## Project layout
 
@@ -40,11 +40,11 @@ tests/              node --test unit tests
 3. `node scripts/cbeta.mjs verify` confirms that every quote matches the canon (punctuation is ignored, and `……` marks an omission).
 4. `npm run build && npm test`, then commit and push. GitHub Actions deploys in about a minute, and installed apps offer to reload.
 
-## Sync setup (one-time)
+## Sync setup (one-time, Supabase free tier)
 
 1. In Supabase, create a project. Then open SQL Editor, paste `supabase/schema.sql` and run it.
-2. Go to Authentication → Emails → Templates. In both the *Magic Link* and *Confirm signup* templates, add `{{ .Token }}` so the email contains a 6-digit code.
-3. Go to Project Settings → API, copy the Project URL and the anon (publishable) key into `app/js/config.js`, and push.
+2. Go to Authentication → Sign In / Providers → Email. Keep the provider enabled and switch **Confirm email** off, so no email is ever sent.
+3. Copy the Project URL and the publishable (anon) key into `app/js/config.js`, and push.
 
 ## Development
 

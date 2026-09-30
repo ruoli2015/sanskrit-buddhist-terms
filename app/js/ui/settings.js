@@ -9,8 +9,8 @@ import { REPO_URL } from '../config.js';
 function SyncBox() {
   const [st, setSt] = useState(sync.getState());
   const [email, setEmail] = useState('');
-  const [code, setCode] = useState('');
-  const [step, setStep] = useState('email');
+  const [password, setPassword] = useState('');
+  const [mode, setMode] = useState('signin');
   const [err, setErr] = useState(null);
   const [busy, setBusy] = useState(false);
   useEffect(() => sync.subscribe(setSt), []);
@@ -18,27 +18,35 @@ function SyncBox() {
   if (!sync.enabled) {
     return html`<p class="small">同步尚未設定：目前資料只存在這台裝置。<br/>Sync is not configured yet — data is stored on this device only.</p>`;
   }
-  const run = async (fn) => {
+  const submit = async (e) => {
+    e.preventDefault();
     setBusy(true);
     setErr(null);
-    try { await fn(); } catch (e) { setErr(e.message || String(e)); }
+    try {
+      if (mode === 'signup') await sync.signUp(email.trim(), password);
+      else await sync.signIn(email.trim(), password);
+    } catch (e2) {
+      const m = e2.message || String(e2);
+      setErr(/invalid login/i.test(m) ? 'Email 或密碼錯誤 · Wrong email or password' : m);
+    }
     setBusy(false);
   };
   if (st.status === 'signed-out') {
-    return step === 'email'
-      ? html`<form onSubmit=${(e) => { e.preventDefault(); run(async () => { await sync.sendCode(email.trim()); setStep('code'); }); }}>
-          <p class="small">用電子郵件登入，在所有裝置同步進度。· Sign in with email to sync across devices.</p>
-          <label class="field"><span>Email</span><input type="email" required value=${email} onInput=${(e) => setEmail(e.target.value)} autocomplete="email" /></label>
-          <button class="btn primary wide" disabled=${busy}><${L} zh="寄送驗證碼" en="Send code" /></button>
-          ${err ? html`<p class="warn">${err}</p>` : null}
-        </form>`
-      : html`<form onSubmit=${(e) => { e.preventDefault(); run(() => sync.verifyCode(email.trim(), code)); }}>
-          <p class="small">已寄出 6 位數驗證碼到 ${email}。· Enter the 6-digit code sent to ${email}.</p>
-          <label class="field"><span>驗證碼 Code</span><input inputmode="numeric" autocomplete="one-time-code" value=${code} onInput=${(e) => setCode(e.target.value)} /></label>
-          <button class="btn primary wide" disabled=${busy}><${L} zh="登入" en="Sign in" /></button>
-          <button type="button" class="btn ghost wide" onClick=${() => setStep('email')}><${L} zh="重新輸入 Email" en="Change email" /></button>
-          ${err ? html`<p class="warn">${err}</p>` : null}
-        </form>`;
+    return html`<form onSubmit=${submit}>
+      <div class="segs wide">
+        <button type="button" class=${`seg ${mode === 'signin' ? 'on' : ''}`} onClick=${() => setMode('signin')}><${L} zh="登入" en="Sign in" /></button>
+        <button type="button" class=${`seg ${mode === 'signup' ? 'on' : ''}`} onClick=${() => setMode('signup')}><${L} zh="建立帳號" en="Create account" /></button>
+      </div>
+      <p class="small">${mode === 'signup'
+        ? '在第一台裝置建立帳號，之後在其他裝置用同一組 Email 和密碼登入。· Create the account once, then sign in with the same email and password on your other devices.'
+        : '用同一組帳號在所有裝置同步進度 · Sign in with the same account on every device to sync.'}</p>
+      <label class="field"><span>Email</span><input type="email" required value=${email} onInput=${(e) => setEmail(e.target.value)} autocomplete="username" autocapitalize="off" /></label>
+      <label class="field"><span>密碼 Password${mode === 'signup' ? '（至少 6 個字元 · min. 6 characters）' : ''}</span>
+        <input type="password" required minlength="6" value=${password} onInput=${(e) => setPassword(e.target.value)}
+          autocomplete=${mode === 'signup' ? 'new-password' : 'current-password'} /></label>
+      <button class="btn primary wide" disabled=${busy}>${mode === 'signup' ? html`<${L} zh="建立帳號並同步" en="Create account & sync" />` : html`<${L} zh="登入並同步" en="Sign in & sync" />`}</button>
+      ${err ? html`<p class="warn">${err}</p>` : null}
+    </form>`;
   }
   const label = { idle: '已同步 Synced', syncing: '同步中… Syncing…', error: '同步失敗 Sync error', offline: '離線 Offline' }[st.status] || st.status;
   return html`<div>

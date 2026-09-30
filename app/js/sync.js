@@ -55,19 +55,27 @@ export async function init() {
   if (session) syncNow();
 }
 
-// Step 1: email a 6-digit code (works inside home-screen apps, unlike magic links).
-export async function sendCode(email) {
+// Email + password sign-in (free tier; no email templates or SMTP needed).
+export async function signIn(email, password) {
   const c = await getClient();
-  const { error } = await c.auth.signInWithOtp({ email, options: { shouldCreateUser: true } });
+  const { data, error } = await c.auth.signInWithPassword({ email, password });
   if (error) throw error;
+  await afterLogin(data.session, email);
 }
 
-// Step 2: verify the code.
-export async function verifyCode(email, token) {
+export async function signUp(email, password) {
   const c = await getClient();
-  const { data, error } = await c.auth.verifyOtp({ email, token: token.trim(), type: 'email' });
+  const { data, error } = await c.auth.signUp({ email, password });
   if (error) throw error;
-  session = data.session;
+  if (!data.session) {
+    // "Confirm email" is switched on in Supabase: the account exists but must be confirmed first.
+    throw new Error('帳號已建立，請先點擊確認信中的連結，再回來登入。· Account created — click the link in the confirmation email, then sign in here.');
+  }
+  await afterLogin(data.session, email);
+}
+
+async function afterLogin(s, email) {
+  session = s;
   set({ status: 'idle', email });
   // First sync after login: everything local that was never uploaded is still dirty.
   await syncNow();
