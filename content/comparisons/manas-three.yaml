@@ -1,0 +1,99 @@
+id: manas-three
+title_zh: 意、意識、末那識
+title_en: Manas, mental consciousness and the seventh consciousness
+terms: [ manas, mano-vijnana, klista-manas, alaya-vijnana ]
+summary_zh: 「意」是意根（第六識的所依）；「意識」是依意根而起的第六識；「末那識」是恆緣阿賴耶識執以為我的第七識——唯識以末那為意根。
+summary_en: Manas is the mental faculty (support of the sixth consciousness); mano-vijñāna is the sixth consciousness based on it; kliṣṭa-manas is the seventh, which constantly grasps the ālaya as self — Yogācāra identifies it as the mental faculty.
+table:
+  columns:
+    - { zh: 意 manas, en: Mental faculty }
+    - { zh: 意識 mano-vijñāna, en: Mental consciousness }
+    - { zh: 末那識 kliṣṭa-manas, en: Seventh consciousness }
+  rows:
+    - label: { zh: 是什麼, en: What it is }
+      cells:
+        - { zh: 第六識的所依（意根）, en: Support of the sixth consciousness }
+        - { zh: 第六識, en: The sixth consciousness }
+        - { zh: 第七識, en: The seventh consciousness }
+    - label: { zh: 所緣, en: Object }
+      cells:
+        - { zh: —（作為所依）, en: — (a support) }
+        - { zh: 一切法, en: All dharmas }
+        - { zh: 阿賴耶識（執為我）, en: The ālaya (grasped as self) }
+    - label: { zh: 有部, en: Sarvāstivāda }
+      cells:
+        - { zh: 前一剎那剛滅之識, en: The consciousness just ceased }
+        - { zh: 第六識, en: Sixth consciousness }
+        - { zh: 不立, en: Not posited }
+    - label: { zh: 唯識, en: Yogācāra }
+      cells:
+        - { zh: 即末那識, en: Is manas }
+        - { zh: 第六識，五位無心時中斷, en: 'Sixth; interrupted in five mindless states' }
+        - { zh: 恆審思量，四煩惱常俱, en: 'Constant deliberation; four afflictions always present' }
+explanation_zh: |
+  **三個名字**：梵語 manas 意為「意」；mano-vijñāna 是「依意之識」；「末那」是 manas 的音譯，加上「染污」（kliṣṭa）以表第七識。
+
+  **有部**：《俱舍論》：「由即六識身，無間滅為意」——意根只是剛滅的前念之識，沒有第七識。
+
+  **唯識**：意識需要一個恆常的同時所依，所以立第七末那識為意根。末那識「依彼轉緣彼，思量為性相」，恆時執阿賴耶識為我，與我癡、我見、我慢、我愛四煩惱相應。
+
+  **意識 vs 末那**：意識的我執時有時無（睡眠、悶絕時中斷）；末那的我執恆常不斷，是俱生我執的根本。
+explanation_en: |
+  **Three names**: manas means "mind"; mano-vijñāna is "consciousness based on manas"; 末那 transliterates manas, qualified as "afflicted" (kliṣṭa) for the seventh consciousness.
+
+  **Sarvāstivāda**: Abhidharmakośa: "Any of the six consciousnesses, having just ceased, is manas" — the mental faculty is just the preceding moment of consciousness; there is no seventh.
+
+  **Yogācāra**: the mental consciousness needs a constant simultaneous support, so the seventh consciousness is posited as the mental faculty. It "depends on that and takes that as object; deliberation is its nature", constantly grasping the ālaya as self, with self-delusion, self-view, self-pride and self-love.
+
+  **Mental consciousness vs manas**: the former's self-grasping comes and goes (interrupted in sleep or fainting); that of manas never stops — the root of innate self-grasping.
+quotes:
+  - text: 由即六識身，無間滅為意。
+    source: 《阿毘達磨俱舍論》卷1
+    source_en: Abhidharmakośabhāṣya, fasc. 1
+    ref: T29n1558_p0004b03
+    note_en: Any of the six bodies of consciousness, having just ceased, is manas.
+  - text: 次第二能變，是識名末那，依彼轉緣彼，思量為性相。
+    source: 《唯識三十論頌》
+    source_en: Triṃśikā (Thirty Verses)
+    ref: T31n1586_p0060b10
+    refEnd: T31n1586_p0060b11
+    note_en: 'Next is the second transformation: this consciousness is called manas; it depends on that and takes that as object; deliberation is its nature and characteristic.'
+questions:
+  - type: mcq
+    q_zh: 末那識的所緣是？
+    q_en: What does the seventh consciousness take as object?
+    options:
+      - { zh: 一切法, en: all dharmas }
+      - { zh: 阿賴耶識, en: the ālaya consciousness }
+      - { zh: 色境, en: visible form }
+      - { zh: 真如, en: suchness }
+    answer: 1
+    explain_zh: 「依彼轉緣彼」——依阿賴耶、緣阿賴耶，執以為我。
+    explain_en: '"It depends on that and takes that as object" — the ālaya, grasped as self.'
+  - type: mcq
+    q_zh: 在說一切有部，意根是什麼？
+    q_en: In the Sarvāstivāda, what is the mental faculty?
+    options:
+      - { zh: 第七末那識, en: the seventh consciousness }
+      - { zh: 前一剎那剛滅的識, en: the consciousness that has just ceased }
+      - { zh: 心臟, en: the heart }
+      - { zh: 阿賴耶識, en: the ālaya }
+    answer: 1
+    explain_zh: 「由即六識身，無間滅為意。」
+    explain_en: '"Any of the six consciousnesses, having just ceased, is manas."'
+  - type: tf
+    q_zh: 第六意識在深度睡眠、悶絕時會中斷，末那識則不中斷。
+    q_en: The sixth consciousness is interrupted in deep sleep and fainting; manas is not.
+    answer: true
+    explain_zh: 意識有五位無心；末那恆審思量，唯阿羅漢、滅定、出世道不起。
+    explain_en: The sixth has five mindless states; manas continues, absent only in arhats, cessation and the transcendent path.
+  - type: mcq
+    q_zh: 「末那」二字是什麼？
+    q_en: What is 末那?
+    options:
+      - { zh: manas 的音譯, en: a transliteration of manas }
+      - { zh: 意識的簡稱, en: short for mental consciousness }
+      - { zh: 阿賴耶的別名, en: another name for the ālaya }
+    answer: 0
+    explain_zh: 末那即 manas 的音譯。
+    explain_en: 末那 transliterates manas.

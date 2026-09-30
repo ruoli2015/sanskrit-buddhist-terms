@@ -1,0 +1,67 @@
+id: maitri-karuna
+title_zh: 慈與悲；無瞋與不害
+title_en: Loving-kindness vs. compassion; non-hatred vs. non-harming
+terms: [ maitri, karuna, advesa, avihimsa ]
+summary_zh: 慈是與樂、悲是拔苦。在心所上，慈的基礎是無瞋，悲的基礎是不害；所對治的分別是瞋與害。
+summary_en: Loving-kindness gives happiness, compassion removes suffering. As mental factors, kindness rests on non-hatred and compassion on non-harming; they counter aversion and harmfulness respectively.
+table:
+  columns:
+    - { zh: 慈 maitrī, en: Loving-kindness }
+    - { zh: 悲 karuṇā, en: Compassion }
+  rows:
+    - label: { zh: 作用, en: Function }
+      cells:
+        - { zh: 與樂, en: Gives happiness }
+        - { zh: 拔苦, en: Removes suffering }
+    - label: { zh: 心所基礎, en: Mental-factor basis }
+      cells:
+        - { zh: 無瞋, en: Non-hatred }
+        - { zh: 不害, en: Non-harming }
+    - label: { zh: 對治, en: Counters }
+      cells:
+        - { zh: 瞋, en: Aversion }
+        - { zh: 害, en: Harmfulness }
+explanation_zh: |
+  《成唯識論》：「無瞋與樂，不害拔苦。」《大乘五蘊論》說無瞋「以慈為性」，不害「以悲為性」。《大智度論》說「慈名愛念眾生，常求安隱樂事以饒益之；悲名愍念眾生受五道中種種身苦、心苦」。
+
+  兩者常並稱「慈悲」，但方向不同：慈看眾生的快樂而願其增長，悲看眾生的痛苦而願其止息。
+explanation_en: |
+  Cheng weishi lun: "Non-hatred gives happiness, non-harming removes suffering." The Pañcaskandhaka says non-hatred "has loving-kindness as its nature", non-harming "compassion". The Dazhidu lun: loving-kindness is "cherishing beings, seeking their peace and happiness"; compassion is "pitying beings who suffer in body and mind".
+
+  They are usually paired, but face different ways: kindness looks at beings' happiness and wishes it to grow; compassion looks at their suffering and wishes it to end.
+quotes:
+  - text: 無瞋，翻對斷物命瞋；不害，正違損惱物害。無瞋與樂；不害拔苦。
+    source: 《成唯識論》卷6
+    source_en: Cheng weishi lun, fasc. 6
+    ref: T31n1585_p0030c02
+    refEnd: T31n1585_p0030c03
+    note_en: Non-hatred opposes the hatred that takes life; non-harming opposes the harmfulness that torments beings. Non-hatred gives happiness; non-harming removes suffering.
+questions:
+  - type: mcq
+    q_zh: 「拔苦」是哪一個？
+    q_en: Which one "removes suffering"?
+    options:
+      - { zh: 慈, en: loving-kindness }
+      - { zh: 悲, en: compassion }
+      - { zh: 喜, en: sympathetic joy }
+      - { zh: 捨, en: equanimity }
+    answer: 1
+    explain_zh: 慈與樂，悲拔苦。
+    explain_en: Kindness gives happiness, compassion removes suffering.
+  - type: mcq
+    q_zh: 悲的心所基礎是？
+    q_en: What is the mental-factor basis of compassion?
+    options:
+      - { zh: 無瞋, en: non-hatred }
+      - { zh: 不害, en: non-harming }
+      - { zh: 無貪, en: non-greed }
+      - { zh: 慚, en: self-respect }
+    answer: 1
+    explain_zh: 不害「悲愍為業」。
+    explain_en: Non-harming "has compassion as its function".
+  - type: tf
+    q_zh: 《大乘五蘊論》說無瞋「以慈為性」。
+    q_en: The Pañcaskandhaka says non-hatred "has loving-kindness as its nature".
+    answer: true
+    explain_zh: 「云何無瞋？謂瞋對治，以慈為性。」
+    explain_en: '"What is non-hatred? The antidote to hatred; its nature is loving-kindness."'

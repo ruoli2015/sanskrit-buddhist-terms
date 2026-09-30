@@ -1,0 +1,155 @@
+# 三法印、三學之戒
+
+- id: anitya
+  skt: anitya
+  deva: अनित्य
+  pali: anicca
+  zh: 無常
+  zhAlt: [ 諸行無常 ]
+  en: impermanence
+  enAlt: [ impermanent, transience, inconstancy, anicca ]
+  root: a-「非」＋ nitya「常」 · a- + nitya "constant, eternal"
+  short_zh: 一切有為法剎那生滅、不常住。三法印之一。
+  short_en: Impermanence — every conditioned thing arises and ceases moment by moment. One of the three seals.
+  detail_zh: |
+    有為法依因緣而生，因緣變則法變，所以沒有任何有為法能恆常不變。《大智度論》說佛法印第一即「一切有為法念念生滅皆無常」。
+
+    **觀無常是修行的起點**。《雜阿含經》第一經：「當觀色無常。如是觀者，則為正觀。正觀者，則生厭離；厭離者，喜貪盡；喜貪盡者，說心解脫。」
+
+    **無常→苦→無我**：經中常見的推理是「色無常，無常即苦，苦即非我」。注意三法印說「諸**行**無常」而說「諸**法**無我」：無常只就有為法說，涅槃是無為，不是無常。
+  detail_en: |
+    Conditioned dharmas arise from causes and conditions; when those change, the dharma changes, so nothing conditioned stays constant. The Dazhidu lun gives the first seal as "all conditioned dharmas arise and cease moment by moment — all are impermanent".
+
+    **Contemplating impermanence starts the path.** Saṃyuktāgama sūtra 1: "Contemplate form as impermanent. Seeing thus is right seeing. Right seeing gives rise to disenchantment; with disenchantment, delight and lust end; with their ending, the mind is said to be liberated."
+
+    **Impermanent → suffering → non-self**: the classic reasoning is "form is impermanent; what is impermanent is suffering; what is suffering is not self". Note the seals say "all *saṃskāras* are impermanent" but "all *dharmas* are non-self": impermanence applies only to the conditioned; nirvāṇa is unconditioned and not impermanent.
+  quotes:
+    - text: 當觀色無常。如是觀者，則為正觀。正觀者，則生厭離；厭離者，喜貪盡；喜貪盡者，說心解脫。
+      source: 《雜阿含經》卷1（第1經）
+      source_en: Saṃyuktāgama, fasc. 1, sūtra 1
+      ref: T02n0099_p0001a07
+      refEnd: T02n0099_p0001a09
+      note_en: Contemplate form as impermanent. One who contemplates thus contemplates rightly. Right contemplation gives rise to disenchantment; disenchantment ends delight and lust; when delight and lust end, the mind is said to be liberated.
+    - text: 何等是佛法印？答曰：佛法印有三種：一者、一切有為法念念生滅皆無常，二者、一切法無我，三者、寂滅涅槃。
+      source: 《大智度論》卷22
+      source_en: Dazhidu lun (*Mahāprajñāpāramitāśāstra), fasc. 22
+      ref: T25n1509_p0222a28
+      refEnd: T25n1509_p0222b01
+      note_en: What are the seals of the Buddha's Dharma? There are three — first, all conditioned dharmas arise and cease moment by moment and are all impermanent; second, all dharmas are non-self; third, nirvāṇa is peace.
+  related: [ samskrta, anatman, nirvana ]
+  compare: [ three-marks ]
+
+- id: anatman
+  skt: anātman
+  deva: अनात्मन्
+  pali: anattā
+  zh: 無我
+  zhAlt: [ 非我, 諸法無我 ]
+  en: non-self
+  enAlt: [ no-self, not-self, selflessness, anatta, egolessness ]
+  root: an-「非」＋ ātman「我」 · an- + ātman "self"
+  short_zh: 一切法中都沒有常、一、主宰的「我」。三法印之一，佛法的核心見地。
+  short_en: Non-self — in no dharma is there a permanent, unitary, controlling self. One of the three seals, the core insight of Buddhism.
+  detail_zh: |
+    ātman 在印度哲學中指常住、單一、能主宰的自我。佛陀分析身心為五蘊、十二處、十八界，指出其中找不到這樣的「我」。《雜阿含經》第9經：「色無常，無常即苦，苦即非我，非我者亦非我所。」
+
+    **無我不是「沒有人」**：無我否定的是常一主宰的實體，並不否定因緣相續的生命之流、業果與責任。
+
+    **二無我**：大乘進一步說「人無我」（補特伽羅無我）與「法無我」——不但沒有實在的人我，一切法也沒有獨立的自性。
+  detail_en: |
+    In Indian philosophy ātman is a permanent, single, sovereign self. Analysing body and mind into aggregates, bases and elements, the Buddha shows no such self can be found. Saṃyuktāgama 9: "Form is impermanent; what is impermanent is suffering; what is suffering is not self; what is not self is not mine."
+
+    **Non-self is not "nobody"**: it denies a permanent controlling entity, not the conditioned stream of life, karma and responsibility.
+
+    **Twofold non-self**: the Mahāyāna adds that not only persons (pudgala-nairātmya) but all dharmas (dharma-nairātmya) lack intrinsic nature.
+  quotes:
+    - text: 色無常，無常即苦，苦即非我，非我者亦非我所。
+      source: 《雜阿含經》卷1（第9經）
+      source_en: Saṃyuktāgama, fasc. 1, sūtra 9
+      ref: T02n0099_p0002a03
+      refEnd: T02n0099_p0002a04
+      note_en: Form is impermanent; what is impermanent is suffering; what is suffering is not self; what is not self is not mine either.
+    - text: 一切行無常，一切法無我，涅槃寂滅。
+      source: 《雜阿含經》卷10（第262經）
+      source_en: Saṃyuktāgama, fasc. 10, sūtra 262
+      ref: T02n0099_p0066b14
+      note_en: All saṃskāras are impermanent, all dharmas are non-self, nirvāṇa is peace.
+  related: [ anitya, skandha, pratityasamutpada ]
+  compare: [ three-marks ]
+
+- id: nirvana
+  skt: nirvāṇa
+  deva: निर्वाण
+  pali: nibbāna
+  zh: 涅槃
+  zhAlt: [ 寂滅, 滅度, 泥洹, 圓寂, 涅槃寂靜 ]
+  en: nirvana
+  enAlt: [ nirvāṇa, nibbana, extinction, quenching, blowing out, cessation ]
+  root: nis-√vā「吹熄」 · nis-√vā "to blow out, extinguish"
+  short_zh: 貪、瞋、癡與一切煩惱永盡的寂滅境界；無為法。三法印之一。
+  short_en: Nirvāṇa — the peace in which greed, hatred, delusion and all afflictions are extinguished for good; unconditioned. One of the three seals.
+  detail_zh: |
+    nirvāṇa 字面是「吹熄」，如燈火熄滅——煩惱之火熄滅。《雜阿含經》第490經：「貪欲永盡，瞋恚永盡，愚癡永盡，一切諸煩惱永盡，是名涅槃。」
+
+    涅槃是**無為法**，不是一個「去處」，而是煩惱與生死的止息。部派佛教分**有餘依涅槃**（煩惱已盡，身體仍在）與**無餘依涅槃**（身亦滅盡）。唯識另立「本來自性清淨涅槃」與「無住處涅槃」，合為四種涅槃。
+
+    《大般涅槃經》偈：「諸行無常，是生滅法；生滅滅已，寂滅為樂。」
+  detail_en: |
+    Nirvāṇa literally means "blowing out", like a lamp going out — the fire of affliction extinguished. Saṃyuktāgama 490: "Greed ended forever, hatred ended forever, delusion ended forever, all afflictions ended forever — this is called nirvāṇa."
+
+    Nirvāṇa is **unconditioned**: not a place one goes but the cessation of affliction and rebirth. The Abhidharma distinguishes nirvāṇa **with remainder** (afflictions ended, body still present) and **without remainder** (body also ended). Yogācāra adds "innately pure nirvāṇa" and "non-abiding nirvāṇa", four in all.
+
+    Mahāparinirvāṇa-sūtra verse: "All saṃskāras are impermanent, subject to arising and ceasing; when arising and ceasing have ceased, that stillness is bliss."
+  quotes:
+    - text: 貪欲永盡，瞋恚永盡，愚癡永盡，一切諸煩惱永盡，是名涅槃。
+      source: 《雜阿含經》卷18（第490經）
+      source_en: Saṃyuktāgama, fasc. 18, sūtra 490
+      ref: T02n0099_p0126b03
+      refEnd: T02n0099_p0126b04
+      note_en: Greed ended forever, hatred ended forever, delusion ended forever, all afflictions ended forever — this is called nirvāṇa.
+    - text: 生滅滅已，寂滅為樂。
+      source: 《大般涅槃經》卷14
+      source_en: Mahāparinirvāṇa-sūtra (Dharmakṣema), fasc. 14
+      ref: T12n0374_p0451a01
+      note_en: When arising and ceasing have ceased, that stillness is bliss.
+  related: [ anitya, anatman, samskrta ]
+  compare: [ three-marks ]
+
+- id: sila
+  skt: śīla
+  deva: शील
+  pali: sīla
+  zh: 戒
+  zhAlt: [ 尸羅, 戒律, 持戒, 戒學 ]
+  en: morality
+  enAlt: [ ethics, ethical discipline, virtue, moral conduct, precepts, discipline ]
+  root: 「習性、品行」 · "habit, character, conduct"
+  short_zh: 防非止惡的品行與戒律；三學之首、六度之二，是定與慧的基礎。
+  short_en: Morality — conduct and precepts that guard against wrongdoing; first of the three trainings, second perfection, the basis of concentration and wisdom.
+  detail_zh: |
+    śīla 原義是「習性、品行」，漢譯「戒」，音譯「尸羅」。戒不只是外在規條，更是養成的善良品格。
+
+    **三學的次第**：《雜阿含經》說「有三學……謂增上戒學、增上意學、增上慧學」。《楞嚴經》概括為：「攝心為戒，因戒生定，因定發慧。」沒有戒，心不能安定；心不安定，智慧無從生起。
+
+    **戒是解脫之本**：《遺教經》：「戒是正順解脫之本，故名波羅提木叉。」
+  detail_en: |
+    Śīla originally means "habit, character"; Chinese 戒 "precept", transliterated 尸羅. It is not just external rules but cultivated good character.
+
+    **The order of the three trainings**: the Saṃyuktāgama speaks of "three trainings — higher morality, higher mind and higher wisdom". The Śūraṅgama sums it up: "Gathering the mind is morality; from morality comes concentration; from concentration arises wisdom." Without morality the mind cannot settle; without a settled mind no wisdom arises.
+
+    **The root of liberation**: the Yijiao jing: "Morality is the foundation that accords with liberation; hence it is called prātimokṣa."
+  quotes:
+    - text: 有三學。何等為三？謂增上戒學、增上意學、謂增上慧學。
+      source: 《雜阿含經》卷29（第816經）
+      source_en: Saṃyuktāgama, fasc. 29, sūtra 816
+      ref: T02n0099_p0210a07
+      refEnd: T02n0099_p0210a09
+      note_en: There are three trainings. What are the three? Higher morality, higher mind and higher wisdom.
+    - text: 戒是正順解脫之本，故名波羅提木叉。
+      source: 《佛垂般涅槃略說教誡經》
+      source_en: Sūtra of the Bequeathed Teaching (Yijiao jing)
+      ref: T12n0389_p1111a02
+      refEnd: T12n0389_p1111a03
+      note_en: Morality is the foundation that accords with liberation; hence it is called prātimokṣa.
+  related: [ samadhi, prajna, paramita ]
+  compare: [ three-trainings ]

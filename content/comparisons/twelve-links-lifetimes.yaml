@@ -1,0 +1,88 @@
+id: twelve-links-lifetimes
+title_zh: 十二因緣的三世兩重因果
+title_en: The twelve links across three lives — two layers of cause and effect
+terms: [ avidya, samskara, vijnana, namarupa, sadayatana, sparsa, vedana, trsna, upadana, bhava, jati, jaramarana ]
+summary_zh: 說一切有部把十二支分配到過去、現在、未來三世：過去二因（無明、行）→ 現在五果（識至受）→ 現在三因（愛、取、有）→ 未來二果（生、老死）。
+summary_en: 'The Sarvāstivāda distributes the twelve links over three lives: two past causes (ignorance, formations) → five present effects (consciousness to feeling) → three present causes (craving, clinging, becoming) → two future effects (birth, ageing-and-death).'
+table:
+  columns:
+    - { zh: 過去二因, en: Two past causes }
+    - { zh: 現在五果, en: Five present effects }
+    - { zh: 現在三因, en: Three present causes }
+    - { zh: 未來二果, en: Two future effects }
+  rows:
+    - label: { zh: 支, en: Links }
+      cells:
+        - { zh: 無明、行, en: 'ignorance, formations' }
+        - { zh: 識、名色、六入、觸、受, en: 'consciousness, name-and-form, six bases, contact, feeling' }
+        - { zh: 愛、取、有, en: 'craving, clinging, becoming' }
+        - { zh: 生、老死, en: 'birth, ageing-and-death' }
+    - label: { zh: 性質, en: Nature }
+      cells:
+        - { zh: 惑與業, en: Affliction and karma }
+        - { zh: 苦果（異熟）, en: Painful results }
+        - { zh: 惑與業, en: Affliction and karma }
+        - { zh: 苦果, en: Painful results }
+explanation_zh: |
+  **三世**：《俱舍論》：「如是諸緣起，十二支三際，前後際各二，中八據圓滿。」前際（過去）二支，後際（未來）二支，中際（現在）八支。
+
+  **兩重因果**：過去的無明與行（惑、業）招感現在的識、名色、六入、觸、受五果；現在又起愛、取（惑）而造有（業），招感未來的生與老死。
+
+  **惑、業、苦**：無明、愛、取是惑；行、有是業；其餘七支是苦。惑生業，業生苦，苦中又起惑——輪迴如輪不息。
+
+  **修行的著力點**：受是過去業的果，無法改變；但「受緣愛」這一環可以斷——在受上不起愛，就不再造新的因。
+explanation_en: |
+  **Three lives**: Abhidharmakośa: "These twelve links of dependent origination span three periods: two each for the past and future, eight in the middle, [counted] at their fullest." Two links belong to the past, two to the future, eight to the present.
+
+  **Two layers of cause and effect**: past ignorance and formations (affliction, karma) bring the five present effects, consciousness through feeling; in the present, craving and clinging (affliction) produce becoming (karma), which brings future birth and ageing-and-death.
+
+  **Affliction, karma, suffering**: ignorance, craving and clinging are affliction; formations and becoming are karma; the other seven are suffering. Affliction produces karma, karma suffering, and within suffering affliction arises again — the wheel keeps turning.
+
+  **Where practice bites**: feeling is the result of past karma and cannot be changed; but the link "feeling → craving" can be cut — not craving at feeling, one creates no new causes.
+quotes:
+  - text: 如是諸緣起，十二支三際，前後際各二，中八據圓滿。
+    source: 《阿毘達磨俱舍論》卷9
+    source_en: Abhidharmakośabhāṣya, fasc. 9
+    ref: T29n1558_p0048a23
+    refEnd: T29n1558_p0048a24
+    note_en: These links of dependent origination, twelve in number, span three periods — two each in the former and latter periods, eight in the middle, counted at their fullest.
+questions:
+  - type: mcq
+    q_zh: 依三世兩重因果，「行」屬於？
+    q_en: In the three-life scheme, formations belong to…
+    options:
+      - { zh: 過去因, en: past causes }
+      - { zh: 現在果, en: present effects }
+      - { zh: 現在因, en: present causes }
+      - { zh: 未來果, en: future effects }
+    answer: 0
+    explain_zh: 過去二因：無明、行。
+    explain_en: 'The two past causes: ignorance and formations.'
+  - type: mcq
+    q_zh: 下列哪一支屬於「現在三因」？
+    q_en: Which link is one of the three present causes?
+    options:
+      - { zh: 受, en: feeling }
+      - { zh: 取, en: clinging }
+      - { zh: 名色, en: name-and-form }
+      - { zh: 生, en: birth }
+    answer: 1
+    explain_zh: 現在三因：愛、取、有。
+    explain_en: 'Present causes: craving, clinging, becoming.'
+  - type: tf
+    q_zh: 行與有都屬於「業」。
+    q_en: Formations and becoming are both karma.
+    answer: true
+    explain_zh: 行是過去業，有是現在業。
+    explain_en: Formations are past karma, becoming present karma.
+  - type: mcq
+    q_zh: 十二支中屬「惑」的是？
+    q_en: Which links are "affliction"?
+    options:
+      - { zh: 無明、愛、取, en: 'ignorance, craving, clinging' }
+      - { zh: 行、有, en: 'formations, becoming' }
+      - { zh: 識、受, en: 'consciousness, feeling' }
+      - { zh: 生、老死, en: 'birth, ageing-and-death' }
+    answer: 0
+    explain_zh: 惑：無明、愛、取；業：行、有；其餘七支是苦。
+    explain_en: 'Affliction: ignorance, craving, clinging; karma: formations, becoming; the other seven are suffering.'

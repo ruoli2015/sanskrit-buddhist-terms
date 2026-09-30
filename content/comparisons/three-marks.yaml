@@ -1,0 +1,64 @@
+id: three-marks
+title_zh: 三法印：無常、無我、涅槃
+title_en: The three seals — impermanence, non-self, nirvāṇa
+terms: [ anitya, anatman, nirvana ]
+summary_zh: 諸行無常（只說有為）、諸法無我（通有為無為）、涅槃寂靜（無為）。「行」與「法」的用字差別是理解關鍵。
+summary_en: All saṃskāras are impermanent (conditioned only), all dharmas are non-self (conditioned and unconditioned), nirvāṇa is peace (unconditioned). The switch from "saṃskāra" to "dharma" is the key.
+table:
+  columns:
+    - { zh: 諸行無常, en: Impermanence }
+    - { zh: 諸法無我, en: Non-self }
+    - { zh: 涅槃寂靜, en: Nirvāṇa is peace }
+  rows:
+    - label: { zh: 適用範圍, en: Applies to }
+      cells:
+        - { zh: 有為法（行）, en: Conditioned (saṃskāra) }
+        - { zh: 一切法（含無為）, en: All dharmas incl. unconditioned }
+        - { zh: 無為法, en: The unconditioned }
+    - label: { zh: 破除, en: Undoes }
+      cells:
+        - { zh: 常見, en: Belief in permanence }
+        - { zh: 我見, en: Belief in a self }
+        - { zh: 對生死的貪著, en: Attachment to saṃsāra }
+explanation_zh: |
+  《大智度論》：「佛法印有三種：一者、一切有為法念念生滅皆無常，二者、一切法無我，三者、寂滅涅槃。」
+
+  **為什麼第一印說「行」，第二印說「法」**？涅槃是無為法，不生不滅，所以不是無常；但涅槃也不是「我」。所以無常只能說「諸行」，無我則可以說「諸法」。
+
+  **推理鏈**：《雜阿含經》：「色無常，無常即苦，苦即非我。」南傳常把「苦」列入而說三相（無常、苦、無我）；北傳的三法印則以涅槃寂靜為第三。
+explanation_en: |
+  Dazhidu lun: "The seals of the Buddha's Dharma are three: all conditioned dharmas arise and cease moment by moment and are impermanent; all dharmas are non-self; nirvāṇa is peace."
+
+  **Why "saṃskāras" in the first and "dharmas" in the second?** Nirvāṇa is unconditioned — unarisen, unceasing — so not impermanent; yet it is not a self either. Impermanence can be said only of saṃskāras; non-self of all dharmas.
+
+  **The reasoning**: Saṃyuktāgama: "Form is impermanent; the impermanent is suffering; suffering is not self." Theravāda lists "three characteristics" with suffering as the second; the northern "three seals" end with nirvāṇa.
+quotes:
+  - text: 何等是佛法印？答曰：佛法印有三種：一者、一切有為法念念生滅皆無常，二者、一切法無我，三者、寂滅涅槃。
+    source: 《大智度論》卷22
+    source_en: Dazhidu lun (*Mahāprajñāpāramitāśāstra), fasc. 22
+    ref: T25n1509_p0222a28
+    refEnd: T25n1509_p0222b01
+    note_en: What are the seals of the Buddha's Dharma? Three — all conditioned dharmas arise and cease moment by moment and are impermanent; all dharmas are non-self; nirvāṇa is peace.
+questions:
+  - type: tf
+    q_zh: 涅槃也是無常的。
+    q_en: Nirvāṇa is also impermanent.
+    answer: false
+    explain_zh: 涅槃是無為法，不生不滅；無常只說有為（諸行）。
+    explain_en: Nirvāṇa is unconditioned; impermanence applies only to saṃskāras.
+  - type: tf
+    q_zh: 涅槃也是無我的。
+    q_en: Nirvāṇa is also non-self.
+    answer: true
+    explain_zh: 「諸法無我」包括無為法。
+    explain_en: '"All dharmas are non-self" includes the unconditioned.'
+  - type: mcq
+    q_zh: 《雜阿含經》的推理順序是？
+    q_en: The reasoning order in the Saṃyuktāgama is…
+    options:
+      - { zh: 無常→苦→非我, en: impermanent → suffering → not self }
+      - { zh: 非我→苦→無常, en: not self → suffering → impermanent }
+      - { zh: 苦→無常→非我, en: suffering → impermanent → not self }
+    answer: 0
+    explain_zh: 「色無常，無常即苦，苦即非我。」
+    explain_en: '"Form is impermanent; the impermanent is suffering; suffering is not self."'

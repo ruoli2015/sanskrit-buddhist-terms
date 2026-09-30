@@ -1,0 +1,62 @@
+id: three-trainings
+title_zh: 戒、定、慧三學
+title_en: The three trainings — morality, concentration, wisdom
+terms: [ sila, samadhi, prajna ]
+summary_zh: 因戒生定，因定發慧。戒止粗惡、定息散亂、慧斷煩惱；三者次第相依。
+summary_en: From morality comes concentration, from concentration wisdom. Morality stops gross wrongdoing, concentration calms distraction, wisdom cuts off affliction — each supports the next.
+table:
+  columns:
+    - { zh: 戒, en: Morality }
+    - { zh: 定, en: Concentration }
+    - { zh: 慧, en: Wisdom }
+  rows:
+    - label: { zh: 對治, en: Counters }
+      cells:
+        - { zh: 身口粗惡, en: Gross bodily and verbal misdeeds }
+        - { zh: 心的散亂, en: Mental distraction }
+        - { zh: 無明煩惱, en: Ignorance and afflictions }
+    - label: { zh: 心所基礎, en: Mental-factor basis }
+      cells:
+        - { zh: 思（戒體）、慚愧, en: 'Volition, self-respect, decorum' }
+        - { zh: 定（別境）, en: Concentration (object-specific) }
+        - { zh: 慧（別境）, en: Wisdom (object-specific) }
+explanation_zh: |
+  《雜阿含經》：「有三學……謂增上戒學、增上意學、增上慧學。」「增上意學」即定學。
+
+  **次第**：《遺教經》說「依因此戒，得生諸禪定及滅苦智慧」；心所上也是如此——念是「定依」，定是「智依」。戒使生活單純，心才能定；心定，才能如實觀察而生慧。
+
+  **六度的對應**：持戒、禪定、般若三度即三學；布施、忍辱、精進則是助成。
+explanation_en: |
+  Saṃyuktāgama: "There are three trainings — higher morality, higher mind and higher wisdom"; "higher mind" is concentration.
+
+  **Sequence**: the Yijiao jing says that relying on morality one attains the meditations and the wisdom that ends suffering; the mental factors show the same chain — mindfulness supports concentration, concentration supports wisdom. Morality simplifies life so the mind can settle; a settled mind sees clearly and wisdom arises.
+
+  **In the six perfections**: morality, meditation and wisdom correspond to the three trainings; giving, patience and diligence support them.
+quotes:
+  - text: 有三學。何等為三？謂增上戒學、增上意學、謂增上慧學。
+    source: 《雜阿含經》卷29（第816經）
+    source_en: Saṃyuktāgama, fasc. 29, sūtra 816
+    ref: T02n0099_p0210a07
+    refEnd: T02n0099_p0210a09
+    note_en: There are three trainings. What are the three? Higher morality, higher mind and higher wisdom.
+questions:
+  - type: mcq
+    q_zh: 「增上意學」是指？
+    q_en: What is "higher mind" training?
+    options:
+      - { zh: 戒學, en: morality }
+      - { zh: 定學, en: concentration }
+      - { zh: 慧學, en: wisdom }
+    answer: 1
+    explain_zh: 增上意（心）學即定學。
+    explain_en: Higher mind training is concentration.
+  - type: mcq
+    q_zh: 依心所的作用，定是什麼的所依？
+    q_en: By the mental-factor functions, concentration is the support of…
+    options:
+      - { zh: 念, en: mindfulness }
+      - { zh: 智（慧）, en: wisdom }
+      - { zh: 精進, en: diligence }
+    answer: 1
+    explain_zh: 定「智依為業」。
+    explain_en: Concentration "supports wisdom".

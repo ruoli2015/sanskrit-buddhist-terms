@@ -1,5 +1,5 @@
 // Service worker: offline support. VERSION and FILES are stamped by scripts/build.mjs.
-const VERSION = '32af0fae72';
+const VERSION = '95a60c97cd';
 const FILES = [
   "./",
   "css/app.css",

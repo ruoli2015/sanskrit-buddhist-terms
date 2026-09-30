@@ -1,0 +1,75 @@
+id: trsna-upadana
+title_zh: 愛（tṛṣṇā）與取（upādāna）
+title_en: Craving vs. clinging (tṛṣṇā & upādāna)
+terms: [ trsna, upadana, raga ]
+summary_zh: 愛是渴求（想要），取是執取（抓住、追逐）；取是愛的增長。兩者都以貪為核心，而取還包括對見解、戒禁與「我」的執著。
+summary_en: Craving is thirst (wanting); clinging is seizing and pursuing — craving grown strong. Both centre on greed, and clinging also includes attachment to views, observances and a self.
+table:
+  columns:
+    - { zh: 愛 tṛṣṇā, en: Craving }
+    - { zh: 取 upādāna, en: Clinging }
+  rows:
+    - label: { zh: 位置, en: Position }
+      cells:
+        - { zh: 第八支（受緣愛）, en: '8th link (feeling → craving)' }
+        - { zh: 第九支（愛緣取）, en: '9th link (craving → clinging)' }
+    - label: { zh: 字義, en: Literal sense }
+      cells:
+        - { zh: 口渴, en: Thirst }
+        - { zh: 拿取；燃料, en: 'Taking up; fuel' }
+    - label: { zh: 分類, en: Kinds }
+      cells:
+        - { zh: 欲愛、色愛、無色愛, en: 'For desire, form, formless realms' }
+        - { zh: 欲取、見取、戒取、我取, en: 'Sense pleasures, views, rules, self' }
+    - label: { zh: 俱舍解釋, en: Abhidharmakośa }
+      cells:
+        - { zh: 貪資具婬愛, en: Greed for pleasures and sexual love }
+        - { zh: 為得諸境界，遍馳求, en: Running everywhere to obtain objects }
+explanation_zh: |
+  **由渴到抓**：愛是內心的渴求；取是渴求增強後，向外追逐、緊抓不放。《俱舍論》說取是「為得諸境界，遍馳求」。
+
+  **取比愛多了「見」**：愛的三種都是對存在的貪；取的四種中，後三種（見取、戒取、我取）都涉及錯誤的見解——執著自己的見解、執著錯誤的修行方法、執著有我的學說。
+
+  **與貪的關係**：愛與取都是貪（及見）的表現，是十二因緣中「現在三因」的惑。
+explanation_en: |
+  **From thirst to grasping**: craving is inner thirst; clinging is that thirst intensified into outward pursuit and tight holding. The Abhidharmakośa calls clinging "running about everywhere to obtain objects".
+
+  **Clinging adds views**: all three cravings are greed for existence; of the four clingings, three concern views — clinging to one's opinions, to wrong methods of practice, to doctrines of a self.
+
+  **Relation to greed**: both are expressions of greed (and views), the "affliction" among the three present causes of the twelve links.
+quotes:
+  - text: 在婬愛前受，貪資具婬愛，為得諸境界，遍馳求名取
+    source: 《阿毘達磨俱舍論》卷9
+    source_en: Abhidharmakośabhāṣya, fasc. 9
+    ref: T29n1558_p0048b16
+    refEnd: T29n1558_p0048b17
+    note_en: Before sexual love is feeling; greed for the means of pleasure and sexual love is craving; running about everywhere seeking to obtain objects is clinging.
+questions:
+  - type: mcq
+    q_zh: 「見取、戒取」屬於哪一支的內容？
+    q_en: Clinging to views and to rules belong to which link?
+    options:
+      - { zh: 愛, en: craving }
+      - { zh: 取, en: clinging }
+      - { zh: 有, en: becoming }
+      - { zh: 受, en: feeling }
+    answer: 1
+    explain_zh: 四取：欲取、見取、戒取、我取。
+    explain_en: 'Four clingings: to sense pleasures, views, rules, self.'
+  - type: mcq
+    q_zh: 《雜阿含經》所說三愛是？
+    q_en: What are the three cravings in the Saṃyuktāgama?
+    options:
+      - { zh: 欲愛、色愛、無色愛, en: 'desire-realm, form-realm, formless-realm craving' }
+      - { zh: 欲取、見取、我取, en: 'three clingings' }
+      - { zh: 貪、瞋、癡, en: 'greed, hatred, delusion' }
+      - { zh: 苦受、樂受、捨受, en: three feelings }
+    answer: 0
+    explain_zh: 「謂三愛——欲愛、色愛、無色愛。」
+    explain_en: '"The three cravings: for desire, for form, for the formless."'
+  - type: tf
+    q_zh: 取是愛的進一步增長。
+    q_en: Clinging is craving grown stronger.
+    answer: true
+    explain_zh: 愛增長而四處追求、執取，即是取。
+    explain_en: Craving intensified into pursuit and grasping is clinging.

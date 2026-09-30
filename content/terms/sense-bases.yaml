@@ -1,0 +1,500 @@
+# 十二處、十八界：根、境
+
+- id: ayatana
+  skt: āyatana
+  deva: आयतन
+  pali: āyatana
+  zh: 處
+  zhAlt: [ 入, 入處, 十二處, 十二入 ]
+  en: sense base
+  enAlt: [ sense field, sense sphere, base, field, entrance, sense-base, sphere ]
+  root: 'ā-√yat「安住之處、進入之門」 · ā-√yat "to settle in": abode, entrance'
+  short_zh: 「諸識生長門」：六根與六境合為十二處，是識生起的門戶。舊譯「入」。
+  short_en: '"The gateway where consciousness grows": the six faculties and six objects form the twelve bases through which consciousness arises. Old translation 入.'
+  detail_zh: |
+    《大乘五蘊論》：「以何義故名為處耶？諸識生長門義，是處義。」十二處是眼、耳、鼻、舌、身、意六內處（六根）與色、聲、香、味、觸、法六外處（六境）。識依根緣境而生，根與境就是識生長的「門」。舊譯「入」「入處」即取門戶之義。
+
+    **一切法**：《雜阿含經》第319經，有婆羅門問佛「一切」是什麼，佛答：「一切者，謂十二入處……是名一切。」除此之外說有別的「一切」，只是言說而已。
+
+    **意處與法處**：五蘊論說「意處即是識蘊」；「法處謂受想行蘊、無表色等及與無為」——所以十二處涵蓋有為與無為的一切法，比五蘊（只攝有為）更廣。
+  detail_en: |
+    Pañcaskandhaka: "In what sense is it called a base? In the sense of a gateway where consciousnesses grow." The twelve bases are the six internal (faculties: eye, ear, nose, tongue, body, mind) and six external (objects: visible form, sound, smell, taste, tangible, mental objects). Consciousness arises dependent on faculty and object — these are its "gates". The old rendering 入 "entrance" keeps this sense.
+
+    **"The All"**: in Saṃyuktāgama 319 a brahmin asks what "all" is; the Buddha answers: "All is the twelve bases … this is called all." To speak of any other "all" is mere words.
+
+    **Mind base and dharma base**: the Pañcaskandhaka says "the mind base is the consciousness aggregate" and "the dharma base is feeling, perception, formations, unmanifest form, etc., and the unconditioned" — so the twelve bases cover all dharmas, conditioned and unconditioned, wider than the aggregates (which cover only the conditioned).
+  quotes:
+    - text: 以何義故名為處耶？』答：『諸識生長門義，是處義。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0850a24
+      refEnd: T31n1612_p0850a25
+      note_en: In what sense is it called a base? In the sense of a gateway where consciousnesses grow — that is the meaning of base.
+    - text: 一切者，謂十二入處，眼色、耳聲、鼻香、舌味、身觸、意法，是名一切。
+      source: 《雜阿含經》卷13（第319經）
+      source_en: Saṃyuktāgama, fasc. 13, sūtra 319
+      ref: T02n0099_p0091a27
+      refEnd: T02n0099_p0091a29
+      note_en: '"All" means the twelve bases: eye and forms, ear and sounds, nose and smells, tongue and tastes, body and tangibles, mind and mental objects — this is called all.'
+  related: [ dhatu, skandha, indriya, visaya ]
+  compare: [ skandha-ayatana-dhatu ]
+
+- id: dhatu
+  skt: dhātu
+  deva: धातु
+  pali: dhātu
+  zh: 界
+  zhAlt: [ 十八界 ]
+  en: element
+  enAlt: [ elements, component, constituent, realm, element of cognition ]
+  root: '√dhā「放置、持」 · √dhā "to place, hold": element, stratum'
+  short_zh: 「任持自相」之義：六根、六境、六識合為十八界，各持自己的特性，互不混雜。
+  short_en: '"Holding its own characteristic": the six faculties, six objects and six consciousnesses make the eighteen elements, each keeping its own nature.'
+  detail_zh: |
+    十八界＝六根（眼界至意界）＋六境（色界至法界）＋六識（眼識界至意識界）。《大乘五蘊論》：「以能任持無作用性自相義故，說名為界。」每一界各自保持其特性，說明認識過程中沒有一個作用的「我」。說一切有部則以「種族」義解釋界（《俱舍論》：「聚、生門、種族，是蘊、處、界義」）。
+
+    **意界與意識界**：兩者看似重複，五蘊論說明：「言意界者，謂即彼無間滅等，為欲顯示第六意識，及廣建立十八界故」——前一剎那剛滅的識作為後一識的所依，稱為意界。
+
+    佛為何說蘊、處、界三科？五蘊論說：「為欲對治三種我執」——一性我執、受者我執、作者我執（見比較卡）。
+  detail_en: |
+    The eighteen elements = six faculties (eye element … mind element) + six objects (form element … dharma element) + six consciousnesses (eye-consciousness element … mind-consciousness element). Pañcaskandhaka: "It is called an element because it holds its own characteristic, being without agency." Each element keeps its nature, showing that no acting "self" is found in cognition. The Sarvāstivāda glosses dhātu as "lineage" (Abhidharmakośa: "heap, gateway of arising, lineage — the meanings of aggregate, base, element").
+
+    **Mind element vs mind-consciousness element**: they look redundant; the Pañcaskandhaka explains that "the mind element is [consciousness] that has just ceased, [named] to show the sixth consciousness and to establish the eighteen elements fully" — the immediately preceding moment of consciousness serving as support for the next.
+
+    Why three schemes — aggregates, bases, elements? "To counteract three kinds of self-grasping": grasping a unitary self, an experiencer, and an agent (see the comparison card).
+  quotes:
+    - text: 復有十八界，謂眼界、色界、眼識界，耳界、聲界、耳識界，鼻界、香界、鼻識界，舌界、味界、舌識界，身界、觸界、身識界，意界、法界、意識界。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0850a26
+      refEnd: T31n1612_p0850a28
+      note_en: There are also the eighteen elements — the eye element, form element, eye-consciousness element; ear, sound, ear-consciousness; nose, smell, nose-consciousness; tongue, taste, tongue-consciousness; body, tangible, body-consciousness; mind, mental-object, mind-consciousness elements.
+    - text: 以何義故說名為界。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0850b06
+      note_en: In what sense is it called an element? It is called an element because it holds its own characteristic, being without agency.
+  related: [ ayatana, skandha, mano-vijnana ]
+  compare: [ skandha-ayatana-dhatu ]
+
+- id: indriya
+  skt: indriya
+  deva: इन्द्रिय
+  pali: indriya
+  zh: 根
+  zhAlt: [ 根門, 五根, 六根 ]
+  en: faculty
+  enAlt: [ sense faculty, sense organ, faculties, controlling faculty, sense power ]
+  root: 'indra「帝釋、主宰」→「主宰力」 · from Indra: "belonging to the ruler", controlling power'
+  short_zh: 具有「增上」主宰力的法；眼等六根對所生之識有主導作用。
+  short_en: A faculty with governing power; the six sense faculties govern the consciousnesses they give rise to.
+  detail_zh: |
+    indriya 源自天神 Indra（帝釋），意為「主宰者的力量」。《俱舍論》：「最勝自在光顯名根，由此總成根增上義。」根是對某事有特殊主導力（增上）的法。
+
+    **眼等五根**不是肉眼可見的眼球等器官（稱「扶塵根」），而是「清淨色」（淨色根）——微細的感官能力。《大乘五蘊論》：「云何眼根？謂色為境清淨色。」
+
+    根的範圍不只六根。《俱舍論》列二十二根：眼等六根、男女二根、命根、苦樂憂喜捨五受根、信等五根（信、精進、念、定、慧）、三無漏根。五根五力中的「根」也是這個意思。
+  detail_en: |
+    Indriya derives from the god Indra: "power of a ruler". Abhidharmakośa: "Being foremost, sovereign and manifest is called faculty; hence the general meaning of faculty is dominance." A faculty is a dharma exercising special governing power over something.
+
+    **The five sense faculties** are not the visible eyeball etc. (the "supporting" organs) but "clear matter" — subtle sensory capacities. Pañcaskandhaka: "What is the eye faculty? Clear matter whose object is visible form."
+
+    Faculties are more than the six. The Abhidharmakośa lists twenty-two: the six sense faculties, male and female, life, the five feeling faculties (pain, pleasure, displeasure, joy, equanimity), the five faculties of faith, effort, mindfulness, concentration and wisdom, and three pure faculties. The "five faculties and powers" of practice use the same word.
+  quotes:
+    - text: 最勝自在光顯名根，由此總成根增上義。
+      source: 《阿毘達磨俱舍論》卷3
+      source_en: Abhidharmakośabhāṣya, fasc. 3
+      ref: T29n1558_p0013b12
+      refEnd: T29n1558_p0013b13
+      note_en: Being foremost, sovereign and manifest is called faculty; hence altogether the meaning of faculty is dominance.
+    - text: 云何眼根？謂色為境清淨色。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0848b13
+      refEnd: T31n1612_p0848b14
+      note_en: What is the eye faculty? Clear matter whose object is visible form.
+  related: [ visaya, ayatana, caksus ]
+  compare: [ skandha-ayatana-dhatu ]
+
+- id: visaya
+  skt: viṣaya
+  deva: विषय
+  pali: visaya
+  zh: 境
+  zhAlt: [ 境界, 塵, 六境, 六塵 ]
+  en: object
+  enAlt: [ sense object, sense-object, domain, objective field, sphere of activity, objects ]
+  root: vi-√si「範圍、領域」 · "range, domain, sphere"
+  short_zh: 根所對、識所緣的對象：色、聲、香、味、觸、法六境。舊譯「塵」。
+  short_en: The object a faculty engages and a consciousness cognizes — the six objects from visible form to mental objects. Old translation 塵 "dust".
+  detail_zh: |
+    viṣaya 原義是「範圍、領域」——根所能作用的範圍。六境（色、聲、香、味、觸、法）與六根相對，是識生起的外緣。《大乘五蘊論》逐一說明：色是「眼境界」，聲是「耳境界」……
+
+    **「塵」與「境」**：舊譯常作「六塵」，取其能染污心識、如塵垢之義；新譯作「六境」，較中性。
+
+    **所緣與境**：「境」側重對象對根而言的範圍；「所緣」（ālambana）側重心識攀緣的對象。在唯識學中，識所緣的「境」其實是識自身所變現的相分——「唯識無境」的「境」就是指離識獨立的外境。
+  detail_en: |
+    Viṣaya originally means "range, domain" — the scope in which a faculty operates. The six objects (visible form, sound, smell, taste, tangible, mental objects) face the six faculties and are the external condition for consciousness. The Pañcaskandhaka explains each: form is "the domain of the eye", sound "the domain of the ear" …
+
+    **塵 vs 境**: older translations say 六塵 "six dusts", since objects soil the mind like dust; newer ones 六境 "six objects", more neutral.
+
+    **Object and cognitive object**: viṣaya stresses the range relative to the faculty; ālambana stresses what the mind takes hold of. In Yogācāra the cognized "object" is actually the image-aspect manifested by consciousness itself — the 境 of "consciousness only, no [external] object" means an object existing independently of consciousness.
+  quotes:
+    - text: 云何為色？謂眼境界，顯色、形色及表色等。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0848b16
+      refEnd: T31n1612_p0848b17
+      note_en: What is visible form? The domain of the eye — colour, shape, bodily expression and so on.
+  related: [ indriya, ayatana, rupayatana ]
+  compare: [ skandha-ayatana-dhatu ]
+
+# ---------------- 六根 ----------------
+
+- id: caksus
+  skt: cakṣus
+  deva: चक्षुस्
+  pali: cakkhu
+  zh: 眼
+  zhAlt: [ 眼根, 眼處, 眼界 ]
+  en: eye
+  enAlt: [ eye faculty, visual faculty, eye sense, eye organ ]
+  root: √cakṣ「看」 · √cakṣ "to see"
+  short_zh: 眼根：以色為境的清淨色；眼識的所依。
+  short_en: The eye faculty — clear matter whose object is visible form; the support of eye-consciousness.
+  detail_zh: |
+    《大乘五蘊論》：「云何眼根？謂色為境清淨色。」眼根不是眼球，而是眼球中能見的微細淨色。眼根、色境、眼識三者和合而有觸——眼根是眼識的「所依」，也決定眼識的名稱（依根得名，故稱「眼識」而非「色識」）。
+
+    在十二處為眼處，在十八界為眼界，在五蘊屬色蘊。
+  detail_en: |
+    Pañcaskandhaka: "What is the eye faculty? Clear matter whose object is visible form." It is not the eyeball but the subtle clear matter within it that sees. Eye faculty, visible object and eye-consciousness meet in contact; the faculty is the support of eye-consciousness and gives it its name ("eye-consciousness", not "form-consciousness", since consciousness is named after its faculty).
+
+    It is the eye base among the twelve, the eye element among the eighteen, and belongs to the form aggregate.
+  quotes:
+    - text: 云何眼根？謂色為境清淨色。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0848b13
+      refEnd: T31n1612_p0848b14
+      note_en: What is the eye faculty? Clear matter whose object is visible form.
+  related: [ rupayatana, caksur-vijnana, indriya ]
+
+- id: srotra
+  skt: śrotra
+  deva: श्रोत्र
+  pali: sota
+  zh: 耳
+  zhAlt: [ 耳根, 耳處, 耳界 ]
+  en: ear
+  enAlt: [ ear faculty, auditory faculty, ear sense, ear organ ]
+  root: √śru「聽」 · √śru "to hear"
+  short_zh: 耳根：以聲為境的清淨色；耳識的所依。
+  short_en: The ear faculty — clear matter whose object is sound; the support of ear-consciousness.
+  detail_zh: |
+    《大乘五蘊論》：「云何耳根？謂聲為境清淨色。」與眼根同樣是微細的淨色根。耳根、聲、耳識和合而有聞。
+  detail_en: |
+    Pañcaskandhaka: "What is the ear faculty? Clear matter whose object is sound." Like the eye, a subtle faculty of clear matter; ear faculty, sound and ear-consciousness together make hearing.
+  quotes:
+    - text: 云何耳根？謂聲為境清淨色。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0848b14
+      note_en: What is the ear faculty? Clear matter whose object is sound.
+  related: [ sabda, srotra-vijnana ]
+
+- id: ghrana
+  skt: ghrāṇa
+  deva: घ्राण
+  pali: ghāna
+  zh: 鼻
+  zhAlt: [ 鼻根, 鼻處, 鼻界 ]
+  en: nose
+  enAlt: [ nose faculty, olfactory faculty, nose sense, nose organ ]
+  root: √ghrā「嗅」 · √ghrā "to smell"
+  short_zh: 鼻根：以香為境的清淨色；鼻識的所依。
+  short_en: The nose faculty — clear matter whose object is smell; the support of nose-consciousness.
+  detail_zh: |
+    《大乘五蘊論》：「云何鼻根？謂香為境清淨色。」
+
+    值得注意：色界天人沒有段食，所以不起鼻識、舌識——五蘊論說十八界中色界繫者十四，「除香、味，鼻、舌識」。
+  detail_en: |
+    Pañcaskandhaka: "What is the nose faculty? Clear matter whose object is smell."
+
+    Note: beings of the form realm take no coarse food, so nose- and tongue-consciousness do not arise there — the Pañcaskandhaka says fourteen of the eighteen elements belong to the form realm, "excluding smell, taste, and nose- and tongue-consciousness".
+  quotes:
+    - text: 云何鼻根？謂香為境清淨色。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0848b14
+      refEnd: T31n1612_p0848b15
+      note_en: What is the nose faculty? Clear matter whose object is smell.
+  related: [ gandha, ghrana-vijnana ]
+
+- id: jihva
+  skt: jihvā
+  deva: जिह्वा
+  pali: jivhā
+  zh: 舌
+  zhAlt: [ 舌根, 舌處, 舌界 ]
+  en: tongue
+  enAlt: [ tongue faculty, gustatory faculty, taste faculty, tongue organ ]
+  root: 「舌」 · "tongue"
+  short_zh: 舌根：以味為境的清淨色；舌識的所依。
+  short_en: The tongue faculty — clear matter whose object is taste; the support of tongue-consciousness.
+  detail_zh: |
+    《大乘五蘊論》：「云何舌根？謂味為境清淨色。」五蘊論列六種味：甘、酢（酸）、醎（鹹）、辛、苦、淡。
+  detail_en: |
+    Pañcaskandhaka: "What is the tongue faculty? Clear matter whose object is taste." It lists six tastes: sweet, sour, salty, pungent, bitter and bland.
+  quotes:
+    - text: 云何舌根？謂味為境清淨色。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0848b15
+      refEnd: T31n1612_p0848b16
+      note_en: What is the tongue faculty? Clear matter whose object is taste.
+  related: [ rasa, jihva-vijnana ]
+
+- id: kaya
+  skt: kāya
+  deva: काय
+  pali: kāya
+  zh: 身
+  zhAlt: [ 身根, 身處, 身界 ]
+  en: body
+  enAlt: [ body faculty, tactile faculty, body sense, touch faculty ]
+  root: √ci「積聚」→「身體」 · "body, accumulation"
+  short_zh: 身根：以所觸為境的清淨色，遍布全身；身識的所依。
+  short_en: The body faculty — clear matter whose object is the tangible, spread through the whole body; the support of body-consciousness.
+  detail_zh: |
+    《大乘五蘊論》：「云何身根？謂所觸為境清淨色。」身根遍於全身，感知冷暖、滑澀、輕重等觸。
+
+    **「身」字多義**：身根（kāya-indriya）是感官；身業的「身」指身體行為；「身識」是依身根的識；經中「身證」的「身」又有「親身」之義。讀經時要看上下文。
+  detail_en: |
+    Pañcaskandhaka: "What is the body faculty? Clear matter whose object is the tangible." It pervades the whole body, sensing cold and warmth, smoothness and roughness, heaviness and lightness.
+
+    **Many senses of 身/kāya**: the body faculty is a sense faculty; in "bodily karma" it means physical action; body-consciousness is consciousness based on the body faculty; in "realizing with the body" it means "in person". Read the context.
+  quotes:
+    - text: 云何身根？謂所觸為境清淨色。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0848b16
+      note_en: What is the body faculty? Clear matter whose object is the tangible.
+  related: [ sprastavya, kaya-vijnana ]
+
+- id: manas
+  skt: manas
+  deva: मनस्
+  pali: mano
+  zh: 意
+  zhAlt: [ 意根, 意處, 意界 ]
+  en: mental faculty
+  enAlt: [ mind, mind faculty, intellect, mind base, mind element, mentation ]
+  root: √man「思量」 · √man "to think"
+  short_zh: 意根：第六意識的所依。有部以前一剎那剛滅的識為意；唯識以第七末那識為意根。
+  short_en: The mental faculty — the support of the sixth, mental consciousness. For the Sarvāstivāda it is the consciousness just ceased; for Yogācāra it is the seventh consciousness, manas.
+  detail_zh: |
+    意根是第六意識的所依，但它不是色法，所以與眼等五根不同。各派對「意根是什麼」看法不同：
+
+    - **說一切有部**：《俱舍論》：「由即六識身，無間滅為意。」任何一識在剛滅去的下一剎那，成為後一識的所依，就叫意（意界）。
+    - **唯識**：意識需要一個恆常的「俱有依」，這就是第七末那識；所以唯識所說的意根即末那識。
+
+    **名稱陷阱**：「意」（manas）、「意識」（mano-vijñāna）、「末那識」（kliṣṭa-manas，音譯「末那」即 manas）三者極易混淆——詳見比較卡。
+  detail_en: |
+    The mental faculty is the support of the sixth consciousness, but it is not matter, unlike the five sense faculties. Schools differ on what it is:
+
+    - **Sarvāstivāda**: Abhidharmakośa: "Any of the six consciousnesses, having just ceased, is manas." Whatever consciousness has just passed becomes the support of the next — the mind element.
+    - **Yogācāra**: the mental consciousness needs a constant simultaneous support, which is the seventh consciousness; so the Yogācāra mental faculty is manas.
+
+    **Naming trap**: manas (意), mano-vijñāna (意識) and the seventh consciousness (末那識, 末那 being a transliteration of manas) are easily confused — see the comparison card.
+  quotes:
+    - text: 由即六識身，無間滅為意。
+      source: 《阿毘達磨俱舍論》卷1
+      source_en: Abhidharmakośabhāṣya, fasc. 1
+      ref: T29n1558_p0004b03
+      note_en: Any of the six bodies of consciousness, having just ceased, is manas.
+    - text: 言意界者，謂即彼無間滅等，為欲顯示第六意識，及廣建立十八界故。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0850b01
+      refEnd: T31n1612_p0850b03
+      note_en: The mind element is [consciousness] that has just ceased, etc.; [it is named] in order to show the sixth, mental consciousness and to establish the eighteen elements fully.
+  related: [ mano-vijnana, klista-manas, citta ]
+  compare: [ manas-three ]
+
+# ---------------- 六境 ----------------
+
+- id: rupayatana
+  skt: rūpāyatana
+  deva: रूपायतन
+  pali: rūpāyatana
+  zh: 色境
+  zhAlt: [ 色處, 色塵, 色界 ]
+  en: visible form
+  enAlt: [ visible object, visual object, visible forms, colour and shape, color and shape, sight object, form object ]
+  root: rūpa「色」＋ āyatana「處」 · rūpa "form" + āyatana "base"
+  short_zh: 眼所見的對象：顯色（青黃赤白等）、形色（長短方圓等）與表色。不同於作為五蘊之一的「色」。
+  short_en: The object of the eye — colour, shape and bodily expression. Not the same as rūpa the aggregate.
+  detail_zh: |
+    《大乘五蘊論》：「云何為色？謂眼境界，顯色、形色及表色等。」顯色是青、黃、赤、白及光影明暗；形色是長、短、方、圓等；表色是身體動作所表現的形態。
+
+    **最重要的分辨**：同一個「色」字，作為**色蘊**是一切物質（包括五根、五境、無表色）；作為**色處／色境**只是眼所見的對象。所以「色處」只是「色蘊」中的一小部分。詳見比較卡「色蘊與色處」。
+
+    注意十八界的「色界」與三界的「色界」（rūpadhātu，色界天）也是完全不同的東西。
+  detail_en: |
+    Pañcaskandhaka: "What is visible form? The domain of the eye — colour, shape, bodily expression and so on." Colour is blue, yellow, red, white, light and shade; shape is long, short, square, round; expression is the configuration shown by bodily action.
+
+    **The key distinction**: the same word rūpa as the **form aggregate** means all matter (the five faculties, five objects, unmanifest form); as the **visible-form base** it means only what the eye sees. The visible-form base is a small part of the form aggregate. See the comparison card.
+
+    Note also that the "form element" (色界) of the eighteen elements has nothing to do with the "form realm" (rūpadhātu) of the three realms.
+  quotes:
+    - text: 云何為色？謂眼境界，顯色、形色及表色等。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0848b16
+      refEnd: T31n1612_p0848b17
+      note_en: What is visible form? The domain of the eye — colour, shape, bodily expression and so on.
+  related: [ rupa, caksus, visaya ]
+  compare: [ rupa-skandha-ayatana ]
+
+- id: sabda
+  skt: śabda
+  deva: शब्द
+  pali: sadda
+  zh: 聲
+  zhAlt: [ 聲境, 聲處, 聲塵 ]
+  en: sound
+  enAlt: [ sounds, sound object, auditory object ]
+  root: 「聲音、語詞」 · "sound, word"
+  short_zh: 耳所聞的對象。依發聲的四大是否為有情所執受，分三類。
+  short_en: The object of the ear, classed by whether the elements producing it are appropriated by a sentient being.
+  detail_zh: |
+    《大乘五蘊論》：「云何為聲？謂耳境界，執受大種因聲，非執受大種因聲，俱大種因聲。」執受大種因聲是有情身體發出的聲音（如說話），非執受大種因聲是無情物的聲音（如風、水），俱大種因聲是兩者共同產生的（如擊鼓）。
+
+    śabda 也有「語詞」之義——印度哲學中聲常住論（聲是永恆的）是佛教所批判的觀點之一。
+  detail_en: |
+    Pañcaskandhaka: "What is sound? The domain of the ear — sound caused by appropriated elements, by unappropriated elements, and by both." Appropriated: produced by a living body (speech); unappropriated: by insentient things (wind, water); both: e.g. a hand striking a drum.
+
+    Śabda also means "word"; the Indian doctrine that sound (the Vedic word) is eternal is one of the views Buddhism criticizes.
+  quotes:
+    - text: 云何為聲？謂耳境界，執受大種因聲，非執受大種因聲，俱大種因聲。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0848b17
+      refEnd: T31n1612_p0848b19
+      note_en: What is sound? The domain of the ear — sound caused by appropriated great elements, sound caused by unappropriated great elements, and sound caused by both.
+  related: [ srotra, srotra-vijnana ]
+
+- id: gandha
+  skt: gandha
+  deva: गन्ध
+  pali: gandha
+  zh: 香
+  zhAlt: [ 香境, 香處, 香塵 ]
+  en: smell
+  enAlt: [ odour, odor, scent, smells, olfactory object ]
+  root: 「氣味」 · "smell, fragrance"
+  short_zh: 鼻所嗅的對象：好香、惡香及其餘之香。
+  short_en: The object of the nose — pleasant, unpleasant and other smells.
+  detail_zh: |
+    《大乘五蘊論》：「云何為香？謂鼻境界，好香、惡香、及所餘香。」漢譯的「香」泛指一切氣味，不單指香氣，臭味也是「香境」。
+  detail_en: |
+    Pañcaskandhaka: "What is smell? The domain of the nose — pleasant smells, unpleasant smells and other smells." Chinese 香 here covers all odours, not just fragrance; a stench is also a "香境".
+  quotes:
+    - text: 云何為香？謂鼻境界，好香、惡香、及所餘香。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0848b19
+      refEnd: T31n1612_p0848b20
+      note_en: What is smell? The domain of the nose — pleasant, unpleasant and other smells.
+  related: [ ghrana, ghrana-vijnana ]
+
+- id: rasa
+  skt: rasa
+  deva: रस
+  pali: rasa
+  zh: 味
+  zhAlt: [ 味境, 味處, 味塵 ]
+  en: taste
+  enAlt: [ flavour, flavor, tastes, gustatory object ]
+  root: 「汁液、滋味」 · "juice, flavour"
+  short_zh: 舌所嘗的對象：甘、酢、醎、辛、苦、淡六味。
+  short_en: The object of the tongue — sweet, sour, salty, pungent, bitter and bland.
+  detail_zh: |
+    《大乘五蘊論》：「云何為味？謂舌境界，甘味、酢味、醎味、辛味、苦味、淡味。」
+
+    rasa 在印度美學中也指「情味」（藝術感受）；在佛典中也常比喻法的滋味——「法味」「解脫味」，如南傳《增支部》（AN 8.19）說：大海唯一鹹味，此法與律唯一解脫味。
+  detail_en: |
+    Pañcaskandhaka: "What is taste? The domain of the tongue — sweet, sour, salty, pungent, bitter and bland."
+
+    Rasa is also "aesthetic flavour" in Indian poetics, and in the sūtras a metaphor for the taste of the Dharma — as the ocean has one taste, salt, so this Dharma and discipline has one taste, liberation (Aṅguttara Nikāya 8.19).
+  quotes:
+    - text: 云何為味？謂舌境界，甘味、酢味、醎味、辛味、苦味、淡味。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0848b20
+      refEnd: T31n1612_p0848b21
+      note_en: What is taste? The domain of the tongue — sweet, sour, salty, pungent, bitter and bland tastes.
+  related: [ jihva, jihva-vijnana ]
+
+- id: sprastavya
+  skt: spraṣṭavya
+  deva: स्प्रष्टव्य
+  pali: phoṭṭhabba
+  zh: 觸境
+  zhAlt: [ 觸, 所觸, 觸處, 觸塵 ]
+  en: tangible
+  enAlt: [ tangible object, tangibles, the tangible, tactile object, touch object ]
+  root: √spṛś 的未來被動分詞「應被觸的」 · gerundive of √spṛś, "to be touched"
+  short_zh: 身所觸的對象：四大種及滑、澀、重、輕、冷、飢、渴等。注意與心所「觸」（sparśa）不同。
+  short_en: The object of the body — the four elements and smoothness, roughness, heaviness, lightness, cold, hunger, thirst. Not the mental factor contact (sparśa).
+  detail_zh: |
+    《大乘五蘊論》：「云何為所觸一分？謂身境界，除四大種餘所造觸，滑性、澁性、重性、輕性、冷、飢、渴等。」又說「言觸處者，謂四大種及前所說所觸一分」——觸處包括能造的四大本身（堅、濕、煖、動）與所造觸。
+
+    **易混淆**：漢譯都作「觸」，但**觸境**（spraṣṭavya，「所觸」）是色法，是身根的對象；**觸心所**（sparśa）是遍行心所，是根境識三和合。兩者一屬色蘊，一屬行蘊（見比較卡）。
+  detail_en: |
+    Pañcaskandhaka: "What is part of the tangible? The domain of the body — derived tangibles other than the four elements: smoothness, roughness, heaviness, lightness, cold, hunger, thirst and so on." And: "the tangible base is the four elements and the part of the tangible just described" — it includes the elements themselves (solidity, cohesion, heat, motion) and derived tangibles.
+
+    **Easily confused**: Chinese uses 觸 for both, but the **tangible** (spraṣṭavya, "what is to be touched") is matter, the object of the body faculty; **contact** (sparśa) is an omnipresent mental factor, the meeting of faculty, object and consciousness. One is in the form aggregate, the other in formations (see the comparison card).
+  quotes:
+    - text: 云何為所觸一分？謂身境界，除四大種餘所造觸，滑性、澁性、重性、輕性、冷、飢、渴等。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0848b22
+      refEnd: T31n1612_p0848b23
+      note_en: 'What is part of the tangible? The domain of the body — derived tangibles other than the four great elements: smoothness, roughness, heaviness, lightness, cold, hunger, thirst and so on.'
+    - text: 言觸處者，謂四大種及前所說所觸一分。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0850a15
+      refEnd: T31n1612_p0850a16
+      note_en: The tangible base means the four great elements and the part of the tangible described before.
+  related: [ kaya, sparsa, kaya-vijnana ]
+  compare: [ sparsa-sprastavya ]
+
+- id: dharmayatana
+  skt: dharmāyatana
+  deva: धर्मायतन
+  pali: dhammāyatana
+  zh: 法處
+  zhAlt: [ 法境, 法界, 法塵, 法 ]
+  en: mental object
+  enAlt: [ mental objects, mind object, dharma base, dharma-base, dharmas, phenomena, mental-object base ]
+  root: dharma「法」＋ āyatana「處」 · dharma + āyatana "base"
+  short_zh: 意所緣的對象：受、想、行三蘊、無表色與無為法等，五根五境以外的一切法。
+  short_en: 'The object of the mind — feeling, perception, formations, unmanifest form, the unconditioned: every dharma outside the five faculties and five objects.'
+  detail_zh: |
+    《大乘五蘊論》：「言法處者，謂受想行蘊、無表色等及與無為。」法處是「剩餘」的一類：凡不屬於眼等五根、色等五境、意（識蘊）的一切法，都歸入法處——包括心所、心不相應行、無表色，以及虛空、擇滅、非擇滅、真如等無為法。
+
+    **「法」字的陷阱**：法處的「法」只是十二處之一；「一切法」的「法」卻是十二處全部。作為十八界之一的「法界」也不同於華嚴等所說的「法界」（dharmadhātu，真如法界）。
+  detail_en: |
+    Pañcaskandhaka: "The dharma base is the feeling, perception and formations aggregates, unmanifest form and so on, and the unconditioned." It is the "remainder" category: every dharma not among the five sense faculties, five objects or mind (the consciousness aggregate) — mental factors, non-associated formations, unmanifest form, and the unconditioned (space, the two cessations, suchness).
+
+    **The 法 trap**: the dharma of "dharma base" is one of twelve bases; the dharma of "all dharmas" is all twelve. And the "dharma element" among the eighteen is different from the Huayan "dharma-realm" (dharmadhātu, suchness).
+  quotes:
+    - text: 言法處者，謂受想行蘊無表色等及與無為。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0850a17
+      note_en: The dharma base means the feeling, perception and formations aggregates, unmanifest form, etc., and the unconditioned.
+  related: [ manas, mano-vijnana, nirvana ]
+  compare: [ skandha-ayatana-dhatu ]

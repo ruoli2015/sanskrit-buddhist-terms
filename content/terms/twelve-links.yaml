@@ -1,0 +1,264 @@
+# 十二因緣 (new links only; 無明、行、識、觸、受 live in other files and are listed in lists.yaml)
+
+- id: namarupa
+  skt: nāmarūpa
+  deva: नामरूप
+  pali: nāmarūpa
+  zh: 名色
+  zhAlt: [ 名色支 ]
+  en: name-and-form
+  enAlt: [ name and form, mentality-materiality, mentality and materiality, mind and body, psychophysicality, name & form ]
+  root: nāman「名」＋ rūpa「色」 · nāman "name" + rūpa "form"
+  short_zh: 十二因緣第四支。「名」是受、想、行、識四無色蘊，「色」是四大及所造色；即身心的最初組合。
+  short_en: The fourth link. "Name" is the four non-material aggregates, "form" the elements and derived matter — the first combination of mind and body.
+  detail_zh: |
+    《雜阿含經》第298經：「云何名？謂四無色陰——受陰、想陰、行陰、識陰。云何色？謂四大、四大所造色……此色及前所說名，是為名色。」所以名色就是**五蘊**的另一種說法，強調心（名）與物（色）的結合。
+
+    **分位緣起**：說一切有部把十二支解釋為一生中的不同階段。《俱舍論》：「識正結生蘊，六處前名色」——識支是投胎那一剎那的五蘊，此後到六根完備之前的胎中階段就是名色。
+
+    **識與名色相依**：《雜阿含經》第288經又以「三蘆立於空地，展轉相依，而得竪立」比喻識與名色互相依存——識依名色而住，名色依識而生長。
+  detail_en: |
+    Saṃyuktāgama 298: "What is name? The four non-material aggregates — feeling, perception, formations, consciousness. What is form? The four elements and derived form … This form together with the name just described is name-and-form." Name-and-form is thus the **five aggregates** seen as the union of mind (name) and matter (form).
+
+    **Phase interpretation**: the Sarvāstivāda reads the twelve links as stages of life. Abhidharmakośa: "consciousness is the aggregates at the moment of conception; name-and-form comes before the six bases" — the embryonic phase after conception until the sense faculties are complete.
+
+    **Mutual dependence**: Saṃyuktāgama 288 compares consciousness and name-and-form to "three reeds standing on open ground, leaning on one another, and so standing upright" — consciousness abides in name-and-form, name-and-form grows through consciousness.
+  quotes:
+    - text: 緣識名色者，云何名？謂四無色陰——受陰、想陰、行陰、識陰。云何色？謂四大、四大所造色，是名為色。此色及前所說名，是為名色。
+      source: 《雜阿含經》卷12（第298經）
+      source_en: Saṃyuktāgama, fasc. 12, sūtra 298
+      ref: T02n0099_p0085a28
+      refEnd: T02n0099_p0085b02
+      note_en: '"Consciousness conditions name-and-form" — what is name? The four non-material aggregates: feeling, perception, formations and consciousness. What is form? The four elements and form derived from them. This form and the name described before are called name-and-form.'
+    - text: 識正結生蘊，六處前名色
+      source: 《阿毘達磨俱舍論》卷9
+      source_en: Abhidharmakośabhāṣya, fasc. 9
+      ref: T29n1558_p0048b13
+      note_en: Consciousness is the aggregates at the very moment of conception; before the six bases [are formed] is name-and-form.
+    - text: 三蘆立於空地，展轉相依，而得竪立
+      source: 《雜阿含經》卷12（第288經）
+      source_en: Saṃyuktāgama, fasc. 12, sūtra 288
+      ref: T02n0099_p0081b05
+      refEnd: T02n0099_p0081b06
+      note_en: Like three reeds standing on open ground, leaning on one another, they are able to stand upright.
+  related: [ vijnana, sadayatana, skandha, rupa ]
+  compare: [ twelve-links-lifetimes ]
+
+- id: sadayatana
+  skt: ṣaḍāyatana
+  deva: षडायतन
+  pali: saḷāyatana
+  zh: 六入
+  zhAlt: [ 六處, 六入處, 六入支, 六根 ]
+  en: six sense bases
+  enAlt: [ six sense fields, six senses, six spheres, sixfold base, six internal bases, six sense-bases, six bases ]
+  root: ṣaṭ「六」＋ āyatana「處、入」 · ṣaṭ "six" + āyatana "base, entrance"
+  short_zh: 十二因緣第五支：眼、耳、鼻、舌、身、意六內入處，是觸的所依。
+  short_en: The fifth link — the six internal sense bases, eye to mind, the basis of contact.
+  detail_zh: |
+    《雜阿含經》第298經：「云何為六入處？謂六內入處——眼入處、耳入處、鼻入處、舌入處、身入處、意入處。」舊譯「六入」，新譯「六處」。在十二因緣中專指**內**六處（六根），不含外六境。
+
+    **分位緣起**：《俱舍論》：「從生眼等根，三和前六處」——胎中六根生起之後，到根、境、識三者能和合產生觸之前，這個階段叫六處。
+
+    六處是認識世界的「門」（āyatana 有「入口」之義），由此才有觸、受，進而生愛。
+  detail_en: |
+    Saṃyuktāgama 298: "What are the six sense bases? The six internal bases — eye, ear, nose, tongue, body and mind." Older translations say 六入 "six entrances", newer 六處. In the twelve links they are the **internal** six (the faculties), not the external objects.
+
+    **Phase interpretation**: Abhidharmakośa: "from the arising of the eye and other faculties until before the meeting of the three is the six bases" — after the faculties form in the womb, until faculty, object and consciousness can meet in contact.
+
+    The six bases are the "gates" to the world (āyatana also means "entrance"); through them come contact and feeling, and then craving.
+  quotes:
+    - text: 緣名色六入處者，云何為六入處？謂六內入處——眼入處、耳入處、鼻入處、舌入處、身入處、意入處。
+      source: 《雜阿含經》卷12（第298經）
+      source_en: Saṃyuktāgama, fasc. 12, sūtra 298
+      ref: T02n0099_p0085b02
+      refEnd: T02n0099_p0085b04
+      note_en: '"Name-and-form conditions the six sense bases" — what are the six sense bases? The six internal bases: the eye, ear, nose, tongue, body and mind bases.'
+    - text: 從生眼等根，三和前六處
+      source: 《阿毘達磨俱舍論》卷9
+      source_en: Abhidharmakośabhāṣya, fasc. 9
+      ref: T29n1558_p0048b14
+      note_en: From the arising of the eye and other faculties until before the meeting of the three is [the link of] the six bases.
+  related: [ namarupa, sparsa, ayatana ]
+  compare: [ twelve-links-lifetimes, skandha-ayatana-dhatu ]
+
+- id: trsna
+  skt: tṛṣṇā
+  deva: तृष्णा
+  pali: taṇhā
+  zh: 愛
+  zhAlt: [ 渴愛, 愛支 ]
+  en: craving
+  enAlt: [ thirst, desire, longing, lust, craving desire ]
+  root: √tṛṣ「口渴」 · √tṛṣ "to be thirsty"
+  short_zh: 十二因緣第八支：由受而生的渴求。分欲愛、色愛、無色愛；也是四諦中苦的集因。
+  short_en: The eighth link — thirst arising from feeling. Craving for the desire, form and formless realms; also the origin of suffering in the four truths.
+  detail_zh: |
+    tṛṣṇā 字面是「口渴」——像口渴的人求水一樣急切。《雜阿含經》第298經：「云何為愛？謂三愛——欲愛、色愛、無色愛。」南傳經典則常分為欲愛、有愛、無有愛（kāma-, bhava-, vibhava-taṇhā），這是四聖諦中「集諦」的內容。
+
+    **受緣愛**是十二因緣中最關鍵、也最可以用功的環節：受是過去業的果報，無法立即改變；但在受生起時不起愛，輪迴的鎖鏈就在這裡斷開。
+
+    **愛與貪**：愛是貪（rāga）在渴求上的表現。《俱舍論》以「貪資具婬愛」說明愛支：對欲樂資具與男女之愛的貪著。
+  detail_en: |
+    Tṛṣṇā literally means "thirst" — urgent like a parched man seeking water. Saṃyuktāgama 298: "What is craving? Three cravings — for the desire realm, the form realm and the formless realm." Pāli suttas often list craving for sense pleasures, for existence and for non-existence (kāma-, bhava-, vibhava-taṇhā), the content of the second noble truth.
+
+    **"Feeling conditions craving"** is the most crucial — and most workable — link: feeling is the result of past karma and cannot be changed at once; but if craving does not arise when feeling arises, the chain of saṃsāra breaks right here.
+
+    **Craving and greed**: craving is greed (rāga) in the mode of thirst. The Abhidharmakośa explains the link as "greed for the means of pleasure and sexual love".
+  quotes:
+    - text: 緣受愛者，彼云何為愛？謂三愛——欲愛、色愛、無色愛。
+      source: 《雜阿含經》卷12（第298經）
+      source_en: Saṃyuktāgama, fasc. 12, sūtra 298
+      ref: T02n0099_p0085b07
+      refEnd: T02n0099_p0085b08
+      note_en: '"Feeling conditions craving" — what is craving? The three cravings: craving for desire, for form, and for the formless.'
+    - text: 在婬愛前受，貪資具婬愛
+      source: 《阿毘達磨俱舍論》卷9
+      source_en: Abhidharmakośabhāṣya, fasc. 9
+      ref: T29n1558_p0048b16
+      note_en: Before sexual love is [the link of] feeling; greed for the means of pleasure and sexual love is craving.
+  related: [ vedana, upadana, raga ]
+  compare: [ trsna-upadana, chanda-raga ]
+
+- id: upadana
+  skt: upādāna
+  deva: उपादान
+  pali: upādāna
+  zh: 取
+  zhAlt: [ 取支, 執取 ]
+  en: clinging
+  enAlt: [ grasping, appropriation, holding, attachment, taking up ]
+  root: upa-ā-√dā「拿取、執持」 · upa-ā-√dā "to take up, seize"
+  short_zh: 十二因緣第九支：愛增強而成的執取、四處追求。分欲取、見取、戒禁取、我語取。
+  short_en: The ninth link — craving intensified into grasping and pursuit. Four kinds — sense pleasures, views, rules and rituals, self-doctrine.
+  detail_zh: |
+    upādāna 字面是「拿起來、抓住」，也有「燃料」的意思——取是輪迴之火的燃料。《雜阿含經》第298經：「云何為取？四取——欲取、見取、戒取、我取。」
+
+    **愛與取的不同**：愛是渴求，取是抓取。《俱舍論》：「為得諸境界，遍馳求名取」——愛漸增長，於是為了得到對象而四處奔走追求。四取之中，後三者都涉及「見」：執著見解、執著錯誤的戒律禁制、執著「我」的學說。
+
+    **五取蘊**：五蘊被稱為「取蘊」（upādāna-skandha），因為它們由取而生，又能生取。
+  detail_en: |
+    Upādāna literally means "taking up, seizing", and also "fuel" — clinging is the fuel of saṃsāra's fire. Saṃyuktāgama 298: "What is clinging? Four clingings — to sense pleasures, to views, to rules and rituals, and to self."
+
+    **Craving vs clinging**: craving is thirst, clinging is grabbing. Abhidharmakośa: "running about everywhere seeking to obtain objects is clinging" — as craving grows, one pursues its objects everywhere. Three of the four clingings concern views: clinging to opinions, to wrong observances, to doctrines of a self.
+
+    **Aggregates of clinging**: the aggregates are called "aggregates of clinging" (upādāna-skandha) because they arise from clinging and give rise to it.
+  quotes:
+    - text: 緣愛取者，云何為取？四取——欲取、見取、戒取、我取。
+      source: 《雜阿含經》卷12（第298經）
+      source_en: Saṃyuktāgama, fasc. 12, sūtra 298
+      ref: T02n0099_p0085b08
+      refEnd: T02n0099_p0085b09
+      note_en: '"Craving conditions clinging" — what is clinging? The four clingings: to sense pleasures, to views, to rules, and to self.'
+    - text: 為得諸境界，遍馳求名取
+      source: 《阿毘達磨俱舍論》卷9
+      source_en: Abhidharmakośabhāṣya, fasc. 9
+      ref: T29n1558_p0048b17
+      note_en: Running about everywhere seeking to obtain objects is called clinging.
+  related: [ trsna, bhava, drsti ]
+  compare: [ trsna-upadana ]
+
+- id: bhava
+  skt: bhava
+  deva: भव
+  pali: bhava
+  zh: 有
+  zhAlt: [ 有支, 三有 ]
+  en: becoming
+  enAlt: [ existence, being, coming-to-be, coming to be ]
+  root: √bhū「成為、存在」 · √bhū "to become, be"
+  short_zh: 十二因緣第十支：能牽引來生的業力（業有），及其所招的三界存在（欲有、色有、無色有）。
+  short_en: The tenth link — the karma that projects the next life, and the existence in the three realms it brings.
+  detail_zh: |
+    《雜阿含經》第298經：「云何為有？三有——欲有、色有、無色有。」有即三界的存在。
+
+    **有是業**：《俱舍論》解釋有支：「有謂正能造，牽當有果業」——因愛、取而造作的、能牽引未來果報的業，就是有。所以有支雖名為「存在」，實際著重在**業**：今生的愛、取、有是未來生的因。
+
+    **行與有**：兩者都是業，差別在時間：行是過去世的業（招感今生），有是今生的業（招感來生）。
+  detail_en: |
+    Saṃyuktāgama 298: "What is becoming? Three becomings — in the desire, form and formless realms." Bhava is existence in the three realms.
+
+    **Becoming is karma**: the Abhidharmakośa explains the link: "becoming means actually creating the karma that projects future existence" — karma done out of craving and clinging that pulls toward future results. Though named "existence", the link stresses **karma**: this life's craving, clinging and becoming are the causes of the next.
+
+    **Formations vs becoming**: both are karma; they differ in time — formations are past-life karma (bringing this life), becoming is present-life karma (bringing the next).
+  quotes:
+    - text: 緣取有者，云何為有？三有——欲有、色有、無色有。
+      source: 《雜阿含經》卷12（第298經）
+      source_en: Saṃyuktāgama, fasc. 12, sūtra 298
+      ref: T02n0099_p0085b09
+      refEnd: T02n0099_p0085b10
+      note_en: '"Clinging conditions becoming" — what is becoming? The three becomings: in the desire, form and formless realms.'
+    - text: 有謂正能造，牽當有果業
+      source: 《阿毘達磨俱舍論》卷9
+      source_en: Abhidharmakośabhāṣya, fasc. 9
+      ref: T29n1558_p0048b18
+      note_en: Becoming means actually creating the karma that projects the future existence.
+  related: [ upadana, jati, samskara, karma ]
+  compare: [ twelve-links-lifetimes ]
+
+- id: jati
+  skt: jāti
+  deva: जाति
+  pali: jāti
+  zh: 生
+  zhAlt: [ 生支 ]
+  en: birth
+  enAlt: [ rebirth, being born ]
+  root: √jan「出生」 · √jan "to be born"
+  short_zh: 十二因緣第十一支：由有（業）而在來世出生，得五蘊、界、處、命根。
+  short_en: The eleventh link — birth in a future life brought about by becoming, acquiring aggregates, elements, bases and life-faculty.
+  detail_zh: |
+    《雜阿含經》第298經：「云何為生？若彼彼眾生，彼彼身種類一生，超越和合出生，得陰、得界、得入處、得命根，是名為生。」生就是新的五蘊、十八界、十二處與命根的出現。
+
+    **分位緣起**：《俱舍論》：「結當有名生」——在未來世結生（投胎）的那一刻就是生支。依三世兩重因果，生與老死是「未來二果」。
+
+    注意：十二因緣的「生」（jāti）與心不相應行中作為有為相的「生」（生相）不同，後者指一切有為法剎那的生起。
+  detail_en: |
+    Saṃyuktāgama 298: "What is birth? For this or that being, in this or that class, being born, emerging, coming together, appearing, acquiring the aggregates, the elements, the sense bases and the life-faculty — this is birth." Birth is the appearance of a new set of aggregates, elements, bases and life-faculty.
+
+    **Phase interpretation**: Abhidharmakośa: "conception in the future existence is birth". In the scheme of "two layers of cause and effect over three lives", birth and ageing-and-death are the two future effects.
+
+    Note: the birth (jāti) of the twelve links differs from "arising" as a characteristic of conditioned things among the non-associated formations, which refers to the momentary arising of every conditioned dharma.
+  quotes:
+    - text: 緣有生者，云何為生？若彼彼眾生，彼彼身種類一生，超越和合出生，得陰、得界、得入處、得命根，是名為生。
+      source: 《雜阿含經》卷12（第298經）
+      source_en: Saṃyuktāgama, fasc. 12, sūtra 298
+      ref: T02n0099_p0085b10
+      refEnd: T02n0099_p0085b13
+      note_en: '"Becoming conditions birth" — what is birth? For this or that being, in this or that class, being born, emerging and coming forth, acquiring the aggregates, the elements, the sense bases and the life-faculty — this is called birth.'
+    - text: 結當有名生，至當受老死。
+      source: 《阿毘達磨俱舍論》卷9
+      source_en: Abhidharmakośabhāṣya, fasc. 9
+      ref: T29n1558_p0048b19
+      note_en: Conception into the future existence is birth; [from then] until the time of feeling [in that life] is ageing-and-death.
+  related: [ bhava, jaramarana ]
+  compare: [ twelve-links-lifetimes ]
+
+- id: jaramarana
+  skt: jarāmaraṇa
+  deva: जरामरण
+  pali: jarāmaraṇa
+  zh: 老死
+  zhAlt: [ 老死支 ]
+  en: ageing-and-death
+  enAlt: [ ageing and death, aging and death, old age and death, decay and death, aging-and-death ]
+  root: jarā「衰老」＋ maraṇa「死」 · jarā "old age" + maraṇa "death"
+  short_zh: 十二因緣最後一支：有生必有老死，以及隨之而來的憂悲苦惱。
+  short_en: The last link — whatever is born must age and die, with the sorrow, lamentation, pain and despair that follow.
+  detail_zh: |
+    《雜阿含經》第298經生動地描寫老：「髮白露頂，皮緩根熟，支弱背僂……柱杖而行」；死則是「彼彼眾生，彼彼種類沒、遷移、身壞、壽盡、火離、命滅，捨陰時到，是名為死」。
+
+    老死是十二因緣的終點，也是佛陀出家的起點——四門遊觀所見的老、病、死，引發了尋求解脫之路。緣起的「流轉門」從無明推到老死；「還滅門」則從老死逆推回無明：要滅老死，就要滅生……直到滅無明。
+  detail_en: |
+    Saṃyuktāgama 298 describes ageing vividly: "hair white, head bald, skin slack, faculties ripe, limbs weak, back bent … walking with a stick"; and death: "the passing away of this or that being from this or that class, departing, break-up of the body, end of life-span, loss of heat, extinction of life, the time of abandoning the aggregates — this is death."
+
+    Ageing-and-death is the end of the twelve links — and the starting point of the Buddha's renunciation: seeing old age, sickness and death set him on the search for liberation. The "forward" order of dependent origination runs from ignorance to ageing-and-death; the "reverse" order traces back: to end ageing-and-death one must end birth … down to ending ignorance.
+  quotes:
+    - text: 云何為死？彼彼眾生，彼彼種類沒、遷移、身壞、壽盡、火離、命滅，捨陰時到，是名為死。此死及前說老，是名老死。
+      source: 《雜阿含經》卷12（第298經）
+      source_en: Saṃyuktāgama, fasc. 12, sūtra 298
+      ref: T02n0099_p0085b16
+      refEnd: T02n0099_p0085b19
+      note_en: What is death? The passing away of this or that being from this or that class, departure, break-up of the body, end of the life-span, loss of heat, extinction of life, the time of abandoning the aggregates — this is death. This death and the ageing described before are called ageing-and-death.
+  related: [ jati, anitya ]
+  compare: [ twelve-links-lifetimes ]

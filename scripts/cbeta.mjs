@@ -35,8 +35,9 @@ async function api(path, params) {
 
 const stripHtml = (s) => s.replace(/<[^>]+>/g, '');
 // Compare characters only: drop punctuation, whitespace, quote marks and ellipses.
+// Digits are dropped too: CBETA inserts verse numbers (e.g. "３") into some texts.
 export const normalize = (s) =>
-  s.replace(/[\s\p{P}\p{S}]/gu, '');
+  s.replace(/[\s\p{P}\p{S}\p{Nd}]/gu, '');
 
 // Linehead like T02n0099_p0009c08 -> the following line (same page/column not required).
 export async function fetchLines(start, end) {
@@ -152,7 +153,7 @@ function normIndex(raw) {
   const norm = [];
   const map = [];
   [...raw].forEach((ch, i) => {
-    if (!/[\s\p{P}\p{S}]/u.test(ch)) { norm.push(ch); map.push(i); }
+    if (!/[\s\p{P}\p{S}\p{Nd}]/u.test(ch)) { norm.push(ch); map.push(i); }
   });
   return { norm: norm.join(''), map };
 }
@@ -206,6 +207,7 @@ export async function grab({ work, start, end, juan, at }) {
       if (stop >= 0) { const rawEnd = map[s] + stop; eNorm = map.findLastIndex((x) => x < rawEnd); }
     }
     let rs = map[s];
+    if (rs > 0 && /[「『]/.test(raw[rs - 1])) rs--; // keep an opening quote mark right before the start
     let re = map[eNorm] + 1;
     // Keep closing punctuation right after the end (。；？！ and closing quotes).
     while (re < raw.length && /[。；？！」』]/.test(raw[re]) && re - map[eNorm] <= 3) re++;
@@ -214,7 +216,8 @@ export async function grab({ work, start, end, juan, at }) {
     const opens = (text.match(/「/g) || []).length, closes = (text.match(/」/g) || []).length;
     if (closes > opens) text = text.replace(/」(?=[^」]*$)/, '');
     if (opens > closes) text = text.replace(/「(?=[^「]*$)/, '');
-    text = text.replace(/「/g, '『').replace(/」/g, '』');
+    text = text.replace(/「/g, '『').replace(/」/g, '』').replace(/[０-９]+/g, '');
+    if (/^『[^『]*』$/.test(text)) text = text.slice(1, -1); // whole quote wrapped in one pair
     const ref = lineOf[rs];
     const refEnd = lineOf[re - 1];
     const juanNo = c.juan;

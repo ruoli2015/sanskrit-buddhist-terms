@@ -1,0 +1,94 @@
+id: skandha-ayatana-dhatu
+title_zh: 蘊、處、界——三科
+title_en: Aggregates, bases, elements — the three analyses
+terms: [ skandha, ayatana, dhatu ]
+summary_zh: 五蘊、十二處、十八界是分析一切法的三種方式，分別針對三種我執：一性我執、受者我執、作者我執。蘊只攝有為法，處與界攝一切法。
+summary_en: The five aggregates, twelve bases and eighteen elements are three ways of analysing all dharmas, each countering a kind of self-grasping — as a unity, as an experiencer, as an agent. Aggregates cover only the conditioned; bases and elements cover everything.
+table:
+  columns:
+    - { zh: 五蘊, en: Five aggregates }
+    - { zh: 十二處, en: Twelve bases }
+    - { zh: 十八界, en: Eighteen elements }
+  rows:
+    - label: { zh: 字義, en: Meaning }
+      cells:
+        - { zh: 積聚（聚）, en: Heap }
+        - { zh: 識生長門（門）, en: Gateway for consciousness }
+        - { zh: 任持自相（種族）, en: Holding its own nature (lineage) }
+    - label: { zh: 詳於, en: Detailed on }
+      cells:
+        - { zh: 心（開為受想行識）, en: 'Mind (feeling, perception, formations, consciousness)' }
+        - { zh: 色（開為十處）, en: Matter (ten bases) }
+        - { zh: 心與色皆詳, en: Both mind and matter }
+    - label: { zh: 範圍, en: Scope }
+      cells:
+        - { zh: 只攝有為法, en: Conditioned only }
+        - { zh: 一切法（無為在法處）, en: All dharmas (unconditioned in the dharma base) }
+        - { zh: 一切法（無為在法界）, en: All dharmas (unconditioned in the dharma element) }
+    - label: { zh: 所破我執, en: Self-grasping countered }
+      cells:
+        - { zh: 一性我執, en: Self as a unity }
+        - { zh: 受者我執, en: Self as experiencer }
+        - { zh: 作者我執, en: Self as agent }
+explanation_zh: |
+  **為何要三種說法**：《大乘五蘊論》：「為欲對治三種我執……謂一性我執、受者我執、作者我執。」把「我」拆成五堆，破「我是一個整體」；指出經驗只是根境相對，破「有個受用者」；指出認識只是根、境、識各持自性的組合，破「有個作者」。
+
+  **字義**：《俱舍論》頌：「聚、生門、種族，是蘊、處、界義。」
+
+  **互相攝**：《大乘五蘊論》：「色蘊即十處十界及法處法界（一分），識蘊即意處及七心界，餘三蘊及色蘊一分并諸無為即法處法界。」
+explanation_en: |
+  **Why three**: Pañcaskandhaka: "To counteract three kinds of self-grasping — grasping a unitary self, an experiencer and an agent." Breaking the self into five heaps undoes "I am one whole"; showing experience as faculty meeting object undoes "someone enjoys it"; showing cognition as faculty, object and consciousness each holding its own nature undoes "someone does it".
+
+  **Meanings**: Abhidharmakośa verse: "Heap, gateway of arising, lineage — these are the meanings of aggregate, base and element."
+
+  **Mapping**: Pañcaskandhaka: "The form aggregate is ten bases and ten elements plus part of the dharma base and element; the consciousness aggregate is the mind base and the seven mind elements; the other three aggregates, part of form and all the unconditioned are the dharma base and element."
+quotes:
+  - text: 為欲對治三種我執。如其次第三種我執者，謂一性我執、受者我執、作者我執。
+    source: 《大乘五蘊論》
+    source_en: Pañcaskandhaka
+    ref: T31n1612_p0850b08
+    refEnd: T31n1612_p0850b10
+    note_en: In order to counteract three kinds of self-grasping — namely, grasping at a unitary self, at an experiencer, and at an agent.
+  - text: 聚生門種族，是蘊處界義。
+    source: 《阿毘達磨俱舍論》卷1
+    source_en: Abhidharmakośabhāṣya, fasc. 1
+    ref: T29n1558_p0004c13
+    note_en: Heap, gateway of arising, lineage — these are the meanings of aggregate, base and element.
+questions:
+  - type: mcq
+    q_zh: 哪一種分類只攝有為法，不攝無為法？
+    q_en: Which analysis covers only conditioned dharmas?
+    options:
+      - { zh: 五蘊, en: the aggregates }
+      - { zh: 十二處, en: the bases }
+      - { zh: 十八界, en: the elements }
+    answer: 0
+    explain_zh: 無為法在法處、法界中，不在五蘊之內。
+    explain_en: The unconditioned is in the dharma base and element, not in the aggregates.
+  - type: mcq
+    q_zh: 依《大乘五蘊論》，十八界主要對治哪一種我執？
+    q_en: According to the Pañcaskandhaka, the eighteen elements chiefly counter which self-grasping?
+    options:
+      - { zh: 一性我執, en: self as a unity }
+      - { zh: 受者我執, en: self as experiencer }
+      - { zh: 作者我執, en: self as agent }
+    answer: 2
+    explain_zh: 「如其次第」：蘊—一性，處—受者，界—作者。
+    explain_en: 'In order: aggregates — unity; bases — experiencer; elements — agent.'
+  - type: mcq
+    q_zh: 「處」的字義是？
+    q_en: What does āyatana mean?
+    options:
+      - { zh: 積聚, en: heap }
+      - { zh: 諸識生長門, en: gateway where consciousness grows }
+      - { zh: 任持自相, en: holding its own nature }
+      - { zh: 造作, en: forming }
+    answer: 1
+    explain_zh: 「諸識生長門義，是處義。」
+    explain_en: '"The gateway where consciousnesses grow — that is the meaning of base."'
+  - type: tf
+    q_zh: 五蘊中的識蘊，在十八界中對應意界與六識界共七界。
+    q_en: The consciousness aggregate corresponds to seven elements — the mind element and the six consciousness elements.
+    answer: true
+    explain_zh: 「識蘊即意處及七心界。」
+    explain_en: '"The consciousness aggregate is the mind base and the seven mind elements."'

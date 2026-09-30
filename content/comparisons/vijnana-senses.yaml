@@ -1,0 +1,67 @@
+id: vijnana-senses
+title_zh: 「識」在不同體系中的意義
+title_en: Vijñāna in different schemes
+terms: [ vijnana, mano-vijnana, alaya-vijnana ]
+summary_zh: 識蘊（五蘊之一）、十二因緣的識支、十八界的六識界、唯識的八識——同一個「識」字，範圍與角色各不相同。
+summary_en: The consciousness aggregate, the third link, the six consciousness elements, the Yogācāra eight — one word with different scopes and roles.
+table:
+  columns:
+    - { zh: 識蘊, en: Aggregate }
+    - { zh: 識支, en: Third link }
+    - { zh: 六識界, en: Six elements }
+    - { zh: 八識, en: Eight consciousnesses }
+  rows:
+    - label: { zh: 體系, en: Scheme }
+      cells:
+        - { zh: 五蘊, en: Aggregates }
+        - { zh: 十二因緣, en: Twelve links }
+        - { zh: 十八界, en: Eighteen elements }
+        - { zh: 唯識, en: Yogācāra }
+    - label: { zh: 內容, en: Content }
+      cells:
+        - { zh: 一切了別（唯識攝八識）, en: All discerning (8 in Yogācāra) }
+        - { zh: 六識身；有部作結生之識, en: 'Six classes; for Sarvāstivāda, rebirth-linking' }
+        - { zh: 眼識至意識, en: Eye- to mental consciousness }
+        - { zh: 前五、意識、末那、阿賴耶, en: 'Five, mental, manas, ālaya' }
+explanation_zh: |
+  **識蘊**：「於所緣境了別為性」，在唯識中攝八個心法。**識支**：《雜阿含經》說是「六識身」；《俱舍論》分位說是「識正結生蘊」，即投胎一剎那的心識。**六識界**：十八界中與根、境並列的六識。**八識**：唯識另立末那與阿賴耶。
+
+  讀經時先問：這個「識」在哪一個體系裡？
+explanation_en: |
+  **Aggregate**: "discerning the object", covering all eight minds in Yogācāra. **Third link**: "the six classes of consciousness" (Saṃyuktāgama); in the Abhidharmakośa's phase reading, "consciousness at the moment of conception". **Six elements**: the six consciousnesses alongside faculties and objects among the eighteen. **Eight**: Yogācāra adds manas and the ālaya.
+
+  When reading, first ask: which scheme is this 識 in?
+quotes:
+  - text: 識正結生蘊，六處前名色
+    source: 《阿毘達磨俱舍論》卷9
+    source_en: Abhidharmakośabhāṣya, fasc. 9
+    ref: T29n1558_p0048b13
+    note_en: Consciousness is the aggregates at the very moment of conception; before the six bases is name-and-form.
+questions:
+  - type: mcq
+    q_zh: 依《俱舍論》分位說，識支指？
+    q_en: In the Abhidharmakośa's phase reading, the third link is…
+    options:
+      - { zh: 投胎一剎那的五蘊, en: the aggregates at the moment of conception }
+      - { zh: 阿賴耶識, en: the ālaya }
+      - { zh: 眼識, en: eye-consciousness }
+      - { zh: 慧, en: wisdom }
+    answer: 0
+    explain_zh: 「識正結生蘊。」
+    explain_en: '"Consciousness is the aggregates at the moment of conception."'
+  - type: tf
+    q_zh: 十八界中的識只有六個。
+    q_en: The eighteen elements include only six consciousnesses.
+    answer: true
+    explain_zh: 眼識界至意識界六界；末那、阿賴耶是唯識另立。
+    explain_en: Eye- to mental-consciousness elements; manas and ālaya are Yogācāra additions.
+  - type: mcq
+    q_zh: 唯識學中識蘊攝多少心法？
+    q_en: In Yogācāra, how many mind dharmas does the consciousness aggregate include?
+    options:
+      - { zh: '6', en: '6' }
+      - { zh: '7', en: '7' }
+      - { zh: '8', en: '8' }
+    answer: 2
+    explain_zh: 百法的八個心法（八識）皆屬識蘊。
+    explain_en: All eight mind dharmas belong to the consciousness aggregate.

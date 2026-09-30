@@ -1,0 +1,233 @@
+# 六度、四無量心 (戒 sila、精進 virya、慧 prajna、捨 upeksa live in other files)
+
+- id: paramita
+  skt: pāramitā
+  deva: पारमिता
+  pali: pāramī
+  zh: 波羅蜜
+  zhAlt: [ 波羅蜜多, 度, 到彼岸, 六度, 六波羅蜜 ]
+  en: perfection
+  enAlt: [ perfections, transcendent perfection, going beyond, crossing over ]
+  root: pāram「彼岸」＋ √i「去」，意為「到彼岸」 · pāram "the other shore" + ita "gone"
+  short_zh: 「到彼岸」：菩薩從生死此岸度到涅槃彼岸的修行。六度即布施、持戒、忍辱、精進、禪定、般若。
+  short_en: '"Gone to the other shore": the bodhisattva practices that cross from saṃsāra to nirvāṇa. The six are giving, morality, patience, diligence, meditation and wisdom.'
+  detail_zh: |
+    《大智度論》解釋：「波羅（秦言彼岸）蜜（秦言到）」，所以波羅蜜意為「到彼岸」，漢譯簡作「度」。
+
+    **六度**：布施（dāna）、持戒（śīla）、忍辱（kṣānti）、精進（vīrya）、禪定（dhyāna）、般若（prajñā）。前五度如眼盲之人，般若如眼目；有般若引導，前五者才成為「波羅蜜」，否則只是世間善行。
+
+    **十度**：唯識等又在六度後加方便、願、力、智，配合菩薩十地。
+  detail_en: |
+    The Dazhidu lun explains: "pāra means the other shore, mitā means arrived" — "gone to the other shore"; Chinese abbreviates it as 度 "crossing".
+
+    **The six**: giving, morality, patience, diligence, meditation and wisdom. The first five are like the blind, wisdom like the eyes; guided by wisdom they become "perfections", otherwise they remain ordinary good deeds.
+
+    **The ten**: Yogācāra and others add skilful means, vow, power and knowledge, matching the ten bodhisattva stages.
+  quotes:
+    - text: 『波羅（秦言彼岸）蜜（秦言到）』，是名渡布施河得到彼岸。
+      source: 《大智度論》卷12
+      source_en: Dazhidu lun (*Mahāprajñāpāramitāśāstra), fasc. 12
+      ref: T25n1509_p0145a16
+      refEnd: T25n1509_p0145a17
+      note_en: '"Pāra" (in our language "the other shore") "mitā" (in our language "arrived") — this means crossing the river of giving and reaching the other shore.'
+  related: [ dana, sila, ksanti, virya, dhyana, prajna ]
+
+- id: dana
+  skt: dāna
+  deva: दान
+  pali: dāna
+  zh: 布施
+  zhAlt: [ 施, 檀, 檀那, 布施波羅蜜 ]
+  en: generosity
+  enAlt: [ giving, charity, almsgiving, donation ]
+  root: √dā「給予」 · √dā "to give"
+  short_zh: 以財、法、無畏施與他人；六度之首，對治慳貪。
+  short_en: Generosity — giving material things, the Dharma or fearlessness to others; first perfection, the antidote to stinginess.
+  detail_zh: |
+    布施分三種：**財施**（財物）、**法施**（教導佛法）、**無畏施**（使人免於恐懼）。布施直接對治隨煩惱中的「慳」。
+
+    **三輪體空**：施者、受者、施物三者皆不執著，才是布施波羅蜜。《金剛經》：「菩薩於法，應無所住行於布施，所謂不住色布施，不住聲、香、味、觸、法布施。」
+  detail_en: |
+    Giving is of three kinds: **material** (possessions), **Dharma** (teaching) and **fearlessness** (freeing others from fear). It directly counters the secondary affliction stinginess.
+
+    **Purity of the three spheres**: giving becomes a perfection when there is no clinging to giver, recipient or gift. Diamond Sūtra: "A bodhisattva should give without abiding in anything — not abiding in forms, nor in sounds, smells, tastes, tangibles or mental objects."
+  quotes:
+    - text: 應無所住行於布施，所謂不住色布施，不住聲、香、味、觸、法布施。
+      source: 《金剛般若波羅蜜經》
+      source_en: Vajracchedikā (Diamond Sūtra), tr. Kumārajīva
+      ref: T08n0235_p0749a12
+      refEnd: T08n0235_p0749a14
+      note_en: One should practise giving without abiding in anything — that is, not abiding in form when giving, nor in sound, smell, taste, touch or mental objects.
+  related: [ paramita, matsarya, alobha ]
+
+- id: ksanti
+  skt: kṣānti
+  deva: क्षान्ति
+  pali: khanti
+  zh: 忍辱
+  zhAlt: [ 忍, 羼提, 安忍, 忍辱波羅蜜 ]
+  en: patience
+  enAlt: [ forbearance, tolerance, endurance, acceptance ]
+  root: √kṣam「忍受」 · √kṣam "to endure"
+  short_zh: 對他人的傷害、自身的苦難與深奧的法義，都能安然承受而不起瞋；六度之三。
+  short_en: Patience — bearing harm from others, one's own hardships and profound teachings without anger; the third perfection.
+  detail_zh: |
+    kṣānti 不只是被動地「忍氣吞聲」，而是心安住不動。唯識分三種忍：**耐怨害忍**（忍受他人傷害）、**安受苦忍**（安然承受困苦）、**諦察法忍**（對甚深法理審諦觀察而能信受）。忍辱直接對治瞋與其分支忿、恨、惱。
+
+    《遺教經》：「忍之為德，持戒苦行所不能及。」
+  detail_en: |
+    Kṣānti is not passive suppression but a mind that stays settled. Yogācāra lists three: **bearing harm** from others, **accepting suffering** calmly, and **patient acceptance of the Dharma** through careful examination of profound truths. Patience directly counters aversion and its branches wrath, resentment and spite.
+
+    The Yijiao jing: "The virtue of patience surpasses even keeping precepts and ascetic practice."
+  quotes:
+    - text: 忍之為德，持戒苦行所不能及。
+      source: 《佛垂般涅槃略說教誡經》
+      source_en: Sūtra of the Bequeathed Teaching (Yijiao jing)
+      ref: T12n0389_p1111b12
+      refEnd: T12n0389_p1111b13
+      note_en: The virtue of patience is something that even keeping precepts and ascetic practice cannot match.
+  related: [ paramita, pratigha, krodha ]
+
+- id: dhyana
+  skt: dhyāna
+  deva: ध्यान
+  pali: jhāna
+  zh: 禪定
+  zhAlt: [ 禪, 靜慮, 禪那, 禪波羅蜜 ]
+  en: meditative absorption
+  enAlt: [ meditation, absorption, dhyana, jhana, meditative stabilization, stillness ]
+  root: √dhyai「靜思、專注」 · √dhyai "to contemplate"
+  short_zh: 心專注寂靜的禪修狀態，特指色界四禪；六度之五。
+  short_en: Meditative absorption — the still, concentrated states of meditation, especially the four form-realm dhyānas; the fifth perfection.
+  detail_zh: |
+    dhyāna 音譯「禪那」，簡稱「禪」；玄奘譯「靜慮」——寂靜而審慮。狹義指**色界四禪**：初禪有尋有伺、離生喜樂；二禪無尋無伺、定生喜樂；三禪離喜妙樂；四禪捨念清淨。
+
+    **禪與定**：定（samādhi）是心所，凡專注皆有；禪（dhyāna）是一類特定的深定狀態。四禪之上還有四無色定（samāpatti，等至）。六度的「禪定」泛指一切禪修。
+  detail_en: |
+    Dhyāna is transliterated 禪那, short 禪; Xuanzang renders it 靜慮 "quiet reflection". Narrowly it means the **four dhyānas** of the form realm: the first with inquiry and investigation and joy born of seclusion; the second without them, joy born of concentration; the third, bliss free of joy; the fourth, purity of equanimity and mindfulness.
+
+    **Dhyāna vs samādhi**: samādhi is a mental factor present in any focused mind; dhyāna is a specific class of deep absorptions. Above the four dhyānas lie the four formless attainments (samāpatti). In the six perfections, "meditation" covers all meditative practice.
+  quotes:
+    - text: 有覺、有觀，離生喜、樂，得第一禪；除滅覺、觀，內信歡悅，撿心專一，無覺、無觀，定生喜、樂，得第二禪；捨喜守護，專念不亂，自知身樂，賢聖所求，護念樂行，得第三禪；捨滅苦、樂，先除憂、喜，不苦不樂，護念清淨，得第四禪。
+      source: 《長阿含經》卷4
+      source_en: Dīrghāgama, fasc. 4
+      ref: T01n0001_p0023c19
+      refEnd: T01n0001_p0023c24
+      note_en: With initial and sustained inquiry, with joy and bliss born of seclusion, one attains the first dhyāna; stilling inquiry, with inner confidence and gladness, the mind unified, without inquiry, with joy and bliss born of concentration, the second; relinquishing joy, guarded, mindful and undistracted, feeling bliss in the body — what the noble ones seek — dwelling in mindful bliss, the third; abandoning pleasure and pain, sorrow and joy having already gone, neither painful nor pleasant, with equanimity and mindfulness purified, one attains the fourth dhyāna.
+  related: [ samadhi, vitarka, paramita ]
+
+- id: apramana
+  skt: apramāṇa
+  deva: अप्रमाण
+  pali: appamaññā
+  zh: 四無量心
+  zhAlt: [ 無量心, 四無量, 四梵住 ]
+  en: four immeasurables
+  enAlt: [ immeasurables, boundless states, divine abodes, brahmaviharas, brahmavihāras ]
+  root: a-「非」＋ pramāṇa「量」 · a- + pramāṇa "measure"
+  short_zh: 慈、悲、喜、捨四種無限擴展、遍緣一切眾生的心。
+  short_en: The four immeasurables — loving-kindness, compassion, sympathetic joy and equanimity, extended without limit to all beings.
+  detail_zh: |
+    四無量心緣無量眾生、得無量福，故名「無量」；又稱「四梵住」（brahmavihāra）。《大智度論》：「慈名愛念眾生，常求安隱樂事以饒益之；悲名愍念眾生受五道中種種身苦、心苦；喜名欲令眾生從樂得歡喜；捨名捨三種心，但念眾生不憎不愛。」
+
+    修法：《中阿含經》說「心與慈俱，遍滿一方成就遊，如是二三四方、四維上下，普周一切」——把慈心從一方擴展到十方。
+  detail_en: |
+    They take immeasurable beings as object and bring immeasurable merit, hence "immeasurable"; also called brahmavihāras. Dazhidu lun: "Loving-kindness is cherishing beings, always seeking peace and happiness to benefit them; compassion is pitying beings who suffer in body and mind in the five destinies; sympathetic joy is wishing beings to rejoice in happiness; equanimity is letting go of the other three, simply regarding beings without aversion or attachment."
+
+    Practice: the Madhyamāgama says "with a mind imbued with loving-kindness one pervades one direction, then the second, third and fourth, above, below and all around" — extending kindness from one direction to all ten.
+  quotes:
+    - text: 『慈』名愛念眾生，常求安隱樂事以饒益之；『悲』名愍念眾生受五道中種種身苦、心苦；『喜』名欲令眾生從樂得歡喜；『捨』名捨三種心，但念眾生不憎不愛。
+      source: 《大智度論》卷20
+      source_en: Dazhidu lun (*Mahāprajñāpāramitāśāstra), fasc. 20
+      ref: T25n1509_p0208c09
+      refEnd: T25n1509_p0208c13
+      note_en: Loving-kindness is cherishing beings, always seeking peace and happiness to benefit them; compassion is pitying beings who suffer physically and mentally in the five destinies; sympathetic joy is wishing beings to rejoice from happiness; equanimity is letting go of these three, simply regarding beings with neither aversion nor attachment.
+    - text: 心與慈俱，遍滿一方成就遊，如是二三四方、四維上下，普周一切，心與慈俱，無結無怨，無恚無諍，極廣甚大，無量善修，遍滿一切世間成就遊。
+      source: 《中阿含經》卷3（第15經）
+      source_en: Madhyamāgama, fasc. 3, sūtra 15
+      ref: T01n0026_p0438a08
+      refEnd: T01n0026_p0438a11
+      note_en: With a mind imbued with loving-kindness one dwells pervading one direction, likewise the second, third and fourth, the four intermediate directions, above and below, everywhere; with a mind imbued with loving-kindness, free of fetters and enmity, without hatred or strife, vast, exalted, immeasurable and well developed, one dwells pervading the entire world.
+  related: [ maitri, karuna, mudita, upeksa ]
+
+- id: maitri
+  skt: maitrī
+  deva: मैत्री
+  pali: mettā
+  zh: 慈
+  zhAlt: [ 慈心, 慈無量 ]
+  en: loving-kindness
+  enAlt: [ loving kindness, friendliness, benevolence, goodwill, metta, kindness ]
+  root: mitra「朋友」→「友愛」 · from mitra "friend"
+  short_zh: 願眾生得樂之心；四無量心之一。以無瞋為體。
+  short_en: Loving-kindness — wishing beings happiness; the first immeasurable, based on non-hatred.
+  detail_zh: |
+    maitrī 源自 mitra（朋友），即像朋友般的友愛。慈是「與樂」，悲是「拔苦」。《大乘五蘊論》說無瞋「以慈為性」，《成唯識論》說「無瞋與樂」——慈的心所基礎是無瞋。慈直接對治瞋。
+  detail_en: |
+    Maitrī comes from mitra "friend": friendly love. Loving-kindness "gives happiness", compassion "removes suffering". The Pañcaskandhaka says non-hatred "has loving-kindness as its nature" and the Cheng weishi lun that "non-hatred gives happiness" — its basis is the factor non-hatred. It directly counters aversion.
+  quotes:
+    - text: 『慈』名愛念眾生，常求安隱樂事以饒益之；『悲』名愍念眾生受五道中種種身苦、心苦；『喜』名欲令眾生從樂得歡喜；『捨』名捨三種心，但念眾生不憎不愛。
+      source: 《大智度論》卷20
+      source_en: Dazhidu lun (*Mahāprajñāpāramitāśāstra), fasc. 20
+      ref: T25n1509_p0208c09
+      refEnd: T25n1509_p0208c13
+      note_en: Loving-kindness is cherishing beings, always seeking peace and happiness to benefit them; compassion is pitying suffering beings; sympathetic joy is wishing them to rejoice; equanimity is regarding them with neither aversion nor attachment.
+  related: [ advesa, karuna, apramana ]
+  compare: [ maitri-karuna ]
+
+- id: karuna
+  skt: karuṇā
+  deva: करुणा
+  pali: karuṇā
+  zh: 悲
+  zhAlt: [ 悲心, 悲無量, 大悲 ]
+  en: compassion
+  enAlt: [ pity, sympathy, mercy ]
+  root: √kṛ「作」→「動心、憐憫」 · "being moved, pity"
+  short_zh: 願眾生離苦之心；四無量心之一。以不害為體，大乘稱「大悲」。
+  short_en: Compassion — wishing beings free of suffering; the second immeasurable, based on non-harming. In the Mahāyāna, "great compassion".
+  detail_zh: |
+    悲是「拔苦」：看見眾生受苦，願其解脫。《成唯識論》說「不害拔苦」、不害「悲愍為業」——悲的心所基礎是不害。悲直接對治「害」。
+
+    大乘以悲為菩提心的根本；「大悲」與「大智」並稱，是佛菩薩的兩大特質。
+  detail_en: |
+    Compassion "removes suffering": seeing beings suffer and wishing them free. The Cheng weishi lun says "non-harming removes suffering" and non-harming "has compassion as function" — its basis is the factor non-harming. It directly counters harmfulness.
+
+    The Mahāyāna makes compassion the root of the awakening mind; "great compassion" and "great wisdom" are the two hallmarks of buddhas and bodhisattvas.
+  quotes:
+    - text: 無瞋，翻對斷物命瞋；不害，正違損惱物害。無瞋與樂；不害拔苦。
+      source: 《成唯識論》卷6
+      source_en: Cheng weishi lun, fasc. 6
+      ref: T31n1585_p0030c02
+      refEnd: T31n1585_p0030c03
+      note_en: Non-hatred opposes the hatred that takes life; non-harming opposes the harmfulness that torments beings. Non-hatred gives happiness; non-harming removes suffering.
+  related: [ avihimsa, maitri, apramana ]
+  compare: [ maitri-karuna ]
+
+- id: mudita
+  skt: muditā
+  deva: मुदिता
+  pali: muditā
+  zh: 喜
+  zhAlt: [ 喜心, 喜無量, 隨喜 ]
+  en: sympathetic joy
+  enAlt: [ appreciative joy, altruistic joy, rejoicing, empathetic joy ]
+  root: √mud「歡喜」 · √mud "to rejoice"
+  short_zh: 隨喜他人之樂與善；四無量心之一，對治嫉妒。
+  short_en: Sympathetic joy — rejoicing in others' happiness and goodness; the third immeasurable, the antidote to jealousy.
+  detail_zh: |
+    喜無量是看到眾生得樂、行善而由衷歡喜。它正好對治隨煩惱中的「嫉」——嫉是「不耐他榮」，喜則是為他人的榮盛而高興。
+
+    注意：四無量的「喜」不同於禪定中的「喜」（prīti，初禪二禪的喜受）。
+  detail_en: |
+    Sympathetic joy is heartfelt gladness at others' happiness and good deeds. It is the exact antidote to jealousy — jealousy "cannot bear others' glory", sympathetic joy delights in it.
+
+    Note: this 喜 (muditā) differs from the 喜 of meditation (prīti, the rapture of the first and second dhyānas).
+  quotes:
+    - text: 『慈』名愛念眾生，常求安隱樂事以饒益之；『悲』名愍念眾生受五道中種種身苦、心苦；『喜』名欲令眾生從樂得歡喜；『捨』名捨三種心，但念眾生不憎不愛。
+      source: 《大智度論》卷20
+      source_en: Dazhidu lun (*Mahāprajñāpāramitāśāstra), fasc. 20
+      ref: T25n1509_p0208c09
+      refEnd: T25n1509_p0208c13
+      note_en: Loving-kindness is cherishing beings; compassion is pitying suffering beings; sympathetic joy is wishing beings to rejoice from happiness; equanimity is regarding them with neither aversion nor attachment.
+  related: [ irsya, apramana ]

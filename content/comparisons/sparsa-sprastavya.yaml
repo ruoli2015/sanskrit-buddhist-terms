@@ -1,0 +1,79 @@
+id: sparsa-sprastavya
+title_zh: 觸心所（sparśa）與觸境（spraṣṭavya）
+title_en: Contact (sparśa) vs. the tangible (spraṣṭavya)
+terms: [ sparsa, sprastavya ]
+summary_zh: 兩者漢譯都是「觸」：觸心所是根、境、識三和合的心理作用（行蘊）；觸境是身根所觸的對象，是色法（色蘊）。
+summary_en: 'Both are 觸 in Chinese: contact is the mental factor of faculty, object and consciousness meeting (formations aggregate); the tangible is the object of the body faculty, a form of matter (form aggregate).'
+table:
+  columns:
+    - { zh: 觸心所 sparśa, en: Contact }
+    - { zh: 觸境 spraṣṭavya, en: Tangible }
+  rows:
+    - label: { zh: 類別, en: Category }
+      cells:
+        - { zh: 心所（遍行）, en: Mental factor (omnipresent) }
+        - { zh: 色法（五境之一）, en: Matter (one of five objects) }
+    - label: { zh: 所屬蘊, en: Aggregate }
+      cells:
+        - { zh: 行蘊, en: Formations }
+        - { zh: 色蘊, en: Form }
+    - label: { zh: 範圍, en: Scope }
+      cells:
+        - { zh: 六根皆有（眼觸…意觸）, en: 'With all six faculties (eye-contact … mind-contact)' }
+        - { zh: 只對身根, en: Body faculty only }
+    - label: { zh: 內容, en: Content }
+      cells:
+        - { zh: 根境識三和，令心心所觸境, en: 'Meeting of three; brings mind to its object' }
+        - { zh: 四大及滑澀輕重冷飢渴等, en: 'Elements, smooth, rough, heavy, light, cold, hunger, thirst' }
+explanation_zh: |
+  **同字異義**：觸心所是 sparśa（「接觸」的作用），觸境是 spraṣṭavya（「應被觸的」東西）。
+
+  **範圍大不同**：觸心所伴隨每一念心，眼見色時有「眼觸」，意想法時有「意觸」——十二因緣的「觸」支就是這六觸。觸境則只是身根的對象，是五境之一。
+
+  **判斷方法**：看上下文——說「三事和合觸」「觸緣受」時是心所；說「色、聲、香、味、觸」時是觸境。
+explanation_en: |
+  **Same character, different words**: contact is sparśa (the act of contact); the tangible is spraṣṭavya ("what is to be touched").
+
+  **Very different scope**: contact accompanies every moment of mind — seeing forms there is eye-contact, thinking there is mind-contact; the link "contact" of the twelve is these six contacts. The tangible is only the object of the body faculty, one of the five sense objects.
+
+  **How to tell**: read the context — "the meeting of three is contact", "contact conditions feeling" means the mental factor; "form, sound, smell, taste, touch" means the tangible.
+quotes:
+  - text: 『觸』謂三和分別變異，令心、心所觸境為性，受、想、思等所依為業。
+    source: 《成唯識論》卷3
+    source_en: Cheng weishi lun, fasc. 3
+    ref: T31n1585_p0011b19
+    refEnd: T31n1585_p0011b20
+    note_en: Contact is the concurrence of the three with modification; its nature is to bring mind and mental factors into contact with the object; its function is to be the support of feeling, perception, volition and so on.
+  - text: 言觸處者，謂四大種及前所說所觸一分。
+    source: 《大乘五蘊論》
+    source_en: Pañcaskandhaka
+    ref: T31n1612_p0850a15
+    refEnd: T31n1612_p0850a16
+    note_en: The tangible base means the four great elements and the part of the tangible described before.
+questions:
+  - type: mcq
+    q_zh: 「十二因緣」中的觸支，指的是？
+    q_en: The "contact" of the twelve links refers to…
+    options:
+      - { zh: 觸心所（六觸身）, en: the mental factor (six classes of contact) }
+      - { zh: 觸境（身根所觸）, en: the tangible object }
+    answer: 0
+    explain_zh: 「云何為觸？謂六觸身——眼觸身……意觸身。」
+    explain_en: '"What is contact? The six classes — eye-contact … mind-contact."'
+  - type: mcq
+    q_zh: 觸境屬於哪一蘊？
+    q_en: Which aggregate does the tangible belong to?
+    options:
+      - { zh: 色蘊, en: form }
+      - { zh: 受蘊, en: feeling }
+      - { zh: 行蘊, en: formations }
+      - { zh: 識蘊, en: consciousness }
+    answer: 0
+    explain_zh: 觸境是色法，屬色蘊；觸心所屬行蘊。
+    explain_en: The tangible is matter (form); contact is in formations.
+  - type: tf
+    q_zh: 眼見色時也有「觸」心所生起。
+    q_en: When the eye sees a form, the mental factor contact also arises.
+    answer: true
+    explain_zh: 觸是遍行，「緣眼、色，生眼識，三事和合觸」。
+    explain_en: 'Contact is omnipresent — "eye, form, eye-consciousness: the meeting of three is contact".'

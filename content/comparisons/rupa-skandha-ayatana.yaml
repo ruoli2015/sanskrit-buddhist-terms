@@ -1,0 +1,67 @@
+id: rupa-skandha-ayatana
+title_zh: 色蘊與色處（色境）
+title_en: Form aggregate vs. visible-form base
+terms: [ rupa, rupayatana ]
+summary_zh: 色蘊是一切物質（五根、五境、無表色）；色處只是眼所見的顏色與形狀。色處是色蘊的一小部分。
+summary_en: The form aggregate is all matter (five faculties, five objects, unmanifest form); the visible-form base is only colour and shape seen by the eye — a small part of the form aggregate.
+table:
+  columns:
+    - { zh: 色蘊 rūpa-skandha, en: Form aggregate }
+    - { zh: 色處 rūpāyatana, en: Visible-form base }
+  rows:
+    - label: { zh: 範圍, en: Scope }
+      cells:
+        - { zh: 一切物質, en: All matter }
+        - { zh: 眼所見的對象, en: What the eye sees }
+    - label: { zh: 內容, en: Content }
+      cells:
+        - { zh: 四大、五根、五境、無表色, en: 'Elements, five faculties, five objects, unmanifest form' }
+        - { zh: 顯色、形色、表色, en: 'Colour, shape, bodily expression' }
+    - label: { zh: 在十二處中, en: Among the twelve bases }
+      cells:
+        - { zh: 十處加法處一分, en: Ten bases plus part of the dharma base }
+        - { zh: 一處, en: One base }
+explanation_zh: |
+  同一個「色」字有廣狹二義。**色蘊**的「色」是 rūpa 最廣的意思——物質，《雜阿含經》：「諸所有色，一切四大及四大造色」。**色處**的「色」則是眼根的對象：「謂眼境界，顯色、形色及表色等」。
+
+  依《大乘五蘊論》，色蘊在十二處中攝十處（眼等五根、色等五境）及法處的一分（無表色）。所以問「色處屬哪一蘊」，答「色蘊」；問「色蘊是否等於色處」，答「否」。
+explanation_en: |
+  The same word rūpa has a broad and a narrow sense. The **form aggregate** uses the broadest: matter — "all form, the four elements and form derived from them" (Saṃyuktāgama). The **visible-form base** is the object of the eye: "the domain of the eye — colour, shape, bodily expression".
+
+  Per the Pañcaskandhaka, the form aggregate covers ten of the twelve bases (five faculties, five objects) plus part of the dharma base (unmanifest form). So the visible-form base belongs to the form aggregate, but the aggregate is far more than that base.
+quotes:
+  - text: 云何為色？謂眼境界，顯色、形色及表色等。
+    source: 《大乘五蘊論》
+    source_en: Pañcaskandhaka
+    ref: T31n1612_p0848b16
+    refEnd: T31n1612_p0848b17
+    note_en: What is visible form? The domain of the eye — colour, shape, bodily expression and so on.
+questions:
+  - type: mcq
+    q_zh: 耳根屬於下列哪一個？
+    q_en: The ear faculty belongs to…
+    options:
+      - { zh: 色蘊, en: the form aggregate }
+      - { zh: 色處, en: the visible-form base }
+      - { zh: 兩者都是, en: both }
+      - { zh: 兩者都不是, en: neither }
+    answer: 0
+    explain_zh: 耳根是物質，屬色蘊；但不是眼所見的色處。
+    explain_en: The ear faculty is matter (form aggregate), but not the visible-form base.
+  - type: tf
+    q_zh: 色蘊就是色處。
+    q_en: The form aggregate is the same as the visible-form base.
+    answer: false
+    explain_zh: 色處只是色蘊的一部分。
+    explain_en: The visible-form base is only part of the form aggregate.
+  - type: mcq
+    q_zh: 色處包括哪些？
+    q_en: What does the visible-form base include?
+    options:
+      - { zh: 顯色、形色、表色, en: 'colour, shape, expression' }
+      - { zh: 四大種, en: the four elements }
+      - { zh: 五根, en: the five faculties }
+      - { zh: 聲香味觸, en: 'sound, smell, taste, touch' }
+    answer: 0
+    explain_zh: 「謂眼境界，顯色、形色及表色等。」
+    explain_en: '"The domain of the eye — colour, shape, expression."'

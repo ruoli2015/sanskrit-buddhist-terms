@@ -72,3 +72,78 @@
   ordered: true
   summary_zh: 惡作（悔）、睡眠、尋、伺——善、惡、無記不定，隨所伴隨的心而定其性質。
   summary_en: Regret, sleep, initial inquiry and sustained investigation — their moral quality depends on the mind they accompany.
+
+- id: twelve-links
+  zh: 十二因緣
+  en: The Twelve Links of Dependent Origination
+  skt: dvādaśāṅga pratītyasamutpāda
+  head: pratityasamutpada
+  items: [avidya, samskara, vijnana, namarupa, sadayatana, sparsa, vedana, trsna, upadana, bhava, jati, jaramarana]
+  ordered: true
+  summary_zh: 無明緣行、行緣識……生緣老死：緣起法則應用於有情生死流轉的十二個環節。
+  summary_en: Ignorance conditions formations … birth conditions ageing-and-death — dependent origination applied to the cycle of rebirth in twelve links.
+
+- id: three-seals
+  zh: 三法印
+  en: The Three Seals of the Dharma
+  items: [anitya, anatman, nirvana]
+  ordered: true
+  summary_zh: 諸行無常、諸法無我、涅槃寂靜——判別是否為佛法的三個標準。
+  summary_en: All conditioned things are impermanent, all dharmas are non-self, nirvāṇa is peace — the three marks of genuine Dharma.
+
+- id: three-trainings
+  zh: 三學
+  en: The Three Trainings
+  items: [sila, samadhi, prajna]
+  ordered: true
+  summary_zh: 戒、定、慧：因戒生定，因定發慧。
+  summary_en: Morality, concentration, wisdom — from morality comes concentration, from concentration wisdom.
+
+- id: six-paramitas
+  zh: 六度
+  en: The Six Perfections
+  skt: ṣaṭ pāramitāḥ
+  head: paramita
+  items: [dana, sila, ksanti, virya, dhyana, prajna]
+  ordered: true
+  summary_zh: 布施、持戒、忍辱、精進、禪定、般若——菩薩到彼岸的六種修行。
+  summary_en: Giving, morality, patience, diligence, meditation, wisdom — the six practices by which bodhisattvas cross to the other shore.
+
+- id: four-immeasurables
+  zh: 四無量心
+  en: The Four Immeasurables
+  skt: catvāry apramāṇāni
+  head: apramana
+  items: [maitri, karuna, mudita, upeksa]
+  ordered: true
+  summary_zh: 慈、悲、喜、捨，遍緣無量眾生的四種心。
+  summary_en: Loving-kindness, compassion, sympathetic joy and equanimity, extended to immeasurable beings.
+
+- id: twelve-ayatana
+  zh: 十二處
+  en: The Twelve Sense Bases
+  skt: dvādaśāyatanāni
+  head: ayatana
+  items: [caksus, srotra, ghrana, jihva, kaya, manas, rupayatana, sabda, gandha, rasa, sprastavya, dharmayatana]
+  ordered: true
+  summary_zh: 六根（眼耳鼻舌身意）與六境（色聲香味觸法）——「一切」的內容。
+  summary_en: The six faculties and six objects — what the Buddha called "the All".
+
+- id: eighteen-dhatu
+  zh: 十八界
+  en: The Eighteen Elements
+  skt: aṣṭādaśa dhātavaḥ
+  head: dhatu
+  items: [caksus, rupayatana, caksur-vijnana, srotra, sabda, srotra-vijnana, ghrana, gandha, ghrana-vijnana, jihva, rasa, jihva-vijnana, kaya, sprastavya, kaya-vijnana, manas, dharmayatana, mano-vijnana]
+  ordered: true
+  summary_zh: 六根、六境、六識，各持自性，說明認識過程中沒有作者之「我」。
+  summary_en: Six faculties, six objects, six consciousnesses — each holding its own nature, showing no acting self in cognition.
+
+- id: eight-consciousnesses
+  zh: 八識
+  en: The Eight Consciousnesses
+  skt: aṣṭau vijñānāni
+  items: [caksur-vijnana, srotra-vijnana, ghrana-vijnana, jihva-vijnana, kaya-vijnana, mano-vijnana, klista-manas, alaya-vijnana]
+  ordered: true
+  summary_zh: 唯識學的心法：前五識、第六意識、第七末那識、第八阿賴耶識——三能變。
+  summary_en: The Yogācāra mind dharmas — five sense consciousnesses, mental consciousness, manas and the ālaya — the three transformations.
