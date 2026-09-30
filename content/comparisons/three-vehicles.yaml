@@ -1,0 +1,64 @@
+id: three-vehicles
+title_zh: 三乘：聲聞、緣覺、菩薩
+title_en: The three vehicles — disciple, solitary buddha, bodhisattva
+terms: [ sravaka, pratyekabuddha, bodhisattva, arhat ]
+summary_zh: 聲聞聞法修四諦、自求涅槃；緣覺觀因緣、樂獨善寂；菩薩發菩提心、行六度、自利利他而成佛。
+summary_en: Disciples hear the teaching and seek nirvāṇa for themselves; solitary buddhas contemplate conditions and delight in solitude; bodhisattvas arouse the awakening mind, practise the perfections and become buddhas for all.
+table:
+  columns:
+    - { zh: 聲聞, en: Disciple }
+    - { zh: 緣覺, en: Solitary buddha }
+    - { zh: 菩薩, en: Bodhisattva }
+  rows:
+    - label: { zh: 所修, en: Practice }
+      cells:
+        - { zh: 聞法、四聖諦, en: 'Hearing the teaching; the noble truths' }
+        - { zh: 觀十二因緣, en: Contemplating the twelve links }
+        - { zh: 菩提心、六度, en: 'Awakening mind; six perfections' }
+    - label: { zh: 目標, en: Goal }
+      cells:
+        - { zh: 自求涅槃, en: Own nirvāṇa }
+        - { zh: 自然慧、獨善寂, en: Natural wisdom; solitary peace }
+        - { zh: 成佛、度眾生, en: Buddhahood for all beings }
+    - label: { zh: 所斷, en: Removes }
+      cells:
+        - { zh: 煩惱障, en: Afflictive obstruction }
+        - { zh: 煩惱障, en: Afflictive obstruction }
+        - { zh: 煩惱障與所知障, en: Both obstructions }
+    - label: { zh: 果位, en: Fruit }
+      cells:
+        - { zh: 阿羅漢, en: Arhat }
+        - { zh: 辟支佛, en: Pratyekabuddha }
+        - { zh: 佛, en: Buddha }
+explanation_zh: |
+  《妙法蓮華經》火宅喻分別三乘：「欲速出三界，自求涅槃，是名聲聞乘」；「求自然慧，樂獨善寂，深知諸法因緣，是名辟支佛乘」；而求一切智、憐愍安樂無量眾生者，是名大乘。《法華經》最後說三乘是方便，終歸一佛乘。
+explanation_en: |
+  The Lotus Sūtra's burning-house parable distinguishes them: "wishing to leave the three realms quickly and seeking nirvāṇa for oneself — the disciple vehicle"; "seeking natural wisdom, delighting in solitary quiet, deeply knowing causes and conditions — the pratyekabuddha vehicle"; those seeking omniscience out of compassion for countless beings — the great vehicle. The sūtra finally presents the three as skilful means leading to the one buddha-vehicle.
+quotes:
+  - text: 內有智性，從佛世尊聞法信受，慇懃精進，欲速出三界，自求涅槃，是名聲聞乘
+    source: 《妙法蓮華經》卷2
+    source_en: Lotus Sūtra, tr. Kumārajīva, fasc. 2
+    ref: T09n0262_p0013b18
+    refEnd: T09n0262_p0013b20
+    note_en: Having inner wisdom, hearing the Dharma from the Buddha and accepting it, diligent, wishing to leave the three realms swiftly and seeking nirvāṇa for oneself — this is the disciple vehicle.
+questions:
+  - type: mcq
+    q_zh: 「樂獨善寂，深知諸法因緣」描述的是？
+    q_en: '"Delighting in solitary quiet, deeply knowing causes and conditions" describes…'
+    options:
+      - { zh: 聲聞, en: disciples }
+      - { zh: 緣覺, en: solitary buddhas }
+      - { zh: 菩薩, en: bodhisattvas }
+    answer: 1
+    explain_zh: 《法華經》：「……是名辟支佛乘。」
+    explain_en: 'Lotus Sūtra: "… this is the pratyekabuddha vehicle."'
+  - type: mcq
+    q_zh: 兼斷煩惱障與所知障的是？
+    q_en: Who removes both obstructions?
+    options:
+      - { zh: 聲聞, en: disciples }
+      - { zh: 緣覺, en: solitary buddhas }
+      - { zh: 菩薩（成佛）, en: bodhisattvas (becoming buddhas) }
+    answer: 2
+    explain_zh: 二乘只斷煩惱障。
+    explain_en: The two vehicles remove only the afflictive obstruction.

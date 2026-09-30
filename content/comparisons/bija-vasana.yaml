@@ -1,0 +1,73 @@
+id: bija-vasana
+title_zh: 種子、習氣與隨眠
+title_en: Seeds, habitual tendencies and latent tendencies
+terms: [ bija, vasana, anusaya ]
+summary_zh: 種子側重「能生」（如種生芽），習氣側重「熏成」（如香熏衣），在唯識中是同一潛能的兩個名稱；隨眠則特指煩惱的潛伏狀態。
+summary_en: '"Seed" stresses producing (as a seed yields a sprout), "habitual tendency" stresses being imprinted (as scent perfumes cloth) — two names for the same potential in Yogācāra; "latent tendency" is specifically dormant affliction.'
+table:
+  columns:
+    - { zh: 種子 bīja, en: Seed }
+    - { zh: 習氣 vāsanā, en: Habitual tendency }
+    - { zh: 隨眠 anuśaya, en: Latent tendency }
+  rows:
+    - label: { zh: 比喻, en: Image }
+      cells:
+        - { zh: 種子生芽, en: Seed and sprout }
+        - { zh: 香熏衣, en: Scent in cloth }
+        - { zh: 如人睡眠, en: Like one asleep }
+    - label: { zh: 側重, en: Emphasis }
+      cells:
+        - { zh: 能生自果的功能, en: Power to produce its result }
+        - { zh: 現行熏成的餘勢, en: Residue imprinted by activity }
+        - { zh: 煩惱潛伏未起, en: Affliction lying dormant }
+    - label: { zh: 範圍, en: Scope }
+      cells:
+        - { zh: 善、惡、無記一切法, en: All dharmas }
+        - { zh: 同種子；亦指斷惑後的餘習, en: Same as seeds; also residue after afflictions end }
+        - { zh: 只指煩惱, en: Afflictions only }
+explanation_zh: |
+  **種子與習氣**：《成唯識論》：「何法名為種子？謂本識中親生自果，功能差別。」唯識常以「習氣」為種子的異名，因為種子由現行熏習而成。
+
+  **餘習**：「習氣」有時特指煩惱斷後殘留的習慣性傾向——阿羅漢已斷煩惱，仍有餘習；唯佛斷盡。
+
+  **隨眠**：《俱舍論》以六隨眠為「諸有本」。唯識把隨眠解為煩惱的種子，現起者名「纏」。
+explanation_en: |
+  **Seeds and tendencies**: Cheng weishi lun: "What is a seed? The potency in the root consciousness that directly produces its own result." Yogācāra often calls seeds "habitual tendencies", since they are formed by the perfuming of activity.
+
+  **Residue**: vāsanā sometimes means specifically the residual habits left after afflictions are cut — arhats have ended afflictions but keep residues; only a buddha removes them.
+
+  **Latent tendencies**: the Abhidharmakośa calls the six latent tendencies "the root of existence". Yogācāra interprets them as seeds of afflictions; manifest ones are "entanglements".
+quotes:
+  - text: 何法名為種子？謂本識中親生自果，功能差別。
+    source: 《成唯識論》卷2
+    source_en: Cheng weishi lun, fasc. 2
+    ref: T31n1585_p0008a05
+    refEnd: T31n1585_p0008a06
+    note_en: What dharma is called a seed? The particular potency in the root consciousness that directly produces its own result.
+questions:
+  - type: mcq
+    q_zh: 「習氣」一詞的比喻來源是？
+    q_en: The image behind vāsanā is…
+    options:
+      - { zh: 香熏衣, en: scent perfuming cloth }
+      - { zh: 種子生芽, en: a seed sprouting }
+      - { zh: 瀑流, en: a torrent }
+    answer: 0
+    explain_zh: vāsanā 原義熏香。
+    explain_en: Vāsanā originally means perfuming.
+  - type: tf
+    q_zh: 在唯識中，種子只指煩惱的潛在狀態。
+    q_en: In Yogācāra, seeds are only latent afflictions.
+    answer: false
+    explain_zh: 種子通善、惡、無記一切法；只指煩惱潛伏的是隨眠。
+    explain_en: Seeds cover all dharmas; the term for latent afflictions is anuśaya.
+  - type: mcq
+    q_zh: 《俱舍論》說隨眠是什麼的根本？
+    q_en: The Abhidharmakośa calls latent tendencies the root of…
+    options:
+      - { zh: 諸有, en: existence }
+      - { zh: 涅槃, en: nirvāṇa }
+      - { zh: 善法, en: wholesome dharmas }
+    answer: 0
+    explain_zh: 「隨眠諸有本。」
+    explain_en: '"Latent tendencies are the root of existence."'

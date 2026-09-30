@@ -1,0 +1,73 @@
+id: three-natures
+title_zh: 三自性與三無性
+title_en: The three natures and three non-natures
+terms: [ parikalpita, paratantra, parinispanna, nihsvabhava ]
+summary_zh: 遍計所執（如繩上見蛇，全無）、依他起（如繩，緣生幻有）、圓成實（如麻，真實本性）。依三性立三無性：相無性、生無性、勝義無性。
+summary_en: 'Imagined (the snake seen in a rope — nonexistent), dependent (the rope — conditioned, illusory existence), perfected (the hemp — the real nature). On them rest three non-natures: of characteristics, of arising, and ultimate.'
+table:
+  columns:
+    - { zh: 遍計所執性, en: Imagined }
+    - { zh: 依他起性, en: Dependent }
+    - { zh: 圓成實性, en: Perfected }
+  rows:
+    - label: { zh: 繩蛇喻, en: Rope simile }
+      cells:
+        - { zh: 蛇, en: The snake }
+        - { zh: 繩, en: The rope }
+        - { zh: 麻, en: The hemp }
+    - label: { zh: 有無, en: Existence }
+      cells:
+        - { zh: 情有理無（全無）, en: Exists only in grasping }
+        - { zh: 如幻假有, en: Illusory existence }
+        - { zh: 真實有（真如）, en: Truly real (suchness) }
+    - label: { zh: 三無性, en: Non-nature }
+      cells:
+        - { zh: 相無性, en: Of characteristics }
+        - { zh: 生無性, en: Of arising }
+        - { zh: 勝義無性, en: Ultimate }
+explanation_zh: |
+  《唯識三十頌》：「由彼彼遍計，遍計種種物，此遍計所執，自性無所有。依他起自性，分別緣所生。圓成實於彼，常遠離前性。」
+
+  **關鍵**：三性不是三樣東西，而是同一現象的三個面向。依他起是基礎；在其上執著實我實法便是遍計所執；遠離這種執著所顯的真如便是圓成實。
+
+  **三無性**：「即依此三性，立彼三無性，故佛密意說，一切法無性。」般若經說「一切法無自性」，唯識解釋為依三性而說的密意，而不是一切皆無。
+explanation_en: |
+  Thirty Verses: "Whatever is imagined by this or that imagining — this imagined nature has no existence. The dependent nature arises from conceptualization and conditions. The perfected is that [dependent] forever free of the former."
+
+  **Key point**: the three natures are not three things but three aspects of the same phenomenon. The dependent is the basis; grasping it as real self and dharmas is the imagined; the suchness revealed when that grasping is removed is the perfected.
+
+  **Three non-natures**: "Based on these three natures the three non-natures are established; thus the Buddha, with hidden intention, taught that all dharmas are without nature." Yogācāra reads the Prajñāpāramitā's "no own-being" as intended in this sense, not as "nothing exists".
+quotes:
+  - text: 由彼彼遍計，遍計種種物，此遍計所執，自性無所有。依他起自性，分別緣所生。圓成實於彼，常遠離前性。
+    source: 《唯識三十論頌》
+    source_en: Triṃśikā (Thirty Verses)
+    ref: T31n1586_p0061a14
+    refEnd: T31n1586_p0061a17
+    note_en: Whatever is imagined by this or that imagining, of various things — this imagined nature has no existence. The dependent nature arises from conceptualization and conditions. The perfected is that forever free of the former.
+questions:
+  - type: mcq
+    q_zh: 在繩蛇喻中，「繩」比喻哪一性？
+    q_en: In the rope-snake simile, the rope stands for…
+    options:
+      - { zh: 遍計所執性, en: the imagined }
+      - { zh: 依他起性, en: the dependent }
+      - { zh: 圓成實性, en: the perfected }
+    answer: 1
+    explain_zh: 蛇是遍計所執，繩是依他起，麻是圓成實。
+    explain_en: Snake — imagined; rope — dependent; hemp — perfected.
+  - type: mcq
+    q_zh: 依他起性上立哪一種無性？
+    q_en: Which non-nature is based on the dependent nature?
+    options:
+      - { zh: 相無性, en: of characteristics }
+      - { zh: 生無性, en: of arising }
+      - { zh: 勝義無性, en: ultimate }
+    answer: 1
+    explain_zh: 依他起非自然生，故立生無性。
+    explain_en: The dependent does not arise by itself — non-nature of arising.
+  - type: tf
+    q_zh: 圓成實性是依他起性以外的另一種實體。
+    q_en: The perfected nature is a separate entity apart from the dependent nature.
+    answer: false
+    explain_zh: 圓成實是依他起遠離遍計所執所顯的真如，「於彼常遠離前性」。
+    explain_en: It is the dependent, free of the imagined — "that forever free of the former".

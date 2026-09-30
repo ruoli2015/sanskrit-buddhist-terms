@@ -1,0 +1,258 @@
+# 心不相應行（選）與無為法
+
+- id: viprayukta-samskara
+  skt: citta-viprayukta-saṃskāra
+  deva: चित्तविप्रयुक्तसंस्कार
+  pali: ''
+  zh: 心不相應行
+  zhAlt: [ 不相應行, 心不相應行法 ]
+  en: formations not associated with mind
+  enAlt: [ non-associated formations, non-concurrent formations, viprayukta samskara, dissociated formations ]
+  root: citta「心」＋ viprayukta「不相應」＋ saṃskāra「行」 · "formations dissociated from mind"
+  short_zh: 既非色法也非心、心所，依色、心、心所的分位假立的法；百法中有二十四種。
+  short_en: Formations that are neither matter nor mind nor mental factors, designated on phases of those; twenty-four in the hundred dharmas.
+  detail_zh: |
+    《大乘五蘊論》：「云何心不相應行？謂依色、心、心法分位，但假建立，不可施設決定異性及不異性。」例如「生、住、老、無常」只是描述有為法的狀態，「名身、句身、文身」是語言的單位，「命根」是壽命的持續——它們不與心相應（不是心所），也不是物質，所以另立一類。
+
+    **學派差異**：說一切有部立十四種，認為是實有；經部與唯識則認為都是**假立**，沒有獨立實體。在五蘊中歸入行蘊。
+  detail_en: |
+    Pañcaskandhaka: "What are the formations not associated with mind? They are merely designated on phases of matter, mind and mental factors, and cannot be said to be definitely different from or identical with them." "Arising, duration, ageing, impermanence" describe states of conditioned things; "names, phrases, syllables" are units of language; "life-faculty" is the continuity of a lifespan — neither mental factors nor matter, hence a separate class.
+
+    **School difference**: the Sarvāstivāda lists fourteen and holds them real; the Sautrāntika and Yogācāra treat all as **designations** without separate entities. They belong to the formations aggregate.
+  quotes:
+    - text: 云何心不相應行？謂依色、心、心法分位，但假建立，不可施設決定異性及不異性。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0849b29
+      refEnd: T31n1612_p0849c02
+      note_en: What are the formations not associated with mind? They are merely designated on the phases of matter, mind and mental factors, and cannot be posited as definitely different or not different [from them].
+  related: [ samskara, prapti, jivitendriya ]
+
+- id: prapti
+  skt: prāpti
+  deva: प्राप्ति
+  pali: patti
+  zh: 得
+  zhAlt: [ 獲得, 成就 ]
+  en: acquisition
+  enAlt: [ possession, obtainment, attainment, prapti ]
+  root: pra-√āp「獲得」 · pra-√āp "to obtain"
+  short_zh: 心不相應行之一：使某法「屬於」某有情的關係，分種子、自在、現前三種。
+  short_en: Acquisition — the relation by which a dharma "belongs to" a being; of three kinds — as seed, as mastery, as present.
+  detail_zh: |
+    《大乘五蘊論》：「云何為得？謂若獲若成就。此復三種，謂若種子、若自在、若現前，如其所應。」得說明為什麼某人「具有」某種煩惱或功德——例如凡夫即使此刻沒有生起貪，也仍「成就」貪的種子。
+
+    說一切有部以「得」為實法，用來解釋煩惱的相續與斷除；唯識則說「得」只是依種子等假立。
+  detail_en: |
+    Pañcaskandhaka: "What is acquisition? Obtaining or possessing. It is of three kinds — as seed, as mastery, as present — as appropriate." It explains why someone "has" an affliction or virtue: an ordinary being not feeling greed this moment still "possesses" its seed.
+
+    The Sarvāstivāda treats acquisition as a real dharma to explain the continuity and abandonment of afflictions; Yogācāra says it is merely designated on seeds and the like.
+  quotes:
+    - text: 云何為得？謂若獲若成就。此復三種，謂若種子、若自在、若現前，如其所應。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0849c06
+      refEnd: T31n1612_p0849c07
+      note_en: What is acquisition? Obtaining or possessing. It is of three kinds — as seed, as mastery, and as present — as appropriate.
+  related: [ viprayukta-samskara, bija ]
+
+- id: jivitendriya
+  skt: jīvitendriya
+  deva: जीवितेन्द्रिय
+  pali: jīvitindriya
+  zh: 命根
+  zhAlt: [ 壽命 ]
+  en: life faculty
+  enAlt: [ life-faculty, vitality, life force, faculty of life ]
+  root: jīvita「生命」＋ indriya「根」 · jīvita "life" + indriya "faculty"
+  short_zh: 由過去業所牽引、決定一期生命存續時間的法；心不相應行之一。
+  short_en: The life faculty — what, projected by past karma, determines how long a lifetime lasts; a non-associated formation.
+  detail_zh: |
+    《大乘五蘊論》：「云何命根？謂於眾同分中，先業所引，住時決定為性。」命根是一期生命中維持身心相續的「壽命」。十二因緣中「生」的定義就包括「得命根」。
+
+    唯識認為命根依阿賴耶識的種子（執持根身的功能）假立。南傳阿毗達摩則把命根列為遍一切心的心所之一——同一名稱，歸類不同。
+  detail_en: |
+    Pañcaskandhaka: "What is the life faculty? Within a class of beings, projected by past karma, its nature is the fixed duration of abiding." It is the "lifespan" sustaining body and mind through one life; the definition of "birth" in the twelve links includes "acquiring the life faculty".
+
+    Yogācāra designates it on the seeds in the store consciousness that sustain the body. Theravāda Abhidhamma lists life faculty as a universal mental factor — same name, different classification.
+  quotes:
+    - text: 云何命根？謂於眾同分中，先業所引，住時決定為性。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0849c14
+      refEnd: T31n1612_p0849c15
+      note_en: What is the life faculty? Within a class of beings, projected by past karma, its nature is the determined duration of abiding.
+  related: [ viprayukta-samskara, jati ]
+
+- id: asamjni-samapatti
+  skt: asaṃjñi-samāpatti
+  deva: असंज्ञिसमापत्ति
+  pali: asaññasamāpatti
+  zh: 無想定
+  zhAlt: [ 無想等至 ]
+  en: attainment of non-perception
+  enAlt: [ non-perceptual attainment, perceptionless attainment, non-perception attainment ]
+  root: a-saṃjñin「無想的」＋ samāpatti「等至」 · asaṃjñin "without perception" + samāpatti "attainment"
+  short_zh: 凡夫外道以「出離想」為目標所修，前六識心心所暫滅的定；心不相應行之一。
+  short_en: The attainment of non-perception — practised by ordinary meditators aiming to escape perception, in which the first six consciousnesses cease temporarily.
+  detail_zh: |
+    《大乘五蘊論》：「云何無想等至？謂已離遍淨貪、未離上貪，由出離想作意為先，不恒現行心心法滅為性。」修行者誤以為「無想」就是解脫，於是厭離想而入此定；前六識（不恒現行者）暫時停止。其果報是生於無想天。
+
+    佛教認為這不是解脫：第七、八識仍在，我執未斷，出定後煩惱依舊。
+  detail_en: |
+    Pañcaskandhaka: "What is the attainment of non-perception? Free of desire for the Śubhakṛtsna heaven but not higher, preceded by attention directed at escaping perception, its nature is the cessation of the non-constant minds and mental factors." Mistaking "no perception" for liberation, meditators turn away from perception and enter it; the first six consciousnesses stop temporarily. Its fruit is birth among the non-perceiving gods.
+
+    Buddhism holds it is not liberation: the seventh and eighth consciousnesses continue, self-grasping remains, and afflictions return on emerging.
+  quotes:
+    - text: 云何無想等至？謂已離遍淨貪、未離上貪，由出離想作意為先，不恒現行心心法滅為性。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0849c08
+      refEnd: T31n1612_p0849c09
+      note_en: What is the attainment of non-perception? Free of desire for the Śubhakṛtsna level but not for higher ones, preceded by attention aimed at escaping perception, its nature is the cessation of the non-constant minds and mental factors.
+  related: [ nirodha-samapatti, samjna, mano-vijnana ]
+  compare: [ two-attainments ]
+
+- id: nirodha-samapatti
+  skt: nirodha-samāpatti
+  deva: निरोधसमापत्ति
+  pali: nirodhasamāpatti
+  zh: 滅盡定
+  zhAlt: [ 滅盡等至, 滅受想定, 想受滅 ]
+  en: attainment of cessation
+  enAlt: [ cessation attainment, attainment of the cessation of perception and feeling, cessation of perception and feeling ]
+  root: nirodha「滅」＋ samāpatti「等至」 · nirodha "cessation" + samāpatti
+  short_zh: 聖者為求寂靜所入，前六識及第七識染污部分皆滅的深定；又名滅受想定。
+  short_en: The attainment of cessation — entered by noble ones seeking peace, in which the first six consciousnesses and the defiled part of the seventh cease; also "cessation of perception and feeling".
+  detail_zh: |
+    《大乘五蘊論》：「云何滅盡等至？謂已離無所有處貪，從第一有更求勝進，由止息想作意為先，不恒現行及恒行一分心心法滅為性。」與無想定的差別在於：滅盡定是聖者所入，以「止息」為目標，連恆行的第七識染污部分也滅。
+
+    即使在滅盡定中，阿賴耶識仍在，執持根身——這是唯識論證第八識存在的理由之一。
+  detail_en: |
+    Pañcaskandhaka: "What is the attainment of cessation? Free of desire for the sphere of nothingness, seeking to go beyond the peak of existence, preceded by attention aimed at stilling, its nature is the cessation of the non-constant and part of the constant minds and mental factors." Unlike the non-perceptual attainment, it is entered by noble ones aiming at stillness, and even the defiled part of the constant seventh consciousness ceases.
+
+    Even in cessation the store consciousness remains, sustaining the body — one of Yogācāra's arguments for an eighth consciousness.
+  quotes:
+    - text: 云何滅盡等至？謂已離無所有處貪，從第一有更求勝進，由止息想作意為先，不恒現行及恒行一分心心法滅為性。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0849c10
+      refEnd: T31n1612_p0849c12
+      note_en: What is the attainment of cessation? Free of desire for the sphere of nothingness, seeking further progress beyond the peak of existence, preceded by attention aimed at stilling, its nature is the cessation of the non-constant minds and mental factors and part of the constant ones.
+  related: [ asamjni-samapatti, alaya-vijnana, klista-manas ]
+  compare: [ two-attainments ]
+
+- id: asamskrta
+  skt: asaṃskṛta
+  deva: असंस्कृत
+  pali: asaṅkhata
+  zh: 無為
+  zhAlt: [ 無為法 ]
+  en: unconditioned
+  enAlt: [ the unconditioned, uncompounded, unfabricated, unconstructed ]
+  root: a-「非」＋ saṃskṛta「有為」 · a- + saṃskṛta "conditioned"
+  short_zh: 不由因緣造作、無生住異滅的法。唯識立六無為：虛空、擇滅、非擇滅、不動滅、想受滅、真如。
+  short_en: Unconditioned — dharmas not produced by conditions, without arising, duration, change or ceasing. Yogācāra lists six.
+  detail_zh: |
+    《大乘百法明門論》：「第五無為法者，略有六種：一虛空無為、二擇滅無為、三非擇滅無為、四不動滅無為、五想受滅無為、六真如無為。」說一切有部只立三無為（虛空、擇滅、非擇滅）。
+
+    無為法不在五蘊之內，而在十二處的法處、十八界的法界中。唯識認為前五種無為都是依真如假立的，只有真如是無為的實性。
+  detail_en: |
+    Hundred Dharmas: "Fifth, the unconditioned dharmas, briefly six: space, cessation through discernment, cessation not through discernment, cessation of the imperturbable, cessation of perception and feeling, and suchness." The Sarvāstivāda has three (space and the two cessations).
+
+    The unconditioned is not in the aggregates but in the dharma base and dharma element. Yogācāra holds the first five are designated on suchness, the one true nature of the unconditioned.
+  quotes:
+    - text: 第五無為法者，略有六種：一虛空無為、二擇滅無為、三非擇滅無為、四不動滅無為、五想受滅無為、六真如無為。
+      source: 《大乘百法明門論》
+      source_en: Mahāyāna Hundred Dharmas Treatise
+      ref: T31n1614_p0855c17
+      refEnd: T31n1614_p0855c19
+      note_en: Fifth, the unconditioned dharmas are briefly six — 1 space, 2 cessation through discernment, 3 cessation not through discernment, 4 cessation of the imperturbable, 5 cessation of perception and feeling, 6 suchness.
+  related: [ samskrta, tathata, nirvana, pratisamkhya-nirodha ]
+  compare: [ nirodha-kinds ]
+
+- id: akasa
+  skt: ākāśa
+  deva: आकाश
+  pali: ākāsa
+  zh: 虛空
+  zhAlt: [ 虛空無為, 空界 ]
+  en: space
+  enAlt: [ unconditioned space, ether, akasha, empty space ]
+  root: ā-√kāś「顯現」→「空間」 · "open space, sky"
+  short_zh: 容受一切色法、無障礙的無為法。
+  short_en: Space — the unconditioned that accommodates all matter without obstruction.
+  detail_zh: |
+    《大乘五蘊論》：「云何虛空？謂若容受諸色。」虛空無為是無障礙、容納一切物質的「空間」本身，不生不滅。
+
+    注意區分：無為的「虛空」與作為色法的「空界」（看得見的孔隙、光暗）不同；與般若的「空」（śūnyatā）更是完全不同的概念。
+  detail_en: |
+    Pañcaskandhaka: "What is space? That which accommodates forms." Unconditioned space is unobstructed room for all matter, unarisen and unceasing.
+
+    Distinguish it from the "space element" as a kind of matter (visible gaps, light and dark), and even more from śūnyatā, emptiness — an entirely different idea.
+  quotes:
+    - text: 云何虛空？謂若容受諸色。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0850a19
+      note_en: What is space? That which accommodates forms.
+  related: [ asamskrta ]
+  compare: [ nirodha-kinds ]
+
+- id: pratisamkhya-nirodha
+  skt: pratisaṃkhyā-nirodha
+  deva: प्रतिसंख्यानिरोध
+  pali: ''
+  zh: 擇滅
+  zhAlt: [ 擇滅無為, 數緣滅 ]
+  en: cessation through discernment
+  enAlt: [ analytical cessation, cessation through analysis, deliberate cessation, pratisamkhya-nirodha ]
+  root: pratisaṃkhyā「簡擇、慧」＋ nirodha「滅」 · pratisaṃkhyā "discernment" + nirodha
+  short_zh: 以智慧簡擇力斷除煩惱所證的寂滅，即涅槃；是「離繫」之滅。
+  short_en: Cessation through discernment — the cessation attained by wisdom's power cutting off afflictions; i.e. nirvāṇa, a cessation that is "disjunction".
+  detail_zh: |
+    《大乘五蘊論》：「云何擇滅？謂若滅是離繫。此復云何？謂由煩惱對治故諸蘊畢竟不生。」擇滅是由慧（擇）對治煩惱，使煩惱與未來的苦蘊永不再生——這就是涅槃。
+
+    「離繫」：脫離煩惱的繫縛。擇滅與非擇滅的差別在於是否由智慧的力量而得。
+  detail_en: |
+    Pañcaskandhaka: "What is cessation through discernment? A cessation that is disjunction. What is it? Through the antidote to afflictions, the aggregates never arise again." Wisdom (discernment) counters the afflictions so that they and future aggregates of suffering never arise — this is nirvāṇa.
+
+    "Disjunction" means release from the bonds of affliction. It differs from cessation not through discernment in whether wisdom's power brings it about.
+  quotes:
+    - text: 云何擇滅？謂若滅是離繫。此復云何？謂由煩惱對治故諸蘊畢竟不生。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0850a21
+      refEnd: T31n1612_p0850a23
+      note_en: What is cessation through discernment? A cessation that is disjunction. What is it? Because of the antidote to the afflictions, the aggregates never arise again.
+  related: [ apratisamkhya-nirodha, nirvana, prajna ]
+  compare: [ nirodha-kinds ]
+
+- id: apratisamkhya-nirodha
+  skt: apratisaṃkhyā-nirodha
+  deva: अप्रतिसंख्यानिरोध
+  pali: ''
+  zh: 非擇滅
+  zhAlt: [ 非擇滅無為, 非數緣滅 ]
+  en: cessation not through discernment
+  enAlt: [ non-analytical cessation, cessation without analysis, apratisamkhya-nirodha ]
+  root: a-「非」＋ pratisaṃkhyā「簡擇」＋ nirodha「滅」 · "cessation not due to discernment"
+  short_zh: 不由智慧，而因缺緣使某法永不生起的滅；不是離繫。
+  short_en: Cessation not through discernment — a dharma never arising because its conditions are lacking, not because of wisdom; not disjunction.
+  detail_zh: |
+    《大乘五蘊論》：「云何非擇滅？謂若滅非離繫。此復云何？謂離煩惱對治而諸蘊畢竟不生。」例如專心看一幅畫時，耳邊的聲音沒有被聽到；那一刻本可生起的耳識因缺緣而永遠不會生起了——這是非擇滅。
+
+    它與擇滅一樣是「滅」，但不是由智慧斷煩惱而得，所以不是解脫。
+  detail_en: |
+    Pañcaskandhaka: "What is cessation not through discernment? A cessation that is not disjunction. What is it? The aggregates never arise, but not through an antidote to afflictions." E.g. absorbed in a painting, one does not hear a sound; the ear-consciousness that could have arisen at that moment, lacking conditions, will never arise — that is cessation not through discernment.
+
+    It is a cessation, like the other, but not won by wisdom cutting afflictions, so it is not liberation.
+  quotes:
+    - text: 云何非擇滅？謂若滅非離繫。此復云何？謂離煩惱對治而諸蘊畢竟不生。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0850a19
+      refEnd: T31n1612_p0850a21
+      note_en: What is cessation not through discernment? A cessation that is not disjunction. What is it? Apart from any antidote to the afflictions, the aggregates never arise.
+  related: [ pratisamkhya-nirodha, asamskrta ]
+  compare: [ nirodha-kinds ]

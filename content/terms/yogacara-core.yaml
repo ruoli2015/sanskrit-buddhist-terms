@@ -1,0 +1,410 @@
+# 唯識要義
+
+- id: parikalpita
+  skt: parikalpita-svabhāva
+  deva: परिकल्पितस्वभाव
+  pali: ''
+  zh: 遍計所執性
+  zhAlt: [ 遍計所執, 遍計性, 分別性 ]
+  en: imagined nature
+  enAlt: [ imputed nature, constructed nature, fully conceptualized nature, imaginary nature, parikalpita ]
+  root: pari-√kḷp「周遍地構想」 · pari-√kḷp "to imagine all around"
+  short_zh: 三自性之一：由周遍計度而執為實有的我與法——如誤認繩為蛇的「蛇」，本無實體。
+  short_en: One of the three natures — self and dharmas that pervasive conceptualization grasps as real; like the "snake" seen in a rope, it has no existence.
+  detail_zh: |
+    《唯識三十頌》：「由彼彼遍計，遍計種種物，此遍計所執，自性無所有。」意識與末那識種種計度（遍計），把依他起的現象執為實在的「我」與「法」；這些被執著的實我、實法就是遍計所執性，**體性全無**。
+
+    **繩蛇喻**：昏暗中把繩子看成蛇——「蛇」是遍計所執（本無），「繩」是依他起（因緣所生，有而非實），繩的真實本性（麻）喻圓成實。
+
+    依此立「相無性」：遍計所執之相本來沒有。
+  detail_en: |
+    Thirty Verses: "Whatever is imagined by this or that imagining, of various things — this imagined nature has no existence." The sixth and seventh consciousnesses construct and cling (parikalpa), taking dependently arisen phenomena as a real self and real dharmas; that grasped self and those grasped dharmas are the imagined nature — **wholly non-existent**.
+
+    **Rope and snake**: in the dark one sees a rope as a snake — the snake is the imagined nature (non-existent), the rope the dependent nature (arisen from conditions, existent but not ultimately real), and the rope's true nature (hemp) the perfected nature.
+
+    On this basis the "non-nature of characteristics" is taught: the imagined characteristic simply is not.
+  quotes:
+    - text: 由彼彼遍計，遍計種種物，此遍計所執，自性無所有。依他起自性，分別緣所生。圓成實於彼，常遠離前性。
+      source: 《唯識三十論頌》
+      source_en: Triṃśikā (Thirty Verses)
+      ref: T31n1586_p0061a14
+      refEnd: T31n1586_p0061a17
+      note_en: Whatever is imagined by this or that imagining, of various things — this imagined nature has no existence. The dependent nature arises from conceptualization and conditions. The perfected is that [dependent nature] forever free of the former [imagined nature].
+  related: [ paratantra, parinispanna, nihsvabhava ]
+  compare: [ three-natures ]
+
+- id: paratantra
+  skt: paratantra-svabhāva
+  deva: परतन्त्रस्वभाव
+  pali: ''
+  zh: 依他起性
+  zhAlt: [ 依他起, 依他性 ]
+  en: dependent nature
+  enAlt: [ other-dependent nature, dependent arising nature, paratantra ]
+  root: para「他」＋ tantra「依賴」 · para "other" + tantra "dependent"
+  short_zh: 三自性之一：依因緣而生起的一切心、心所及其所變現——如幻而有，非實非無。
+  short_en: One of the three natures — mind, mental factors and what they manifest, arising from conditions; existent like an illusion, neither real nor nothing.
+  detail_zh: |
+    《唯識三十頌》：「依他起自性，分別緣所生。」一切有為法都是依眾緣而生（「依他」而起），在唯識中特指八識心王、心所及其見分、相分。
+
+    依他起**有而不實**：它確實在因緣中生起（不同於遍計所執的全無），但沒有獨立的自性，如夢如幻。它是雜染與清淨的所依：執著它就成遍計所執，看透它就顯圓成實。
+
+    依此立「生無性」：依他起的法不是自然生，而是依緣而生，故無自生之性。
+  detail_en: |
+    Thirty Verses: "The dependent nature arises from conceptualization and conditions." All conditioned dharmas arise dependent on conditions; in Yogācāra it means specifically the eight consciousnesses, mental factors and their seeing and image aspects.
+
+    It **exists but is not real**: it truly arises from conditions (unlike the utterly non-existent imagined nature) yet has no independent nature, like a dream or illusion. It is the basis of both defilement and purity: clung to, it becomes the imagined; seen through, it reveals the perfected.
+
+    On this basis the "non-nature of arising" is taught: dependent dharmas do not arise by themselves.
+  quotes:
+    - text: 由彼彼遍計，遍計種種物，此遍計所執，自性無所有。依他起自性，分別緣所生。圓成實於彼，常遠離前性。
+      source: 《唯識三十論頌》
+      source_en: Triṃśikā (Thirty Verses)
+      ref: T31n1586_p0061a14
+      refEnd: T31n1586_p0061a17
+      note_en: Whatever is imagined by this or that imagining — this imagined nature has no existence. The dependent nature arises from conceptualization and conditions. The perfected is that [dependent nature] forever free of the former.
+  related: [ parikalpita, parinispanna, pratityasamutpada ]
+  compare: [ three-natures ]
+
+- id: parinispanna
+  skt: pariniṣpanna-svabhāva
+  deva: परिनिष्पन्नस्वभाव
+  pali: ''
+  zh: 圓成實性
+  zhAlt: [ 圓成實, 真實性 ]
+  en: perfected nature
+  enAlt: [ consummate nature, perfect nature, thoroughly established nature, parinispanna ]
+  root: pari-niṣ-√pad「圓滿成就」 · pari-niṣ-√pad "to be fully accomplished"
+  short_zh: 三自性之一：依他起上遠離遍計所執所顯的真實本性，即真如；圓滿、成就、真實。
+  short_en: One of the three natures — the true nature revealed when the dependent is free of the imagined; suchness — perfect, accomplished, real.
+  detail_zh: |
+    《唯識三十頌》：「圓成實於彼，常遠離前性。」圓成實性不是在依他起之外另有一物，而是依他起「遠離遍計所執」之後所顯的真實——即我空、法空所顯的真如。
+
+    成唯識論解釋其名：「圓滿、成就、諸法實性」——遍一切法（圓）、不生不滅（成）、非虛妄（實）。
+
+    依此立「勝義無性」：圓成實是遠離一切執著的勝義，無我法之性。
+  detail_en: |
+    Thirty Verses: "The perfected is that [dependent nature] forever free of the former." It is not something apart from the dependent nature but the reality that appears when the dependent is free of the imagined — the suchness disclosed by emptiness of self and dharmas.
+
+    The Cheng weishi lun glosses the name as "complete, accomplished, the real nature of dharmas": pervading all dharmas, neither arising nor ceasing, not false.
+
+    On this basis the "ultimate non-nature" is taught: the perfected is the ultimate, free of all grasping at self and dharmas.
+  quotes:
+    - text: 真謂真實，顯非虛妄，如謂如常，表無變易
+      source: 《成唯識論》卷9
+      source_en: Cheng weishi lun, fasc. 9
+      ref: T31n1585_p0048a23
+      refEnd: T31n1585_p0048a24
+      note_en: '"True" means real, showing it is not false; "such" means constantly so, indicating that it does not change.'
+  related: [ tathata, paratantra, parikalpita ]
+  compare: [ three-natures ]
+
+- id: nihsvabhava
+  skt: niḥsvabhāvatā
+  deva: निःस्वभावता
+  pali: ''
+  zh: 無自性
+  zhAlt: [ 三無性, 無性 ]
+  en: absence of intrinsic nature
+  enAlt: [ naturelessness, lack of own-being, non-nature, essencelessness, emptiness of inherent existence ]
+  root: niḥ「無」＋ sva-bhāva「自有的存在」 · niḥ "without" + svabhāva "own-being"
+  short_zh: 一切法沒有獨立、固定的自性。唯識依三自性立相無性、生無性、勝義無性三無性。
+  short_en: Dharmas lack independent, fixed own-being. Yogācāra bases three non-natures — of characteristics, arising and the ultimate — on the three natures.
+  detail_zh: |
+    svabhāva（自性）指法自身固有、不依他的本質。般若、中觀說「一切法無自性」，因為一切法都依緣而起。
+
+    唯識學認為「一切法無性」是佛的**密意說**：《唯識三十頌》：「即依此三性，立彼三無性，故佛密意說，一切法無性。」遍計所執是**相無性**（相本無），依他起是**生無性**（非自然生），圓成實是**勝義無性**（遠離我法之性）。並非說一切都不存在。
+  detail_en: |
+    Svabhāva ("own-being") is a dharma's intrinsic, independent essence. Prajñāpāramitā and Madhyamaka teach that all dharmas lack it, because all arise dependently.
+
+    Yogācāra reads "all dharmas are without nature" as the Buddha's **intended meaning**: Thirty Verses: "Based on these three natures the three non-natures are established; thus the Buddha, with a hidden intention, taught that all dharmas are without nature." The imagined lacks characteristics, the dependent lacks self-arising, the perfected is the ultimate free of self and dharmas. It does not mean that nothing exists.
+  quotes:
+    - text: 即依此三性，立彼三無性，故佛密意說，一切法無性。
+      source: 《唯識三十論頌》
+      source_en: Triṃśikā (Thirty Verses)
+      ref: T31n1586_p0061a22
+      refEnd: T31n1586_p0061a23
+      note_en: Based on these three natures the three non-natures are established; therefore the Buddha, with a hidden intention, taught that all dharmas are without nature.
+  related: [ sunyata, parikalpita, paratantra, parinispanna ]
+  compare: [ three-natures ]
+
+- id: bija
+  skt: bīja
+  deva: बीज
+  pali: bīja
+  zh: 種子
+  zhAlt: [ 種, 名言種子 ]
+  en: seed
+  enAlt: [ seeds, potential, karmic seed ]
+  root: 「種子」 · "seed"
+  short_zh: 阿賴耶識中能親生自果的功能；現行熏成種子，種子又生現行。
+  short_en: Seed — the potential in the store consciousness that directly produces its own result; actions imprint seeds, seeds produce actions.
+  detail_zh: |
+    《成唯識論》：「何法名為種子？謂本識中親生自果，功能差別。」種子不是物質的顆粒，而是潛藏在阿賴耶識中、能生起相應現象的潛能。
+
+    **種子與現行**：「種子生現行，現行熏種子」——心識活動（現行）在阿賴耶識留下印記（熏習成種子），種子遇緣又生起新的現行，構成業力相續、輪迴不斷的機制。
+
+    **種子六義**：《攝大乘論》：「剎那滅、俱有、恒隨轉應知、決定、待眾緣、唯能引自果。」
+  detail_en: |
+    Cheng weishi lun: "What is called a seed? The particular potency in the root consciousness that directly produces its own result." A seed is not a physical particle but a latent capacity in the store consciousness to give rise to corresponding phenomena.
+
+    **Seeds and manifestation**: "seeds produce manifestation, manifestation imprints seeds" — mental activity leaves traces in the store consciousness (perfuming, forming seeds), and seeds meeting conditions produce new activity: the mechanism of karmic continuity and rebirth.
+
+    **Six characteristics of seeds** (Mahāyānasaṃgraha): "momentary, simultaneous [with the result], continuous, determinate, dependent on conditions, producing only their own result."
+  quotes:
+    - text: 何法名為種子？謂本識中親生自果，功能差別。
+      source: 《成唯識論》卷2
+      source_en: Cheng weishi lun, fasc. 2
+      ref: T31n1585_p0008a05
+      refEnd: T31n1585_p0008a06
+      note_en: What dharma is called a seed? The particular potency in the root consciousness that directly produces its own result.
+    - text: 剎那滅、俱有，恒隨轉應知、決定、待眾緣、唯能引自果。
+      source: 《攝大乘論本》卷1
+      source_en: Mahāyānasaṃgraha, tr. Xuanzang, fasc. 1
+      ref: T31n1594_p0135a25
+      refEnd: T31n1594_p0135a26
+      note_en: Momentary, simultaneous, continuously following — know this — determinate, dependent on conditions, and able to produce only their own result.
+  related: [ alaya-vijnana, vasana, karma ]
+  compare: [ bija-vasana ]
+
+- id: vasana
+  skt: vāsanā
+  deva: वासना
+  pali: vāsanā
+  zh: 習氣
+  zhAlt: [ 熏習, 餘習 ]
+  en: habitual tendency
+  enAlt: [ habit energy, latent impression, imprint, trace, residual impression, perfuming ]
+  root: √vas「熏香、留住」 · √vās "to perfume"
+  short_zh: 如香熏衣般在心識中留下的餘勢；唯識中常作種子的異名。
+  short_en: Habitual tendency — residual force left in the mind as scent lingers in cloth; in Yogācāra often another name for seeds.
+  detail_zh: |
+    vāsanā 原義是「熏香」：衣服放在香旁，香氣便沾染在衣上。心識的活動也會在阿賴耶識中留下這樣的「氣分」，稱為習氣，也就是種子。
+
+    《唯識三十頌》：「由諸業習氣，二取習氣俱，前異熟既盡，復生餘異熟。」業習氣（善惡業種子）決定來生的果報，二取習氣（能取、所取的名言種子）提供生起的材料——兩者合作使生死相續。
+
+    **斷煩惱與斷習氣**：阿羅漢斷盡煩惱，但佛才能連習氣也斷盡（《大智度論》卷26舉阿羅漢摩頭波斯咤仍跳上梁棚、畢陵伽婆蹉罵恒河神「小婢」為例）。
+  detail_en: |
+    Vāsanā originally means "perfuming": cloth kept near incense takes on its scent. Mental activity likewise leaves such "scent" in the store consciousness — habitual tendencies, i.e. seeds.
+
+    Thirty Verses: "Through the habitual tendencies of karma, together with the tendencies of the twofold grasping, when the former maturation is exhausted, another maturation arises." Karmic tendencies decide the next life's results; tendencies of grasper and grasped supply the material — together they sustain rebirth.
+
+    **Afflictions vs tendencies**: arhats end the afflictions, but only a buddha removes even the residual tendencies (the Dazhidu lun, fasc. 26, cites an arhat who still leapt onto beams like a monkey, and Pilindavatsa calling the Ganges deity "little maid").
+  quotes:
+    - text: 由諸業習氣、二取習氣俱，前異熟既盡，復生餘異熟。
+      source: 《唯識三十論頌》
+      source_en: Triṃśikā (Thirty Verses)
+      ref: T31n1586_p0061a10
+      refEnd: T31n1586_p0061a11
+      note_en: Because of the habitual tendencies of karma together with the tendencies of the twofold grasping, when the former maturation is exhausted, another maturation arises.
+  related: [ bija, alaya-vijnana, karma ]
+  compare: [ bija-vasana ]
+
+- id: vijnaptimatra
+  skt: vijñaptimātratā
+  deva: विज्ञप्तिमात्रता
+  pali: ''
+  zh: 唯識
+  zhAlt: [ 唯識無境, 唯心 ]
+  en: consciousness-only
+  enAlt: [ cognition-only, representation-only, mind-only, vijnaptimatra, nothing but cognition ]
+  root: vijñapti「表象、了別」＋ mātra「唯」 · vijñapti "representation" + mātra "only"
+  short_zh: 一切所認識的對象都是識所變現，離識之外沒有實在的外境。
+  short_en: Consciousness-only — everything cognized is a manifestation of consciousness; there is no real object apart from it.
+  detail_zh: |
+    《唯識三十頌》：「是諸識轉變，分別、所分別，由此彼皆無，故一切唯識。」諸識轉變，現出能分別的見分與所分別的相分；在此之外，所執的實我、實法都不存在。
+
+    **「唯識」不是唯我論**：唯識並不否認他人與世界的存在，而是說：我們所經驗的一切，都是透過識變現而呈現的；執著有離識獨立的外境，正是遍計所執。唯識也不把識執為實有——「若執唯識真實有者，如執外境，亦是法執」。
+  detail_en: |
+    Thirty Verses: "These transformations of consciousness are the discriminating and the discriminated; hence neither [self nor dharmas] exists — therefore all is consciousness-only." Consciousness transforms into a seeing aspect and an image aspect; beyond them the real self and dharmas one clings to do not exist.
+
+    **Not solipsism**: consciousness-only does not deny other beings or the world; it says that everything we experience appears through consciousness's manifestation, and that grasping at objects independent of consciousness is the imagined nature. Nor does it make consciousness itself absolutely real — clinging to "consciousness-only" as truly existent is also clinging to dharmas.
+  quotes:
+    - text: 是諸識轉變，分別、所分別，由此彼皆無，故一切唯識。
+      source: 《唯識三十論頌》
+      source_en: Triṃśikā (Thirty Verses)
+      ref: T31n1586_p0061a02
+      refEnd: T31n1586_p0061a03
+      note_en: These transformations of consciousness are the discriminating and the discriminated; because of this, those [self and dharmas] do not exist; therefore everything is consciousness-only.
+  related: [ alaya-vijnana, parikalpita, visaya ]
+
+- id: asraya-paravrtti
+  skt: āśraya-parāvṛtti
+  deva: आश्रयपरावृत्ति
+  pali: ''
+  zh: 轉依
+  zhAlt: [ 轉識成智 ]
+  en: transformation of the basis
+  enAlt: [ revolution of the basis, transformation of the support, fundamental transformation, turning of the basis ]
+  root: āśraya「所依」＋ parā-√vṛt「翻轉」 · āśraya "basis" + parāvṛtti "turning around"
+  short_zh: 修道的最終成果：轉捨依他起上的遍計所執與雜染，轉得圓成實的菩提與涅槃；轉八識成四智。
+  short_en: The goal of the path — discarding defilement and the imagined on the dependent basis and attaining awakening and nirvāṇa; the eight consciousnesses become the four wisdoms.
+  detail_zh: |
+    「依」是所依——依他起性（也指阿賴耶識）；「轉」是轉捨與轉得。《唯識三十頌》：「無得不思議，是出世間智，捨二麁重故，便證得轉依。」捨去煩惱障與所知障的「二麁重」，證得轉依。
+
+    **二轉依果**：斷煩惱障得大涅槃，斷所知障得大菩提。
+
+    **轉識成智**：前五識轉成所作智、第六意識轉妙觀察智、第七末那轉平等性智、第八阿賴耶轉大圓鏡智。
+  detail_en: |
+    The "basis" is the dependent nature (also the store consciousness); "transformation" is discarding and attaining. Thirty Verses: "Non-apprehending and inconceivable, this is transcendent wisdom; by discarding the twofold heaviness, the transformation of the basis is realized." Discarding the "twofold heaviness" — the obstructions of affliction and of the knowable — one realizes it.
+
+    **Two fruits**: ending the afflictive obstruction yields great nirvāṇa; ending the cognitive obstruction yields great awakening.
+
+    **Consciousness into wisdom**: the five sense consciousnesses become the wisdom that accomplishes tasks, the sixth the wisdom of wondrous observation, the seventh the wisdom of equality, the eighth mirror-like wisdom.
+  quotes:
+    - text: 無得不思議，是出世間智，捨二麁重故，便證得轉依。
+      source: 《唯識三十論頌》
+      source_en: Triṃśikā (Thirty Verses)
+      ref: T31n1586_p0061b18
+      refEnd: T31n1586_p0061b19
+      note_en: Without apprehension and inconceivable, this is transcendent wisdom; by discarding the twofold heaviness, the transformation of the basis is realized.
+  related: [ alaya-vijnana, klesavarana, jneyavarana, bodhi, nirvana ]
+
+- id: klesavarana
+  skt: kleśāvaraṇa
+  deva: क्लेशावरण
+  pali: ''
+  zh: 煩惱障
+  zhAlt: [ 惑障 ]
+  en: afflictive obstruction
+  enAlt: [ obscuration of afflictions, obstruction of afflictions, emotional obscuration, afflictive obscuration ]
+  root: kleśa「煩惱」＋ āvaraṇa「障、覆蓋」 · kleśa "affliction" + āvaraṇa "covering"
+  short_zh: 以我執為根本的煩惱，擾亂身心、障礙涅槃；斷之證真解脫。
+  short_en: The afflictive obstruction — afflictions rooted in self-grasping that disturb body and mind and block nirvāṇa; ending it brings true liberation.
+  detail_zh: |
+    《成唯識論》開宗明義：「由我、法執二障具生，若證二空，彼障隨斷。斷障為得二勝果故，由斷續生煩惱障故，證真解脫；由斷礙解所知障故，得大菩提。」
+
+    煩惱障由**我執**而生，以身見為首的根本、隨煩惱，使眾生相續受生、身心擾惱，障礙涅槃。聲聞、緣覺斷煩惱障而證解脫；菩薩兼斷所知障而成佛。
+  detail_en: |
+    The Cheng weishi lun opens: "From grasping at self and dharmas the two obstructions arise; realizing the two emptinesses, they are removed. The obstructions are cut to gain two supreme fruits: cutting the afflictive obstruction that continues rebirth, one realizes true liberation; cutting the cognitive obstruction that hinders understanding, one attains great awakening."
+
+    The afflictive obstruction arises from **self-grasping**: root and secondary afflictions headed by self-view, which keep beings taking rebirth and disturb body and mind, blocking nirvāṇa. Disciples and pratyekabuddhas end it and attain liberation; bodhisattvas also end the cognitive obstruction and become buddhas.
+  quotes:
+    - text: 由我、法執二障具生，若證二空，彼障隨斷。斷障為得二勝果故，由斷續生煩惱障故，證真解脫；由斷礙解所知障故，得大菩提。
+      source: 《成唯識論》卷1
+      source_en: Cheng weishi lun, fasc. 1
+      ref: T31n1585_p0001a09
+      refEnd: T31n1585_p0001a12
+      note_en: From grasping at self and at dharmas the two obstructions arise; when the two emptinesses are realized, these obstructions are removed accordingly. The obstructions are cut to gain two supreme fruits — by cutting the afflictive obstruction that continues rebirth, one realizes true liberation; by cutting the cognitive obstruction that hinders understanding, one attains great awakening.
+  related: [ jneyavarana, pudgala-nairatmya, nirvana ]
+  compare: [ two-obstructions ]
+
+- id: jneyavarana
+  skt: jñeyāvaraṇa
+  deva: ज्ञेयावरण
+  pali: ''
+  zh: 所知障
+  zhAlt: [ 智障 ]
+  en: cognitive obstruction
+  enAlt: [ obscuration of the knowable, obstruction to omniscience, cognitive obscuration, knowledge obscuration ]
+  root: jñeya「所知」＋ āvaraṇa「障」 · jñeya "the knowable" + āvaraṇa
+  short_zh: 以法執為根本的障礙，覆蓋所知境、障礙菩提；斷之得大菩提。
+  short_en: The cognitive obstruction — rooted in grasping at dharmas, it covers the knowable and blocks awakening; ending it brings great awakening.
+  detail_zh: |
+    所知障由**法執**而生：執著一切法有實在自性，使人不能如實了知一切所知境，障礙菩提（一切智）。它不一定令人輪迴，但使智慧不能圓滿。
+
+    **名稱陷阱**：「所知障」不是「知識造成的障礙」，而是「障礙所知（應知之境）的障」。二乘斷煩惱障而未斷所知障，所以證解脫而未成佛。
+  detail_en: |
+    The cognitive obstruction arises from **grasping at dharmas**: taking all dharmas to have real natures, one cannot know the knowable as it is, which blocks awakening (omniscience). It need not cause rebirth, but it keeps wisdom from completion.
+
+    **Naming trap**: 所知障 is not "an obstruction caused by knowledge" but "the obstruction to what is to be known". The two vehicles end the afflictive but not the cognitive obstruction, so they are liberated but not buddhas.
+  quotes:
+    - text: 由我、法執二障具生，若證二空，彼障隨斷。斷障為得二勝果故，由斷續生煩惱障故，證真解脫；由斷礙解所知障故，得大菩提。
+      source: 《成唯識論》卷1
+      source_en: Cheng weishi lun, fasc. 1
+      ref: T31n1585_p0001a09
+      refEnd: T31n1585_p0001a12
+      note_en: From grasping at self and at dharmas the two obstructions arise … by cutting the cognitive obstruction that hinders understanding, one attains great awakening.
+  related: [ klesavarana, dharma-nairatmya, bodhi ]
+  compare: [ two-obstructions ]
+
+- id: pudgala-nairatmya
+  skt: pudgala-nairātmya
+  deva: पुद्गलनैरात्म्य
+  pali: ''
+  zh: 人無我
+  zhAlt: [ 補特伽羅無我, 我空, 人空 ]
+  en: selflessness of persons
+  enAlt: [ non-self of persons, emptiness of self, personal selflessness, absence of a personal self ]
+  root: pudgala「補特伽羅、人」＋ nairātmya「無我性」 · pudgala "person" + nairātmya
+  short_zh: 五蘊和合的有情之中沒有實在的人我；證之斷煩惱障。
+  short_en: No real personal self in the being made of the aggregates; realizing it ends the afflictive obstruction.
+  detail_zh: |
+    《大乘百法明門論》結尾：「言無我者，略有二種：一補特伽羅無我、二法無我。」補特伽羅（pudgala）意為「數取趣」——一再往來諸趣的「人」。人無我就是證知這個輪迴的「人」只是五蘊的假合，沒有常一主宰的我。
+
+    人無我（我空）對治我執，斷煩惱障，是二乘與大乘共證的。
+  detail_en: |
+    The Hundred Dharmas treatise concludes: "Non-self is briefly of two kinds: non-self of the person and non-self of dharmas." Pudgala is "the one who again and again takes rebirth" — the person. Selflessness of persons is realizing that this transmigrating "person" is only a composite of aggregates, with no permanent controlling self.
+
+    It counters self-grasping and ends the afflictive obstruction; both the two vehicles and the Mahāyāna realize it.
+  quotes:
+    - text: 言無我者，略有二種：一補特伽羅無我、二法無我。
+      source: 《大乘百法明門論》
+      source_en: Mahāyāna Hundred Dharmas Treatise
+      ref: T31n1614_p0855c20
+      refEnd: T31n1614_p0855c21
+      note_en: As for non-self, it is briefly of two kinds — the non-self of the person and the non-self of dharmas.
+  related: [ dharma-nairatmya, anatman, klesavarana ]
+  compare: [ two-obstructions ]
+
+- id: dharma-nairatmya
+  skt: dharma-nairātmya
+  deva: धर्मनैरात्म्य
+  pali: ''
+  zh: 法無我
+  zhAlt: [ 法空 ]
+  en: selflessness of phenomena
+  enAlt: [ non-self of dharmas, emptiness of phenomena, selflessness of dharmas, phenomenal selflessness ]
+  root: dharma「法」＋ nairātmya「無我性」 · dharma + nairātmya
+  short_zh: 構成人的諸法（五蘊等）本身也沒有實在自性；證之斷所知障。大乘的特色見地。
+  short_en: The dharmas composing a person (aggregates etc.) themselves lack real nature; realizing it ends the cognitive obstruction. A hallmark Mahāyāna insight.
+  detail_zh: |
+    阿毗達磨把人分析為諸法，破了人我，卻可能執諸法為實有。大乘進一步指出：連五蘊、十二處、十八界等法也是依他而起、如幻不實，沒有獨立自性——這就是法無我（法空）。
+
+    法無我對治法執，斷所知障，是成佛所必須。唯識說「二空所顯真如」即圓成實性。
+  detail_en: |
+    Abhidharma analyses the person into dharmas, undoing the personal self, but may still take the dharmas as real. The Mahāyāna goes further: even the aggregates, bases and elements are dependently arisen, illusion-like, without independent nature — selflessness of dharmas.
+
+    It counters grasping at dharmas and ends the cognitive obstruction, required for buddhahood. Yogācāra calls "the suchness disclosed by the two emptinesses" the perfected nature.
+  quotes:
+    - text: 言無我者，略有二種：一補特伽羅無我、二法無我。
+      source: 《大乘百法明門論》
+      source_en: Mahāyāna Hundred Dharmas Treatise
+      ref: T31n1614_p0855c20
+      refEnd: T31n1614_p0855c21
+      note_en: As for non-self, it is briefly of two kinds — the non-self of the person and the non-self of dharmas.
+  related: [ pudgala-nairatmya, sunyata, jneyavarana ]
+  compare: [ two-obstructions ]
+
+- id: tathata
+  skt: tathatā
+  deva: तथता
+  pali: tathatā
+  zh: 真如
+  zhAlt: [ 如, 如如, 法性, 實相 ]
+  en: suchness
+  enAlt: [ thusness, true suchness, reality, tathata ]
+  root: tathā「如此」＋ -tā「性」 · tathā "thus" + -tā "-ness"
+  short_zh: 諸法真實不虛、恆常如此的本性；二空所顯，即圓成實性。
+  short_en: Suchness — the true, unchanging nature of dharmas, disclosed by the two emptinesses; the perfected nature.
+  detail_zh: |
+    《成唯識論》：「真謂真實，顯非虛妄；如謂如常，表無變易。」真如是諸法的實性，不是另一個實體，而是法無我、人無我所顯的本性。《大乘五蘊論》：「云何真如？謂諸法法性、法無我性。」
+
+    百法中真如列為六無為之一（真如無為），是其他無為法的根本。
+  detail_en: |
+    Cheng weishi lun: "'True' means real, showing it is not false; 'such' means constantly so, indicating that it does not change." Suchness is the real nature of dharmas — not another entity but the nature disclosed by selflessness of persons and dharmas. Pañcaskandhaka: "What is suchness? The dharma-nature of dharmas, their selflessness."
+
+    Among the hundred dharmas it is one of the six unconditioned (suchness-unconditioned), the basis of the others.
+  quotes:
+    - text: 真謂真實，顯非虛妄，如謂如常，表無變易
+      source: 《成唯識論》卷9
+      source_en: Cheng weishi lun, fasc. 9
+      ref: T31n1585_p0048a23
+      refEnd: T31n1585_p0048a24
+      note_en: '"True" means real, showing it is not false; "such" means constantly so, indicating that it does not change.'
+    - text: 云何真如？謂諸法法性、法無我性。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0850a23
+      note_en: What is suchness? The dharma-nature of dharmas, the selflessness of dharmas.
+  related: [ parinispanna, sunyata, asamskrta ]

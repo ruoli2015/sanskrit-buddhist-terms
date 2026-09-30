@@ -1,0 +1,55 @@
+id: sunyata-anatman
+title_zh: 空（śūnyatā）與無我（anātman）
+title_en: Emptiness vs. non-self
+terms: [ sunyata, anatman, pudgala-nairatmya, dharma-nairatmya ]
+summary_zh: 早期經典的無我主要破「人我」；大乘的空進一步說一切法（包括構成人的諸法）都無自性——人無我加上法無我。
+summary_en: Early non-self chiefly undoes the personal self; Mahāyāna emptiness extends this to all dharmas, including those composing the person — selflessness of persons plus of phenomena.
+table:
+  columns:
+    - { zh: 無我, en: Non-self }
+    - { zh: 空, en: Emptiness }
+  rows:
+    - label: { zh: 主要否定, en: Chiefly denies }
+      cells:
+        - { zh: 常一主宰的「我」, en: A permanent controlling self }
+        - { zh: 一切法的自性, en: Own-being of all dharmas }
+    - label: { zh: 典型經證, en: Typical text }
+      cells:
+        - { zh: 色無常，無常即苦，苦即非我, en: 'Form is impermanent … not self' }
+        - { zh: 色即是空，空即是色, en: 'Form is emptiness, emptiness is form' }
+    - label: { zh: 所斷, en: Removes }
+      cells:
+        - { zh: 我執、煩惱障, en: 'Self-grasping; afflictive obstruction' }
+        - { zh: 我執與法執、二障, en: 'Both graspings; both obstructions' }
+explanation_zh: |
+  **並非不同的真理**：無我與空都源於緣起。早期經典也說「空」（如「空三昧」），大乘經典也說「無我」；差別主要在範圍：阿毗達磨分析出的諸法是否也無自性。
+
+  **大乘的推進**：《心經》說五蘊皆空；《百法明門論》結尾說「一補特伽羅無我、二法無我」。
+explanation_en: |
+  **Not different truths**: both derive from dependent origination. Early texts also speak of emptiness (e.g. the emptiness concentration), and Mahāyāna texts of non-self; the difference is mainly scope — whether the dharmas found by Abhidharma analysis also lack own-being.
+
+  **The Mahāyāna step**: the Heart Sūtra declares the five aggregates empty; the Hundred Dharmas treatise ends with "non-self of the person and non-self of dharmas".
+quotes:
+  - text: 色不異空，空不異色，色即是空，空即是色；
+    source: 《般若波羅蜜多心經》
+    source_en: Heart Sūtra, tr. Xuanzang
+    ref: T08n0251_p0848c07
+    refEnd: T08n0251_p0848c08
+    note_en: Form is not other than emptiness; emptiness is not other than form. Form is emptiness; emptiness is form.
+questions:
+  - type: mcq
+    q_zh: 大乘在「人無我」之外，特別強調的是？
+    q_en: Beyond selflessness of persons, the Mahāyāna stresses…
+    options:
+      - { zh: 法無我, en: selflessness of phenomena }
+      - { zh: 常住自我, en: a permanent self }
+      - { zh: 極微實有, en: real atoms }
+    answer: 0
+    explain_zh: 二無我：人無我、法無我。
+    explain_en: 'Two selflessnesses: of persons and of phenomena.'
+  - type: tf
+    q_zh: 空的意思是「什麼都不存在」。
+    q_en: Emptiness means "nothing exists at all".
+    answer: false
+    explain_zh: 空是無自性，不是斷滅；「以有空義故，一切法得成」。
+    explain_en: Emptiness is lack of own-being, not nothingness.

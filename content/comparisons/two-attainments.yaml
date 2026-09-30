@@ -1,0 +1,58 @@
+id: two-attainments
+title_zh: 無想定與滅盡定
+title_en: Attainment of non-perception vs. attainment of cessation
+terms: [ asamjni-samapatti, nirodha-samapatti ]
+summary_zh: 兩者都是「無心定」：無想定是凡夫以出離想為目的所修，只滅前六識；滅盡定是聖者以止息為目的所入，連第七識的染污部分也滅。
+summary_en: 'Both are "mindless attainments": the non-perceptual one is practised by ordinary meditators seeking to escape perception and stops only the first six consciousnesses; cessation is entered by noble ones seeking stillness and also stops the defiled part of the seventh.'
+table:
+  columns:
+    - { zh: 無想定, en: Non-perception }
+    - { zh: 滅盡定, en: Cessation }
+  rows:
+    - label: { zh: 修者, en: Practitioner }
+      cells:
+        - { zh: 凡夫、外道, en: Ordinary meditators }
+        - { zh: 聖者（不還、阿羅漢、菩薩）, en: Noble ones }
+    - label: { zh: 動機, en: Motive }
+      cells:
+        - { zh: 出離想（以無想為解脫）, en: Escaping perception (mistaken for liberation) }
+        - { zh: 止息想，求寂靜, en: 'Stilling, seeking peace' }
+    - label: { zh: 所滅, en: What ceases }
+      cells:
+        - { zh: 不恒行心心所（前六識）, en: Non-constant minds (first six) }
+        - { zh: 前六識及恒行一分（第七染分）, en: First six plus part of the constant (defiled seventh) }
+    - label: { zh: 果, en: Result }
+      cells:
+        - { zh: 生無想天, en: Birth among non-perceiving gods }
+        - { zh: 近似涅槃的寂靜, en: Peace resembling nirvāṇa }
+explanation_zh: |
+  《大乘五蘊論》分別定義：無想等至「由出離想作意為先，不恒現行心心法滅為性」；滅盡等至「由止息想作意為先，不恒現行及恒行一分心心法滅為性」。
+
+  兩者中阿賴耶識都不滅——這是唯識論證第八識的理由之一：出定時，心識從哪裡再生起？
+explanation_en: |
+  The Pañcaskandhaka defines the non-perceptual attainment as "preceded by attention to escaping perception, the cessation of the non-constant minds and factors", and cessation as "preceded by attention to stilling, the cessation of the non-constant and part of the constant minds and factors".
+
+  In both, the store consciousness continues — one of Yogācāra's arguments for it: from where would mind re-arise on emerging?
+quotes:
+  - text: 云何滅盡等至？謂已離無所有處貪，從第一有更求勝進，由止息想作意為先，不恒現行及恒行一分心心法滅為性。
+    source: 《大乘五蘊論》
+    source_en: Pañcaskandhaka
+    ref: T31n1612_p0849c10
+    refEnd: T31n1612_p0849c12
+    note_en: What is the attainment of cessation? Free of desire for the sphere of nothingness, seeking to progress beyond the peak of existence, preceded by attention aimed at stilling, its nature is the cessation of the non-constant minds and mental factors and part of the constant ones.
+questions:
+  - type: mcq
+    q_zh: 哪一種定連第七識的染污部分也滅？
+    q_en: Which attainment also stops the defiled part of the seventh consciousness?
+    options:
+      - { zh: 無想定, en: non-perception }
+      - { zh: 滅盡定, en: cessation }
+    answer: 1
+    explain_zh: 滅盡定滅「不恒現行及恒行一分」。
+    explain_en: Cessation stops "the non-constant and part of the constant".
+  - type: tf
+    q_zh: 在滅盡定中，阿賴耶識也滅了。
+    q_en: In the attainment of cessation, the store consciousness also ceases.
+    answer: false
+    explain_zh: 阿賴耶恆轉不斷，執持根身。
+    explain_en: The store consciousness continues, sustaining the body.

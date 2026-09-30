@@ -1,0 +1,75 @@
+id: four-fruits
+title_zh: 聲聞四果
+title_en: The four fruits of the disciple path
+terms: [ srotaapanna, sakrdagamin, anagamin, arhat ]
+summary_zh: 須陀洹（斷三結）→ 斯陀含（貪瞋癡薄）→ 阿那含（斷五下分結，不還欲界）→ 阿羅漢（斷盡一切煩惱，不受後有）。
+summary_en: Stream-enterer (three fetters cut) → once-returner (greed, hatred, delusion weakened) → non-returner (five lower fetters cut, not returning to the desire realm) → arhat (all afflictions ended, no further birth).
+table:
+  columns:
+    - { zh: 須陀洹, en: Stream-enterer }
+    - { zh: 斯陀含, en: Once-returner }
+    - { zh: 阿那含, en: Non-returner }
+    - { zh: 阿羅漢, en: Arhat }
+  rows:
+    - label: { zh: 意譯, en: Chinese meaning }
+      cells:
+        - { zh: 預流、入流, en: Entered the stream }
+        - { zh: 一來, en: Once returning }
+        - { zh: 不還, en: Not returning }
+        - { zh: 應供、無學, en: Worthy; beyond training }
+    - label: { zh: 所斷, en: Cut }
+      cells:
+        - { zh: 三結（身見、戒禁取、疑）, en: 'Three fetters (self-view, rules, doubt)' }
+        - { zh: 三結，貪瞋癡薄, en: 'Three fetters; greed etc. weakened' }
+        - { zh: 五下分結, en: Five lower fetters }
+        - { zh: 一切煩惱, en: All afflictions }
+    - label: { zh: 餘生, en: Remaining births }
+      cells:
+        - { zh: 最多七次往返, en: At most seven }
+        - { zh: 還來人間一次, en: Returns once }
+        - { zh: 不還欲界, en: Not in the desire realm }
+        - { zh: 不受後有, en: None }
+explanation_zh: |
+  《雜阿含經》：「三結斷得須陀洹……七有天人往生，究竟苦邊。」「三結盡，貪、恚、癡薄，得斯陀含。」「五下分結盡，生般涅槃阿那含。」阿羅漢則自說：「我生已盡，梵行已立，所作已作，自知不受後有。」
+
+  五下分結＝三結＋欲貪＋瞋恚；阿羅漢再斷五上分結（色貪、無色貪、掉舉、慢、無明）。
+explanation_en: |
+  Saṃyuktāgama: "Cutting the three fetters one becomes a stream-enterer … reborn at most seven times, reaching the end of suffering." "The three fetters ended, greed, hatred and delusion weakened — once-returner." "The five lower fetters ended — non-returner." The arhat declares: "Birth is ended, the holy life lived, what had to be done is done; there is no further existence."
+
+  The five lower fetters = the three plus sensual desire and ill will; the arhat also cuts the five higher (desire for form and formless existence, restlessness, pride, ignorance).
+quotes:
+  - text: 三結斷得須陀洹，不墮惡趣法，決定正趣三菩提，七有天人往生，究竟苦邊
+    source: 《雜阿含經》卷32（第917經）
+    source_en: Saṃyuktāgama, fasc. 32, sūtra 917
+    ref: T02n0099_p0232c07
+    refEnd: T02n0099_p0232c08
+    note_en: Having cut the three fetters one attains stream-entry, is not subject to the lower destinies, is certain of awakening, is reborn at most seven times among gods and humans, and reaches the end of suffering.
+questions:
+  - type: mcq
+    q_zh: 斷五下分結而得的是？
+    q_en: Cutting the five lower fetters yields…
+    options:
+      - { zh: 須陀洹, en: stream-entry }
+      - { zh: 斯陀含, en: once-returning }
+      - { zh: 阿那含, en: non-returning }
+      - { zh: 阿羅漢, en: arhatship }
+    answer: 2
+    explain_zh: 「五下分結盡，生般涅槃阿那含。」
+    explain_en: '"The five lower fetters ended — non-returner."'
+  - type: mcq
+    q_zh: 三結不包括下列哪一項？
+    q_en: Which is NOT one of the three fetters?
+    options:
+      - { zh: 身見, en: self-view }
+      - { zh: 戒禁取, en: clinging to rules }
+      - { zh: 疑, en: doubt }
+      - { zh: 瞋恚, en: ill will }
+    answer: 3
+    explain_zh: 瞋恚屬五下分結中的後二結之一。
+    explain_en: Ill will is among the two extra lower fetters.
+  - type: tf
+    q_zh: 須陀洹最多再往返人天七次。
+    q_en: A stream-enterer is reborn at most seven more times.
+    answer: true
+    explain_zh: 「七有天人往生，究竟苦邊。」
+    explain_en: '"Reborn at most seven times … reaching the end of suffering."'

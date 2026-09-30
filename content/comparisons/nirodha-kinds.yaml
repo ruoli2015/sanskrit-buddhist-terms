@@ -1,0 +1,69 @@
+id: nirodha-kinds
+title_zh: 種種「滅」：擇滅、非擇滅、滅盡定、涅槃
+title_en: Kinds of cessation — through discernment, not through discernment, the attainment, nirvāṇa
+terms: [ pratisamkhya-nirodha, apratisamkhya-nirodha, nirodha-samapatti, nirvana, asamskrta ]
+summary_zh: 擇滅＝由慧斷惑所證之滅＝涅槃（無為）；非擇滅是缺緣不生（無為，非解脫）；滅盡定是暫時止息心識的定（有為的不相應行）。
+summary_en: Cessation through discernment = cessation won by wisdom = nirvāṇa (unconditioned); cessation not through discernment is non-arising for lack of conditions (unconditioned, not liberation); the attainment of cessation is a temporary stilling of mind (a conditioned non-associated formation).
+table:
+  columns:
+    - { zh: 擇滅, en: Through discernment }
+    - { zh: 非擇滅, en: Not through discernment }
+    - { zh: 滅盡定, en: Attainment of cessation }
+  rows:
+    - label: { zh: 有為／無為, en: Conditioned? }
+      cells:
+        - { zh: 無為, en: Unconditioned }
+        - { zh: 無為, en: Unconditioned }
+        - { zh: 有為（不相應行）, en: Conditioned (non-associated formation) }
+    - label: { zh: 如何得, en: How attained }
+      cells:
+        - { zh: 慧力斷煩惱（離繫）, en: Wisdom cutting afflictions (disjunction) }
+        - { zh: 缺緣而不生（非離繫）, en: Lack of conditions (not disjunction) }
+        - { zh: 修定暫滅心心所, en: Meditation temporarily stops mind }
+    - label: { zh: 是否解脫, en: Liberation? }
+      cells:
+        - { zh: 是，即涅槃, en: Yes — nirvāṇa }
+        - { zh: 否, en: No }
+        - { zh: 否（暫時）, en: No (temporary) }
+explanation_zh: |
+  《大乘五蘊論》：「云何擇滅？謂若滅是離繫……由煩惱對治故諸蘊畢竟不生。」「云何非擇滅？謂若滅非離繫……離煩惱對治而諸蘊畢竟不生。」
+
+  判別關鍵有二：是否由**慧**（擇）而得；是否**離繫**（脫離煩惱）。只有擇滅兩者皆是，所以擇滅即涅槃。滅盡定雖名為「滅」，卻是有時限的定，出定後心識再起。
+explanation_en: |
+  Pañcaskandhaka: "What is cessation through discernment? A cessation that is disjunction … through the antidote to afflictions the aggregates never arise again." "What is cessation not through discernment? A cessation that is not disjunction … the aggregates never arise, apart from any antidote."
+
+  Two tests: is it won by **wisdom** (discernment)? is it **disjunction** (release from afflictions)? Only the first cessation passes both, so it is nirvāṇa. The attainment of cessation, despite its name, is a time-limited meditative state; mind returns on emerging.
+quotes:
+  - text: 云何擇滅？謂若滅是離繫。此復云何？謂由煩惱對治故諸蘊畢竟不生。
+    source: 《大乘五蘊論》
+    source_en: Pañcaskandhaka
+    ref: T31n1612_p0850a21
+    refEnd: T31n1612_p0850a23
+    note_en: What is cessation through discernment? A cessation that is disjunction. What is it? Because of the antidote to the afflictions, the aggregates never arise again.
+questions:
+  - type: mcq
+    q_zh: 哪一種滅即是涅槃？
+    q_en: Which cessation is nirvāṇa?
+    options:
+      - { zh: 擇滅, en: through discernment }
+      - { zh: 非擇滅, en: not through discernment }
+      - { zh: 滅盡定, en: the attainment of cessation }
+    answer: 0
+    explain_zh: 擇滅由慧斷惑、是離繫，即涅槃。
+    explain_en: It is won by wisdom and is disjunction — nirvāṇa.
+  - type: tf
+    q_zh: 滅盡定屬於無為法。
+    q_en: The attainment of cessation is unconditioned.
+    answer: false
+    explain_zh: 滅盡定是心不相應行，屬有為；「想受滅無為」則是依之假立的無為。
+    explain_en: It is a non-associated formation (conditioned); "cessation of perception and feeling" as an unconditioned is designated on it.
+  - type: mcq
+    q_zh: 專心看畫時沒聽到的聲音，那一刻的耳識永不生起——這屬於？
+    q_en: Absorbed in a painting, a sound goes unheard and that ear-consciousness never arises. This is…
+    options:
+      - { zh: 擇滅, en: cessation through discernment }
+      - { zh: 非擇滅, en: cessation not through discernment }
+      - { zh: 滅盡定, en: attainment of cessation }
+    answer: 1
+    explain_zh: 缺緣不生，非由慧力，是非擇滅。
+    explain_en: Non-arising for lack of conditions, not through wisdom.

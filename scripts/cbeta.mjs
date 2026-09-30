@@ -258,7 +258,9 @@ async function resolve(files) {
       const m = line.match(/^(\s*(?:- )?[A-Za-z_]+: )(.+)$/);
       if (!m || /^['"|>\[{]/.test(m[2]) || !(/: /.test(m[2]) || / #/.test(m[2]))) return line;
       return m[1] + "'" + m[2].replace(/'/g, "''") + "'";
-    }).join('\n');
+    }).join('\n')
+      // In flow maps like { zh: …, en: a, b } an unquoted comma splits the value; quote such en values.
+      .replace(/(\{\s*zh: [^{}]*?, en: )([^'"{}][^{}]*?)(\s*\})/g, (m, a, v, b) => (v.includes(',') ? `${a}'${v.trim().replace(/'/g, "''")}'${b}` : m));
     const doc = parseDocument(src);
     if (doc.errors.length) {
       console.log(`✗ ${file}: YAML error, fix first:\n${doc.errors.map((e) => '   ' + e.message.split('\n')[0]).join('\n')}`);

@@ -1,0 +1,59 @@
+id: three-bodies
+title_zh: 佛的三身：法身、報身、化身
+title_en: The three bodies — dharma, enjoyment, emanation
+terms: [ dharmakaya, sambhogakaya, nirmanakaya ]
+summary_zh: 法身是真如本性（自性身），報身是福慧所成、受用法樂之身（受用身），化身是為度眾隨類示現之身（變化身）。
+summary_en: The dharma body is the nature of suchness; the enjoyment body is produced by merit and wisdom, enjoying the Dharma; the emanation body appears in forms suited to beings.
+table:
+  columns:
+    - { zh: 法身, en: Dharma body }
+    - { zh: 報身, en: Enjoyment body }
+    - { zh: 化身, en: Emanation body }
+  rows:
+    - label: { zh: 唯識名稱, en: Yogācāra name }
+      cells:
+        - { zh: 自性身, en: Intrinsic body }
+        - { zh: 受用身（自受用、他受用）, en: Enjoyment body (self / other) }
+        - { zh: 變化身, en: Transformation body }
+    - label: { zh: 所化對象, en: Seen by }
+      cells:
+        - { zh: 唯佛與佛, en: Buddhas alone }
+        - { zh: 他受用：登地菩薩, en: 'Other-enjoyment: bodhisattvas on the stages' }
+        - { zh: 凡夫、二乘、未登地菩薩, en: 'Ordinary beings, two vehicles, pre-stage bodhisattvas' }
+    - label: { zh: 例, en: Example }
+      cells:
+        - { zh: 真淨法界, en: The pure dharma-realm }
+        - { zh: 盧舍那佛（傳統說法）, en: Vairocana/Locana (traditional) }
+        - { zh: 釋迦牟尼佛, en: Śākyamuni }
+explanation_zh: |
+  《成唯識論》：「如是法身，有三相別：一、自性身……二、受用身……三、變化身。」三身不是三個佛，而是同一佛果的三個面向：真如本性、圓滿功德、應機示現。
+explanation_en: |
+  Cheng weishi lun: "This dharma body has three aspects: the intrinsic body, the enjoyment body and the transformation body." They are not three buddhas but three aspects of one buddhahood: the nature of suchness, perfect qualities, and manifestation suited to beings.
+quotes:
+  - text: 三、變化身：謂諸如來由成事智，變現無量隨類化身，居淨、穢土，為未登地諸菩薩眾、二乘、異生，稱彼機宜，現通說法，令各獲得諸利樂事。
+    source: 《成唯識論》卷10
+    source_en: Cheng weishi lun, fasc. 10
+    ref: T31n1585_p0058a02
+    refEnd: T31n1585_p0058a06
+    note_en: Third, the emanation body — through the wisdom that accomplishes tasks, the tathāgatas manifest countless emanations suited to kinds of beings, in pure and impure lands, teaching according to their capacities so that each gains benefit and happiness.
+questions:
+  - type: mcq
+    q_zh: 歷史上的釋迦牟尼佛屬於哪一身？
+    q_en: The historical Śākyamuni is which body?
+    options:
+      - { zh: 法身, en: dharma body }
+      - { zh: 報身, en: enjoyment body }
+      - { zh: 化身, en: emanation body }
+    answer: 2
+    explain_zh: 為凡夫二乘示現出生成道的是化身（變化身）。
+    explain_en: The body displaying birth and awakening for ordinary beings is the emanation body.
+  - type: mcq
+    q_zh: 唯識稱法身為？
+    q_en: Yogācāra calls the dharma body…
+    options:
+      - { zh: 自性身, en: intrinsic body }
+      - { zh: 受用身, en: enjoyment body }
+      - { zh: 變化身, en: transformation body }
+    answer: 0
+    explain_zh: 「一、自性身……亦名法身。」
+    explain_en: '"The intrinsic body … is also called the dharma body."'

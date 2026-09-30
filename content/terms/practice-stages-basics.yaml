@@ -1,0 +1,482 @@
+# 修行、果位、常用名相
+
+- id: samatha
+  skt: śamatha
+  deva: शमथ
+  pali: samatha
+  zh: 止
+  zhAlt: [ 奢摩他, 寂止 ]
+  en: calm abiding
+  enAlt: [ calm, tranquillity, tranquility, serenity, shamatha, quiescence ]
+  root: √śam「平息」 · √śam "to be calm"
+  short_zh: 令心安住一境、止息散亂的修習；與觀並稱止觀。掉舉是它的主要障礙。
+  short_en: Calm abiding — settling the mind on one object and stilling distraction; paired with insight. Restlessness is its chief obstacle.
+  detail_zh: |
+    śamatha 音譯「奢摩他」，意譯「止」。止是讓心平靜、專注的修習，以心所中的「定」為核心。《成唯識論》說掉舉「能障行捨、奢摩他」——心浮動便無法止。
+
+    **止觀雙運**：《雜阿含經》：「修習於止，終成於觀；修習觀已，亦成於止。」止使心穩定，觀使心明見；兩者相輔相成。
+  detail_en: |
+    Śamatha, transliterated 奢摩他, means "calming". It is the practice of making the mind peaceful and focused, centred on the mental factor concentration. The Cheng weishi lun says restlessness "obstructs equanimity and śamatha" — an agitated mind cannot settle.
+
+    **Calm and insight together**: Saṃyuktāgama: "Cultivating calm culminates in insight; having cultivated insight, calm is also accomplished." Calm stabilizes, insight sees clearly; each supports the other.
+  quotes:
+    - text: 『修習於止，多修習已，當何所成，修習於觀，多修習已，當何所成？』上座答言：尊者阿難！修習於止，終成於觀，修習觀已，亦成於止。
+      source: 《雜阿含經》卷17（第464經）
+      source_en: Saṃyuktāgama, fasc. 17, sūtra 464
+      ref: T02n0099_p0118b21
+      refEnd: T02n0099_p0118b24
+      note_en: '"Cultivating calm, having cultivated it much, what does it accomplish? Cultivating insight, having cultivated it much, what does it accomplish?" The elder answered: "Venerable Ānanda! Cultivating calm culminates in insight; having cultivated insight, calm is also accomplished."'
+  related: [ vipasyana, samadhi, auddhatya ]
+  compare: [ samatha-vipasyana ]
+
+- id: vipasyana
+  skt: vipaśyanā
+  deva: विपश्यना
+  pali: vipassanā
+  zh: 觀
+  zhAlt: [ 毘鉢舍那, 毗婆舍那, 內觀 ]
+  en: insight
+  enAlt: [ insight meditation, clear seeing, vipassana, vipashyana, special insight ]
+  root: vi-√paś「分明地看」 · vi-√paś "to see distinctly"
+  short_zh: 在止的基礎上，以慧如實觀察諸法（無常、苦、無我、空）的修習。惛沈是它的主要障礙。
+  short_en: Insight — on the basis of calm, observing dharmas as they are (impermanent, suffering, non-self, empty) with wisdom. Torpor is its chief obstacle.
+  detail_zh: |
+    vipaśyanā 音譯「毘鉢舍那」，意譯「觀」。觀以心所中的「慧」為核心，是如實了知諸法實相的修習。《成唯識論》說惛沈「能障輕安、毘鉢舍那」——心昏沉便看不清。
+
+    **名稱陷阱**：止觀之「觀」（vipaśyanā）與舊譯「覺觀」之「觀」（vicāra，即伺）不同。
+  detail_en: |
+    Vipaśyanā, transliterated 毘鉢舍那, means "seeing distinctly". Centred on the mental factor wisdom, it is the practice of knowing the true nature of dharmas. The Cheng weishi lun says torpor "obstructs pliancy and vipaśyanā" — a dull mind cannot see clearly.
+
+    **Naming trap**: the 觀 of 止觀 (vipaśyanā) differs from the 觀 of the old rendering 覺觀 (vicāra).
+  quotes:
+    - text: 云何惛沈？令心於境，無堪任為性；能障輕安、毘鉢舍那為業。
+      source: 《成唯識論》卷6
+      source_en: Cheng weishi lun, fasc. 6
+      ref: T31n1585_p0034a19
+      refEnd: T31n1585_p0034a20
+      note_en: What is torpor? Its nature is making the mind unfit with regard to its object; its function is to obstruct pliancy and vipaśyanā.
+  related: [ samatha, prajna, styana ]
+  compare: [ samatha-vipasyana ]
+
+- id: smrtyupasthana
+  skt: smṛtyupasthāna
+  deva: स्मृत्युपस्थान
+  pali: satipaṭṭhāna
+  zh: 四念處
+  zhAlt: [ 四念住, 念處, 念住 ]
+  en: foundations of mindfulness
+  enAlt: [ four foundations of mindfulness, establishments of mindfulness, applications of mindfulness, satipatthana ]
+  root: smṛti「念」＋ upasthāna「安住、建立」 · smṛti + upasthāna "establishing"
+  short_zh: 觀身、受、心、法四處以安住正念的修行；經中稱為「一乘道」。
+  short_en: The four foundations of mindfulness — establishing mindfulness on body, feeling, mind and dharmas; called "the one-way path".
+  detail_zh: |
+    《雜阿含經》：「有一乘道，淨眾生，離憂、悲、惱、苦，得真如法，所謂四念處。何等為四？身身觀念處，受、心、法法觀念處。」
+
+    傳統配合對治四顛倒：觀身不淨破淨倒、觀受是苦破樂倒、觀心無常破常倒、觀法無我破我倒。四念處是三十七道品之首。
+  detail_en: |
+    Saṃyuktāgama: "There is a one-way path that purifies beings, frees them from sorrow, lamentation, pain and grief, and attains the true Dharma — the four foundations of mindfulness. Which four? Contemplating body as body, and feeling, mind and dharmas likewise."
+
+    Traditionally each counters an inversion: body as unattractive (against seeing it as pure), feeling as suffering (against pleasure), mind as impermanent (against permanence), dharmas as non-self (against self). They head the thirty-seven factors of awakening.
+  quotes:
+    - text: 有一乘道，淨眾生，離憂、悲、惱、苦，得真如法，所謂四念處。何等為四？身身觀念處，受、心、法法觀念處。
+      source: 《雜阿含經》卷19（第535經）
+      source_en: Saṃyuktāgama, fasc. 19, sūtra 535
+      ref: T02n0099_p0139a20
+      refEnd: T02n0099_p0139a23
+      note_en: There is a one-way path that purifies beings, frees them from sorrow, grief, distress and suffering, and attains the true Dharma — namely the four foundations of mindfulness. Which four? Contemplating the body as body, and feeling, mind and dharmas as dharmas.
+  related: [ smrti, vipasyana ]
+
+- id: nivarana
+  skt: nīvaraṇa
+  deva: नीवरण
+  pali: nīvaraṇa
+  zh: 五蓋
+  zhAlt: [ 蓋 ]
+  en: hindrances
+  enAlt: [ five hindrances, hindrance, obstacles, coverings ]
+  root: ni-√vṛ「遮蓋」 · ni-√vṛ "to cover, obstruct"
+  short_zh: 覆蓋心性、障礙禪定的五種煩惱：貪欲、瞋恚、惛眠、掉悔、疑。
+  short_en: The five hindrances — sensual desire, ill will, torpor-and-sleep, restlessness-and-remorse, doubt — which cover the mind and block meditation.
+  detail_zh: |
+    《雜阿含經》：「貪欲蓋、瞋恚蓋、睡眠蓋、掉悔蓋、疑蓋。」五蓋與心所的關係：貪欲蓋是貪，瞋恚蓋是瞋，惛眠蓋是惛沈與睡眠，掉悔蓋是掉舉與惡作，疑蓋是疑。
+
+    五蓋暫時伏除，心才能入初禪。
+  detail_en: |
+    Saṃyuktāgama: "The hindrance of sensual desire, of ill will, of torpor-and-sleep, of restlessness-and-remorse, and of doubt." Mapped to mental factors: desire is greed, ill will is aversion, torpor-and-sleep are torpor and sleep, restlessness-and-remorse are restlessness and regret, doubt is doubt.
+
+    Only when the five are suppressed can the mind enter the first dhyāna.
+  quotes:
+    - text: 貪欲蓋、瞋恚蓋、睡眠蓋、掉悔蓋、疑蓋。
+      source: 《雜阿含經》卷24（第611經）
+      source_en: Saṃyuktāgama, fasc. 24, sūtra 611
+      ref: T02n0099_p0171c03
+      refEnd: T02n0099_p0171c04
+      note_en: The hindrance of sensual desire, the hindrance of ill will, the hindrance of torpor-and-sleep, the hindrance of restlessness-and-remorse, the hindrance of doubt.
+  related: [ raga, pratigha, styana, middha, auddhatya, kaukrtya, vicikitsa, dhyana ]
+
+- id: klesa
+  skt: kleśa
+  deva: क्लेश
+  pali: kilesa
+  zh: 煩惱
+  zhAlt: [ 惑, 根本煩惱 ]
+  en: affliction
+  enAlt: [ afflictions, defilement, defilements, disturbing emotion, klesha, mental affliction ]
+  root: √kliś「折磨、染污」 · √kliś "to torment, soil"
+  short_zh: 擾亂身心、使有情流轉生死的心理作用；百法中根本煩惱有六，隨煩惱二十。
+  short_en: Affliction — mental states that disturb body and mind and keep beings in saṃsāra; six root and twenty secondary in the hundred dharmas.
+  detail_zh: |
+    kleśa 源自 √kliś「折磨」——煩惱讓身心不得安寧。《唯識三十頌》：「煩惱謂貪、瞋、癡、慢、疑、惡見。」這六者是根本，隨煩惱由它們分出。
+
+    煩惱是十二因緣中「惑、業、苦」的惑；由我執而生的煩惱總名為煩惱障。
+  detail_en: |
+    Kleśa comes from √kliś "to torment" — afflictions leave body and mind no peace. Thirty Verses: "The afflictions are greed, aversion, delusion, pride, doubt and wrong view." These six are the roots from which the secondary afflictions derive.
+
+    Afflictions are the "affliction" of "affliction, karma, suffering"; those arising from self-grasping form the afflictive obstruction.
+  quotes:
+    - text: 煩惱謂貪、瞋、癡、慢、疑、惡見。
+      source: 《唯識三十論頌》
+      source_en: Triṃśikā (Thirty Verses)
+      ref: T31n1586_p0060b26
+      note_en: The afflictions are greed, aversion, delusion, pride, doubt and wrong view.
+  related: [ raga, pratigha, avidya, anusaya, klesavarana ]
+  compare: [ klesa-anusaya ]
+
+- id: anusaya
+  skt: anuśaya
+  deva: अनुशय
+  pali: anusaya
+  zh: 隨眠
+  zhAlt: [ 使 ]
+  en: latent tendency
+  enAlt: [ latent disposition, underlying tendency, latent affliction, proclivity, anusaya ]
+  root: anu-√śī「隨之而臥、潛伏」 · anu-√śī "to lie along with, lie dormant"
+  short_zh: 潛伏的煩惱：如睡眠般隨逐有情、平時不現，遇緣即起。俱舍說六隨眠為「諸有本」。
+  short_en: Latent tendency — dormant affliction that follows beings like sleep, unseen until conditions arise. The Abhidharmakośa calls the six "the root of existence".
+  detail_zh: |
+    anuśaya 字面是「隨之而臥」。《俱舍論》：「隨眠諸有本，此差別有六，謂貪、瞋、亦慢，無明、見及疑。」說一切有部以隨眠即煩惱本身；經部與唯識則認為隨眠是煩惱的**種子**（潛在狀態），現起的才叫纏（煩惱）。
+
+    例如嬰兒還不會生起身見，卻已有身見的隨眠。
+  detail_en: |
+    Anuśaya literally means "lying along with". Abhidharmakośa: "The latent tendencies are the root of existence; they are six — greed, aversion, pride, ignorance, views and doubt." The Sarvāstivāda equates latent tendencies with the afflictions; the Sautrāntika and Yogācāra take them as **seeds** (latent states) of afflictions, the manifest ones being "entanglements".
+
+    An infant cannot yet form a self-view, yet has its latent tendency.
+  quotes:
+    - text: 隨眠諸有本，此差別有六，謂貪瞋亦慢，無明見及疑。
+      source: 《阿毘達磨俱舍論》卷19
+      source_en: Abhidharmakośabhāṣya, fasc. 19
+      ref: T29n1558_p0098b21
+      refEnd: T29n1558_p0098b22
+      note_en: The latent tendencies are the root of existence; they are of six kinds — greed, aversion, pride, ignorance, views and doubt.
+  related: [ klesa, bija ]
+  compare: [ klesa-anusaya ]
+
+# ---------------- 果位 ----------------
+
+- id: sravaka
+  skt: śrāvaka
+  deva: श्रावक
+  pali: sāvaka
+  zh: 聲聞
+  zhAlt: [ 聲聞乘, 弟子 ]
+  en: disciple
+  enAlt: [ hearer, listener, sravaka, shravaka ]
+  root: √śru「聽聞」 · √śru "to hear"
+  short_zh: 聽聞佛陀教法而修行、求自身解脫的弟子；三乘之一。
+  short_en: Disciple ("hearer") — one who practises by hearing the Buddha's teaching and seeks his or her own liberation; one of the three vehicles.
+  detail_zh: |
+    《妙法蓮華經》：「內有智性，從佛世尊聞法信受，慇懃精進，欲速出三界，自求涅槃，是名聲聞乘。」聲聞依四聖諦修行，斷煩惱障，最高證阿羅漢果。
+
+    大乘把聲聞、緣覺合稱「二乘」，與菩薩乘相對。
+  detail_en: |
+    Lotus Sūtra: "Wise by nature, hearing the Dharma from the Buddha and accepting it, diligent, wishing to leave the three realms quickly and seeking nirvāṇa for themselves — this is the disciple vehicle." Disciples practise the noble truths, end the afflictive obstruction and at most attain arhatship.
+
+    The Mahāyāna groups disciples and pratyekabuddhas as the "two vehicles", in contrast to the bodhisattva vehicle.
+  quotes:
+    - text: 內有智性，從佛世尊聞法信受，慇懃精進，欲速出三界，自求涅槃，是名聲聞乘
+      source: 《妙法蓮華經》卷2
+      source_en: Lotus Sūtra, tr. Kumārajīva, fasc. 2
+      ref: T09n0262_p0013b18
+      refEnd: T09n0262_p0013b20
+      note_en: Having inner wisdom, hearing the Dharma from the World-Honoured Buddha and accepting it, diligent, wishing to leave the three realms swiftly and seeking nirvāṇa for oneself — this is called the disciple vehicle.
+  related: [ pratyekabuddha, arhat, bodhisattva ]
+  compare: [ three-vehicles ]
+
+- id: pratyekabuddha
+  skt: pratyekabuddha
+  deva: प्रत्येकबुद्ध
+  pali: paccekabuddha
+  zh: 緣覺
+  zhAlt: [ 辟支佛, 獨覺, 辟支迦佛 ]
+  en: solitary buddha
+  enAlt: [ pratyekabuddha, self-awakened one, private buddha, solitary realizer ]
+  root: pratyeka「各別、獨自」＋ buddha「覺者」 · pratyeka "individual" + buddha
+  short_zh: 不依佛教、獨自觀十二因緣而悟道者；三乘之一。又譯獨覺。
+  short_en: Solitary buddha — one who awakens alone by contemplating dependent origination, without a teacher; one of the three vehicles.
+  detail_zh: |
+    《妙法蓮華經》：「若有眾生從佛世尊聞法信受，慇懃精進，求自然慧，樂獨善寂，深知諸法因緣，是名辟支佛乘。」「緣覺」取觀因緣而覺；「獨覺」取無佛之世獨自悟道。
+
+    緣覺證悟後通常不廣為說法，這是與佛的主要差別。
+  detail_en: |
+    Lotus Sūtra: "Hearing the Dharma and accepting it, diligent, seeking natural wisdom, delighting in solitary quiet, deeply knowing the causes and conditions of dharmas — this is the pratyekabuddha vehicle." 緣覺 "awakened through conditions" stresses contemplating dependent origination; 獨覺 "solitary awakened" stresses awakening alone in an age without a buddha.
+
+    Having awakened, they usually do not teach widely — the main difference from a buddha.
+  quotes:
+    - text: 若有眾生從佛世尊聞法信受，慇懃精進，求自然慧，樂獨善寂，深知諸法因緣，是名辟支佛乘
+      source: 《妙法蓮華經》卷2
+      source_en: Lotus Sūtra, tr. Kumārajīva, fasc. 2
+      ref: T09n0262_p0013b21
+      refEnd: T09n0262_p0013b23
+      note_en: If there are beings who hear the Dharma from the World-Honoured Buddha, accept it, strive diligently, seek natural wisdom, delight in solitary quiet and deeply understand the causes and conditions of dharmas — this is called the pratyekabuddha vehicle.
+  related: [ sravaka, pratityasamutpada, arhat ]
+  compare: [ three-vehicles ]
+
+- id: srotaapanna
+  skt: srotaāpanna
+  deva: स्रोतआपन्न
+  pali: sotāpanna
+  zh: 須陀洹
+  zhAlt: [ 預流, 入流, 初果 ]
+  en: stream-enterer
+  enAlt: [ stream enterer, stream-entry, stream winner, sotapanna ]
+  root: srotas「流」＋ āpanna「進入」 · srotas "stream" + āpanna "entered"
+  short_zh: 斷身見、戒禁取、疑三結，初入聖道之流；最多七次往返人天即得解脫。四果之初果。
+  short_en: Stream-enterer — having cut the three fetters (self-view, clinging to rules, doubt), one has entered the stream of the noble path; at most seven more lives. The first fruit.
+  detail_zh: |
+    《雜阿含經》：「三結斷得須陀洹，不墮惡趣法，決定正趣三菩提，七有天人往生，究竟苦邊。」三結即身見、戒禁取、疑——都是見道所斷的煩惱。
+
+    須陀洹是從凡夫到聖者的關鍵轉折：見到了四諦的真理，從此不再退轉。
+  detail_en: |
+    Saṃyuktāgama: "Cutting the three fetters one becomes a stream-enterer, not subject to the lower realms, certain of awakening, being reborn at most seven times among gods and humans, reaching the end of suffering." The three fetters are self-view, clinging to rules and rituals, and doubt — abandoned at the path of seeing.
+
+    It is the decisive turn from ordinary being to noble one: having seen the truth, one no longer falls back.
+  quotes:
+    - text: 三結斷得須陀洹，不墮惡趣法，決定正趣三菩提，七有天人往生，究竟苦邊
+      source: 《雜阿含經》卷32（第917經）
+      source_en: Saṃyuktāgama, fasc. 32, sūtra 917
+      ref: T02n0099_p0232c07
+      refEnd: T02n0099_p0232c08
+      note_en: Having cut the three fetters one attains stream-entry, is not subject to the lower destinies, is certain of right awakening, is reborn at most seven times among gods and humans, and reaches the end of suffering.
+  related: [ sakrdagamin, anagamin, arhat, drsti, vicikitsa ]
+  compare: [ four-fruits ]
+
+- id: sakrdagamin
+  skt: sakṛdāgāmin
+  deva: सकृदागामिन्
+  pali: sakadāgāmī
+  zh: 斯陀含
+  zhAlt: [ 一來, 二果 ]
+  en: once-returner
+  enAlt: [ once returner, sakadagami, once-return ]
+  root: sakṛt「一次」＋ āgāmin「來者」 · sakṛt "once" + āgāmin "one who comes"
+  short_zh: 斷三結，貪瞋癡薄，只再往返人間一次即得解脫；四果之二果。
+  short_en: Once-returner — three fetters cut and greed, hatred and delusion weakened; returns to this world only once more. The second fruit.
+  detail_zh: |
+    《雜阿含經》：「三結盡，貪、恚、癡薄，得斯陀含。」斯陀含在須陀洹的基礎上進一步削弱欲界的貪瞋，但尚未斷盡。
+  detail_en: |
+    Saṃyuktāgama: "The three fetters ended, greed, hatred and delusion weakened, one attains once-returning." Building on stream-entry, the once-returner further weakens desire-realm greed and hatred, without yet ending them.
+  quotes:
+    - text: 貪、恚、癡薄，得斯陀含
+      source: 《雜阿含經》卷15（第393經）
+      source_en: Saṃyuktāgama, fasc. 15, sūtra 393
+      ref: T02n0099_p0106b02
+      note_en: Greed, hatred and delusion weakened, one attains once-returning.
+  related: [ srotaapanna, anagamin ]
+  compare: [ four-fruits ]
+
+- id: anagamin
+  skt: anāgāmin
+  deva: अनागामिन्
+  pali: anāgāmī
+  zh: 阿那含
+  zhAlt: [ 不還, 三果 ]
+  en: non-returner
+  enAlt: [ non returner, anagami, never-returner ]
+  root: an-「不」＋ āgāmin「來者」 · an- + āgāmin "one who comes"
+  short_zh: 斷五下分結，不再生於欲界，於色界、無色界證涅槃；四果之三果。
+  short_en: Non-returner — five lower fetters cut, never reborn in the desire realm, attaining nirvāṇa in a higher realm. The third fruit.
+  detail_zh: |
+    《雜阿含經》：「五下分結盡，生般涅槃阿那含。」五下分結：身見、戒禁取、疑、欲貪、瞋恚——繫縛有情於欲界的五種煩惱。斷盡後不再還來欲界。
+  detail_en: |
+    Saṃyuktāgama: "The five lower fetters ended, one is a non-returner attaining nirvāṇa upon rebirth [in a higher realm]." The five lower fetters — self-view, clinging to rules, doubt, sensual desire, ill will — bind beings to the desire realm; with them cut, one does not return here.
+  quotes:
+    - text: 五下分結盡，生般涅槃阿那含
+      source: 《雜阿含經》卷15（第393經）
+      source_en: Saṃyuktāgama, fasc. 15, sūtra 393
+      ref: T02n0099_p0106b06
+      note_en: The five lower fetters ended, one is a non-returner who attains parinirvāṇa after rebirth.
+  related: [ sakrdagamin, arhat, raga, pratigha ]
+  compare: [ four-fruits ]
+
+- id: arhat
+  skt: arhat
+  deva: अर्हत्
+  pali: arahant
+  zh: 阿羅漢
+  zhAlt: [ 應供, 無學, 殺賊, 羅漢, 四果 ]
+  en: arhat
+  enAlt: [ worthy one, arahant, arahat, perfected one, saint ]
+  root: √arh「值得」 · √arh "to be worthy"
+  short_zh: 斷盡一切煩惱、不再受生的聖者；聲聞乘的最高果位。
+  short_en: Arhat — the noble one who has ended all afflictions and will not be reborn; the highest fruit of the disciple vehicle.
+  detail_zh: |
+    arhat 意為「值得（供養）者」，漢譯「應供」；又有「殺賊」（殺煩惱賊）、「不生」、「無學」（已無可學）之義。經中證阿羅漢者自說：「我生已盡，梵行已立，所作已作，自知不受後有。」
+
+    唯識說到阿羅漢位，末那不再執阿賴耶為我，故「阿羅漢位捨」阿賴耶之名。大乘認為阿羅漢已斷煩惱障，但未斷所知障。
+  detail_en: |
+    Arhat means "worthy (of offerings)", Chinese 應供; also glossed "slayer of the foe" (afflictions), "not reborn", "beyond training". Those attaining it declare: "Birth is ended, the holy life lived, what had to be done is done; I know there is no further existence."
+
+    Yogācāra says that at arhatship manas no longer grasps the store consciousness as self, so its name ālaya is "relinquished at arhatship". The Mahāyāna holds that arhats have ended the afflictive but not the cognitive obstruction.
+  quotes:
+    - text: 我生已盡，梵行已立，所作已作，自知不受後有。
+      source: 《雜阿含經》卷1（第1經）
+      source_en: Saṃyuktāgama, fasc. 1, sūtra 1
+      ref: T02n0099_p0001a13
+      refEnd: T02n0099_p0001a14
+      note_en: My births are ended, the holy life is lived, what had to be done is done; I know for myself that there is no further existence.
+  related: [ anagamin, sravaka, nirvana, klesavarana ]
+  compare: [ four-fruits, three-vehicles ]
+
+# ---------------- 常用名相 ----------------
+
+- id: buddha
+  skt: buddha
+  deva: बुद्ध
+  pali: buddha
+  zh: 佛
+  zhAlt: [ 佛陀, 覺者, 世尊 ]
+  en: buddha
+  enAlt: [ awakened one, enlightened one, the Buddha ]
+  root: √budh「覺醒」的過去分詞 · past participle of √budh, "awakened"
+  short_zh: 「覺者」：自覺、覺他、覺行圓滿者。有十種尊號。
+  short_en: '"The awakened one": awakened oneself, awakening others, perfect in awakening. Has ten epithets.'
+  detail_zh: |
+    buddha 是 √budh（醒）的過去分詞，「醒過來的人」。自覺、覺他、覺行圓滿，是佛與二乘（只自覺）、菩薩（覺行未圓滿）的區別。
+
+    **十號**：《雜阿含經》：「如來、應、等正覺、明行足、善逝、世間解、無上士、調御丈夫、天人師、佛世尊。」
+  detail_en: |
+    Buddha is the past participle of √budh "to wake" — "one who has woken up". Awakened oneself, awakening others, perfect in awakening — distinguishing a buddha from the two vehicles (self-awakened only) and bodhisattvas (not yet perfect).
+
+    **Ten epithets** (Saṃyuktāgama): "Tathāgata, worthy, perfectly awakened, accomplished in knowledge and conduct, well-gone, knower of the world, unsurpassed, tamer of those to be tamed, teacher of gods and humans, Buddha, World-Honoured."
+  quotes:
+    - text: 如來、應、等正覺、明行足、善逝、世間解、無上士、調御丈夫、天人師、佛世尊
+      source: 《雜阿含經》卷2（第53經）
+      source_en: Saṃyuktāgama, fasc. 2, sūtra 53
+      ref: T02n0099_p0012c11
+      refEnd: T02n0099_p0012c13
+      note_en: Tathāgata, worthy one, perfectly awakened, accomplished in knowledge and conduct, well-gone, knower of the world, unsurpassed, tamer of those to be tamed, teacher of gods and humans, Buddha, World-Honoured One.
+  related: [ bodhi, tathagata, dharmakaya ]
+
+- id: tathagata
+  skt: tathāgata
+  deva: तथागत
+  pali: tathāgata
+  zh: 如來
+  zhAlt: [ 多陀阿伽陀 ]
+  en: thus-gone one
+  enAlt: [ tathagata, thus-come one, thus come, thus gone, tathāgata ]
+  root: tathā「如此」＋ gata「去」／āgata「來」 · tathā "thus" + gata "gone" / āgata "come"
+  short_zh: 佛的十號之首：「乘如實道而來」，或「如是去」。
+  short_en: First of the Buddha's ten epithets — "thus come" by the path of suchness, or "thus gone".
+  detail_zh: |
+    tathāgata 可拆為 tathā-gata（如是去）或 tathā-āgata（如是來）。漢譯「如來」取後者：乘真如之道而來成正覺。《金剛經》則破其相：「如來者，無所從來，亦無所去，故名如來。」
+  detail_en: |
+    Tathāgata can be read tathā-gata "thus gone" or tathā-āgata "thus come". Chinese 如來 takes the latter: come by the path of suchness to perfect awakening. The Diamond Sūtra undercuts the image: "The Tathāgata comes from nowhere and goes nowhere; therefore he is called Tathāgata."
+  quotes:
+    - text: 如來者，無所從來，亦無所去，故名如來。
+      source: 《金剛般若波羅蜜經》
+      source_en: Vajracchedikā (Diamond Sūtra), tr. Kumārajīva
+      ref: T08n0235_p0752b04
+      refEnd: T08n0235_p0752b05
+      note_en: The Tathāgata does not come from anywhere, nor go anywhere; therefore he is called the Tathāgata.
+  related: [ buddha, tathata ]
+
+- id: dharma
+  skt: dharma
+  deva: धर्म
+  pali: dhamma
+  zh: 法
+  zhAlt: [ 達磨, 正法, 佛法 ]
+  en: dharma
+  enAlt: [ the Dharma, teaching, phenomenon, phenomena, law, truth, dhamma, element ]
+  root: √dhṛ「持」 · √dhṛ "to hold, support"
+  short_zh: 「任持自性，軌生物解」：一指佛陀的教法（三寶之法），二指一切現象（諸法）。
+  short_en: '"What holds its own nature": both the Buddha''s teaching (the Dharma of the Three Jewels) and any phenomenon (dharmas).'
+  detail_zh: |
+    dharma 源自 √dhṛ（持）。中國注家解為「任持自性，軌生物解」：能保持自己的特性，並成為令人理解的軌範。常見兩大意義：
+
+    1. **佛法、教法**：三寶中的「法」，佛陀所說的真理與教導；
+    2. **諸法、現象**：一切存在的構成要素，如百法、五蘊中的每一法。
+
+    另外「法處」「法界」的「法」專指意識所緣。《中阿含經》：「若見緣起便見法，若見法便見緣起。」
+  detail_en: |
+    Dharma comes from √dhṛ "to hold". Chinese commentators gloss it "holding its own nature, serving as a pattern that produces understanding". Two main senses:
+
+    1. **The Dharma, the teaching**: the Dharma of the Three Jewels, the truth taught by the Buddha;
+    2. **dharmas, phenomena**: the constituents of existence, e.g. each of the hundred dharmas or the elements of the aggregates.
+
+    And in "dharma base/element" it means specifically the object of mind. Madhyamāgama: "Whoever sees dependent origination sees the Dharma; whoever sees the Dharma sees dependent origination."
+  quotes:
+    - text: 若見緣起便見法，若見法便見緣起。
+      source: 《中阿含經》卷7（第30經）
+      source_en: Madhyamāgama, fasc. 7, sūtra 30
+      ref: T01n0026_p0467a09
+      refEnd: T01n0026_p0467a10
+      note_en: If one sees dependent origination, one sees the Dharma; if one sees the Dharma, one sees dependent origination.
+  related: [ pratityasamutpada, dharmayatana, buddha ]
+
+- id: samsara
+  skt: saṃsāra
+  deva: संसार
+  pali: saṃsāra
+  zh: 輪迴
+  zhAlt: [ 生死, 流轉, 生死輪迴 ]
+  en: cyclic existence
+  enAlt: [ samsara, round of rebirth, cycle of rebirth, wandering, transmigration ]
+  root: saṃ-√sṛ「流動、漫遊」 · saṃ-√sṛ "to flow, wander on"
+  short_zh: 有情因無明與愛，在三界六道中生死相續、流轉不已。
+  short_en: Cyclic existence — beings wandering from birth to birth through the realms, driven by ignorance and craving.
+  detail_zh: |
+    saṃsāra 字面是「一同流動、漫遊」。《雜阿含經》：「於無始生死，無明所蓋，愛結所繫，長夜輪迴，不知苦之本際。」輪迴的動力是惑（無明、愛）與業；十二因緣正是輪迴的結構分析。
+
+    唯識以阿賴耶識的種子相續、「恒轉如瀑流」說明輪迴中沒有常一的我，卻有業果的延續。
+  detail_en: |
+    Saṃsāra literally means "flowing together, wandering on". Saṃyuktāgama: "Beings, in beginningless birth and death, covered by ignorance and bound by the fetter of craving, wander through the long night, not knowing the beginning of suffering." Its engine is affliction (ignorance, craving) and karma; the twelve links analyse its structure.
+
+    Yogācāra explains, through the continuity of seeds in the store consciousness "flowing like a torrent", how there is continuity of karma without a permanent self.
+  quotes:
+    - text: 於無始生死，無明所蓋，愛結所繫，長夜輪迴，不知苦之本際；
+      source: 《雜阿含經》卷10（第266經）
+      source_en: Saṃyuktāgama, fasc. 10, sūtra 266
+      ref: T02n0099_p0069b05
+      refEnd: T02n0099_p0069b07
+      note_en: In beginningless birth and death, covered by ignorance and bound by the fetter of craving, [beings] wander on through the long night, not knowing the beginning of suffering.
+  related: [ pratityasamutpada, karma, nirvana ]
+
+- id: kalpa
+  skt: kalpa
+  deva: कल्प
+  pali: kappa
+  zh: 劫
+  zhAlt: [ 劫波, 大劫 ]
+  en: aeon
+  enAlt: [ eon, kalpa, world-age, age ]
+  root: '√kḷp「安排、形成」 · √kḷp "to arrange": a world-cycle'
+  short_zh: 極長的時間單位，一個世界成住壞空的週期。
+  short_en: Aeon — an immensely long unit of time; the cycle of a world's formation, duration, destruction and emptiness.
+  detail_zh: |
+    kalpa 是印度宇宙論的時間單位。《雜阿含經》以芥子喻形容其長：「譬如鐵城，方一由旬，高下亦爾，滿中芥子，有人百年取一芥子，盡其芥子，劫猶不竟。」
+
+    菩薩成佛需經「三大阿僧祇劫」（三無數劫），報身的功德就是在這樣長的時間中修集的。
+  detail_en: |
+    Kalpa is a unit of Indian cosmological time. The Saṃyuktāgama's mustard-seed simile: "Suppose an iron city a yojana on each side and as high, filled with mustard seeds; if someone removed one seed every hundred years, the seeds would be exhausted before the aeon ended."
+
+    A bodhisattva takes "three incalculable aeons" to become a buddha; the enjoyment body's qualities are gathered over such spans.
+  quotes:
+    - text: 譬如鐵城，方一由旬，高下亦爾，滿中芥子，有人百年取一芥子，盡其芥子，劫猶不竟。
+      source: 《雜阿含經》卷34（第948經）
+      source_en: Saṃyuktāgama, fasc. 34, sūtra 948
+      ref: T02n0099_p0242b22
+      refEnd: T02n0099_p0242b24
+      note_en: Suppose an iron city one yojana square and as high, filled with mustard seeds; if someone took away one seed every hundred years, the seeds would be used up and still the aeon would not be over.
+  related: [ samsara, sambhogakaya ]

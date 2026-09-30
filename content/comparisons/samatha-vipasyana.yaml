@@ -1,0 +1,73 @@
+id: samatha-vipasyana
+title_zh: 止、觀、定、禪定
+title_en: Calm, insight, concentration, meditative absorption
+terms: [ samatha, vipasyana, samadhi, dhyana ]
+summary_zh: 定是心所（專注）；止是以定為核心的修習；觀是以慧為核心的修習；禪（dhyāna）是特定的深定狀態（四禪）。惛沈障觀，掉舉障止。
+summary_en: Concentration is a mental factor (focus); calm is the practice centred on it; insight is the practice centred on wisdom; dhyāna is a specific class of deep absorptions. Torpor blocks insight, restlessness blocks calm.
+table:
+  columns:
+    - { zh: 止 śamatha, en: Calm }
+    - { zh: 觀 vipaśyanā, en: Insight }
+    - { zh: 定 samādhi, en: Concentration }
+    - { zh: 禪 dhyāna, en: Absorption }
+  rows:
+    - label: { zh: 是什麼, en: What it is }
+      cells:
+        - { zh: 修習（令心安住）, en: A practice (settling) }
+        - { zh: 修習（如實觀察）, en: A practice (seeing clearly) }
+        - { zh: 別境心所, en: Object-specific mental factor }
+        - { zh: 深定狀態（四禪）, en: Deep states (four dhyānas) }
+    - label: { zh: 核心心所, en: Core factor }
+      cells:
+        - { zh: 定, en: Concentration }
+        - { zh: 慧, en: Wisdom }
+        - { zh: —, en: — }
+        - { zh: 定為主，伴隨其他禪支, en: Concentration with dhyāna factors }
+    - label: { zh: 主要障礙, en: Main obstacle }
+      cells:
+        - { zh: 掉舉, en: Restlessness }
+        - { zh: 惛沈, en: Torpor }
+        - { zh: 散亂, en: Distraction }
+        - { zh: 五蓋, en: The five hindrances }
+explanation_zh: |
+  《雜阿含經》：「修習於止，終成於觀；修習觀已，亦成於止。」止觀相輔：止讓心穩，觀讓心明。
+
+  《成唯識論》精確指出障礙：掉舉「能障行捨、奢摩他」，惛沈「能障輕安、毘鉢舍那」。
+explanation_en: |
+  Saṃyuktāgama: "Cultivating calm culminates in insight; having cultivated insight, calm is also accomplished." Calm steadies, insight clarifies.
+
+  The Cheng weishi lun names the obstacles precisely: restlessness "obstructs equanimity and śamatha", torpor "obstructs pliancy and vipaśyanā".
+quotes:
+  - text: 『修習於止，多修習已，當何所成，修習於觀，多修習已，當何所成？』上座答言：尊者阿難！修習於止，終成於觀，修習觀已，亦成於止。
+    source: 《雜阿含經》卷17（第464經）
+    source_en: Saṃyuktāgama, fasc. 17, sūtra 464
+    ref: T02n0099_p0118b21
+    refEnd: T02n0099_p0118b24
+    note_en: Cultivating calm culminates in insight; having cultivated insight, calm is also accomplished.
+questions:
+  - type: mcq
+    q_zh: 觀（毘鉢舍那）的主要障礙是？
+    q_en: What chiefly obstructs insight (vipaśyanā)?
+    options:
+      - { zh: 惛沈, en: torpor }
+      - { zh: 掉舉, en: restlessness }
+      - { zh: 慳, en: stinginess }
+    answer: 0
+    explain_zh: 惛沈「能障輕安、毘鉢舍那」。
+    explain_en: Torpor "obstructs pliancy and vipaśyanā".
+  - type: tf
+    q_zh: 定（samādhi）本身是一個心所。
+    q_en: Samādhi itself is a mental factor.
+    answer: true
+    explain_zh: 定屬五別境心所之一。
+    explain_en: It is one of the five object-specific factors.
+  - type: mcq
+    q_zh: 觀的核心心所是？
+    q_en: The core mental factor of insight is…
+    options:
+      - { zh: 慧, en: wisdom }
+      - { zh: 念, en: mindfulness }
+      - { zh: 欲, en: aspiration }
+    answer: 0
+    explain_zh: 止以定為核心，觀以慧為核心。
+    explain_en: Calm centres on concentration, insight on wisdom.

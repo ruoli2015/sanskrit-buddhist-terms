@@ -1,0 +1,329 @@
+# 大乘要義
+
+- id: sunyata
+  skt: śūnyatā
+  deva: शून्यता
+  pali: suññatā
+  zh: 空
+  zhAlt: [ 空性, 性空 ]
+  en: emptiness
+  enAlt: [ voidness, sunyata, openness, emptiness of inherent existence ]
+  root: śūnya「空的、零」＋ -tā「性」 · śūnya "empty, zero" + -tā
+  short_zh: 一切法依緣而起，沒有獨立不變的自性。不是「什麼都沒有」，而是「沒有自性」。
+  short_en: Emptiness — all dharmas arise dependently and lack independent, unchanging own-being. Not "nothing at all" but "no intrinsic nature".
+  detail_zh: |
+    śūnya 也是印度數學中的「零」。般若經與中觀以空說明一切法**無自性**：因為依緣而起，所以沒有獨立存在的本質。《心經》：「色不異空，空不異色，色即是空，空即是色。」
+
+    **空不是斷滅**：《中論》：「以有空義故，一切法得成；若無空義者，一切則不成。」正因為無自性，因果、修行、解脫才有可能；若一切法有固定自性，就不能改變。
+
+    **空與緣起**：「眾因緣生法，我說即是空（無）」——空與緣起是同一件事的兩面。唯識則以「二空所顯」的真如說圓成實性，並批評「惡取空」（撥無一切的虛無見）。
+  detail_en: |
+    Śūnya is also the Indian mathematical "zero". Prajñāpāramitā and Madhyamaka use emptiness to show that all dharmas **lack own-being**: arising dependently, they have no independent essence. Heart Sūtra: "Form is not other than emptiness, emptiness not other than form; form is emptiness, emptiness is form."
+
+    **Emptiness is not annihilation**: Mūlamadhyamakakārikā: "Because emptiness is possible, all things are possible; were emptiness impossible, nothing would be possible." Precisely because things lack fixed natures, cause and effect, practice and liberation can happen.
+
+    **Emptiness and dependent origination** are two sides of one fact. Yogācāra speaks of the suchness "disclosed by the two emptinesses" and criticizes "wrongly grasped emptiness" — nihilism.
+  quotes:
+    - text: 色不異空，空不異色，色即是空，空即是色；
+      source: 《般若波羅蜜多心經》
+      source_en: Heart Sūtra, tr. Xuanzang
+      ref: T08n0251_p0848c07
+      refEnd: T08n0251_p0848c08
+      note_en: Form is not other than emptiness; emptiness is not other than form. Form is emptiness; emptiness is form.
+    - text: 以有空義故，一切法得成；若無空義者，一切則不成。
+      source: 《中論》卷4
+      source_en: Mūlamadhyamakakārikā, tr. Kumārajīva, fasc. 4
+      ref: T30n1564_p0033a22
+      refEnd: T30n1564_p0033a23
+      note_en: Because there is the meaning of emptiness, all dharmas can be established; if there were no meaning of emptiness, nothing could be established.
+  related: [ pratityasamutpada, nihsvabhava, anatman, tathata ]
+  compare: [ sunyata-anatman ]
+
+- id: samvrti-satya
+  skt: saṃvṛti-satya
+  deva: संवृतिसत्य
+  pali: sammuti-sacca
+  zh: 世俗諦
+  zhAlt: [ 俗諦, 世諦 ]
+  en: conventional truth
+  enAlt: [ relative truth, conventional reality, worldly truth, surface-level truth ]
+  root: saṃ-√vṛ「覆蓋」→「世俗、約定」 · saṃvṛti "covering; convention"
+  short_zh: 依世間名言、約定所安立的真實；二諦之一。
+  short_en: Conventional truth — reality as established by worldly language and convention; one of the two truths.
+  detail_zh: |
+    saṃvṛti 有「覆蓋」與「約定」二義：凡夫的認識覆蓋了真相，而世間的名言約定建立起「有人、有物」的世界。《中論》：「諸佛依二諦，為眾生說法：一以世俗諦，二第一義諦。」
+
+    **俗諦不可廢**：「若不依俗諦，不得第一義；不得第一義，則不得涅槃。」佛陀用世間的語言、概念（如「我」「眾生」）來說法，引導人通達勝義；否定世俗諦就無法修行。
+  detail_en: |
+    Saṃvṛti means both "covering" and "convention": ordinary cognition covers reality, while worldly language builds a world of "persons and things". Mūlamadhyamakakārikā: "The buddhas teach the Dharma relying on two truths: worldly conventional truth and ultimate truth."
+
+    **Not to be discarded**: "Without relying on the conventional, the ultimate is not attained; without attaining the ultimate, nirvāṇa is not attained." The Buddha uses worldly words and concepts ("self", "beings") to lead people to the ultimate; rejecting convention makes practice impossible.
+  quotes:
+    - text: 諸佛依二諦，為眾生說法：一以世俗諦，二第一義諦。
+      source: 《中論》卷4
+      source_en: Mūlamadhyamakakārikā, tr. Kumārajīva, fasc. 4
+      ref: T30n1564_p0032c16
+      refEnd: T30n1564_p0032c17
+      note_en: The buddhas, relying on the two truths, teach the Dharma for beings — first, worldly conventional truth; second, ultimate truth.
+    - text: 若不依俗諦，不得第一義；不得第一義，則不得涅槃。
+      source: 《中論》卷4
+      source_en: Mūlamadhyamakakārikā, tr. Kumārajīva, fasc. 4
+      ref: T30n1564_p0033a02
+      refEnd: T30n1564_p0033a03
+      note_en: Without relying on conventional truth, the ultimate is not attained; without attaining the ultimate, nirvāṇa is not attained.
+  related: [ paramartha-satya, sunyata ]
+  compare: [ two-truths ]
+
+- id: paramartha-satya
+  skt: paramārtha-satya
+  deva: परमार्थसत्य
+  pali: paramattha-sacca
+  zh: 勝義諦
+  zhAlt: [ 第一義諦, 真諦, 真實諦 ]
+  en: ultimate truth
+  enAlt: [ absolute truth, ultimate reality, highest truth, supreme truth ]
+  root: parama「最高」＋ artha「義、對象」 · parama "highest" + artha "meaning, object"
+  short_zh: 聖者智慧所證的究竟真實——空性、真如；二諦之一。
+  short_en: 'Ultimate truth — the final reality realized by the wisdom of the noble ones: emptiness, suchness; one of the two truths.'
+  detail_zh: |
+    paramārtha 意為「最高的義」。鳩摩羅什譯「第一義諦」，玄奘譯「勝義諦」。中觀以一切法的空性為勝義；唯識以二空所顯的真如（圓成實性）為勝義。
+
+    勝義不離世俗：勝義是世俗法的真實本性，不是另一個世界。所以說「依世俗而證勝義」。
+  detail_en: |
+    Paramārtha means "the highest meaning". Kumārajīva renders it 第一義諦, Xuanzang 勝義諦. Madhyamaka takes the emptiness of all dharmas as ultimate; Yogācāra the suchness disclosed by the two emptinesses (the perfected nature).
+
+    The ultimate is not apart from the conventional: it is the true nature of conventional things, not another world. Hence "realizing the ultimate by relying on the conventional".
+  quotes:
+    - text: 諸佛依二諦，為眾生說法：一以世俗諦，二第一義諦。
+      source: 《中論》卷4
+      source_en: Mūlamadhyamakakārikā, tr. Kumārajīva, fasc. 4
+      ref: T30n1564_p0032c16
+      refEnd: T30n1564_p0032c17
+      note_en: The buddhas, relying on the two truths, teach the Dharma — first, worldly conventional truth; second, ultimate truth.
+  related: [ samvrti-satya, sunyata, tathata ]
+  compare: [ two-truths ]
+
+- id: tathagatagarbha
+  skt: tathāgatagarbha
+  deva: तथागतगर्भ
+  pali: ''
+  zh: 如來藏
+  zhAlt: [ 佛性, 如來藏心 ]
+  en: buddha-nature
+  enAlt: [ tathagatagarbha, embryo of the tathāgata, womb of the tathagata, buddha nature, tathāgata-embryo ]
+  root: tathāgata「如來」＋ garbha「胎、藏」 · tathāgata + garbha "womb, embryo"
+  short_zh: 一切眾生本具、被煩惱所覆的如來法身之因；「一切眾生悉有佛性」。
+  short_en: Buddha-nature — the potential for buddhahood innate in all beings, covered by afflictions; "all beings have buddha-nature".
+  detail_zh: |
+    garbha 兼有「胎兒」與「胎藏」之義：眾生是「懷著如來的胎」，如來法身藏在煩惱之中。《如來藏經》以萎華中的佛、礦中的金等九喻說明。《大般涅槃經》：「一切眾生悉有佛性。」
+
+    **與唯識的關係**：如來藏系（《勝鬘經》《大乘起信論》）強調清淨心本具；唯識則以阿賴耶識中的無漏種子說明成佛的可能。兩系在中國佛教中常被融合討論。
+  detail_en: |
+    Garbha means both "embryo" and "womb": beings "carry a tathāgata within", the dharma-body hidden among afflictions. The Tathāgatagarbha-sūtra illustrates it with nine similes (a buddha in a withered lotus, gold in ore…). Mahāparinirvāṇa-sūtra: "All sentient beings have buddha-nature."
+
+    **And Yogācāra**: the tathāgatagarbha tradition (Śrīmālā, Awakening of Faith) stresses an innately pure mind; Yogācāra explains the possibility of buddhahood by pure seeds in the store consciousness. Chinese Buddhism often discusses the two together.
+  quotes:
+    - text: 一切眾生悉有佛性
+      source: 《大般涅槃經》卷6
+      source_en: Mahāparinirvāṇa-sūtra (Dharmakṣema), fasc. 6
+      ref: T12n0374_p0402c08
+      refEnd: T12n0374_p0402c09
+      note_en: All sentient beings have buddha-nature.
+  related: [ dharmakaya, alaya-vijnana, tathata ]
+
+- id: bodhicitta
+  skt: bodhicitta
+  deva: बोधिचित्त
+  pali: ''
+  zh: 菩提心
+  zhAlt: [ 無上菩提心, 發心 ]
+  en: awakening mind
+  enAlt: [ mind of awakening, bodhicitta, mind of enlightenment, enlightened mind, aspiration to awakening ]
+  root: bodhi「覺悟」＋ citta「心」 · bodhi "awakening" + citta "mind"
+  short_zh: 為利益一切眾生而求證無上菩提的心願；大乘修行的根本。
+  short_en: The awakening mind — the resolve to attain supreme awakening for the benefit of all beings; the root of Mahāyāna practice.
+  detail_zh: |
+    菩提心是「上求佛道，下化眾生」的大願。發菩提心標誌大乘修行的開始，成為菩薩。
+
+    **菩提心的重要**：《華嚴經》：「忘失菩提心修諸善根，是為魔業。」善行若失去利他的菩提心，便不能成為成佛之因。菩提心以大悲為根本、以般若為引導。
+  detail_en: |
+    Bodhicitta is the great vow to "seek buddhahood above and liberate beings below". Arousing it marks the start of Mahāyāna practice — one becomes a bodhisattva.
+
+    **Its importance**: Avataṃsaka: "To cultivate roots of goodness while forgetting the awakening mind is the work of Māra." Good deeds without the altruistic awakening mind do not become causes of buddhahood. It is rooted in great compassion and guided by wisdom.
+  quotes:
+    - text: 忘失菩提心修諸善根，是為魔業；
+      source: 《大方廣佛華嚴經》卷58
+      source_en: Avataṃsaka-sūtra (80 fasc.), fasc. 58
+      ref: T10n0279_p0307c18
+      note_en: To forget the awakening mind while cultivating roots of goodness — this is the work of Māra.
+  related: [ bodhisattva, karuna, bodhi ]
+
+- id: bodhisattva
+  skt: bodhisattva
+  deva: बोधिसत्त्व
+  pali: bodhisatta
+  zh: 菩薩
+  zhAlt: [ 菩提薩埵, 覺有情, 大士 ]
+  en: bodhisattva
+  enAlt: [ awakening being, enlightenment being, bodhisatta ]
+  root: bodhi「覺」＋ sattva「有情、勇心」 · bodhi "awakening" + sattva "being; resolve"
+  short_zh: 發菩提心、行六度，自利利他而求成佛的修行者。「覺有情」。
+  short_en: One who has aroused the awakening mind and practises the perfections, benefiting self and others on the way to buddhahood.
+  detail_zh: |
+    菩薩是「菩提薩埵」的簡稱，玄奘譯「覺有情」。《大智度論》解釋：菩提是諸佛之道，薩埵是眾生或大心——以大心求佛道的眾生即是菩薩。
+
+    菩薩的核心是菩提心與六度：不求自己獨自解脫，而是在度化眾生中圓滿智慧與功德。唯識說菩薩歷經十地（十個階位）而成佛。
+  detail_en: |
+    Bodhisattva abbreviates 菩提薩埵; Xuanzang translates "awakening-being" (覺有情). The Dazhidu lun explains: bodhi is the path of the buddhas, sattva is a being or a great mind — a being who seeks the buddha-path with a great mind.
+
+    The core is the awakening mind and the six perfections: not seeking liberation for oneself alone but perfecting wisdom and merit while liberating others. Yogācāra describes ten stages (bhūmi) to buddhahood.
+  quotes:
+    - text: 菩提名諸佛道，薩埵名或眾生，或大心。
+      source: 《大智度論》卷4
+      source_en: Dazhidu lun (*Mahāprajñāpāramitāśāstra), fasc. 4
+      ref: T25n1509_p0086a13
+      refEnd: T25n1509_p0086a14
+      note_en: Bodhi means the path of the buddhas; sattva means a being or a great mind.
+  related: [ bodhicitta, paramita, bodhi ]
+
+- id: bodhi
+  skt: bodhi
+  deva: बोधि
+  pali: bodhi
+  zh: 菩提
+  zhAlt: [ 覺, 正覺, 大菩提, 覺悟 ]
+  en: awakening
+  enAlt: [ enlightenment, bodhi, awakening wisdom ]
+  root: √budh「覺醒」 · √budh "to wake up"
+  short_zh: 斷除煩惱、證悟真理的智慧；佛陀的覺悟。唯識說斷所知障得大菩提。
+  short_en: 'Awakening — the wisdom that ends affliction and realizes truth; the Buddha''s enlightenment. Yogācāra: ending the cognitive obstruction yields great awakening.'
+  detail_zh: |
+    bodhi 與 buddha 同根 √budh「醒」——佛陀是「醒過來的人」。
+
+    **菩提與涅槃**：《成唯識論》：「由斷續生煩惱障故，證真解脫；由斷礙解所知障故，得大菩提。」涅槃側重煩惱的寂滅，菩提側重智慧的圓滿；大乘以兩者兼具為佛果（二轉依果）。
+  detail_en: |
+    Bodhi shares the root √budh "to wake" with buddha — the Buddha is "one who has woken up".
+
+    **Awakening and nirvāṇa**: Cheng weishi lun: "By cutting the afflictive obstruction, one realizes true liberation; by cutting the cognitive obstruction, one attains great awakening." Nirvāṇa stresses the stilling of affliction, bodhi the fulfilment of wisdom; the Mahāyāna fruit has both.
+  quotes:
+    - text: 由我、法執二障具生，若證二空，彼障隨斷。斷障為得二勝果故，由斷續生煩惱障故，證真解脫；由斷礙解所知障故，得大菩提。
+      source: 《成唯識論》卷1
+      source_en: Cheng weishi lun, fasc. 1
+      ref: T31n1585_p0001a09
+      refEnd: T31n1585_p0001a12
+      note_en: From grasping at self and dharmas the two obstructions arise … by cutting the afflictive obstruction one realizes true liberation; by cutting the cognitive obstruction one attains great awakening.
+  related: [ nirvana, jneyavarana, bodhicitta ]
+
+- id: upaya
+  skt: upāya
+  deva: उपाय
+  pali: upāya
+  zh: 方便
+  zhAlt: [ 善巧方便, 方便善巧, 漚和 ]
+  en: skilful means
+  enAlt: [ skillful means, expedient means, skill in means, upaya, expedients ]
+  root: 'upa-√i「接近」→「手段、方法」 · upa-√i "to approach": means, method'
+  short_zh: 佛菩薩隨眾生根機，以種種方法引導其入道的智慧。
+  short_en: Skilful means — the wisdom with which buddhas and bodhisattvas use various methods suited to beings' capacities to lead them to the path.
+  detail_zh: |
+    upāya 字面是「接近的方法」。《維摩詰經》：「智度菩薩母，方便以為父」——般若（智度）與方便如父母，缺一不可：只有智慧而無方便，不能度眾；只有方便而無智慧，易落入世俗。
+
+    《法華經》以火宅喻、化城喻等說明佛陀以三乘方便引導眾生，最終歸於一佛乘。方便也是十度中的第七度。
+  detail_en: |
+    Upāya literally means "a means of approach". Vimalakīrti: "The perfection of wisdom is the bodhisattva's mother, skilful means the father" — both are needed: wisdom without means cannot liberate others; means without wisdom slide into worldliness.
+
+    The Lotus Sūtra's parables of the burning house and the conjured city show the Buddha leading beings through the three vehicles as skilful means, ultimately to the one buddha-vehicle. Skilful means is also the seventh of the ten perfections.
+  quotes:
+    - text: 智度菩薩母，方便以為父
+      source: 《維摩詰所說經》卷2
+      source_en: Vimalakīrti-nirdeśa, tr. Kumārajīva, fasc. 2
+      ref: T14n0475_p0549c02
+      note_en: The perfection of wisdom is the bodhisattva's mother; skilful means is the father.
+  related: [ prajna, paramita, bodhisattva ]
+
+- id: dharmakaya
+  skt: dharmakāya
+  deva: धर्मकाय
+  pali: ''
+  zh: 法身
+  zhAlt: [ 自性身, 法性身 ]
+  en: dharma body
+  enAlt: [ dharmakaya, truth body, body of reality, essential body ]
+  root: dharma「法」＋ kāya「身」 · dharma + kāya "body"
+  short_zh: 佛的真實本性——清淨法界、真如；三身之一，唯識稱「自性身」。
+  short_en: The dharma body — the Buddha's true nature, the pure dharma-realm, suchness; one of the three bodies, in Yogācāra the "intrinsic body".
+  detail_zh: |
+    《成唯識論》：「一、自性身，謂諸如來真淨法界，受用、變化平等所依，離相寂然，絕諸戲論，具無邊際真常功德，是一切法平等實性，即此自性，亦名法身。」
+
+    法身不是有形的身體，而是佛所證的真如本性，是報身與化身的所依。「身」在此取「依止、積聚」之義。
+  detail_en: |
+    Cheng weishi lun: "First, the intrinsic body: the true, pure dharma-realm of the tathāgatas, the common basis of the enjoyment and emanation bodies, signless and still, beyond conceptual proliferation, endowed with boundless true and constant qualities, the equal true nature of all dharmas; this intrinsic nature is also called the dharma body."
+
+    The dharma body is not a physical form but the suchness the Buddha realized, the basis of the other two bodies. "Body" here means "basis, accumulation".
+  quotes:
+    - text: 一、自性身，謂諸如來真淨法界，受用、變化平等所依，離相寂然，絕諸戲論，具無邊際真常功德，是一切法平等實性，即此自性，亦名法身
+      source: 《成唯識論》卷10
+      source_en: Cheng weishi lun, fasc. 10
+      ref: T31n1585_p0057c21
+      refEnd: T31n1585_p0057c24
+      note_en: First, the intrinsic body — the true, pure dharma-realm of the tathāgatas, the common basis of the enjoyment and emanation bodies, signless and still, beyond conceptual proliferation, endowed with boundless true and constant qualities, the equal true nature of all dharmas; this intrinsic nature is also called the dharma body.
+  related: [ sambhogakaya, nirmanakaya, tathata ]
+  compare: [ three-bodies ]
+
+- id: sambhogakaya
+  skt: saṃbhogakāya
+  deva: संभोगकाय
+  pali: ''
+  zh: 報身
+  zhAlt: [ 受用身, 報身佛 ]
+  en: enjoyment body
+  enAlt: [ sambhogakaya, reward body, body of enjoyment, bliss body ]
+  root: saṃbhoga「受用」＋ kāya「身」 · saṃbhoga "enjoyment" + kāya
+  short_zh: 佛由無量福慧所成、受用法樂的圓滿身；三身之一，唯識稱「受用身」，分自受用與他受用。
+  short_en: The enjoyment body — the perfect body produced by boundless merit and wisdom, enjoying the Dharma; in Yogācāra divided into self- and other-enjoyment.
+  detail_zh: |
+    《成唯識論》：「一、自受用，謂諸如來三無數劫，修集無量福慧資糧，所起無邊真實功德，及極圓、淨、常、遍色身，相續湛然，盡未來際，恒自受用廣大法樂。」他受用身則是為十地菩薩示現、令其受用大乘法樂的身。
+
+    「報」是果報：三大阿僧祇劫修行所報得的圓滿之身。
+  detail_en: |
+    Cheng weishi lun: "First, self-enjoyment: the boundless true qualities that the tathāgatas produced by accumulating immeasurable merit and wisdom over three incalculable aeons, and their perfect, pure, constant, pervasive form-body, continuing serenely to the end of time, always enjoying the vast bliss of the Dharma themselves." The other-enjoyment body is manifested for bodhisattvas on the ten stages so they may enjoy the Mahāyāna Dharma.
+
+    "Reward" (報) because it is the fruit of three aeons of practice.
+  quotes:
+    - text: 一、自受用，謂諸如來三無數劫，修集無量福慧資糧，所起無邊真實功德，及極圓、淨、常、遍色身，相續湛然，盡未來際，恒自受用廣大法樂。
+      source: 《成唯識論》卷10
+      source_en: Cheng weishi lun, fasc. 10
+      ref: T31n1585_p0057c25
+      refEnd: T31n1585_p0057c28
+      note_en: First, self-enjoyment — the boundless true qualities produced by the tathāgatas through accumulating immeasurable merit and wisdom over three incalculable aeons, and their perfect, pure, constant and pervasive form-body, continuing serenely to the end of the future, always enjoying the vast bliss of the Dharma themselves.
+  related: [ dharmakaya, nirmanakaya ]
+  compare: [ three-bodies ]
+
+- id: nirmanakaya
+  skt: nirmāṇakāya
+  deva: निर्माणकाय
+  pali: ''
+  zh: 化身
+  zhAlt: [ 變化身, 應身, 應化身 ]
+  en: emanation body
+  enAlt: [ nirmanakaya, transformation body, manifestation body, apparitional body ]
+  root: nir-√mā「化現」＋ kāya「身」 · nirmāṇa "fashioning, emanation" + kāya
+  short_zh: 佛為度化眾生而隨類變現的身，如出生於印度的釋迦牟尼佛；三身之一。
+  short_en: The emanation body — forms a buddha manifests to suit beings, such as Śākyamuni born in India; one of the three bodies.
+  detail_zh: |
+    《成唯識論》：「三、變化身：謂諸如來由成事智，變現無量隨類化身，居淨、穢土，為未登地諸菩薩眾、二乘、異生，稱彼機宜，現通說法，令各獲得諸利樂事。」
+
+    歷史上的釋迦牟尼佛即化身：為凡夫、二乘及未登地菩薩示現出生、成道、說法、涅槃。
+  detail_en: |
+    Cheng weishi lun: "Third, the emanation body: through the wisdom that accomplishes tasks, the tathāgatas manifest countless emanations suited to each kind of being, dwelling in pure and impure lands, and for bodhisattvas not yet on the stages, for the two vehicles and for ordinary beings, according to their capacities, they display powers and teach, so that each gains benefit and happiness."
+
+    The historical Śākyamuni is an emanation body, displaying birth, awakening, teaching and nirvāṇa for ordinary beings, disciples and bodhisattvas below the stages.
+  quotes:
+    - text: 三、變化身：謂諸如來由成事智，變現無量隨類化身，居淨、穢土，為未登地諸菩薩眾、二乘、異生，稱彼機宜，現通說法，令各獲得諸利樂事。
+      source: 《成唯識論》卷10
+      source_en: Cheng weishi lun, fasc. 10
+      ref: T31n1585_p0058a02
+      refEnd: T31n1585_p0058a06
+      note_en: Third, the emanation body — through the wisdom that accomplishes tasks, the tathāgatas manifest countless emanation bodies according to kind, dwelling in pure and impure lands; for bodhisattvas not yet on the stages, for the two vehicles and ordinary beings, suited to their capacities, they display powers and teach the Dharma, so that each obtains benefit and happiness.
+  related: [ dharmakaya, sambhogakaya, upaya ]
+  compare: [ three-bodies ]

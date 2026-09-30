@@ -1,0 +1,51 @@
+id: two-truths
+title_zh: 世俗諦與勝義諦
+title_en: Conventional and ultimate truth
+terms: [ samvrti-satya, paramartha-satya, sunyata ]
+summary_zh: 世俗諦是依名言約定成立的真實（有人、有物、有因果）；勝義諦是聖智所證的空性、真如。依世俗而證勝義，兩者不可偏廢。
+summary_en: Conventional truth is reality established by language and convention (persons, things, cause and effect); ultimate truth is the emptiness or suchness realized by noble wisdom. One reaches the ultimate through the conventional; neither can be discarded.
+table:
+  columns:
+    - { zh: 世俗諦, en: Conventional }
+    - { zh: 勝義諦, en: Ultimate }
+  rows:
+    - label: { zh: 內容, en: Content }
+      cells:
+        - { zh: 名言安立的現象、因果, en: 'Phenomena, cause and effect set up by convention' }
+        - { zh: 空性、真如, en: 'Emptiness, suchness' }
+    - label: { zh: 譯名, en: Renderings }
+      cells:
+        - { zh: 俗諦、世諦, en: 俗諦 / 世諦 }
+        - { zh: 第一義諦（羅什）、勝義諦（玄奘）, en: 第一義諦 (Kumārajīva) / 勝義諦 (Xuanzang) }
+explanation_zh: |
+  《中論》：「諸佛依二諦，為眾生說法：一以世俗諦，二第一義諦。」「若不依俗諦，不得第一義；不得第一義，則不得涅槃。」
+
+  二諦不是兩個世界，而是同一實在的兩種觀看：從名言看，有人有法；從究竟看，一切無自性。
+explanation_en: |
+  Mūlamadhyamakakārikā: "The buddhas teach relying on two truths: worldly conventional truth and ultimate truth." "Without relying on the conventional, the ultimate is not attained; without the ultimate, nirvāṇa is not attained."
+
+  The two truths are not two worlds but two ways of seeing one reality: conventionally there are persons and things; ultimately nothing has own-being.
+quotes:
+  - text: 若不依俗諦，不得第一義；不得第一義，則不得涅槃。
+    source: 《中論》卷4
+    source_en: Mūlamadhyamakakārikā, tr. Kumārajīva, fasc. 4
+    ref: T30n1564_p0033a02
+    refEnd: T30n1564_p0033a03
+    note_en: Without relying on conventional truth, the ultimate is not attained; without attaining the ultimate, nirvāṇa is not attained.
+questions:
+  - type: mcq
+    q_zh: 鳩摩羅什譯的「第一義諦」即？
+    q_en: Kumārajīva's 第一義諦 corresponds to…
+    options:
+      - { zh: 勝義諦, en: ultimate truth }
+      - { zh: 世俗諦, en: conventional truth }
+      - { zh: 苦諦, en: truth of suffering }
+    answer: 0
+    explain_zh: 第一義諦＝勝義諦（paramārtha-satya）。
+    explain_en: 第一義諦 = paramārtha-satya.
+  - type: tf
+    q_zh: 依《中論》，不依世俗諦也能得到第一義。
+    q_en: According to the Madhyamaka verses, the ultimate can be attained without relying on the conventional.
+    answer: false
+    explain_zh: 「若不依俗諦，不得第一義。」
+    explain_en: '"Without relying on the conventional, the ultimate is not attained."'

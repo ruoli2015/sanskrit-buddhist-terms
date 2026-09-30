@@ -28,6 +28,13 @@
   summary_zh: 理解五蘊、心所與十二因緣所需的基礎名相。
   summary_en: Core terms needed to understand the aggregates, the mental factors and dependent origination.
 
+- id: basics
+  zh: 常用名相
+  en: Basic Vocabulary
+  items: [buddha, dharma, tathagata, samsara, kalpa]
+  summary_zh: 佛、法、如來、輪迴、劫——讀佛典時處處會遇到的基本名相。
+  summary_en: Buddha, Dharma, Tathāgata, saṃsāra, aeon — basic words met everywhere in Buddhist texts.
+
 - id: viniyata
   zh: 別境心所
   en: Object-specific Mental Factors
@@ -147,3 +154,46 @@
   ordered: true
   summary_zh: 唯識學的心法：前五識、第六意識、第七末那識、第八阿賴耶識——三能變。
   summary_en: The Yogācāra mind dharmas — five sense consciousnesses, mental consciousness, manas and the ālaya — the three transformations.
+
+- id: practice
+  zh: 修行要目
+  en: Practice
+  items: [samatha, vipasyana, smrtyupasthana, nivarana, klesa, anusaya]
+  summary_zh: 止觀、四念處、五蓋與煩惱、隨眠——修行中最常遇到的名相。
+  summary_en: Calm and insight, the foundations of mindfulness, the hindrances, afflictions and latent tendencies.
+
+- id: stages
+  zh: 三乘與四果
+  en: Vehicles and Fruits
+  items: [sravaka, pratyekabuddha, srotaapanna, sakrdagamin, anagamin, arhat]
+  summary_zh: 聲聞、緣覺，以及須陀洹、斯陀含、阿那含、阿羅漢四果。
+  summary_en: Disciples and solitary buddhas, and the four fruits from stream-entry to arhatship.
+
+- id: asamskrta-viprayukta
+  zh: 不相應行與無為
+  en: Non-associated Formations and the Unconditioned
+  items: [viprayukta-samskara, prapti, jivitendriya, asamjni-samapatti, nirodha-samapatti, asamskrta, akasa, pratisamkhya-nirodha, apratisamkhya-nirodha]
+  summary_zh: 百法中既非色、非心、非心所的不相應行（選），以及六無為中的主要幾種。
+  summary_en: Selected non-associated formations — neither matter, mind nor mental factor — and the main unconditioned dharmas.
+
+- id: yogacara-core
+  zh: 唯識要義
+  en: Yogācāra Essentials
+  items: [vijnaptimatra, parikalpita, paratantra, parinispanna, nihsvabhava, bija, vasana, klesavarana, jneyavarana, pudgala-nairatmya, dharma-nairatmya, tathata, asraya-paravrtti]
+  summary_zh: 唯識無境、三自性與三無性、種子習氣、二障二無我、真如與轉依。
+  summary_en: Consciousness-only, the three natures and non-natures, seeds and habit energy, the two obstructions and selflessnesses, suchness and transformation of the basis.
+
+- id: mahayana-core
+  zh: 大乘要義
+  en: Mahāyāna Essentials
+  items: [sunyata, samvrti-satya, paramartha-satya, tathagatagarbha, bodhicitta, bodhisattva, bodhi, upaya]
+  summary_zh: 空、二諦、如來藏、菩提心、菩薩、菩提、方便。
+  summary_en: Emptiness, the two truths, buddha-nature, the awakening mind, bodhisattva, awakening, skilful means.
+
+- id: three-bodies
+  zh: 佛之三身
+  en: The Three Bodies of a Buddha
+  items: [dharmakaya, sambhogakaya, nirmanakaya]
+  ordered: true
+  summary_zh: 法身（自性身）、報身（受用身）、化身（變化身）。
+  summary_en: Dharma body (intrinsic), enjoyment body, emanation body.

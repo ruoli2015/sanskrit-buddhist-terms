@@ -1,0 +1,69 @@
+id: two-obstructions
+title_zh: 二執、二障、二無我、二果
+title_en: Two graspings, two obstructions, two selflessnesses, two fruits
+terms: [ klesavarana, jneyavarana, pudgala-nairatmya, dharma-nairatmya ]
+summary_zh: 我執生煩惱障，證人無我而斷，得解脫（涅槃）；法執生所知障，證法無我而斷，得菩提。
+summary_en: Self-grasping produces the afflictive obstruction, cut by realizing selflessness of persons, yielding liberation; grasping at dharmas produces the cognitive obstruction, cut by realizing selflessness of phenomena, yielding awakening.
+table:
+  columns:
+    - { zh: 煩惱障, en: Afflictive obstruction }
+    - { zh: 所知障, en: Cognitive obstruction }
+  rows:
+    - label: { zh: 根源, en: Root }
+      cells:
+        - { zh: 我執, en: Grasping at self }
+        - { zh: 法執, en: Grasping at dharmas }
+    - label: { zh: 所障, en: Obstructs }
+      cells:
+        - { zh: 涅槃（解脫）, en: Nirvāṇa (liberation) }
+        - { zh: 菩提, en: Awakening }
+    - label: { zh: 對治, en: Remedy }
+      cells:
+        - { zh: 人無我（我空）, en: Selflessness of persons }
+        - { zh: 法無我（法空）, en: Selflessness of phenomena }
+    - label: { zh: 誰斷, en: Who cuts it }
+      cells:
+        - { zh: 二乘與菩薩, en: Two vehicles and bodhisattvas }
+        - { zh: 唯菩薩（成佛）, en: Only bodhisattvas (buddhahood) }
+explanation_zh: |
+  《成唯識論》開卷即說：「由我、法執二障具生，若證二空，彼障隨斷。斷障為得二勝果故，由斷續生煩惱障故，證真解脫；由斷礙解所知障故，得大菩提。」整部論的目的，就是為了使人「於二空有迷謬者生正解」。
+
+  **名稱提醒**：所知障不是「知識的障礙」，而是「障礙所知境」的障。
+explanation_en: |
+  The Cheng weishi lun opens: "From grasping at self and dharmas the two obstructions arise; realizing the two emptinesses, they are removed. They are cut to obtain two supreme fruits: cutting the afflictive obstruction that continues rebirth brings true liberation; cutting the cognitive obstruction that hinders understanding brings great awakening." The whole treatise aims to give right understanding to those confused about the two emptinesses.
+
+  **Name reminder**: 所知障 is not "obstruction by knowledge" but "obstruction to the knowable".
+quotes:
+  - text: 由我、法執二障具生，若證二空，彼障隨斷。斷障為得二勝果故，由斷續生煩惱障故，證真解脫；由斷礙解所知障故，得大菩提。
+    source: 《成唯識論》卷1
+    source_en: Cheng weishi lun, fasc. 1
+    ref: T31n1585_p0001a09
+    refEnd: T31n1585_p0001a12
+    note_en: From grasping at self and at dharmas the two obstructions arise; realizing the two emptinesses, they are removed. The obstructions are cut to gain two supreme fruits — cutting the afflictive obstruction that continues rebirth, one realizes true liberation; cutting the cognitive obstruction that hinders understanding, one attains great awakening.
+questions:
+  - type: mcq
+    q_zh: 所知障由什麼而生？
+    q_en: From what does the cognitive obstruction arise?
+    options:
+      - { zh: 我執, en: grasping at self }
+      - { zh: 法執, en: grasping at dharmas }
+      - { zh: 疑, en: doubt }
+    answer: 1
+    explain_zh: 我執生煩惱障，法執生所知障。
+    explain_en: Self-grasping → afflictive; dharma-grasping → cognitive.
+  - type: mcq
+    q_zh: 斷煩惱障所得的果是？
+    q_en: Cutting the afflictive obstruction yields…
+    options:
+      - { zh: 真解脫（涅槃）, en: true liberation (nirvāṇa) }
+      - { zh: 大菩提, en: great awakening }
+      - { zh: 神通, en: supernormal powers }
+    answer: 0
+    explain_zh: 「由斷續生煩惱障故，證真解脫。」
+    explain_en: '"Cutting the afflictive obstruction … one realizes true liberation."'
+  - type: tf
+    q_zh: 阿羅漢已斷所知障。
+    q_en: Arhats have cut the cognitive obstruction.
+    answer: false
+    explain_zh: 二乘斷煩惱障，未斷所知障。
+    explain_en: The two vehicles cut the afflictive but not the cognitive obstruction.

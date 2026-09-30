@@ -1,0 +1,55 @@
+id: klesa-anusaya
+title_zh: 煩惱與隨眠
+title_en: Afflictions vs. latent tendencies
+terms: [ klesa, anusaya, bija ]
+summary_zh: 煩惱泛指擾亂身心的心所；隨眠是潛伏的煩惱。有部以隨眠即煩惱；經部與唯識以隨眠為煩惱的種子，現起者稱纏。
+summary_en: Afflictions are the disturbing mental factors in general; latent tendencies are dormant afflictions. The Sarvāstivāda equates them; the Sautrāntika and Yogācāra take latent tendencies as seeds of afflictions, the manifest ones being "entanglements".
+table:
+  columns:
+    - { zh: 煩惱 kleśa, en: Affliction }
+    - { zh: 隨眠 anuśaya, en: Latent tendency }
+  rows:
+    - label: { zh: 狀態, en: State }
+      cells:
+        - { zh: 泛指（現起或潛伏）, en: General (manifest or latent) }
+        - { zh: 潛伏、隨逐, en: 'Dormant, following along' }
+    - label: { zh: 六種, en: The six }
+      cells:
+        - { zh: 貪、瞋、癡、慢、疑、惡見, en: 'greed, aversion, delusion, pride, doubt, wrong view' }
+        - { zh: 貪、瞋、慢、無明、見、疑, en: 'greed, aversion, pride, ignorance, views, doubt' }
+    - label: { zh: 唯識解釋, en: Yogācāra }
+      cells:
+        - { zh: 現行為纏, en: Manifest = entanglement }
+        - { zh: 即煩惱種子, en: = seeds of afflictions }
+explanation_zh: |
+  兩者列出的六種內容相同，只是名稱與次序略異。《唯識三十頌》：「煩惱謂貪、瞋、癡、慢、疑、惡見。」《俱舍論》：「隨眠諸有本，此差別有六。」
+
+  隨眠的觀念解釋了為什麼一個人此刻心平氣和，遇境卻又生起煩惱——煩惱並沒有斷，只是潛伏著。
+explanation_en: |
+  The two lists of six are the same, differing only in names and order. Thirty Verses: "The afflictions are greed, aversion, delusion, pride, doubt and wrong view." Abhidharmakośa: "The latent tendencies are the root of existence; they are six."
+
+  The idea explains why someone calm now flares up when conditions arise: the affliction was not cut, only dormant.
+quotes:
+  - text: 隨眠諸有本，此差別有六，謂貪瞋亦慢，無明見及疑。
+    source: 《阿毘達磨俱舍論》卷19
+    source_en: Abhidharmakośabhāṣya, fasc. 19
+    ref: T29n1558_p0098b21
+    refEnd: T29n1558_p0098b22
+    note_en: The latent tendencies are the root of existence; they are of six kinds — greed, aversion, pride, ignorance, views and doubt.
+questions:
+  - type: mcq
+    q_zh: 唯識如何解釋隨眠？
+    q_en: How does Yogācāra interpret latent tendencies?
+    options:
+      - { zh: 煩惱的種子, en: seeds of afflictions }
+      - { zh: 善心所, en: wholesome factors }
+      - { zh: 無為法, en: unconditioned dharmas }
+    answer: 0
+    explain_zh: 經部與唯識以隨眠為煩惱種子。
+    explain_en: Sautrāntika and Yogācāra take them as seeds of afflictions.
+  - type: tf
+    q_zh: 六隨眠與六根本煩惱內容相同。
+    q_en: The six latent tendencies have the same content as the six root afflictions.
+    answer: true
+    explain_zh: 無明即癡，見即惡見，名稱與次序不同而已。
+    explain_en: Ignorance = delusion, views = wrong view; only names and order differ.
