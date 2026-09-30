@@ -1,0 +1,1103 @@
+# 心所：根本煩惱六（無明 avidya 見 foundations.yaml）、隨煩惱二十、不定四 (百法 order).
+
+# ---------------- 根本煩惱 kleśa ----------------
+
+- id: raga
+  skt: rāga
+  deva: राग
+  pali: rāga / lobha
+  zh: 貪
+  zhAlt: [ 貪欲, 貪愛, 貪著 ]
+  en: greed
+  enAlt: [ attachment, passion, lust, desire, craving, cupidity, covetousness ]
+  root: √rañj「染色、染著」 · √rañj "to be dyed, coloured, attached"
+  short_zh: 對三有及其因染著；能障無貪，生起苦果。六根本煩惱之首，三毒之一。
+  short_en: Greed — attachment to existence and its causes; obstructs non-greed and produces suffering. First root affliction, one of the three poisons.
+  detail_zh: |
+    rāga 原義是「染色」——心被對象「染上顏色」而黏著。《成唯識論》：「於有、有具，染著為性；能障無貪，生苦為業。」《大乘五蘊論》說得更具體：「於五取蘊染愛耽著為性。」
+
+    「生苦為業」：由愛著而生取，由取而造業，由業而受苦果——這正是十二因緣中「受緣愛、愛緣取」的環節。十二因緣的「愛」（tṛṣṇā）即貪的一種表現。
+
+    貪與瞋、癡合稱**三毒**、**三不善根**。依所貪之境分為欲貪、色貪、無色貪。隨煩惱中的慳、憍即以貪為體（「貪愛一分」）。
+  detail_en: |
+    Rāga originally means "dye": the mind is "coloured" by its object and sticks to it. Cheng weishi lun: "Its nature is attachment to existence and the means of existence; it obstructs non-greed and produces suffering." The Pañcaskandhaka: "its nature is passionate love of and absorption in the five aggregates of clinging."
+
+    "Produces suffering": attachment leads to clinging, clinging to karma, karma to painful results — the links "feeling → craving → clinging" of dependent origination. The craving (tṛṣṇā) of the twelve links is one expression of greed.
+
+    With hatred and delusion it forms the **three poisons** or **three unwholesome roots**. By object it is greed for the desire, form or formless realms. The secondary afflictions stinginess and haughtiness are "parts of greed".
+  quotes:
+    - text: 云何為貪？於有、有具，染著為性；能障無貪，生苦為業。
+      source: 《成唯識論》卷6
+      source_en: Cheng weishi lun, fasc. 6
+      ref: T31n1585_p0031b19
+      refEnd: T31n1585_p0031b20
+      note_en: What is greed? Its nature is attachment to existence and the means of existence; its function is to obstruct non-greed and produce suffering.
+    - text: 云何為貪？謂於五取蘊染愛耽著為性。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0849a06
+      note_en: What is greed? Its nature is passionate love of and absorption in the five aggregates of clinging.
+    - text: 多欲之人多求利故，苦惱亦多；
+      source: 《佛垂般涅槃略說教誡經》
+      source_en: Sūtra of the Bequeathed Teaching (Yijiao jing)
+      ref: T12n0389_p1111b28
+      refEnd: T12n0389_p1111b29
+      note_en: People of many desires seek much gain, and so their suffering is also great.
+  related: [ alobha, chanda, matsarya, mada ]
+  compare: [ chanda-raga, kusala-antidotes ]
+
+- id: pratigha
+  skt: pratigha
+  deva: प्रतिघ
+  pali: paṭigha / dosa
+  zh: 瞋
+  zhAlt: [ 嗔, 瞋恚, 恚 ]
+  en: aversion
+  enAlt: [ anger, hatred, hostility, ill will, ill-will, repugnance, aggression ]
+  root: prati-√han「反擊、抵觸」 · prati-√han "to strike back, repel"
+  short_zh: 對苦及苦因憎恚，令身心不安，是惡行的所依。三毒之一。
+  short_en: Aversion — hostility toward suffering and its causes; it makes one uneasy and is the basis of misconduct. One of the three poisons.
+  detail_zh: |
+    pratigha 字面是「反擊、抵觸」。《成唯識論》：「於苦、苦具，憎恚為性；能障無瞋，不安隱性，惡行所依為業。」瞋一起，身心便熱惱不安，並成為種種惡行的依據。《大乘五蘊論》：「於有情樂作損害為性。」
+
+    瞋有許多「分支」：隨煩惱中的忿、恨、惱、嫉、害五者，都是「瞋恚一分為體」，只是在不同情境下的表現（見比較卡「瞋的五種分位」）。
+
+    《遺教經》：「瞋恚之害，能破諸善法、壞好名聞。」
+  detail_en: |
+    Pratigha literally means "striking back, repulsion". Cheng weishi lun: "Its nature is hostility toward suffering and the causes of suffering; it obstructs non-hatred, brings unease, and is the basis of misconduct." Once aversion arises, body and mind burn and become unsettled, and it serves as the basis for harmful acts. Pañcaskandhaka: "its nature is delighting in harming beings."
+
+    Aversion has several "branches": the secondary afflictions wrath, resentment, spite, jealousy and harmfulness are all "parts of aversion", its forms in particular situations (see the comparison card).
+
+    The Yijiao jing: "The harm of anger destroys all good dharmas and ruins a good name."
+  quotes:
+    - text: 云何為瞋？於苦、苦具，憎恚為性；能障無瞋，不安隱性，惡行所依為業。
+      source: 《成唯識論》卷6
+      source_en: Cheng weishi lun, fasc. 6
+      ref: T31n1585_p0031b20
+      refEnd: T31n1585_p0031b22
+      note_en: What is aversion? Its nature is hostility toward suffering and its causes; its function is to obstruct non-hatred, to cause unease, and to be the basis of misconduct.
+    - text: 云何為瞋？謂於有情樂作損害為性。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0849a07
+      note_en: What is aversion? Its nature is delighting in harming sentient beings.
+    - text: 瞋恚之害能破諸善法、壞好名聞
+      source: 《佛垂般涅槃略說教誡經》
+      source_en: Sūtra of the Bequeathed Teaching (Yijiao jing)
+      ref: T12n0389_p1111b15
+      refEnd: T12n0389_p1111b16
+      note_en: The harm of anger destroys all good dharmas and ruins a good name.
+  related: [ advesa, krodha, upanaha, vihimsa ]
+  compare: [ pratigha-family, kusala-antidotes ]
+
+- id: mana
+  skt: māna
+  deva: मान
+  pali: māna
+  zh: 慢
+  zhAlt: [ 我慢, 慢心 ]
+  en: pride
+  enAlt: [ conceit, arrogance, self-importance, haughtiness ]
+  root: √man「思量、自認為」 · √man "to think, consider (oneself)"
+  short_zh: 仗恃自己、對他人心起高舉；能障不慢，生苦。有七慢之分。
+  short_en: Pride — relying on oneself and holding oneself above others; obstructs humility and produces suffering. Seven kinds.
+  detail_zh: |
+    《成唯識論》：「恃己於他，高舉為性；能障不慢，生苦為業。」慢的核心是**比較**：拿自己和他人比，而心生高舉。
+
+    《大乘五蘊論》列**七慢**：慢（於劣計己勝、於等計己等）、過慢（於等計己勝）、慢過慢（於勝計己勝）、我慢（執五取蘊為我而高舉）、增上慢（未證謂證）、卑慢（於多分殊勝計己少分下劣而仍高舉）、邪慢（無德謂有德）。
+
+    其中**我慢**最根本，第七末那識恆與我慢相應。慢與隨煩惱的「憍」不同：慢要和他人比較，憍是對自己的盛事陶醉，不必比較（見比較卡）。
+  detail_en: |
+    Cheng weishi lun: "Relying on oneself, its nature is to hold oneself high over others; it obstructs humility and produces suffering." The essence of māna is **comparison**: measuring oneself against others and rising above them.
+
+    The Pañcaskandhaka lists **seven kinds**: pride (thinking oneself better than inferiors or equal to equals), excessive pride (better than equals), pride beyond pride (better than superiors), pride of "I am" (taking the aggregates as self), conceit of attainment (claiming realization not reached), deprecating pride (still puffed up while admitting one is a little inferior to those far superior), and wrong pride (claiming virtues one lacks).
+
+    **Pride of "I am"** is the most fundamental; the seventh consciousness, manas, is always accompanied by it. Pride differs from haughtiness (mada): pride compares with others, haughtiness is self-intoxication with one's own fortune, needing no comparison.
+  quotes:
+    - text: 云何為慢？恃己於他，高舉為性；能障不慢，生苦為業。
+      source: 《成唯識論》卷6
+      source_en: Cheng weishi lun, fasc. 6
+      ref: T31n1585_p0031b26
+      refEnd: T31n1585_p0031b27
+      note_en: What is pride? Relying on oneself, its nature is holding oneself high over others; its function is to obstruct humility and produce suffering.
+    - text: 所謂七慢：一、慢，二、過慢，三、慢過慢，四、我慢，五、增上慢，六、卑慢，七、邪慢。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0849a08
+      refEnd: T31n1612_p0849a09
+      note_en: 'Namely the seven kinds of pride: 1 pride, 2 excessive pride, 3 pride beyond pride, 4 pride of "I am", 5 conceit of attainment, 6 deprecating pride, 7 wrong pride.'
+  related: [ mada ]
+  compare: [ mana-mada ]
+
+- id: vicikitsa
+  skt: vicikitsā
+  deva: विचिकित्सा
+  pali: vicikicchā
+  zh: 疑
+  zhAlt: [ 疑惑, 猶豫 ]
+  en: doubt
+  enAlt: [ indecision, uncertainty, skepticism, scepticism, vacillation, perplexity ]
+  root: vi-√cit 的願望式「想辨清而不能」 · desiderative of vi-√cit, "wanting to discern (but failing)"
+  short_zh: 對四諦等真理猶豫不決；能障「不疑」的善品。
+  short_en: Doubt — vacillation about the truths; obstructs wholesome states of certainty.
+  detail_zh: |
+    《成唯識論》：「於諸諦理，猶豫為性；能障不疑善品為業。」這裡的疑專指對四諦、業果、三寶等**真理**的猶豫；一般生活中的不確定（例如不知道路怎麼走）不屬煩惱之疑。
+
+    疑之所以是根本煩惱，是因為它讓人停在岔路口，不肯踏上修行之路。《大智度論》喻：「如人在岐道，疑惑無所趣。」
+
+    疑與勝解相對：勝解於決定境印持不移；疑則於真理不能決定。疑是「分別起」的煩惱，由思惟分別而生，見道時即斷。
+  detail_en: |
+    Cheng weishi lun: "Its nature is vacillation about the truths; it obstructs the wholesome states of non-doubt." It concerns **the truths** — the four noble truths, karma and its result, the Three Jewels; ordinary uncertainty (not knowing the way home) is not the affliction of doubt.
+
+    Doubt is a root affliction because it leaves one standing at the crossroads, unwilling to set out on the path. The Dazhidu lun: "like a man at a fork in the road, doubtful, going nowhere."
+
+    Doubt is the opposite of resolve: resolve holds firmly to what is ascertained; doubt cannot decide about the truth. It is an affliction "arising from conceptualization", abandoned at the path of seeing.
+  quotes:
+    - text: 云何為疑？於諸諦理，猶豫為性；能障不疑善品為業。
+      source: 《成唯識論》卷6
+      source_en: Cheng weishi lun, fasc. 6
+      ref: T31n1585_p0031c02
+      refEnd: T31n1585_p0031c03
+      note_en: What is doubt? Its nature is vacillation about the truths; its function is to obstruct the wholesome states of non-doubt.
+    - text: 云何為疑？謂於諦等猶豫為性。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0849b03
+      refEnd: T31n1612_p0849b04
+      note_en: What is doubt? Its nature is vacillation about the truths and so on.
+    - text: 如人在岐道，疑惑無所趣；諸法實相中，疑亦復如是。
+      source: 《大智度論》卷17
+      source_en: Dazhidu lun (*Mahāprajñāpāramitāśāstra), fasc. 17
+      ref: T25n1509_p0184c25
+      refEnd: T25n1509_p0184c26
+      note_en: Like a man at a fork in the road, doubtful and going nowhere — so is doubt with regard to the true nature of dharmas.
+  related: [ adhimoksa, sraddha ]
+  compare: [ avidya-drsti-asamprajanya ]
+
+- id: drsti
+  skt: dṛṣṭi
+  deva: दृष्टि
+  pali: diṭṭhi
+  zh: 不正見
+  zhAlt: [ 惡見, 見, 邪見 ]
+  en: wrong view
+  enAlt: [ afflicted view, false view, wrong views, views, mistaken view, deluded view ]
+  root: '√dṛś「看」→「見解」 · √dṛś "to see": view, opinion'
+  short_zh: 對諸諦理顛倒推度的染污之慧；能障善見，招苦。分為五見。
+  short_en: Wrong view — defiled discernment that reasons perversely about the truths; obstructs right view and brings suffering. Five kinds.
+  detail_zh: |
+    百法稱「不正見」，《成唯識論》稱「惡見」：「於諸諦理，顛倒推度，染慧為性；能障善見，招苦為業。」注意它的體性是**染慧**——惡見不是缺乏思考，而是用錯誤的方式推理。
+
+    《大乘五蘊論》列**五見**：
+    1. **薩迦耶見**（身見）：於五取蘊執為我、我所；
+    2. **邊執見**：隨身見而執常或斷；
+    3. **邪見**：謗因、謗果、謗作用、壞善事；
+    4. **見取**：執以上諸見為最勝；
+    5. **戒禁取**：執錯誤的戒律禁制為清淨解脫之道。
+
+    梵語單說 dṛṣṭi 只是「見解」，在煩惱脈絡中才指錯誤的見；八正道的「正見」（samyag-dṛṣṭi）則是正確的見。
+  detail_en: |
+    The Hundred Dharmas calls it 不正見 "incorrect view", the Cheng weishi lun 惡見 "bad view": "its nature is defiled discernment that reasons perversely about the truths; it obstructs good view and brings suffering." Its substance is **defiled prajñā** — not a lack of thinking but thinking wrongly.
+
+    The Pañcaskandhaka lists **five views**:
+    1. **View of a real self** (satkāya-dṛṣṭi): taking the aggregates as self and mine;
+    2. **Extreme views**: on that basis, eternalism or annihilationism;
+    3. **Wrong view** proper: denying cause, effect or efficacy, destroying the good;
+    4. **Holding views as supreme**;
+    5. **Holding rules and rituals as supreme**: taking wrong observances as the path to purity.
+
+    Dṛṣṭi alone just means "view"; only in the affliction context is it wrong view. "Right view" (samyag-dṛṣṭi) is the first factor of the eightfold path.
+  quotes:
+    - text: 云何惡見？於諸諦理，顛倒推度，染慧為性；能障善見，招苦為業。
+      source: 《成唯識論》卷6
+      source_en: Cheng weishi lun, fasc. 6
+      ref: T31n1585_p0031c11
+      refEnd: T31n1585_p0031c12
+      note_en: What is bad view? Its nature is defiled discernment that reasons perversely about the truths; its function is to obstruct good view and bring suffering.
+    - text: 所謂五見：一、薩迦耶見，二、邊執見，三、邪見，四、見取，五、戒禁取。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0849a23
+      refEnd: T31n1612_p0849a24
+      note_en: 'Namely the five views: 1 view of a real self, 2 extreme views, 3 wrong view, 4 holding views as supreme, 5 holding rules and rituals as supreme.'
+    - text: 云何薩迦耶見？謂於五取蘊隨觀為我或為我所，染污慧為性。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0849a24
+      refEnd: T31n1612_p0849a25
+      note_en: What is the view of a real self? Taking the five aggregates of clinging as I or mine; its nature is defiled discernment.
+  related: [ prajna, avidya, mana ]
+  compare: [ avidya-drsti-asamprajanya ]
+
+# ---------------- 隨煩惱 upakleśa：小隨十 ----------------
+
+- id: krodha
+  skt: krodha
+  deva: क्रोध
+  pali: kodha
+  zh: 忿
+  zhAlt: [ 忿怒 ]
+  en: wrath
+  enAlt: [ fury, rage, anger, belligerence, indignation ]
+  root: √krudh「發怒」 · √krudh "to be angry"
+  short_zh: 對當前不利之境憤然發作，乃至動手；以瞋為體。小隨煩惱之一。
+  short_en: Wrath — flaring up at a present harmful situation, to the point of violence; a part of aversion. A minor secondary affliction.
+  detail_zh: |
+    《成唯識論》：「依對現前不饒益境，憤發為性；能障不忿，執杖為業。」忿是瞋的**當下爆發**：面對眼前不利於己的人事，怒氣衝上來，甚至「執杖」動手。
+
+    體性：「此即瞋恚一分為體，離瞋無別忿相用故。」忿沒有獨立實體，是瞋在特定情境的表現。忿過後懷恨不捨就成「恨」，恨再引發惡言便是「惱」。
+  detail_en: |
+    Cheng weishi lun: "Its nature is flaring up at a present unbeneficial object; it obstructs non-wrath and its function is taking up the stick." Wrath is aversion **erupting in the moment**: faced with someone or something harmful right now, anger surges, even to violence.
+
+    Substance: "It is a part of aversion; apart from aversion wrath has no characteristic or function." It follows that wrath held on to becomes resentment, and resentment breaking out in harsh words becomes spite.
+  quotes:
+    - text: 云何為忿？依對現前不饒益境，憤發為性；能障不忿，執杖為業。
+      source: 《成唯識論》卷6
+      source_en: Cheng weishi lun, fasc. 6
+      ref: T31n1585_p0033b08
+      refEnd: T31n1585_p0033b10
+      note_en: What is wrath? In the face of a present unbeneficial object, its nature is flaring up; its function is to obstruct non-wrath and take up the stick.
+    - text: 此即瞋恚一分為體，離瞋無別忿相用故。
+      source: 《成唯識論》卷6
+      source_en: Cheng weishi lun, fasc. 6
+      ref: T31n1585_p0033b11
+      refEnd: T31n1585_p0033b12
+      note_en: It has a part of aversion as its substance; apart from aversion there is no separate characteristic or function of wrath.
+  related: [ pratigha, upanaha, pradasa ]
+  compare: [ pratigha-family ]
+
+- id: upanaha
+  skt: upanāha
+  deva: उपनाह
+  pali: upanāha
+  zh: 恨
+  zhAlt: [ 怨恨 ]
+  en: resentment
+  enAlt: [ grudge, enmity, rancor, rancour, bearing a grudge, vengefulness ]
+  root: upa-√nah「綁住、結」 · upa-√nah "to tie up, bind"
+  short_zh: 忿後懷惡不捨、結怨在心，令人熱惱；以瞋為體。小隨煩惱之一。
+  short_en: Resentment — after wrath, holding on to ill will and nursing a grudge, which burns within; a part of aversion.
+  detail_zh: |
+    《成唯識論》：「由忿為先，懷惡不捨，結怨為性；能障不恨，熱惱為業。」梵語 upanāha 意為「綁住」——把怨氣綁在心上，不肯放下。
+
+    忿是一時的爆發，恨是**持續的積怨**。「熱惱為業」：懷恨的人自己先被這股怨氣燒灼，不得安寧。體性同樣是「瞋恚一分」。
+  detail_en: |
+    Cheng weishi lun: "Preceded by wrath, holding on to malice without letting go, its nature is binding enmity; it obstructs non-resentment and its function is burning vexation." Upanāha means "tying up": anger bound to the heart, never released.
+
+    Wrath is a momentary outburst; resentment is **lasting grievance**. Its function "burning vexation" means the resentful person is the first to be scorched. Its substance is likewise a part of aversion.
+  quotes:
+    - text: 云何為恨？由忿為先，懷惡不捨，結怨為性；能障不恨，熱惱為業。
+      source: 《成唯識論》卷6
+      source_en: Cheng weishi lun, fasc. 6
+      ref: T31n1585_p0033b12
+      refEnd: T31n1585_p0033b13
+      note_en: What is resentment? Preceded by wrath, holding on to malice without letting go, its nature is binding enmity; its function is to obstruct non-resentment and cause burning vexation.
+    - text: 云何為恨？謂結怨不捨為性。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0849b07
+      note_en: What is resentment? Its nature is binding enmity and not letting it go.
+  related: [ krodha, pradasa, pratigha ]
+  compare: [ pratigha-family ]
+
+- id: pradasa
+  skt: pradāsa
+  deva: प्रदास
+  pali: paḷāsa
+  zh: 惱
+  zhAlt: [ 惱害 ]
+  en: spite
+  enAlt: [ spitefulness, vexation, maliciousness, vindictiveness, contentiousness, malice ]
+  root: pra-√daś「咬、螫」 · pra-√daṃś "to bite"
+  short_zh: 由忿、恨引發，暴躁乖戾，以惡言螫人；以瞋為體。小隨煩惱之一。
+  short_en: Spite — arising from wrath and resentment, becoming vicious and lashing out with stinging words; a part of aversion.
+  detail_zh: |
+    《成唯識論》：「忿、恨為先，追觸暴熱，佷戾為性；能障不惱，䖧螫為業。」惱是在忿與恨之後，追憶往事、觸動舊怨，心變得暴躁乖戾，於是像蠍子般「螫」人——多半表現為尖刻的言語。《大乘五蘊論》：「發暴惡言尤䖧為性。」
+
+    忿→恨→惱，是瞋在時間上逐步發展的三個階段。
+  detail_en: |
+    Cheng weishi lun: "Preceded by wrath and resentment, recalling and touching old grievances, fierce and hot, its nature is perverse viciousness; it obstructs non-spite and its function is stinging." After wrath and resentment, brooding on the past stirs up old grudges; the mind turns fierce and one "stings" like a scorpion — usually in cutting words. Pañcaskandhaka: "its nature is uttering violent, abusive words."
+
+    Wrath → resentment → spite are three stages in the development of aversion over time.
+  quotes:
+    - text: 云何為惱？忿、恨為先，追觸暴熱，佷戾為性；能障不惱，䖧螫為業。
+      source: 《成唯識論》卷6
+      source_en: Cheng weishi lun, fasc. 6
+      ref: T31n1585_p0033b22
+      refEnd: T31n1585_p0033b24
+      note_en: What is spite? Preceded by wrath and resentment, recalling and touching [grievances], fierce and hot, its nature is perversity; its function is to obstruct non-spite and to sting.
+    - text: 云何為惱？謂發暴惡言尤䖧為性。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0849b08
+      refEnd: T31n1612_p0849b09
+      note_en: What is spite? Its nature is uttering violent, abusive, stinging words.
+  related: [ krodha, upanaha, pratigha ]
+  compare: [ pratigha-family ]
+
+- id: mraksa
+  skt: mrakṣa
+  deva: म्रक्ष
+  pali: makkha
+  zh: 覆
+  zhAlt: [ 覆藏 ]
+  en: concealment
+  enAlt: [ concealing faults, hiding faults, hypocrisy, cover-up, secretiveness ]
+  root: √mrakṣ「塗抹、掩蓋」 · √mrakṣ "to smear over, conceal"
+  short_zh: 怕失去利益名譽而隱藏自己的罪過，後來悔惱不安。小隨煩惱之一。
+  short_en: Concealment — hiding one's own wrongdoing for fear of losing gain and reputation, later tormented by regret.
+  detail_zh: |
+    《成唯識論》：「於自作罪，恐失利、譽，隱藏為性；能障不覆，悔惱為業。」覆的重點是「**藏自己的過錯**」，動機是保護名利。「悔惱為業」：藏著的罪讓人日後內心不安。
+
+    體性：論中諸說，一說「癡一分攝」，一說「貪、癡一分為體」——因怕失名利（貪）而不懂得發露懺悔（癡）。
+
+    覆、誑、諂三者都涉及欺瞞，但方向不同：覆是隱藏自己有的過失，誑是假裝自己沒有的德行，諂是為了籠絡他人而扭曲自己（見比較卡）。
+  detail_en: |
+    Cheng weishi lun: "Its nature is hiding one's own wrongdoing for fear of losing gain and reputation; it obstructs non-concealment and its function is remorseful vexation." The point is **hiding one's own faults**, motivated by protecting one's standing; the hidden wrong later gnaws at the mind.
+
+    Substance: the treatise records views that it is a part of delusion, or of greed and delusion — fearing loss of reputation (greed) and not knowing to confess (delusion).
+
+    Concealment, deceit and guile all involve deception but point differently: concealment hides faults one has; deceit pretends to virtues one lacks; guile twists oneself to ensnare others (see the comparison card).
+  quotes:
+    - text: 云何為覆？於自作罪，恐失利、譽，隱藏為性；能障不覆，悔惱為業。
+      source: 《成唯識論》卷6
+      source_en: Cheng weishi lun, fasc. 6
+      ref: T31n1585_p0033b15
+      refEnd: T31n1585_p0033b17
+      note_en: What is concealment? Its nature is hiding one's own wrongdoing for fear of losing gain and reputation; its function is to obstruct non-concealment and cause remorseful vexation.
+    - text: 云何為覆？謂於自罪覆藏為性。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0849b07
+      refEnd: T31n1612_p0849b08
+      note_en: What is concealment? Its nature is hiding one's own wrongdoing.
+  related: [ maya, sathya, kaukrtya ]
+  compare: [ mraksa-maya-sathya ]
+
+- id: maya
+  skt: māyā
+  deva: माया
+  pali: māyā
+  zh: 誑
+  zhAlt: [ 誑詐, 欺誑 ]
+  en: deceit
+  enAlt: [ pretension, deception, dissimulation, fraud, deceitfulness, pretence, pretense ]
+  root: 「幻術、幻化」 · "magic, illusion"
+  short_zh: 為求利養名譽，偽裝自己有德行；由此邪命自活。以貪、癡為體。小隨煩惱之一。
+  short_en: Deceit — feigning virtues one lacks in order to gain profit and fame, leading to wrong livelihood; a part of greed and delusion.
+  detail_zh: |
+    māyā 原義是「幻術」——像魔術師變出不存在的東西。《成唯識論》：「為獲利譽，矯現有德，詭詐為性；能障不誑，邪命為業。」誑是**假裝有德**來騙取供養與名聲，所以「邪命為業」——以不正當的方式謀生。
+
+    體性：「此即貪、癡一分為體，離二無別誑相用故。」
+  detail_en: |
+    Māyā originally means "magic, illusion" — conjuring up what is not there. Cheng weishi lun: "To obtain profit and fame, its nature is feigning virtues with trickery; it obstructs non-deceit and its function is wrong livelihood." Deceit is **pretending to virtue** to win offerings and renown, hence "wrong livelihood".
+
+    Substance: "It is a part of greed and delusion; apart from these two it has no characteristic or function."
+  quotes:
+    - text: 云何為誑？為獲利譽，矯現有德，詭詐為性；能障不誑，邪命為業。
+      source: 《成唯識論》卷6
+      source_en: Cheng weishi lun, fasc. 6
+      ref: T31n1585_p0033c04
+      refEnd: T31n1585_p0033c06
+      note_en: What is deceit? For the sake of profit and fame, its nature is feigning virtue with trickery; its function is to obstruct non-deceit and lead to wrong livelihood.
+    - text: 云何為誑？謂為誑他詐現不實事為性。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0849b10
+      refEnd: T31n1612_p0849b11
+      note_en: What is deceit? Its nature is feigning what is not real in order to deceive others.
+  related: [ sathya, mraksa, raga ]
+  compare: [ mraksa-maya-sathya ]
+
+- id: sathya
+  skt: śāṭhya
+  deva: शाठ्य
+  pali: sāṭheyya
+  zh: 諂
+  zhAlt: [ 諂曲, 諂媚 ]
+  en: guile
+  enAlt: [ dissimulation, dishonesty, crookedness, flattery, fawning, hypocrisy, deviousness ]
+  root: śaṭha「狡詐」 · śaṭha "crafty, false"
+  short_zh: 為籠絡他人而曲意逢迎、隱藏真相，心不正直；以貪、癡為體。小隨煩惱之一。
+  short_en: Guile — twisting oneself to ensnare others, fawning and hiding the truth; a crooked mind. A part of greed and delusion.
+  detail_zh: |
+    《成唯識論》：「為網他故，矯設異儀，險、曲為性；能障不諂教誨為業。」「網他」即設網籠絡別人：為了討好或利用他人而刻意做出種種姿態，心術險曲。
+
+    「能障不諂教誨」：諂曲的人連師友的正直教誨也聽不進去，因為他總在揣摩、掩飾。《大乘五蘊論》：「覆藏自過方便所攝心曲為性。」體性同樣是「貪、癡一分」。
+  detail_en: |
+    Cheng weishi lun: "In order to net others, it contrives unusual manners; its nature is dangerous crookedness; its function is to obstruct non-guile and [receptivity to] instruction." To "net others" is to lay traps: putting on appearances to please or use people.
+
+    Obstructing instruction: the guileful cannot take in the straightforward advice of teachers and friends, since they are always calculating and covering. Pañcaskandhaka: "its nature is crookedness of mind, a means of hiding one's faults." Its substance too is a part of greed and delusion.
+  quotes:
+    - text: 云何為諂？為網他故，矯設異儀，險、曲為性；能障不諂教誨為業。
+      source: 《成唯識論》卷6
+      source_en: Cheng weishi lun, fasc. 6
+      ref: T31n1585_p0033c08
+      refEnd: T31n1585_p0033c09
+      note_en: What is guile? To net others, it contrives unusual manners; its nature is dangerous crookedness; its function is to obstruct non-guile and instruction.
+    - text: 云何為諂？謂覆藏自過方便所攝心曲為性。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0849b11
+      refEnd: T31n1612_p0849b12
+      note_en: What is guile? Its nature is crookedness of mind, included among the means of hiding one's own faults.
+  related: [ maya, mraksa ]
+  compare: [ mraksa-maya-sathya ]
+
+- id: mada
+  skt: mada
+  deva: मद
+  pali: mada
+  zh: 憍
+  zhAlt: [ 驕, 憍逸, 驕傲 ]
+  en: haughtiness
+  enAlt: [ self-infatuation, vanity, conceit, arrogance, intoxication, complacency, smugness ]
+  root: √mad「陶醉」 · √mad "to be intoxicated"
+  short_zh: 對自己的盛事深生染著，陶醉傲慢；以貪為體。小隨煩惱之一。
+  short_en: Haughtiness — deep attachment to one's own good fortune, intoxicated and proud; a part of greed.
+  detail_zh: |
+    mada 原義是「醉」。《成唯識論》：「於自盛事，深生染著，醉傲為性；能障不憍，染依為業。」「盛事」指自己的財富、容貌、才能、家世、健康、年輕等；對這些陶醉而驕傲，就是憍。
+
+    體性：「此亦貪愛一分為體」——憍是對自身所有的貪著。與根本煩惱「慢」的區別：慢是和他人比較而高舉，憍不必比較，只是自我陶醉（見比較卡）。
+
+    《遺教經》：「憍慢尚非世俗白衣所宜，何況出家入道之人。」
+  detail_en: |
+    Mada originally means "intoxication". Cheng weishi lun: "Its nature is deep attachment to one's own flourishing, intoxicated pride; it obstructs non-haughtiness and is the basis of defilement." "Flourishing" means one's wealth, looks, talent, family, health, youth; being intoxicated with them is haughtiness.
+
+    Substance: "a part of greed" — attachment to what one has. Versus the root affliction pride: pride exalts oneself by comparison with others; haughtiness needs no comparison, just self-intoxication.
+
+    The Yijiao jing: "Arrogance is unfitting even for laypeople in the world, how much more for those who have left home to enter the path."
+  quotes:
+    - text: 云何為憍？於自盛事，深生染著，醉傲為性；能障不憍，染依為業。
+      source: 《成唯識論》卷6
+      source_en: Cheng weishi lun, fasc. 6
+      ref: T31n1585_p0033c16
+      refEnd: T31n1585_p0033c18
+      note_en: What is haughtiness? Its nature is deep attachment to one's own flourishing, intoxicated pride; its function is to obstruct non-haughtiness and be the basis of defilement.
+    - text: 云何為憍？謂於自盛事染著倨傲心恃為性。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0849b12
+      refEnd: T31n1612_p0849b13
+      note_en: What is haughtiness? Its nature is attachment to one's own flourishing, arrogant self-reliance.
+    - text: 憍慢尚非世俗白衣所宜，何況出家入道之人
+      source: 《佛垂般涅槃略說教誡經》
+      source_en: Sūtra of the Bequeathed Teaching (Yijiao jing)
+      ref: T12n0389_p1111b23
+      refEnd: T12n0389_p1111b24
+      note_en: Arrogance is unfitting even for laypeople in the world, how much more for those who have left home to enter the path.
+  related: [ mana, raga ]
+  compare: [ mana-mada ]
+
+- id: vihimsa
+  skt: vihiṃsā
+  deva: विहिंसा
+  pali: vihiṃsā
+  zh: 害
+  zhAlt: [ 損害, 惱害 ]
+  en: harmfulness
+  enAlt: [ cruelty, violence, harm, harming, viciousness, malice ]
+  root: vi-√hiṃs「傷害」 · vi-√hiṃs "to injure"
+  short_zh: 對有情心無悲愍而損惱之；以瞋為體。小隨煩惱之一，與不害相對。
+  short_en: Harmfulness — lacking compassion and tormenting beings; a part of aversion. Opposite of non-harming.
+  detail_zh: |
+    《成唯識論》：「於諸有情，心無悲愍，損惱為性；能障不害，逼惱為業。」害的核心是「**心無悲愍**」——看見眾生受苦不起同情，反而加以逼迫。
+
+    體性：「此亦瞋恚一分為體。」至於瞋與害的差別，論中說「瞋、害別相，准善應說」——比照無瞋與不害來理解：瞋障礙給樂的慈，害障礙拔苦的悲。
+  detail_en: |
+    Cheng weishi lun: "Its nature is tormenting beings, the mind lacking compassion; it obstructs non-harming and its function is oppression." Its core is **absence of compassion**: seeing beings suffer without sympathy, one adds to their torment.
+
+    Substance: "a part of aversion". As for how aversion and harmfulness differ, the treatise says "their distinct characteristics are to be understood by analogy with the wholesome" — i.e. with non-hatred and non-harming: aversion obstructs loving-kindness (giving happiness), harmfulness obstructs compassion (removing suffering).
+  quotes:
+    - text: 云何為害？於諸有情，心無悲愍，損惱為性；能障不害，逼惱為業。
+      source: 《成唯識論》卷6
+      source_en: Cheng weishi lun, fasc. 6
+      ref: T31n1585_p0033c13
+      refEnd: T31n1585_p0033c14
+      note_en: What is harmfulness? Its nature is tormenting beings, the mind lacking compassion; its function is to obstruct non-harming and oppress.
+    - text: 云何為害？謂於諸有情損惱為性。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0849b13
+      refEnd: T31n1612_p0849b14
+      note_en: What is harmfulness? Its nature is tormenting sentient beings.
+  related: [ avihimsa, pratigha ]
+  compare: [ pratigha-family, kusala-antidotes ]
+
+- id: irsya
+  skt: īrṣyā
+  deva: ईर्ष्या
+  pali: issā
+  zh: 嫉
+  zhAlt: [ 嫉妒, 嫉妬, 妬 ]
+  en: jealousy
+  enAlt: [ envy, envious, begrudging ]
+  root: √īrṣy「嫉妒」 · √īrṣy "to envy"
+  short_zh: 為自己的名利，不能忍受他人榮盛而妒忌，內心憂戚；以瞋為體。小隨煩惱之一。
+  short_en: Jealousy — for the sake of one's own fame and gain, being unable to bear others' success; it brings sorrow. A part of aversion.
+  detail_zh: |
+    《成唯識論》：「徇自名利，不耐他榮，妬忌為性；能障不嫉，憂慼為業。」嫉是看到別人比自己好（榮盛）就受不了。「憂慼為業」：嫉妒的人見他人得意，自己便悶悶不樂。
+
+    體性是「瞋恚一分」——對他人的好事起憎。它與隨喜（muditā，四無量心之「喜」）正好相反。
+  detail_en: |
+    Cheng weishi lun: "Pursuing one's own fame and gain, unable to bear others' glory, its nature is envy; it obstructs non-jealousy and its function is sorrow." Seeing others doing well is intolerable; seeing their success, the jealous grow gloomy.
+
+    Its substance is a part of aversion — hostility toward others' good fortune. It is the exact opposite of sympathetic joy (muditā, the third immeasurable).
+  quotes:
+    - text: 云何為嫉？徇自名利，不耐他榮，妬忌為性；能障不嫉，憂慼為業。
+      source: 《成唯識論》卷6
+      source_en: Cheng weishi lun, fasc. 6
+      ref: T31n1585_p0033b26
+      refEnd: T31n1585_p0033b28
+      note_en: What is jealousy? Pursuing one's own fame and gain, unable to bear others' glory, its nature is envy; its function is to obstruct non-jealousy and cause sorrow.
+    - text: 云何為嫉？謂於他盛事心妬為性。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0849b09
+      note_en: What is jealousy? Its nature is the mind's envy at others' flourishing.
+  related: [ pratigha ]
+  compare: [ pratigha-family ]
+
+- id: matsarya
+  skt: mātsarya
+  deva: मात्सर्य
+  pali: macchariya
+  zh: 慳
+  zhAlt: [ 慳吝, 慳貪 ]
+  en: stinginess
+  enAlt: [ avarice, miserliness, parsimony, meanness, possessiveness ]
+  root: matsara「吝嗇、妒」 · matsara "selfish, envious"
+  short_zh: 耽著財物與佛法，不肯惠施，祕藏吝惜；以貪為體。小隨煩惱之一，與布施相違。
+  short_en: Stinginess — clinging to wealth and Dharma, unwilling to give, secretive and grudging; a part of greed. Opposed to generosity.
+  detail_zh: |
+    《成唯識論》：「耽著財、法，不能慧捨，祕悋為性；能障不慳，鄙畜為業。」慳的對象不只財物，也包括「法」——知道了佛法卻捨不得教人，也是慳。「鄙畜為業」：吝嗇的人連無用之物也鄙陋地囤積。
+
+    體性：「此即貪愛一分為體。」慳與布施（dāna）相違——《大乘五蘊論》直說：「施相違心悋為性。」
+  detail_en: |
+    Cheng weishi lun: "Clinging to wealth and Dharma, unable to give wisely, its nature is secretive grudging; it obstructs non-stinginess and its function is mean hoarding." Its object includes not only wealth but also **Dharma** — knowing the teaching yet begrudging it to others is also stinginess.
+
+    Substance: "a part of greed". It opposes generosity (dāna); the Pañcaskandhaka simply says: "its nature is grudging, contrary to giving."
+  quotes:
+    - text: 云何為慳？耽著財、法，不能慧捨，祕悋為性；能障不慳，鄙畜為業。
+      source: 《成唯識論》卷6
+      source_en: Cheng weishi lun, fasc. 6
+      ref: T31n1585_p0033c01
+      refEnd: T31n1585_p0033c02
+      note_en: What is stinginess? Clinging to wealth and Dharma, unable to give them away wisely, its nature is secretive grudging; its function is to obstruct non-stinginess and cause mean hoarding.
+    - text: 云何為慳？謂施相違心悋為性。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0849b09
+      refEnd: T31n1612_p0849b10
+      note_en: What is stinginess? Its nature is grudging, contrary to giving.
+  related: [ raga ]
+
+# ---------------- 中隨煩惱二 ----------------
+
+- id: ahrikya
+  skt: āhrīkya
+  deva: आह्रीक्य
+  pali: ahirika
+  zh: 無慚
+  zhAlt: []
+  en: lack of self-respect
+  enAlt: [ shamelessness, lack of conscience, no self-respect, absence of shame, lack of shame ]
+  root: a-「非」＋ hrī「慚」 · a- + hrī "shame"
+  short_zh: 不顧自身與正法，輕拒賢善；與一切不善心俱起。中隨煩惱之一。
+  short_en: Lack of self-respect — disregarding oneself and the Dharma, rejecting the good; present in every unwholesome mind.
+  detail_zh: |
+    《成唯識論》：「不顧自、法，輕拒賢善為性；能障礙慚，生長惡行為業。」正是「慚」的反面：不顧自己的人格、不顧正法，對賢善之人事輕視拒斥。
+
+    無慚與無愧是**中隨煩惱**：凡是不善心都一定有它們（遍不善），但在有覆無記心中則無。《成唯識論》判定它們「定是實有」。
+  detail_en: |
+    Cheng weishi lun: "Disregarding oneself and the Dharma, its nature is disdaining and rejecting the worthy and good; it obstructs self-respect and causes misconduct to grow" — the exact reverse of hrī.
+
+    With lack of decorum it forms the **intermediate secondary afflictions**: present in every unwholesome mind, but not in obscured-neutral minds. The Cheng weishi lun rules that both "are definitely real".
+  quotes:
+    - text: 云何無慚？不顧自、法，輕拒賢善為性；能障礙慚，生長惡行為業。
+      source: 《成唯識論》卷6
+      source_en: Cheng weishi lun, fasc. 6
+      ref: T31n1585_p0033c19
+      refEnd: T31n1585_p0033c21
+      note_en: What is lack of self-respect? Disregarding oneself and the Dharma, its nature is disdaining and rejecting the worthy and good; its function is to obstruct self-respect and make misconduct grow.
+    - text: 云何無慚？謂於所作罪不自羞恥為性。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0849b15
+      note_en: What is lack of self-respect? Its nature is not feeling ashamed within oneself of the wrong one has done.
+  related: [ hri, anapatrapya ]
+  compare: [ hri-apatrapya, kusala-antidotes ]
+
+- id: anapatrapya
+  skt: anapatrāpya
+  deva: अनपत्राप्य
+  pali: anottappa
+  zh: 無愧
+  zhAlt: []
+  en: lack of decorum
+  enAlt: [ disregard for others, lack of moral dread, no shame before others, shamelessness before others, lack of consideration ]
+  root: an-「非」＋ apatrāpya「愧」 · an- + apatrāpya "decorum"
+  short_zh: 不顧世間譏評，崇重暴惡；與一切不善心俱起。中隨煩惱之一。
+  short_en: Lack of decorum — disregarding the world's censure and honouring the violent and evil; present in every unwholesome mind.
+  detail_zh: |
+    《成唯識論》：「不顧世間，崇重暴惡為性；能障礙愧，生長惡行為業。」這是「愧」的反面：不在乎別人怎麼看，甚至推崇暴惡。
+
+    論中特別辨明：無慚、無愧雖都以「不羞恥過惡」為共相，但無慚是「不顧自、法」，無愧是「不顧世間」，所以是兩個不同的心所。
+  detail_en: |
+    Cheng weishi lun: "Disregarding the world, its nature is honouring the violent and evil; it obstructs decorum and causes misconduct to grow" — the reverse of apatrāpya: not caring what others think, even admiring violence.
+
+    The treatise stresses that although both share "no shame at wrongdoing", lack of self-respect disregards oneself and the Dharma, lack of decorum disregards the world; hence they are two distinct factors.
+  quotes:
+    - text: 云何無愧？不顧世間，崇重暴惡為性；能障礙愧，生長惡行為業。
+      source: 《成唯識論》卷6
+      source_en: Cheng weishi lun, fasc. 6
+      ref: T31n1585_p0033c22
+      refEnd: T31n1585_p0033c24
+      note_en: What is lack of decorum? Disregarding the world, its nature is honouring the violent and evil; its function is to obstruct decorum and make misconduct grow.
+    - text: 云何無愧？謂於所作罪不羞恥他為性。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0849b15
+      refEnd: T31n1612_p0849b16
+      note_en: What is lack of decorum? Its nature is not feeling ashamed before others of the wrong one has done.
+  related: [ apatrapya, ahrikya ]
+  compare: [ hri-apatrapya, kusala-antidotes ]
+
+# ---------------- 大隨煩惱八 ----------------
+
+- id: asraddhya
+  skt: āśraddhya
+  deva: आश्रद्ध्य
+  pali: assaddhiya
+  zh: 不信
+  zhAlt: []
+  en: lack of faith
+  enAlt: [ faithlessness, disbelief, lack of confidence, non-faith, distrust ]
+  root: a-「非」＋ śraddhā「信」 · a- + śraddhā "faith"
+  short_zh: 對實、德、能不忍樂欲，心地穢濁；懶惰的所依。大隨煩惱之一。
+  short_en: Lack of faith — not accepting or delighting in the real, the virtuous and the capable; a turbid mind, the basis of laziness.
+  detail_zh: |
+    《成唯識論》：「於實、德、能不忍樂欲，心穢為性；能障淨信，惰依為業。」恰與信（心淨）相反：不信「自相渾濁，復能渾濁餘心、心所，如極穢物，自穢、穢他」。
+
+    「惰依為業」：不相信修行有用、不相信自己做得到，自然就懶於修善——所以不信是懈怠的所依。它是遍一切染心的大隨煩惱，「定是實有」。
+  detail_en: |
+    Cheng weishi lun: "Its nature is non-acceptance, non-delight and non-aspiration toward the real, the virtuous and the capable, with turbidity of mind; it obstructs pure faith and is the basis of laziness." It mirrors faith (clarity): faithlessness "is turbid in itself and makes other minds and factors turbid, like filth that soils itself and others."
+
+    "Basis of laziness": not believing practice works or that one can succeed, one naturally neglects the good. It is a major secondary affliction present in every defiled mind, and "definitely real".
+  quotes:
+    - text: 云何不信？於實、德、能不忍樂欲，心穢為性；能障淨信，惰依為業。
+      source: 《成唯識論》卷6
+      source_en: Cheng weishi lun, fasc. 6
+      ref: T31n1585_p0034b04
+      refEnd: T31n1585_p0034b06
+      note_en: What is lack of faith? Its nature is non-acceptance, non-delight and non-aspiration toward the real, the virtuous and the capable, with turbidity of mind; its function is to obstruct pure faith and be the basis of laziness.
+    - text: 唯此不信，自相渾濁，復能渾濁餘心、心所，如極穢物，自穢、穢他
+      source: 《成唯識論》卷6
+      source_en: Cheng weishi lun, fasc. 6
+      ref: T31n1585_p0034b07
+      refEnd: T31n1585_p0034b09
+      note_en: This lack of faith alone is turbid in its own character and also makes other minds and mental factors turbid, like filthy matter that soils itself and soils others.
+  related: [ sraddha, kausidya ]
+  compare: [ kusala-antidotes ]
+
+- id: kausidya
+  skt: kausīdya
+  deva: कौसीद्य
+  pali: kosajja
+  zh: 懈怠
+  zhAlt: [ 懶惰 ]
+  en: laziness
+  enAlt: [ indolence, sloth, idleness, apathy, lethargy ]
+  root: kusīda「懶惰的」 · from kusīda "lazy"
+  short_zh: 在修善斷惡上懶惰；障礙精進，增長雜染。大隨煩惱之一。
+  short_en: Laziness — sluggishness in cultivating good and abandoning evil; obstructs diligence and increases defilement.
+  detail_zh: |
+    《成唯識論》：「於善、惡品修、斷事中，懶惰為性；能障精進，增染為業。」懈怠專指在**修善、斷惡**上的懶惰。
+
+    有意思的是：熱衷於惡事、勤於無記之事，並不算「不懈怠」。論中說：「於諸染事而策勤者，亦名懈怠，退善法故。」——忙碌於錯誤的事，本身就是對善法的怠惰。
+  detail_en: |
+    Cheng weishi lun: "Its nature is sluggishness in cultivating the good and abandoning the bad; it obstructs diligence and increases defilement." Kausīdya refers specifically to laziness about **cultivating good and abandoning evil**.
+
+    Interestingly, zeal for harmful things does not count as its opposite: the treatise says that exerting oneself in defiled affairs "is also called laziness, because it causes the good to decline" — being busy with the wrong things is itself neglect of the good.
+  quotes:
+    - text: 云何懈怠？於善、惡品修、斷事中，懶惰為性；能障精進，增染為業。
+      source: 《成唯識論》卷6
+      source_en: Cheng weishi lun, fasc. 6
+      ref: T31n1585_p0034b11
+      refEnd: T31n1585_p0034b13
+      note_en: What is laziness? Its nature is sluggishness in cultivating the good and abandoning the bad; its function is to obstruct diligence and increase defilement.
+    - text: 云何懈怠？謂精進所治，於諸善品心不勇猛為性。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0849b19
+      refEnd: T31n1612_p0849b20
+      note_en: What is laziness? As what diligence counteracts, its nature is the mind's lack of vigour toward wholesome things.
+  related: [ virya, asraddhya, pramada ]
+  compare: [ apramada-virya, kusala-antidotes ]
+
+- id: pramada
+  skt: pramāda
+  deva: प्रमाद
+  pali: pamāda
+  zh: 放逸
+  zhAlt: []
+  en: heedlessness
+  enAlt: [ carelessness, negligence, non-conscientiousness, recklessness, unheedfulness ]
+  root: pra-√mad「沉醉、疏忽」 · pra-√mad "to be careless, intoxicated"
+  short_zh: 於染淨品不能防惡修善而縱蕩；由懈怠與貪瞋癡假立。大隨煩惱之一。
+  short_en: Heedlessness — failing to guard against evil and cultivate good, letting oneself go; designated on laziness and the three poisons.
+  detail_zh: |
+    《成唯識論》：「於染、淨品，不能防、修，縱蕩為性；障不放逸，增惡損善所依為業。」論中說明：「謂由懈怠及貪、瞋、癡，不能防修染淨品法，總名放逸，非別有體。」
+
+    這與「不放逸」恰成對稱：不放逸以精進與三善根假立，放逸則以懈怠與三不善根假立。佛陀最後的教誨「無為放逸」，所針對的就是它。
+  detail_en: |
+    Cheng weishi lun: "Its nature is letting oneself go, unable to guard against the defiled or cultivate the pure; it obstructs conscientiousness and is the basis for increasing evil and diminishing good." It explains: "Laziness and greed, hatred and delusion, being unable to guard against the defiled and cultivate the pure, are collectively called heedlessness; it has no separate entity."
+
+    This mirrors conscientiousness exactly: conscientiousness is designated on diligence plus the three wholesome roots, heedlessness on laziness plus the three unwholesome roots. The Buddha's last words, "do not be heedless", target it.
+  quotes:
+    - text: 云何放逸？於染、淨品，不能防、修，縱蕩為性；障不放逸，增惡損善所依為業。謂由懈怠及貪、瞋、癡，不能防修染淨品法，總名放逸，非別有體。
+      source: 《成唯識論》卷6
+      source_en: Cheng weishi lun, fasc. 6
+      ref: T31n1585_p0034b17
+      refEnd: T31n1585_p0034b20
+      note_en: What is heedlessness? Its nature is letting oneself go, unable to guard against the defiled or cultivate the pure; its function is to obstruct conscientiousness and be the basis for increasing evil and diminishing good. That is, laziness together with greed, hatred and delusion, being unable to guard against and cultivate defiled and pure dharmas, is collectively called heedlessness; it has no separate substance.
+    - text: 云何放逸？謂即由貪瞋癡懈怠故，於諸煩惱心不防護，於諸善品不能修習為性。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0849b20
+      refEnd: T31n1612_p0849b22
+      note_en: What is heedlessness? Because of greed, hatred, delusion and laziness, its nature is not guarding the mind against afflictions and being unable to cultivate the good.
+  related: [ apramada, kausidya ]
+  compare: [ apramada-virya, kusala-antidotes ]
+
+- id: styana
+  skt: styāna
+  deva: स्त्यान
+  pali: thīna
+  zh: 惛沈
+  zhAlt: [ 昏沈, 惛沉, 昏沉 ]
+  en: torpor
+  enAlt: [ lethargy, dullness, sloth, fogginess, mental dullness, sluggishness, heaviness ]
+  root: √styai「凝結、變硬」 · √styai "to congeal, stiffen"
+  short_zh: 令心於境昏昧沉重、無所堪任；障礙輕安與觀。大隨煩惱之一。
+  short_en: Torpor — mind dull and heavy, unfit for its object; obstructs pliancy and insight (vipaśyanā).
+  detail_zh: |
+    styāna 原義是「凝結」——心像凝固了一樣沉重。《成唯識論》：「令心於境，無堪任為性；能障輕安、毘鉢舍那為業。」
+
+    惛沈是禪修的兩大障礙之一：惛沈使心下沉、昏昧，障礙清明的「觀」（vipaśyanā）；另一個是掉舉，使心上浮、散動，障礙寂靜的「止」（śamatha）。對治惛沈的善心所是輕安。
+
+    惛沈與睡眠常合為「惛沈睡眠蓋」（五蓋之一），但兩者不同：惛沈是心的沉重無力，睡眠是心識昧略、身不自在（見比較卡）。
+  detail_en: |
+    Styāna originally means "congealing": the mind as if set solid, heavy. Cheng weishi lun: "Its nature is making the mind unfit for its object; it obstructs pliancy and vipaśyanā (insight)."
+
+    Torpor is one of the two great obstacles in meditation: it makes the mind sink and grow dim, obstructing clear insight; the other, restlessness, makes it float and scatter, obstructing calm (śamatha). Its wholesome antidote is pliancy.
+
+    With sleep it forms the hindrance "torpor and sleep", but they differ: torpor is heaviness and powerlessness of mind; sleep is a dim, contracted state in which the body is not under control (see the comparison card).
+  quotes:
+    - text: 云何惛沈？令心於境，無堪任為性；能障輕安、毘鉢舍那為業。
+      source: 《成唯識論》卷6
+      source_en: Cheng weishi lun, fasc. 6
+      ref: T31n1585_p0034a19
+      refEnd: T31n1585_p0034a20
+      note_en: What is torpor? Its nature is making the mind unfit with regard to its object; its function is to obstruct pliancy and vipaśyanā.
+    - text: 云何惛沈？謂心不調暢無所堪能蒙昧為性。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0849b16
+      refEnd: T31n1612_p0849b17
+      note_en: What is torpor? Its nature is the mind being unfluent, unfit and dim.
+  related: [ prasrabdhi, auddhatya, middha ]
+  compare: [ styana-auddhatya ]
+
+- id: auddhatya
+  skt: auddhatya
+  deva: औद्धत्य
+  pali: uddhacca
+  zh: 掉舉
+  zhAlt: [ 掉, 掉悔 ]
+  en: restlessness
+  enAlt: [ excitement, agitation, flightiness, mental excitement ]
+  root: ud-√dhṛ「上揚、浮動」 · from ud-dhata "raised up, agitated"
+  short_zh: 令心於境不寂靜，浮動上揚；障礙行捨與止。大隨煩惱之一。
+  short_en: Restlessness — the mind not calm on its object, bubbling up; obstructs equanimity and calm (śamatha).
+  detail_zh: |
+    《成唯識論》：「令心於境不寂靜為性；能障行捨、奢摩他為業。」掉舉是心的「浮動」——念頭一個接一個冒上來，靜不下來。
+
+    論中記載一說：「掉舉貪一分攝……此由憶昔樂事生故」——常因回想過去快樂的事而起，所以與貪相關。對治它的是行捨；在禪修中，它障礙止（śamatha），與障礙觀的惛沈是一對。
+
+    掉舉與散亂的差別：掉舉令心「不寂靜」（一個對象上浮動不安），散亂令心「流蕩」（在不同對象間跳躍）。
+  detail_en: |
+    Cheng weishi lun: "Its nature is making the mind not calm with regard to its object; it obstructs equanimity and śamatha." Restlessness is the mind's "bubbling up": thoughts popping up one after another, unable to settle.
+
+    The treatise records the view that "restlessness is a part of greed … arising from recalling past pleasures". Its antidote is equanimity; in meditation it obstructs calm, pairing with torpor, which obstructs insight.
+
+    Restlessness versus distraction: restlessness makes the mind "not calm" (agitated even on one object); distraction makes it "drift" (jumping between objects).
+  quotes:
+    - text: 云何掉舉？令心於境不寂靜為性；能障行捨、奢摩他為業。
+      source: 《成唯識論》卷6
+      source_en: Cheng weishi lun, fasc. 6
+      ref: T31n1585_p0034a07
+      refEnd: T31n1585_p0034a08
+      note_en: What is restlessness? Its nature is making the mind not calm with regard to its object; its function is to obstruct equanimity and śamatha.
+    - text: 掉舉貪一分攝，論唯說此是貪分故，此由憶昔樂事生故。
+      source: 《成唯識論》卷6
+      source_en: Cheng weishi lun, fasc. 6
+      ref: T31n1585_p0034a08
+      refEnd: T31n1585_p0034a10
+      note_en: 'One view: restlessness belongs to a part of greed, since the treatises only call it a part of greed; it arises from recalling past pleasures.'
+  related: [ upeksa, styana, viksepa ]
+  compare: [ styana-auddhatya ]
+
+- id: musitasmrtita
+  skt: muṣitasmṛtitā
+  deva: मुषितस्मृतिता
+  pali: muṭṭhassacca
+  zh: 失念
+  zhAlt: [ 忘念 ]
+  en: forgetfulness
+  enAlt: [ loss of mindfulness, unmindfulness, lack of mindfulness, absent-mindedness, confused memory ]
+  root: muṣita「被偷走的」＋ smṛti「念」 · muṣita "stolen" + smṛti "mindfulness"
+  short_zh: 對所緣不能明記，正念被「偷走」；散亂的所依。大隨煩惱之一。
+  short_en: Forgetfulness — unable to keep objects clearly in mind, mindfulness "stolen"; the basis of distraction.
+  detail_zh: |
+    梵語直譯「被偷走的念」。《成唯識論》：「於諸所緣，不能明記為性；能障正念、散亂所依為業。」失念使人忘失應當專注的對象，心便隨之散亂。
+
+    體性：論中有三說——「念一分」（與煩惱相應的念）、「癡一分」、以及「俱一分攝」（念與癡各一分）。《成唯識論》判定大隨中的放逸、失念、不正知三者「定是假有」。《大乘五蘊論》說它是「染污念」。
+  detail_en: |
+    Literally "stolen mindfulness". Cheng weishi lun: "Its nature is being unable to remember objects clearly; it obstructs right mindfulness and is the basis of distraction." Losing the object one should hold, the mind scatters.
+
+    Substance: the treatise gives three views — a part of mindfulness (mindfulness bound up with afflictions), a part of delusion, or a part of both. It rules that heedlessness, forgetfulness and non-alertness among the major secondary afflictions are "definitely designated". The Pañcaskandhaka calls it "defiled mindfulness".
+  quotes:
+    - text: 云何失念？於諸所緣，不能明記為性；能障正念、散亂所依為業。
+      source: 《成唯識論》卷6
+      source_en: Cheng weishi lun, fasc. 6
+      ref: T31n1585_p0034b22
+      refEnd: T31n1585_p0034b24
+      note_en: What is forgetfulness? Its nature is being unable to remember objects clearly; its function is to obstruct right mindfulness and be the basis of distraction.
+    - text: 云何失念？謂染污念，於諸善法不能明記為性。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0849b22
+      refEnd: T31n1612_p0849b23
+      note_en: What is forgetfulness? It is defiled mindfulness; its nature is being unable to remember wholesome dharmas clearly.
+  related: [ smrti, viksepa ]
+  compare: [ smrti-musitasmrtita ]
+
+- id: viksepa
+  skt: vikṣepa
+  deva: विक्षेप
+  pali: vikkhepa
+  zh: 散亂
+  zhAlt: [ 散, 亂 ]
+  en: distraction
+  enAlt: [ scattering, mental wandering, distractedness, scatteredness, wandering mind ]
+  root: vi-√kṣip「拋散」 · vi-√kṣip "to throw about, scatter"
+  short_zh: 令心在諸所緣間流蕩；障礙正定，是惡慧的所依。大隨煩惱之一。
+  short_en: Distraction — the mind drifting among objects; obstructs right concentration and is the basis of wrong discernment.
+  detail_zh: |
+    《成唯識論》：「於諸所緣，令心流蕩為性；能障正定，惡慧所依為業。」散亂是心從一個對象跳到另一個對象，無法定住。
+
+    **散亂與掉舉**：論中問「掉舉、散亂二用何別？」答：「彼令易解，此令易緣」——掉舉令心頻頻變換理解、浮動不安；散亂令心頻頻轉換對象。
+
+    **散亂與失念**：失念是忘失所緣，散亂是隨後心的流蕩——失念為「散亂所依」。《大乘五蘊論》：「貪瞋癡分心流蕩為性。」
+  detail_en: |
+    Cheng weishi lun: "Its nature is making the mind drift among objects; it obstructs right concentration and is the basis of wrong discernment." Distraction is jumping from object to object, unable to settle.
+
+    **Distraction vs restlessness**: the treatise asks how their functions differ and answers: "the former makes [the mind] change its understanding, the latter makes it change its object" — restlessness is agitation in how one apprehends, distraction is switching objects.
+
+    **Distraction vs forgetfulness**: forgetfulness loses the object, distraction is the drifting that follows — forgetfulness is "the basis of distraction". Pañcaskandhaka: "its nature is the drifting of mind, part of greed, hatred and delusion."
+  quotes:
+    - text: 云何散亂？於諸所緣，令心流蕩為性；能障正定，惡慧所依為業。
+      source: 《成唯識論》卷6
+      source_en: Cheng weishi lun, fasc. 6
+      ref: T31n1585_p0034b28
+      refEnd: T31n1585_p0034c01
+      note_en: What is distraction? Its nature is making the mind drift among objects; its function is to obstruct right concentration and be the basis of wrong discernment.
+    - text: 掉舉、散亂二用何別？彼令易解，此令易緣
+      source: 《成唯識論》卷6
+      source_en: Cheng weishi lun, fasc. 6
+      ref: T31n1585_p0034c10
+      refEnd: T31n1585_p0034c11
+      note_en: How do restlessness and distraction differ in function? The former makes [the mind] change its understanding; the latter makes it change its object.
+  related: [ auddhatya, musitasmrtita, samadhi ]
+  compare: [ styana-auddhatya ]
+
+- id: asamprajanya
+  skt: asaṃprajanya
+  deva: असंप्रजन्य
+  pali: asampajañña
+  zh: 不正知
+  zhAlt: []
+  en: non-alertness
+  enAlt: [ inattentiveness, lack of clear comprehension, non-introspection, lack of awareness, incorrect awareness, misunderstanding ]
+  root: a-「非」＋ saṃprajanya「正知」 · a- + saṃprajanya "clear comprehension"
+  short_zh: 對所觀境錯誤理解，不清楚自己在做什麼；導致毀犯。大隨煩惱之一。
+  short_en: Non-alertness — misunderstanding what is observed, not clearly knowing what one is doing; leads to transgression.
+  detail_zh: |
+    《成唯識論》：「於所觀境，謬解為性；能障正知、毀犯為業。」正知（saṃprajanya）是對自己身、語、意當下行為的清楚覺察；不正知則是覺察錯誤或缺失，因而做出違犯戒律的事。《大乘五蘊論》：「於身語意現前行中不正依住為性。」
+
+    體性：一說「慧一分」（與煩惱相應的慧），一說「癡一分」，一說兩者「俱一分攝」；判為「定是假有」。與「惡見」同為染慧的一種表現，但惡見是對諦理的錯誤推度，不正知是對當下行為的錯誤覺知。
+  detail_en: |
+    Cheng weishi lun: "Its nature is misunderstanding the observed object; it obstructs right awareness and its function is transgression." Clear comprehension is lucid awareness of one's present bodily, verbal and mental conduct; non-alertness is faulty or absent awareness, so one commits transgressions. Pañcaskandhaka: "its nature is not abiding correctly in present conduct of body, speech and mind."
+
+    Substance: a part of discernment (discernment bound up with afflictions), a part of delusion, or a part of both; it is "definitely designated". Like wrong view it is a form of defiled discernment, but wrong view misjudges the truths, non-alertness misreads one's present conduct.
+  quotes:
+    - text: 云何不正知？於所觀境，謬解為性；能障正知、毀犯為業。
+      source: 《成唯識論》卷6
+      source_en: Cheng weishi lun, fasc. 6
+      ref: T31n1585_p0034c14
+      refEnd: T31n1585_p0034c15
+      note_en: What is non-alertness? Its nature is misunderstanding the observed object; its function is to obstruct right awareness and cause transgression.
+    - text: 云何不正知？謂於身語意現前行中不正依住為性。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0849b24
+      refEnd: T31n1612_p0849b25
+      note_en: What is non-alertness? Its nature is not abiding correctly in present conduct of body, speech and mind.
+  related: [ prajna, drsti, musitasmrtita ]
+  compare: [ avidya-drsti-asamprajanya ]
+
+# ---------------- 不定 aniyata ----------------
+
+- id: kaukrtya
+  skt: kaukṛtya
+  deva: कौकृत्य
+  pali: kukkucca
+  zh: 惡作
+  zhAlt: [ 悔, 追悔 ]
+  en: regret
+  enAlt: [ remorse, worry, contrition, repentance ]
+  root: ku-kṛta「做壞了的事」 · from ku-kṛta "badly done"
+  short_zh: 對已做（或未做）之事追悔；障礙止。不定心所：悔惡是善，悔善是惡。
+  short_en: 'Regret — remorse over what one did (or failed to do); obstructs calm. Indeterminate: regretting evil is good, regretting good is bad.'
+  detail_zh: |
+    kaukṛtya 字面是「做壞了的事」，漢譯「惡作」，又稱「悔」。《成唯識論》：「悔謂惡作，惡所作業，追悔為性，障止為業。」論中解釋：這是「於果假立因名」——追悔（果）以所厭惡的作業（因）為名；而且後悔「先前沒做」的事也算惡作。
+
+    **為什麼是「不定」**：悔本身的善惡取決於所悔之事——後悔做了壞事是善的（懺悔），後悔做了好事則是不善。追悔太過則令心不安，障礙止（śamatha）；掉舉與惡作合為五蓋之一「掉悔蓋」。
+  detail_en: |
+    Kaukṛtya literally means "what was badly done"; Chinese 惡作 or 悔 "regret". Cheng weishi lun: "Regret is 'evil-doing': its nature is remorse over a disliked deed; its function is to obstruct calm." The name "applies the cause's name to the effect" — the remorse (effect) is named after the deed regretted (cause); and regretting what one failed to do also counts.
+
+    **Why indeterminate**: its moral quality depends on what is regretted — regretting wrongdoing is wholesome (repentance), regretting a good deed is unwholesome. Excessive remorse disturbs the mind and obstructs calm; with restlessness it forms the hindrance "restlessness and remorse".
+  quotes:
+    - text: 悔謂惡作，惡所作業，追悔為性，障止為業。
+      source: 《成唯識論》卷7
+      source_en: Cheng weishi lun, fasc. 7
+      ref: T31n1585_p0035c11
+      refEnd: T31n1585_p0035c12
+      note_en: 'Regret is "evil-doing": its nature is remorse over a disliked deed; its function is to obstruct calm.'
+    - text: 云何惡作？謂心變悔為性。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0849b26
+      note_en: What is regret? Its nature is the mind's changing to remorse.
+  related: [ middha, auddhatya, mraksa ]
+  compare: [ aniyata-four ]
+
+- id: middha
+  skt: middha
+  deva: मिद्ध
+  pali: middha
+  zh: 睡眠
+  zhAlt: [ 眠 ]
+  en: sleep
+  enAlt: [ drowsiness, sleepiness ]
+  root: 「昏睡、遲鈍」 · "sleepiness, sluggishness"
+  short_zh: 令身不自在、心極闇昧的狀態；障礙觀。不定心所。
+  short_en: Sleep — a state in which the body is not under control and the mind very dim and contracted; obstructs insight. Indeterminate.
+  detail_zh: |
+    《成唯識論》：「眠謂睡眠，令身不自在，昧、略為性，障觀為業。」論中解釋：「昧」簡別於定（定中心明而非昧），「略」簡別於醒時（醒時心識廣而不略）。睡眠位中身不自在、「心極闇劣，一門轉故」。
+
+    睡眠是心所而非單純的生理現象，所以通善、惡、無記：例如睡前的善念可延續到睡中。它與惛沈合為「惛沈睡眠蓋」，但惛沈是遍一切染心的大隨煩惱，睡眠則是不定。
+  detail_en: |
+    Cheng weishi lun: "Sleep makes the body not under one's control; its nature is dimness and contraction; its function is to obstruct insight." "Dim" distinguishes it from concentration (the concentrated mind is clear); "contracted" distinguishes it from waking. In sleep the body is not free and "the mind is extremely dark and weak, operating through a single door".
+
+    Sleep is a mental factor, not just physiology, so it can be wholesome, unwholesome or neutral — e.g. a good intention before sleep can carry into it. With torpor it forms the hindrance "torpor and sleep", but torpor is a major secondary affliction present in all defiled minds, whereas sleep is indeterminate.
+  quotes:
+    - text: 眠謂睡眠，令身不自在，昧、略為性，障觀為業。
+      source: 《成唯識論》卷7
+      source_en: Cheng weishi lun, fasc. 7
+      ref: T31n1585_p0035c14
+      refEnd: T31n1585_p0035c15
+      note_en: Sleep makes the body not under one's control; its nature is dimness and contraction; its function is to obstruct insight.
+    - text: 云何睡眠？謂不自在轉心極昧略為性。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0849b26
+      refEnd: T31n1612_p0849b27
+      note_en: What is sleep? Its nature is the mind operating without control, extremely dim and contracted.
+  related: [ styana, kaukrtya ]
+  compare: [ styana-auddhatya, aniyata-four ]
+
+- id: vitarka
+  skt: vitarka
+  deva: वितर्क
+  pali: vitakka
+  zh: 尋
+  zhAlt: [ 覺, 尋求 ]
+  en: initial inquiry
+  enAlt: [ applied thought, investigation, conception, reasoning, initial application, thought, coarse examination, inquiry ]
+  root: vi-√tark「推想、思量」 · vi-√tark "to reflect, conjecture"
+  short_zh: 對意言境粗略地尋求推度；與伺相對（伺較細）。不定心所。舊譯「覺」。
+  short_en: Initial inquiry — coarse searching of the mentally-verbalized object; contrasted with the finer vicāra. Indeterminate. Old translation 覺.
+  detail_zh: |
+    《成唯識論》：「尋謂尋求，令心怱遽於意言境，麁轉為性；伺謂伺察，令心怱遽於意言境，細轉為性。此二俱以安、不安住身心分位所依為業。」
+
+    「意言境」指以內在語言、概念所把握的對象。尋是較粗的「搜尋」，伺是較細的「審察」。二者都以思（意志）與慧（簡擇）為體，在推度的深淺上分別。
+
+    **禪定中的意義**：初禪有尋有伺，二禪以上無尋無伺——尋伺的止息是從初禪進入二禪的關鍵。說一切有部以「心麁性名尋，心細性名伺」簡要說明。
+  detail_en: |
+    Cheng weishi lun: "Initial inquiry means searching: making the mind hurried toward the mentally-verbalized object, operating coarsely; sustained investigation means scrutinizing: … operating finely. Both serve as the basis of bodily and mental states of ease or unease."
+
+    The "mentally-verbalized object" is what is grasped through inner speech and concepts. Vitarka is the coarser "searching", vicāra the finer "examining". Both have volition and discernment as substance, differing in depth.
+
+    **In meditation**: the first dhyāna has vitarka and vicāra; the second and higher have neither — their cessation marks the move to the second dhyāna. The Sarvāstivāda sums it up: "coarseness of mind is vitarka, fineness of mind is vicāra."
+  quotes:
+    - text: 尋謂尋求，令心怱遽於意言境，麁轉為性；伺謂伺察，令心怱遽於意言境，細轉為性。此二俱以安、不安住身心分位所依為業。
+      source: 《成唯識論》卷7
+      source_en: Cheng weishi lun, fasc. 7
+      ref: T31n1585_p0035c28
+      refEnd: T31n1585_p0036a02
+      note_en: Initial inquiry means searching — making the mind hurry toward the mentally-verbalized object, its nature operating coarsely; sustained investigation means scrutinizing — making the mind hurry toward the mentally-verbalized object, its nature operating finely. Both function as the basis of bodily and mental states of ease or unease.
+    - text: 云何為尋？謂能尋求意言分別思慧差別令心麁為性。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0849b27
+      refEnd: T31n1612_p0849b28
+      note_en: What is initial inquiry? Its nature is searching the mental discourse, a particular kind of volition and discernment, making the mind coarse.
+    - text: 心麁性名尋。心細性名伺。
+      source: 《阿毘達磨大毘婆沙論》卷42
+      source_en: Abhidharma-mahāvibhāṣā, fasc. 42
+      ref: T27n1545_p0219a07
+      refEnd: T27n1545_p0219a08
+      note_en: Coarseness of mind is called initial inquiry; fineness of mind is called sustained investigation.
+  related: [ vicara ]
+  compare: [ vitarka-vicara, aniyata-four ]
+
+- id: vicara
+  skt: vicāra
+  deva: विचार
+  pali: vicāra
+  zh: 伺
+  zhAlt: [ 觀, 伺察 ]
+  en: sustained investigation
+  enAlt: [ analysis, scrutiny, examination, sustained thought, sustained application, discursive thought, fine examination, investigation ]
+  root: vi-√car「往來巡察」 · vi-√car "to move about, examine"
+  short_zh: 對意言境細密地伺察；與尋相對（尋較粗）。不定心所。舊譯「觀」。
+  short_en: Sustained investigation — fine scrutiny of the mentally-verbalized object; contrasted with the coarser vitarka. Indeterminate. Old translation 觀.
+  detail_zh: |
+    伺是細密的審察：尋像是在人群中「找」一個人，伺則是找到之後「仔細端詳」。《大乘五蘊論》：「謂能伺察意言分別思慧差別令心細為性。」
+
+    **名稱陷阱**：舊譯把 vitarka、vicāra 譯為「覺、觀」，這個「觀」和止觀的「觀」（vipaśyanā）是完全不同的字！讀古譯經典（如「有覺有觀三昧」）時要特別注意。
+  detail_en: |
+    Vicāra is fine scrutiny: vitarka is like "looking for" someone in a crowd, vicāra like "examining them closely" once found. Pañcaskandhaka: "its nature is scrutinizing the mental discourse, a particular kind of volition and discernment, making the mind fine."
+
+    **Naming trap**: older translations render vitarka and vicāra as 覺 and 觀 — this 觀 is entirely different from the 觀 of 止觀 (vipaśyanā)! Watch for it in old translations such as 「有覺有觀三昧」.
+  quotes:
+    - text: 云何為伺？謂能伺察意言分別思慧差別令心細為性。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0849b28
+      refEnd: T31n1612_p0849b29
+      note_en: What is sustained investigation? Its nature is scrutinizing the mental discourse, a particular kind of volition and discernment, making the mind fine.
+  related: [ vitarka ]
+  compare: [ vitarka-vicara, aniyata-four ]

@@ -1,0 +1,100 @@
+id: hri-apatrapya
+title_zh: 慚（hrī）與愧（apatrāpya）
+title_en: Self-respect vs. decorum (hrī & apatrāpya)
+terms: [ hri, apatrapya, ahrikya, anapatrapya ]
+summary_zh: 兩者都是對過惡的羞恥，差別在羞恥的依據：慚依「自」與「法」（向內），愧依「世間」（向外）。反面是無慚、無愧。
+summary_en: Both are shame at wrongdoing; they differ in what the shame relies on — hrī on oneself and the Dharma (inward), apatrāpya on the world (outward). Their opposites are the two intermediate secondary afflictions.
+table:
+  columns:
+    - { zh: 慚 hrī, en: Self-respect }
+    - { zh: 愧 apatrāpya, en: Decorum }
+  rows:
+    - label: { zh: 所依, en: Relies on }
+      cells:
+        - { zh: 自力、法力（自增上、法增上）, en: Oneself and the Dharma }
+        - { zh: 世間力（世增上）, en: 'The world, others'' opinion' }
+    - label: { zh: 體性, en: Nature }
+      cells:
+        - { zh: 崇重賢善, en: Honouring the worthy and good }
+        - { zh: 輕拒暴惡, en: Disdaining the violent and evil }
+    - label: { zh: 作用, en: Function }
+      cells:
+        - { zh: 對治無慚，止息惡行, en: Counters lack of self-respect; stops misconduct }
+        - { zh: 對治無愧，止息惡行, en: Counters lack of decorum; stops misconduct }
+    - label: { zh: 方向, en: Direction }
+      cells:
+        - { zh: 向內：對不起自己與正法, en: 'Inward: letting down oneself and the Dharma' }
+        - { zh: 向外：怕人譏評, en: 'Outward: fear of censure' }
+    - label: { zh: 相反, en: Opposite }
+      cells:
+        - { zh: 無慚（中隨煩惱）, en: Lack of self-respect }
+        - { zh: 無愧（中隨煩惱）, en: Lack of decorum }
+explanation_zh: |
+  **共同點**：慚與愧的作用完全相同——「止息惡行為業」，而且都對「所作罪」生羞恥。
+
+  **差別在「依」**：《成唯識論》說慚「依自、法力」，愧「依世間力」。一個人不做壞事，可能是因為「這不是我這樣的人該做的、違背我所學的法」（慚），也可能是因為「別人會怎麼看我」（愧）。前者向內，後者向外。
+
+  **為何要兩個**：只靠內在的自尊，可能自以為是；只靠外在的眼光，沒人看見時就放縱。佛陀稱二者為「護世間」的「二淨法」，缺一不可。
+
+  **反面**：無慚「不顧自、法」，無愧「不顧世間」；二者遍於一切不善心，是中隨煩惱，《成唯識論》判為實有。
+explanation_en: |
+  **In common**: their function is identical — "stopping misconduct" — and both feel shame at wrong done.
+
+  **The difference is the basis**: the Cheng weishi lun says hrī "relies on the power of oneself and the Dharma", apatrāpya "on the power of the world". One may refrain from wrong because "this is unworthy of who I am and contrary to the Dharma I follow" (hrī), or because "what would others think?" (apatrāpya). Inward versus outward.
+
+  **Why both**: self-respect alone can become self-righteous; concern for others' opinion alone lapses when no one is watching. The Buddha calls them "two pure dharmas that protect the world" — both are needed.
+
+  **Opposites**: lack of self-respect "disregards oneself and the Dharma", lack of decorum "disregards the world"; both accompany every unwholesome mind (intermediate secondary afflictions) and are ruled to be real.
+quotes:
+  - text: 有二淨法，能護世間。何等為二？所謂慚、愧。
+    source: 《雜阿含經》卷47（第1243經）
+    source_en: Saṃyuktāgama, fasc. 47, sūtra 1243
+    ref: T02n0099_p0340c23
+    refEnd: T02n0099_p0340c24
+    note_en: There are two pure dharmas that protect the world. What are the two? Namely, self-respect and decorum.
+questions:
+  - type: mcq
+    q_zh: 依《成唯識論》，「愧」所依的是什麼力量？
+    q_en: According to the Cheng weishi lun, what does apatrāpya rely on?
+    options:
+      - { zh: 自力, en: oneself }
+      - { zh: 法力, en: the Dharma }
+      - { zh: 世間力, en: the world }
+      - { zh: 佛力, en: the Buddha's power }
+    answer: 2
+    explain_zh: 慚「依自、法力」，愧「依世間力」。
+    explain_en: Hrī relies on oneself and the Dharma; apatrāpya on the world.
+  - type: tf
+    q_zh: 慚與愧的「業」（作用）相同，都是止息惡行。
+    q_en: Hrī and apatrāpya have the same function — stopping misconduct.
+    answer: true
+    explain_zh: 兩者都是「止息惡行為業」，差別只在所依與體性。
+    explain_en: Both have "stopping misconduct" as function; they differ in basis and nature.
+  - type: mcq
+    q_zh: 某人獨處無人看見時也不肯做虧心事，主要是哪一心所的作用？
+    q_en: Someone refuses to do wrong even when completely alone and unseen. Which factor is chiefly at work?
+    options:
+      - { zh: 慚, en: hrī (self-respect) }
+      - { zh: 愧, en: apatrāpya (decorum) }
+      - { zh: 勝解, en: resolve }
+      - { zh: 念, en: mindfulness }
+    answer: 0
+    explain_zh: 無人看見時仍不作惡，是依自身與正法而羞恥——慚。
+    explain_en: Refraining when unseen relies on oneself and the Dharma — self-respect.
+  - type: mcq
+    q_zh: 無慚、無愧屬於哪一類隨煩惱？
+    q_en: Which class of secondary afflictions do lack of self-respect and lack of decorum belong to?
+    options:
+      - { zh: 小隨煩惱, en: minor }
+      - { zh: 中隨煩惱, en: intermediate }
+      - { zh: 大隨煩惱, en: major }
+      - { zh: 不定, en: indeterminate }
+    answer: 1
+    explain_zh: 「無慚等二，遍不善故，名中隨煩惱。」
+    explain_en: '"The two beginning with lack of self-respect pervade all unwholesome minds, hence intermediate."'
+  - type: tf
+    q_zh: 佛陀稱慚與愧為「能護世間」的二淨法。
+    q_en: The Buddha called hrī and apatrāpya the two pure dharmas that protect the world.
+    answer: true
+    explain_zh: 《雜阿含經》：「有二淨法，能護世間……所謂慚、愧。」
+    explain_en: 'Saṃyuktāgama: "There are two pure dharmas that protect the world … self-respect and decorum."'

@@ -1,0 +1,91 @@
+id: smrti-musitasmrtita
+title_zh: 念、正念與失念
+title_en: Mindfulness, right mindfulness and forgetfulness
+terms: [ smrti, musitasmrtita ]
+summary_zh: 念是別境心所，明記曾習之境；「不忘念即是正念」；與煩惱相應、忘失所緣的則是隨煩惱「失念」（被偷走的念）。
+summary_en: Mindfulness is an object-specific factor that clearly keeps familiar objects in mind; "non-forgetful mindfulness is right mindfulness"; mindfulness bound up with afflictions, losing its object, is the secondary affliction "forgetfulness" (stolen mindfulness).
+table:
+  columns:
+    - { zh: 念 smṛti, en: Mindfulness }
+    - { zh: 失念 muṣitasmṛtitā, en: Forgetfulness }
+  rows:
+    - label: { zh: 類別, en: Category }
+      cells:
+        - { zh: 別境心所（通善惡）, en: Object-specific (morally variable) }
+        - { zh: 大隨煩惱, en: Major secondary affliction }
+    - label: { zh: 體性, en: Nature }
+      cells:
+        - { zh: 於曾習境明記不忘, en: Clearly remembering the familiar }
+        - { zh: 於諸所緣不能明記, en: Unable to remember objects clearly }
+    - label: { zh: 作用, en: Function }
+      cells:
+        - { zh: 定依, en: Support of concentration }
+        - { zh: 障正念，散亂所依, en: Obstructs right mindfulness; basis of distraction }
+    - label: { zh: 善的形態, en: Wholesome form }
+      cells:
+        - { zh: 正念（四念處、八正道）, en: Right mindfulness }
+        - { zh: —, en: — }
+explanation_zh: |
+  **一條鏈**：念 → 定 → 慧。念是「定依」，定是「智依」。失念則反過來：失念 → 散亂 → 惡慧（散亂是「惡慧所依」）。一正一反，道出修行的心理機制。
+
+  **念本身通善惡**：百法把念放在別境而不是善心所，因為記住一件事本身無所謂善惡——念念不忘仇恨，也是一種「念」。《成唯識論》說「不忘念者，即是正念」，這是念在善品中的形態。
+
+  **失念的體性**：論中三說——念一分、癡一分、俱一分；《大乘五蘊論》直接稱之為「染污念」。
+explanation_en: |
+  **A chain**: mindfulness → concentration → wisdom. Mindfulness is "the support of concentration", concentration "the support of wisdom". Forgetfulness runs the other way: forgetfulness → distraction → wrong discernment (distraction is "the basis of wrong discernment"). Together they lay bare the psychology of practice.
+
+  **Mindfulness itself is morally variable**: the hundred dharmas place it among the object-specific, not the wholesome, factors, because remembering is in itself neither good nor bad — never forgetting a grudge is also "mindfulness". "Non-forgetful mindfulness is right mindfulness" is its wholesome form.
+
+  **Substance of forgetfulness**: three views — part of mindfulness, part of delusion, part of both; the Pañcaskandhaka calls it "defiled mindfulness".
+quotes:
+  - text: 不忘念者，即是正念。
+    source: 《成唯識論》卷6
+    source_en: Cheng weishi lun, fasc. 6
+    ref: T31n1585_p0030c24
+    note_en: Non-forgetful mindfulness is right mindfulness.
+  - text: 云何失念？於諸所緣，不能明記為性；能障正念、散亂所依為業。
+    source: 《成唯識論》卷6
+    source_en: Cheng weishi lun, fasc. 6
+    ref: T31n1585_p0034b22
+    refEnd: T31n1585_p0034b24
+    note_en: What is forgetfulness? Its nature is being unable to remember objects clearly; its function is to obstruct right mindfulness and be the basis of distraction.
+questions:
+  - type: mcq
+    q_zh: 念的「業」（作用）是？
+    q_en: What is the function of mindfulness?
+    options:
+      - { zh: 定依, en: support of concentration }
+      - { zh: 智依, en: support of wisdom }
+      - { zh: 勤依, en: support of effort }
+      - { zh: 斷疑, en: cutting doubt }
+    answer: 0
+    explain_zh: 念「定依為業」；定「智依為業」；欲「勤依為業」。
+    explain_en: Mindfulness supports concentration; concentration supports wisdom; aspiration supports effort.
+  - type: mcq
+    q_zh: 失念是什麼的所依？
+    q_en: Forgetfulness is the basis of…
+    options:
+      - { zh: 散亂, en: distraction }
+      - { zh: 惛沈, en: torpor }
+      - { zh: 懈怠, en: laziness }
+      - { zh: 嫉, en: jealousy }
+    answer: 0
+    explain_zh: 失念「能障正念、散亂所依為業」。
+    explain_en: Forgetfulness "obstructs right mindfulness and is the basis of distraction".
+  - type: tf
+    q_zh: 在百法中，「念」屬於善心所。
+    q_en: In the hundred dharmas, mindfulness is a wholesome factor.
+    answer: false
+    explain_zh: 念屬別境，通善惡；其善的形態是正念。
+    explain_en: Mindfulness is object-specific and morally variable; its wholesome form is right mindfulness.
+  - type: mcq
+    q_zh: 梵語 muṣitasmṛtitā 的字面意思是？
+    q_en: What does muṣitasmṛtitā literally mean?
+    options:
+      - { zh: 被偷走的念, en: stolen mindfulness }
+      - { zh: 過多的念, en: excessive mindfulness }
+      - { zh: 正確的念, en: right mindfulness }
+      - { zh: 念的種子, en: seed of mindfulness }
+    answer: 0
+    explain_zh: muṣita 意為「被偷」。
+    explain_en: Muṣita means "stolen".

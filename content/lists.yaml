@@ -27,3 +27,48 @@
   items: [citta, caitasika, samskrta, pratityasamutpada, avidya, karma]
   summary_zh: 理解五蘊、心所與十二因緣所需的基礎名相。
   summary_en: Core terms needed to understand the aggregates, the mental factors and dependent origination.
+
+- id: viniyata
+  zh: 別境心所
+  en: Object-specific Mental Factors
+  skt: pañca viniyatāḥ
+  items: [chanda, adhimoksa, smrti, samadhi, prajna]
+  ordered: true
+  summary_zh: 只在緣特定對象時才生起的五個心所：欲（所樂境）、勝解（決定境）、念（曾習境）、定與慧（所觀境）。
+  summary_en: 'Five factors that arise only with particular kinds of object: aspiration (desired), resolve (ascertained), mindfulness (familiar), concentration and wisdom (observed).'
+
+- id: kusala
+  zh: 善心所
+  en: The Eleven Wholesome Mental Factors
+  skt: ekādaśa kuśalāḥ
+  items: [sraddha, virya, hri, apatrapya, alobha, advesa, amoha, prasrabdhi, apramada, upeksa, avihimsa]
+  ordered: true
+  summary_zh: 唯在善心中生起的十一個心所，各有所對治的煩惱。其中不放逸、行捨、不害是依他法假立。
+  summary_en: The eleven factors found only in wholesome minds, each counteracting an affliction. Conscientiousness, equanimity and non-harming are designated on other factors.
+
+- id: klesa
+  zh: 根本煩惱
+  en: The Six Root Afflictions
+  skt: ṣaṭ kleśāḥ
+  items: [raga, pratigha, mana, avidya, vicikitsa, drsti]
+  ordered: true
+  summary_zh: 貪、瞋、慢、無明（癡）、疑、不正見（惡見）——一切煩惱的根本，隨煩惱皆由此分出。
+  summary_en: Greed, aversion, pride, ignorance, doubt and wrong view — the roots from which the secondary afflictions derive.
+
+- id: upaklesa
+  zh: 隨煩惱
+  en: The Twenty Secondary Afflictions
+  skt: viṃśatir upakleśāḥ
+  items: [krodha, upanaha, pradasa, mraksa, maya, sathya, mada, vihimsa, irsya, matsarya, ahrikya, anapatrapya, asraddhya, kausidya, pramada, styana, auddhatya, musitasmrtita, asamprajanya, viksepa]
+  ordered: true
+  summary_zh: 根本煩惱的分位或等流。小隨十（各別起）、中隨二（遍不善心）、大隨八（遍一切染心）。
+  summary_en: 'Phases or outflows of the root afflictions: ten minor (arising separately), two intermediate (in every unwholesome mind), eight major (in every defiled mind).'
+
+- id: aniyata
+  zh: 不定心所
+  en: The Four Indeterminate Mental Factors
+  skt: catvāro 'niyatāḥ
+  items: [kaukrtya, middha, vitarka, vicara]
+  ordered: true
+  summary_zh: 惡作（悔）、睡眠、尋、伺——善、惡、無記不定，隨所伴隨的心而定其性質。
+  summary_en: Regret, sleep, initial inquiry and sustained investigation — their moral quality depends on the mind they accompany.

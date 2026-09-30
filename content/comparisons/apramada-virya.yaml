@@ -1,0 +1,96 @@
+id: apramada-virya
+title_zh: 不放逸與精進；放逸與懈怠
+title_en: Conscientiousness vs. diligence; heedlessness vs. laziness
+terms: [ apramada, virya, pramada, kausidya ]
+summary_zh: 精進與懈怠是實有的心所；不放逸與放逸則是「組合」出來的：不放逸＝精進＋三善根（防惡修善），放逸＝懈怠＋貪瞋癡（不防不修）。
+summary_en: Diligence and laziness are real factors; conscientiousness and heedlessness are "composites" — conscientiousness = diligence + the three wholesome roots (guarding and cultivating), heedlessness = laziness + greed, hatred, delusion (neither guarding nor cultivating).
+table:
+  columns:
+    - { zh: 精進, en: Diligence }
+    - { zh: 不放逸, en: Conscientiousness }
+    - { zh: 懈怠, en: Laziness }
+    - { zh: 放逸, en: Heedlessness }
+  rows:
+    - label: { zh: 實／假, en: Real or designated }
+      cells:
+        - { zh: 實有, en: Real }
+        - { zh: 假立, en: Designated }
+        - { zh: 實有, en: Real }
+        - { zh: 假立, en: Designated }
+    - label: { zh: 組成, en: Made of }
+      cells:
+        - { zh: —, en: — }
+        - { zh: 精進＋無貪無瞋無癡, en: Diligence + three wholesome roots }
+        - { zh: —, en: — }
+        - { zh: 懈怠＋貪瞋癡, en: Laziness + three poisons }
+    - label: { zh: 核心, en: Core }
+      cells:
+        - { zh: 勇悍——努力向前, en: Courage — pressing forward }
+        - { zh: 防、修——守護與培養, en: Guarding and cultivating }
+        - { zh: 懶惰, en: Sluggishness }
+        - { zh: 縱蕩——不防不修, en: Letting go — no guarding or cultivating }
+explanation_zh: |
+  **精進是油門，不放逸是方向盤加煞車**。精進讓人在善法上勇猛向前；但光有衝勁還不夠，還需要「防」（守住不讓惡生起）與「修」（培養善法），而這需要無貪、無瞋、無癡的配合。精進加上三善根共同發揮「防惡修善」的作用，就叫不放逸。
+
+  **反面也對稱**：懈怠是實有的懶惰；放逸則是懈怠加上貪瞋癡，使人既不防惡、也不修善，「縱蕩為性」。
+
+  **佛陀的遺言**：臨入滅前，佛陀說「無為放逸，我以不放逸故，自致正覺」。不放逸被視為一切善法的總持。
+explanation_en: |
+  **Diligence is the accelerator; conscientiousness is steering plus brakes.** Diligence drives one forward in the good; but drive alone is not enough — one also needs to "guard" (keep evil from arising) and "cultivate" (develop the good), which requires non-greed, non-hatred and non-delusion. Diligence working with the three roots to guard and cultivate is called conscientiousness.
+
+  **The opposites mirror this**: laziness is real sluggishness; heedlessness is laziness plus greed, hatred and delusion, so that one neither guards against evil nor cultivates good — "letting go".
+
+  **The Buddha's last words**: "Do not be heedless; through heedfulness I attained right awakening." Conscientiousness is regarded as the sum of all good dharmas.
+quotes:
+  - text: 不放逸者：精進、三根，於所斷、修，防、修為性；對治放逸，成滿一切世、出世間善事為業。
+    source: 《成唯識論》卷6
+    source_en: Cheng weishi lun, fasc. 6
+    ref: T31n1585_p0030b07
+    refEnd: T31n1585_p0030b09
+    note_en: Conscientiousness is diligence and the three roots, whose nature is guarding against what is to be abandoned and cultivating what is to be developed; its function is to counteract heedlessness and fulfil all worldly and transcendent good deeds.
+  - text: 謂由懈怠及貪、瞋、癡，不能防修染淨品法，總名放逸，非別有體。
+    source: 《成唯識論》卷6
+    source_en: Cheng weishi lun, fasc. 6
+    ref: T31n1585_p0034b19
+    refEnd: T31n1585_p0034b20
+    note_en: That is, laziness together with greed, hatred and delusion, being unable to guard against and cultivate defiled and pure dharmas, is collectively called heedlessness; it has no separate substance.
+questions:
+  - type: mcq
+    q_zh: 不放逸是依哪些法假立的？
+    q_en: On which dharmas is conscientiousness designated?
+    options:
+      - { zh: 精進與三善根, en: diligence and the three wholesome roots }
+      - { zh: 信與慚愧, en: 'faith, self-respect and decorum' }
+      - { zh: 念與定, en: mindfulness and concentration }
+      - { zh: 輕安與行捨, en: pliancy and equanimity }
+    answer: 0
+    explain_zh: 「不放逸者：精進、三根……」
+    explain_en: '"Conscientiousness is diligence and the three roots…"'
+  - type: mcq
+    q_zh: 放逸是依哪些法假立的？
+    q_en: On which dharmas is heedlessness designated?
+    options:
+      - { zh: 懈怠與貪瞋癡, en: 'laziness and greed, hatred, delusion' }
+      - { zh: 掉舉與散亂, en: restlessness and distraction }
+      - { zh: 不信與無慚, en: faithlessness and lack of self-respect }
+      - { zh: 它是獨立實有, en: it is a separate real factor }
+    answer: 0
+    explain_zh: 「謂由懈怠及貪、瞋、癡……總名放逸，非別有體。」
+    explain_en: '"Laziness together with greed, hatred and delusion … collectively called heedlessness."'
+  - type: tf
+    q_zh: 懈怠與精進都是實有的心所。
+    q_en: Laziness and diligence are both real factors.
+    answer: true
+    explain_zh: 論中判懈怠「定是實有」；精進亦實。
+    explain_en: The treatise rules laziness definitely real; diligence is real too.
+  - type: mcq
+    q_zh: 熱衷於做壞事，是否屬於「精進」？
+    q_en: Is zealous engagement in harmful acts a form of diligence?
+    options:
+      - { zh: 是，因為很努力, en: 'yes, because it is hard work' }
+      - { zh: 否，論中說這「亦名懈怠」, en: 'no — the treatise calls this "also laziness"' }
+      - { zh: 是，屬無記的精進, en: 'yes, neutral diligence' }
+      - { zh: 屬於不放逸, en: it is conscientiousness }
+    answer: 1
+    explain_zh: 「於諸染事而策勤者，亦名懈怠，退善法故。」
+    explain_en: '"Exerting oneself in defiled affairs is also called laziness, because the good declines."'

@@ -80,8 +80,23 @@ for (const c of comparisons) {
   checkQuotes(where, c.quotes);
   if (c.table) {
     const n = c.table.columns.length;
-    for (const r of c.table.rows) if (r.cells.length !== n) err(`${where}: table row "${r.label?.zh}" has ${r.cells.length} cells, expected ${n}`);
+    const cellOk = (x, what) => {
+      const keys = Object.keys(x || {});
+      if (typeof x?.zh !== 'string' || typeof x?.en !== 'string' || keys.some((k) => k !== 'zh' && k !== 'en'))
+        err(`${where}: ${what} must be exactly {zh, en} strings (unquoted comma in a flow map?): ${JSON.stringify(x)}`);
+    };
+    c.table.columns.forEach((x, i) => cellOk(x, `column ${i + 1}`));
+    for (const r of c.table.rows) {
+      cellOk(r.label, 'row label');
+      if (r.cells.length !== n) err(`${where}: table row "${r.label?.zh}" has ${r.cells.length} cells, expected ${n}`);
+      r.cells.forEach((x) => cellOk(x, `cell in row "${r.label?.zh}"`));
+    }
   }
+  (c.questions || []).forEach((q, i) => {
+    for (const o of q.options || []) {
+      if (typeof o?.zh !== 'string' || typeof o?.en !== 'string' || Object.keys(o).length !== 2) err(`${where} q${i + 1}: option must be {zh, en}: ${JSON.stringify(o)}`);
+    }
+  });
   (c.questions || []).forEach((q, i) => {
     if (!q.q_zh || !q.q_en) err(`${where} q${i + 1}: missing q_zh/q_en`);
     if (q.type === 'mcq') {

@@ -1,0 +1,96 @@
+id: aniyata-four
+title_zh: 四不定心所：悔、眠、尋、伺
+title_en: The four indeterminate factors — regret, sleep, inquiry, investigation
+terms: [ kaukrtya, middha, vitarka, vicara ]
+summary_zh: 這四者不像遍行那樣遍一切心，不像別境那樣定遍一切地，也不固定為善或染，故名「不定」。其善惡由所伴隨的心決定。
+summary_en: These four are not in every mind like the omnipresent, not in every realm like the object-specific, and not fixed as wholesome or defiled — hence "indeterminate". Their quality depends on the mind they accompany.
+table:
+  columns:
+    - { zh: 悔（惡作）, en: Regret }
+    - { zh: 眠（睡眠）, en: Sleep }
+    - { zh: 尋, en: Inquiry }
+    - { zh: 伺, en: Investigation }
+  rows:
+    - label: { zh: 體性, en: Nature }
+      cells:
+        - { zh: 追悔所作, en: Remorse over deeds }
+        - { zh: 昧、略，身不自在, en: 'Dim, contracted' }
+        - { zh: 於意言境麁轉, en: Coarse on verbalized object }
+        - { zh: 於意言境細轉, en: Fine on verbalized object }
+    - label: { zh: 作用, en: Function }
+      cells:
+        - { zh: 障止, en: Obstructs calm }
+        - { zh: 障觀, en: Obstructs insight }
+        - { zh: 安／不安住身心之依, en: Basis of ease or unease }
+        - { zh: 安／不安住身心之依, en: Basis of ease or unease }
+    - label: { zh: 善的例子, en: Wholesome example }
+      cells:
+        - { zh: 悔過懺悔, en: Repenting a wrong }
+        - { zh: 帶善念入睡, en: Sleeping with a good intention }
+        - { zh: 思惟法義, en: Reflecting on the Dharma }
+        - { zh: 審察經義, en: Scrutinizing a text }
+    - label: { zh: 不善的例子, en: Unwholesome example }
+      cells:
+        - { zh: 後悔行善, en: Regretting a good deed }
+        - { zh: 貪睡懈怠, en: Oversleeping out of laziness }
+        - { zh: 盤算惡事, en: Plotting harm }
+        - { zh: 細究如何害人, en: Working out how to harm }
+explanation_zh: |
+  **為何叫「不定」**：《成唯識論》：「悔、眠、尋、伺於善、染等皆不定故，非如觸等定遍心故，非如欲等定遍地故，立不定名。」三個「不」：不像遍行遍一切心，不像別境遍一切地（界地），善惡也不固定。
+
+  **二各二**：《唯識三十頌》說「不定謂悔、眠，尋、伺二各二」。論師對「二各二」有不同解釋，一說悔眠為一組、尋伺為一組，每組又各分染淨二類。
+
+  **修行關聯**：悔與掉舉合為「掉悔蓋」，眠與惛沈合為「惛眠蓋」；尋伺的止息則標誌從初禪進入二禪。
+explanation_en: |
+  **Why "indeterminate"**: Cheng weishi lun: "Regret, sleep, inquiry and investigation are not fixed as wholesome, defiled, etc.; unlike contact and the rest they are not in every mind; unlike aspiration and the rest they are not in every realm — hence indeterminate." Three "nots": not universal like the omnipresent, not in all realms like the object-specific, not fixed in moral quality.
+
+  **"Two, each two"**: the Thirty Verses say "the indeterminate are regret and sleep, inquiry and investigation — two, each two". Commentators differ; one reading: regret-sleep and inquiry-investigation form two pairs, each further divided into defiled and pure.
+
+  **In practice**: regret joins restlessness in the hindrance "restlessness and remorse"; sleep joins torpor in "torpor and sleep"; the stilling of inquiry and investigation marks the passage from the first to the second dhyāna.
+quotes:
+  - text: 悔、眠、尋、伺於善、染等皆不定故，非如觸等定遍心故，非如欲等定遍地故，立不定名。
+    source: 《成唯識論》卷7
+    source_en: Cheng weishi lun, fasc. 7
+    ref: T31n1585_p0035c09
+    refEnd: T31n1585_p0035c11
+    note_en: Regret, sleep, inquiry and investigation are not fixed as wholesome, defiled, etc.; unlike contact and the rest they are not certainly in every mind, and unlike aspiration and the rest they are not certainly in every realm — hence they are called indeterminate.
+questions:
+  - type: mcq
+    q_zh: 下列哪一個不是不定心所？
+    q_en: Which is NOT an indeterminate factor?
+    options:
+      - { zh: 惡作, en: regret }
+      - { zh: 睡眠, en: sleep }
+      - { zh: 惛沈, en: torpor }
+      - { zh: 伺, en: investigation }
+    answer: 2
+    explain_zh: 惛沈是大隨煩惱。四不定：悔、眠、尋、伺。
+    explain_en: Torpor is a major secondary affliction. The four indeterminate are regret, sleep, inquiry, investigation.
+  - type: tf
+    q_zh: 後悔自己做了壞事，這種「悔」是善的。
+    q_en: Regretting a wrong one has done is wholesome regret.
+    answer: true
+    explain_zh: 悔的善惡由所悔之事決定；悔惡是善。
+    explain_en: Regret takes its quality from what is regretted; regretting evil is wholesome.
+  - type: mcq
+    q_zh: 惡作（悔）的「業」是？
+    q_en: What is the function of regret?
+    options:
+      - { zh: 障觀, en: obstructing insight }
+      - { zh: 障止, en: obstructing calm }
+      - { zh: 定依, en: supporting concentration }
+      - { zh: 生苦, en: producing suffering }
+    answer: 1
+    explain_zh: 「悔謂惡作……追悔為性，障止為業。」眠則「障觀為業」。
+    explain_en: Regret "obstructs calm"; sleep "obstructs insight".
+  - type: mcq
+    q_zh: 「不定」的理由不包括下列哪一項？
+    q_en: Which is NOT a reason these factors are called indeterminate?
+    options:
+      - { zh: 善染不定, en: not fixed as wholesome or defiled }
+      - { zh: 不遍一切心, en: not in every mind }
+      - { zh: 不遍一切地, en: not in every realm }
+      - { zh: 只在夢中出現, en: they occur only in dreams }
+    answer: 3
+    explain_zh: 論中列出的是前三點。
+    explain_en: The treatise gives the first three reasons.

@@ -1,0 +1,96 @@
+id: vitarka-vicara
+title_zh: 尋（vitarka）與伺（vicāra）
+title_en: Initial inquiry vs. sustained investigation (vitarka & vicāra)
+terms: [ vitarka, vicara ]
+summary_zh: 尋是對意言境的粗略搜尋，伺是細密審察；二者皆以思、慧一分為體，差別在推度的深淺。初禪有尋有伺，二禪以上皆無。
+summary_en: Vitarka is coarse searching of the mentally-verbalized object, vicāra fine scrutiny; both are parts of volition and discernment, differing in depth. The first dhyāna has both; the second and above have neither.
+table:
+  columns:
+    - { zh: 尋 vitarka, en: Initial inquiry }
+    - { zh: 伺 vicāra, en: Sustained investigation }
+  rows:
+    - label: { zh: 體性, en: Nature }
+      cells:
+        - { zh: 於意言境麁轉, en: Operates coarsely on the verbalized object }
+        - { zh: 於意言境細轉, en: Operates finely on the verbalized object }
+    - label: { zh: 比喻, en: Image }
+      cells:
+        - { zh: 在人群中找人, en: Looking for someone in a crowd }
+        - { zh: 找到後仔細端詳, en: Examining them closely once found }
+    - label: { zh: 舊譯, en: Old translation }
+      cells:
+        - { zh: 覺, en: 覺 }
+        - { zh: 觀（≠止觀之觀）, en: 觀 (not the 觀 of vipaśyanā) }
+    - label: { zh: 禪定, en: In meditation }
+      cells:
+        - { zh: 初禪有，二禪以上無, en: Present in 1st dhyāna only }
+        - { zh: 初禪有（中間禪唯伺），二禪以上無, en: '1st dhyāna (the intermediate dhyāna has vicāra only)' }
+explanation_zh: |
+  **一粗一細**：《成唯識論》：「尋謂尋求，令心怱遽於意言境，麁轉為性；伺謂伺察，令心怱遽於意言境，細轉為性。」兩者都在「意言境」上運作——即以內在語言概念所把握的對象，差別只在粗細。
+
+  **體性**：「並用思、慧一分為體，於意言境不深推度及深推度，義類別故。」尋伺不是獨立實體，而是思（意志）與慧（簡擇）在推度上的兩種狀態。
+
+  **為什麼是不定**：尋伺可以是善的思惟（思惟法義），也可以是染的（計畫惡事），也可以是無記的（想午餐吃什麼）。
+
+  **禪修**：初禪有尋有伺；從初禪到二禪，正是讓尋伺止息，心進入「內等淨」的狀態。
+explanation_en: |
+  **Coarse and fine**: Cheng weishi lun: "vitarka is searching, the mind hurrying toward the verbalized object, operating coarsely; vicāra is scrutinizing, … operating finely." Both work on the "mentally-verbalized object" — what is grasped through inner speech and concepts — differing only in grain.
+
+  **Substance**: "both have parts of volition and discernment as substance; they differ as shallow and deep reasoning about the verbalized object." They are not separate entities but two states of volition plus discernment.
+
+  **Why indeterminate**: they can be wholesome (reflecting on the Dharma), defiled (plotting harm) or neutral (planning lunch).
+
+  **Meditation**: the first dhyāna has both; passing to the second dhyāna is precisely their stilling, as the mind enters "inner clarity".
+quotes:
+  - text: 尋謂尋求，令心怱遽於意言境，麁轉為性；伺謂伺察，令心怱遽於意言境，細轉為性。此二俱以安、不安住身心分位所依為業。
+    source: 《成唯識論》卷7
+    source_en: Cheng weishi lun, fasc. 7
+    ref: T31n1585_p0035c28
+    refEnd: T31n1585_p0036a02
+    note_en: Initial inquiry means searching — making the mind hurry toward the verbalized object, operating coarsely; sustained investigation means scrutinizing — operating finely. Both function as the basis of states of ease or unease of body and mind.
+  - text: 並用思、慧一分為體，於意言境不深推度及深推度，義類別故
+    source: 《成唯識論》卷7
+    source_en: Cheng weishi lun, fasc. 7
+    ref: T31n1585_p0036a02
+    refEnd: T31n1585_p0036a04
+    note_en: Both have parts of volition and discernment as substance; they are distinguished as shallow and deep reasoning about the verbalized object.
+questions:
+  - type: mcq
+    q_zh: 尋與伺的體性是？
+    q_en: What is the substance of vitarka and vicāra?
+    options:
+      - { zh: 各有獨立實體, en: each a separate entity }
+      - { zh: 思、慧一分, en: parts of volition and discernment }
+      - { zh: 貪、癡一分, en: parts of greed and delusion }
+      - { zh: 念、定一分, en: parts of mindfulness and concentration }
+    answer: 1
+    explain_zh: 「並用思、慧一分為體。」
+    explain_en: '"Both have parts of volition and discernment as substance."'
+  - type: tf
+    q_zh: 二禪以上沒有尋與伺。
+    q_en: There is neither vitarka nor vicāra in the second dhyāna and above.
+    answer: true
+    explain_zh: 初禪有尋有伺，二禪以上無尋無伺。
+    explain_en: The first dhyāna has both; the second and higher have neither.
+  - type: mcq
+    q_zh: 舊譯「有覺有觀」中的「觀」是指？
+    q_en: In the old translation 「有覺有觀」, 觀 means…
+    options:
+      - { zh: 毘鉢舍那（止觀之觀）, en: vipaśyanā }
+      - { zh: 伺（vicāra）, en: vicāra }
+      - { zh: 作意, en: attention }
+      - { zh: 慧, en: wisdom }
+    answer: 1
+    explain_zh: 舊譯以覺、觀譯 vitarka、vicāra，與止觀之觀不同。
+    explain_en: Old translations render vitarka and vicāra as 覺 and 觀 — different from the 觀 of 止觀.
+  - type: mcq
+    q_zh: 為什麼尋、伺屬於「不定」心所？
+    q_en: Why are vitarka and vicāra "indeterminate"?
+    options:
+      - { zh: 因為它們不常生起, en: they seldom arise }
+      - { zh: 因為善、惡、無記皆可, en: 'they can be wholesome, unwholesome or neutral' }
+      - { zh: 因為它們是無為法, en: they are unconditioned }
+      - { zh: 因為它們只在夢中生起, en: they arise only in dreams }
+    answer: 1
+    explain_zh: 不定心所「於善、染等皆不定」。
+    explain_en: Indeterminate factors are "not fixed as wholesome, defiled, etc."

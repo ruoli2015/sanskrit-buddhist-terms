@@ -1,0 +1,107 @@
+id: mraksa-maya-sathya
+title_zh: 覆、誑、諂：三種欺瞞
+title_en: Concealment, deceit, guile — three kinds of deception
+terms: [ mraksa, maya, sathya ]
+summary_zh: 覆是藏起自己「有」的過失；誑是假裝自己「有」其實沒有的德行；諂是為了籠絡他人而扭曲自己、曲意逢迎。三者皆以貪、癡為體。
+summary_en: Concealment hides faults one has; deceit feigns virtues one lacks; guile twists oneself to ensnare others. All three are parts of greed and delusion.
+table:
+  columns:
+    - { zh: 覆 mrakṣa, en: Concealment }
+    - { zh: 誑 māyā, en: Deceit }
+    - { zh: 諂 śāṭhya, en: Guile }
+  rows:
+    - label: { zh: 欺瞞什麼, en: What is falsified }
+      cells:
+        - { zh: 隱藏自己的罪過, en: Hides one's own wrongdoing }
+        - { zh: 偽裝自己有德, en: Feigns virtue one lacks }
+        - { zh: 矯設異儀以籠絡人, en: Puts on manners to net others }
+    - label: { zh: 動機, en: Motive }
+      cells:
+        - { zh: 恐失利譽, en: Fear of losing gain and fame }
+        - { zh: 為獲利譽, en: To obtain gain and fame }
+        - { zh: 為網他故, en: To ensnare others }
+    - label: { zh: 作用, en: Function }
+      cells:
+        - { zh: 悔惱, en: Remorseful vexation }
+        - { zh: 邪命, en: Wrong livelihood }
+        - { zh: 障不諂與教誨, en: Blocks honesty and instruction }
+    - label: { zh: 體性, en: Substance }
+      cells:
+        - { zh: 貪、癡一分（一說癡一分）, en: 'Part of greed and delusion (one view: delusion)' }
+        - { zh: 貪、癡一分, en: Part of greed and delusion }
+        - { zh: 貪、癡一分, en: Part of greed and delusion }
+explanation_zh: |
+  **一藏、一裝、一曲**：覆是「減法」——把自己有的過失藏起來；誑是「加法」——把自己沒有的德行裝出來；諂則是「變形」——為了討好、籠絡他人而扭曲自己的言行，心術險曲。
+
+  **動機都與名利有關**：覆「恐失利、譽」，誑「為獲利譽」，所以都含有貪的成分；又不明白這樣做只會增長過患，所以含有癡的成分。三者都是小隨煩惱，「定是假有」。
+
+  **後果**：覆的人日後內心悔惱；誑的人走上邪命；諂的人則聽不進師友的正直教誨，因為他總在揣摩對方、掩飾自己。修行的對治是「發露懺悔」與質直心。
+explanation_en: |
+  **Hide, fake, twist**: concealment "subtracts" — hiding faults one has; deceit "adds" — displaying virtues one lacks; guile "distorts" — bending one's words and manners to please or ensnare others.
+
+  **All motivated by gain and fame**: concealment fears losing them, deceit seeks them — hence greed; not seeing that this only multiplies harm — hence delusion. All three are minor secondary afflictions, "definitely designated".
+
+  **Consequences**: the concealer is later gnawed by remorse; the deceiver slides into wrong livelihood; the guileful cannot take in the straightforward counsel of teachers and friends, being always calculating and covering. The remedy is open confession and a straightforward mind.
+quotes:
+  - text: 云何為誑？為獲利譽，矯現有德，詭詐為性；能障不誑，邪命為業。
+    source: 《成唯識論》卷6
+    source_en: Cheng weishi lun, fasc. 6
+    ref: T31n1585_p0033c04
+    refEnd: T31n1585_p0033c06
+    note_en: What is deceit? For the sake of profit and fame, its nature is feigning virtue with trickery; its function is to obstruct non-deceit and lead to wrong livelihood.
+  - text: 此亦貪、癡一分為體，離二無別諂相用故。
+    source: 《成唯識論》卷6
+    source_en: Cheng weishi lun, fasc. 6
+    ref: T31n1585_p0033c12
+    refEnd: T31n1585_p0033c13
+    note_en: This too has a part of greed and delusion as substance; apart from these two there is no characteristic or function of guile.
+questions:
+  - type: mcq
+    q_zh: 犯了錯卻不讓人知道，怕名聲受損——這是？
+    q_en: One has done wrong but keeps it hidden for fear of one's reputation. This is…
+    options:
+      - { zh: 覆, en: concealment }
+      - { zh: 誑, en: deceit }
+      - { zh: 諂, en: guile }
+      - { zh: 慳, en: stinginess }
+    answer: 0
+    explain_zh: 覆：「於自作罪，恐失利、譽，隱藏為性。」
+    explain_en: 'Concealment: "hiding one''s own wrongdoing for fear of losing gain and reputation."'
+  - type: mcq
+    q_zh: 明明沒有修行功夫，卻裝出很有德行的樣子以獲得供養——這是？
+    q_en: With no real practice, one poses as virtuous to receive offerings. This is…
+    options:
+      - { zh: 覆, en: concealment }
+      - { zh: 誑, en: deceit }
+      - { zh: 憍, en: haughtiness }
+      - { zh: 慢, en: pride }
+    answer: 1
+    explain_zh: 誑：「為獲利譽，矯現有德，詭詐為性；……邪命為業。」
+    explain_en: 'Deceit: "to obtain profit and fame, feigning virtue … wrong livelihood."'
+  - type: mcq
+    q_zh: 為了討好上司而刻意逢迎、說違心話——這是？
+    q_en: To please the boss one fawns and says things one does not mean. This is…
+    options:
+      - { zh: 誑, en: deceit }
+      - { zh: 諂, en: guile }
+      - { zh: 覆, en: concealment }
+      - { zh: 惱, en: spite }
+    answer: 1
+    explain_zh: 諂：「為網他故，矯設異儀，險、曲為性。」
+    explain_en: 'Guile: "to net others, contriving unusual manners; crooked."'
+  - type: tf
+    q_zh: 誑與諂都以貪、癡的一分為體。
+    q_en: Deceit and guile both have parts of greed and delusion as their substance.
+    answer: true
+    explain_zh: 論中說誑、諂皆「貪、癡一分為體，離二無別……相用」。
+    explain_en: Both are "parts of greed and delusion".
+  - type: mcq
+    q_zh: 哪一個的「業」是「邪命」？
+    q_en: Which one has "wrong livelihood" as its function?
+    options:
+      - { zh: 覆, en: concealment }
+      - { zh: 誑, en: deceit }
+      - { zh: 諂, en: guile }
+    answer: 1
+    explain_zh: 誑以詐現有德謀取利養，所以「邪命為業」。
+    explain_en: Deceit wins offerings by feigned virtue, hence wrong livelihood.

@@ -1,0 +1,107 @@
+id: mana-mada
+title_zh: 慢（māna）與憍（mada）
+title_en: Pride vs. haughtiness (māna & mada)
+terms: [ mana, mada ]
+summary_zh: 慢是「和別人比」而高舉（根本煩惱，以比較為核心）；憍是對自己的盛事陶醉（隨煩惱，貪的一分），不必比較。
+summary_en: Pride exalts oneself by comparison with others (a root affliction); haughtiness is intoxication with one's own fortune (a secondary affliction, part of greed), needing no comparison.
+table:
+  columns:
+    - { zh: 慢 māna, en: Pride }
+    - { zh: 憍 mada, en: Haughtiness }
+  rows:
+    - label: { zh: 類別, en: Category }
+      cells:
+        - { zh: 根本煩惱, en: Root affliction }
+        - { zh: 小隨煩惱, en: Minor secondary affliction }
+    - label: { zh: 核心, en: Core }
+      cells:
+        - { zh: 恃己於他——比較, en: Relying on self over others — comparison }
+        - { zh: 於自盛事染著——陶醉, en: Attached to one's own flourishing — intoxication }
+    - label: { zh: 體性, en: Nature }
+      cells:
+        - { zh: 高舉, en: Holding oneself high }
+        - { zh: 醉傲, en: Intoxicated arrogance }
+    - label: { zh: 是否需要他人, en: Needs others? }
+      cells:
+        - { zh: 需要比較對象, en: Needs someone to compare with }
+        - { zh: 獨自也會陶醉, en: Can be alone with it }
+    - label: { zh: 根源, en: Root }
+      cells:
+        - { zh: 本身即根本煩惱, en: Itself a root }
+        - { zh: 貪愛一分, en: A part of greed }
+explanation_zh: |
+  **比較 vs 陶醉**：慢的定義是「恃己於他，高舉為性」——一定有一個「他」作比較：我比你強、我和你一樣（其實不如）、我雖不如你但也差不多……所以有七慢之分。憍則是「於自盛事，深生染著，醉傲為性」：對自己的年輕、健康、財富、才華感到陶醉，不需要與誰比較。
+
+  **根本與分支**：慢是六根本煩惱之一；憍是小隨煩惱，「貪愛一分為體」——本質上是對自身所有的貪著。
+
+  **最深的慢**：我慢（asmimāna），即執五取蘊為我而心高舉，與第七末那識恆時相應，直到修道斷盡。
+explanation_en: |
+  **Comparison vs intoxication**: pride is "relying on oneself, holding oneself high over others" — there is always an "other": I am better than you, I am your equal (though not), I am a bit less but still… — hence the seven kinds. Haughtiness is "deep attachment to one's own flourishing, intoxicated pride": delight in one's youth, health, wealth or talent, with no comparison needed.
+
+  **Root and branch**: pride is one of the six root afflictions; haughtiness is a minor secondary affliction with "a part of greed" as substance — at bottom, attachment to what one has.
+
+  **The deepest pride**: the pride of "I am" (asmimāna), taking the aggregates as self; it constantly accompanies the seventh consciousness, manas, until uprooted on the path.
+quotes:
+  - text: 云何為慢？恃己於他，高舉為性；能障不慢，生苦為業。
+    source: 《成唯識論》卷6
+    source_en: Cheng weishi lun, fasc. 6
+    ref: T31n1585_p0031b26
+    refEnd: T31n1585_p0031b27
+    note_en: What is pride? Relying on oneself, its nature is holding oneself high over others; its function is to obstruct humility and produce suffering.
+  - text: 云何為憍？於自盛事，深生染著，醉傲為性；能障不憍，染依為業。
+    source: 《成唯識論》卷6
+    source_en: Cheng weishi lun, fasc. 6
+    ref: T31n1585_p0033c16
+    refEnd: T31n1585_p0033c18
+    note_en: What is haughtiness? Its nature is deep attachment to one's own flourishing, intoxicated pride; its function is to obstruct non-haughtiness and be the basis of defilement.
+questions:
+  - type: mcq
+    q_zh: 一個人獨處時，對著鏡子欣賞自己的年輕美貌而陶醉——這主要是？
+    q_en: Alone in front of a mirror, someone is intoxicated with their own youth and looks. This is chiefly…
+    options:
+      - { zh: 慢, en: pride }
+      - { zh: 憍, en: haughtiness }
+      - { zh: 嫉, en: jealousy }
+      - { zh: 誑, en: deceit }
+    answer: 1
+    explain_zh: 憍是「於自盛事，深生染著，醉傲」，不必與他人比較。
+    explain_en: Haughtiness is intoxication with one's own flourishing, with no comparison needed.
+  - type: mcq
+    q_zh: 「我的修行比他高多了」——這是？
+    q_en: '"My practice is far above his." This is…'
+    options:
+      - { zh: 慢, en: pride }
+      - { zh: 憍, en: haughtiness }
+      - { zh: 覆, en: concealment }
+      - { zh: 疑, en: doubt }
+    answer: 0
+    explain_zh: 與他人比較而高舉，是慢。
+    explain_en: Exalting oneself by comparison is pride.
+  - type: tf
+    q_zh: 憍的體性是貪愛的一分。
+    q_en: Haughtiness has a part of greed as its substance.
+    answer: true
+    explain_zh: 「此亦貪愛一分為體，離貪無別憍相用故。」
+    explain_en: '"This too has a part of greed as substance."'
+  - type: mcq
+    q_zh: 未證得聖果卻自以為已證得，屬七慢中的哪一種？
+    q_en: Thinking one has attained a realization one has not reached is which of the seven kinds of pride?
+    options:
+      - { zh: 過慢, en: excessive pride }
+      - { zh: 增上慢, en: conceit of attainment }
+      - { zh: 卑慢, en: deprecating pride }
+      - { zh: 邪慢, en: wrong pride }
+    answer: 1
+    explain_zh: 增上慢：「於未得增上殊勝所證法中謂我已得。」
+    explain_en: 'Conceit of attainment: "claiming to have attained a superior realization not yet reached."'
+  - type: mcq
+    q_zh: 哪一種慢與第七末那識恆時相應？
+    q_en: Which kind of pride constantly accompanies the seventh consciousness, manas?
+    options:
+      - { zh: 我慢, en: pride of "I am" }
+      - { zh: 過慢, en: excessive pride }
+      - { zh: 邪慢, en: wrong pride }
+      - { zh: 卑慢, en: deprecating pride }
+    answer: 0
+    explain_zh: 末那識恆與我癡、我見、我慢、我愛四煩惱相應。
+    explain_en: Manas is always accompanied by self-delusion, self-view, self-pride and self-love.

@@ -1,0 +1,127 @@
+id: pratigha-family
+title_zh: 瞋的五種分位：忿、恨、惱、嫉、害
+title_en: Five faces of aversion — wrath, resentment, spite, jealousy, harmfulness
+terms: [ pratigha, krodha, upanaha, pradasa, irsya, vihimsa ]
+summary_zh: 忿、恨、惱、嫉、害都「以瞋恚一分為體」，沒有獨立實體，是瞋在不同情境下的表現：當下爆發、事後積怨、惡言螫人、見人好而妒、無悲而損惱。
+summary_en: Wrath, resentment, spite, jealousy and harmfulness all "have a part of aversion as substance" — no separate entity, just aversion in different situations — erupting now, festering later, stinging with words, begrudging others' success, tormenting without compassion.
+table:
+  columns:
+    - { zh: 忿 krodha, en: Wrath }
+    - { zh: 恨 upanāha, en: Resentment }
+    - { zh: 惱 pradāsa, en: Spite }
+    - { zh: 嫉 īrṣyā, en: Jealousy }
+    - { zh: 害 vihiṃsā, en: Harmfulness }
+  rows:
+    - label: { zh: 情境, en: Situation }
+      cells:
+        - { zh: 面對現前不利之境, en: A present harm }
+        - { zh: 忿之後, en: After wrath }
+        - { zh: 忿恨之後追憶舊怨, en: Brooding after wrath and resentment }
+        - { zh: 他人榮盛, en: Others' success }
+        - { zh: 面對有情, en: Toward beings }
+    - label: { zh: 體性, en: Nature }
+      cells:
+        - { zh: 憤發, en: Flaring up }
+        - { zh: 懷惡不捨、結怨, en: Nursing a grudge }
+        - { zh: 追觸暴熱、佷戾, en: Vicious perversity }
+        - { zh: 不耐他榮、妬忌, en: Envy }
+        - { zh: 心無悲愍、損惱, en: Tormenting without compassion }
+    - label: { zh: 作用, en: Function }
+      cells:
+        - { zh: 執杖, en: Taking up the stick }
+        - { zh: 熱惱, en: Burning vexation }
+        - { zh: 䖧螫（惡言）, en: Stinging (harsh words) }
+        - { zh: 憂慼, en: Gloom }
+        - { zh: 逼惱, en: Oppression }
+    - label: { zh: 對治, en: Antidote }
+      cells:
+        - { zh: 無瞋、忍, en: 'Non-hatred, patience' }
+        - { zh: 無瞋、忍, en: 'Non-hatred, patience' }
+        - { zh: 無瞋、忍, en: 'Non-hatred, patience' }
+        - { zh: 隨喜（喜無量）, en: Sympathetic joy }
+        - { zh: 不害（悲）, en: Non-harming (compassion) }
+explanation_zh: |
+  **同一根源**：《成唯識論》對五者都說「此即（亦）瞋恚一分為體，離瞋無別忿（恨……）相用故」。它們是小隨煩惱，各別生起，「定是假有」——只是給瞋在特定情境下的面貌取了名字。
+
+  **時間序列：忿 → 恨 → 惱**。當下怒氣爆發是忿；忿過之後怨氣不散是恨；恨積在心，追憶往事、觸動舊怨，於是惡言相向是惱。
+
+  **對象不同：嫉與害**。嫉是見他人榮盛而不能忍受；害是對有情心無悲愍、加以逼惱。論中說「瞋、害別相，准善應說」——比照無瞋（與樂）與不害（拔苦）：瞋障慈，害障悲。
+
+  **修行意義**：辨認出自己此刻是「忿」還是「恨」，就能對症：忿需當下的忍，恨需放下的慈，嫉需隨喜，害需悲心。
+explanation_en: |
+  **One root**: for all five the Cheng weishi lun says "it has a part of aversion as substance; apart from aversion it has no characteristic or function". They are minor secondary afflictions, arising separately and "definitely designated" — names for aversion's face in particular situations.
+
+  **A time sequence: wrath → resentment → spite.** Anger erupting now is wrath; lingering after it, resentment; brooding over old grievances until they burst out in cruel words, spite.
+
+  **Different objects: jealousy and harmfulness.** Jealousy cannot bear others' success; harmfulness torments beings for lack of compassion. The treatise says their distinction from aversion "follows the wholesome": as non-hatred gives happiness and non-harming removes suffering, aversion obstructs loving-kindness and harmfulness obstructs compassion.
+
+  **For practice**: recognizing whether one is in wrath or resentment tells one the remedy — patience in the moment for wrath, letting go through kindness for resentment, sympathetic joy for jealousy, compassion for harmfulness.
+quotes:
+  - text: 此即瞋恚一分為體，離瞋無別忿相用故。
+    source: 《成唯識論》卷6
+    source_en: Cheng weishi lun, fasc. 6
+    ref: T31n1585_p0033b11
+    refEnd: T31n1585_p0033b12
+    note_en: It has a part of aversion as its substance; apart from aversion there is no separate characteristic or function of wrath.
+questions:
+  - type: mcq
+    q_zh: 依《成唯識論》，忿、恨、惱、嫉、害的共同體性是什麼？
+    q_en: According to the Cheng weishi lun, what do wrath, resentment, spite, jealousy and harmfulness share as substance?
+    options:
+      - { zh: 貪愛一分, en: a part of greed }
+      - { zh: 瞋恚一分, en: a part of aversion }
+      - { zh: 癡一分, en: a part of delusion }
+      - { zh: 各有獨立實體, en: each is a separate entity }
+    answer: 1
+    explain_zh: 五者都是「瞋恚一分為體」。
+    explain_en: All five have "a part of aversion" as substance.
+  - type: mcq
+    q_zh: 被人當眾羞辱，當下怒火中燒、想要動手——這是？
+    q_en: Insulted in public, one flares up on the spot and wants to strike. This is…
+    options:
+      - { zh: 忿, en: wrath }
+      - { zh: 恨, en: resentment }
+      - { zh: 惱, en: spite }
+      - { zh: 嫉, en: jealousy }
+    answer: 0
+    explain_zh: 「依對現前不饒益境，憤發為性……執杖為業。」
+    explain_en: '"Flaring up at a present unbeneficial object … taking up the stick."'
+  - type: mcq
+    q_zh: 事隔多年，一想起那人就耿耿於懷、無法釋懷——這是？
+    q_en: Years later, one still cannot let go whenever one thinks of that person. This is…
+    options:
+      - { zh: 忿, en: wrath }
+      - { zh: 恨, en: resentment }
+      - { zh: 害, en: harmfulness }
+      - { zh: 慳, en: stinginess }
+    answer: 1
+    explain_zh: 「由忿為先，懷惡不捨，結怨為性。」
+    explain_en: '"Preceded by wrath, holding on to malice, binding enmity."'
+  - type: mcq
+    q_zh: 同事升職，自己心中酸楚、悶悶不樂——這是？
+    q_en: A colleague is promoted and one feels sour and gloomy. This is…
+    options:
+      - { zh: 慢, en: pride }
+      - { zh: 憍, en: haughtiness }
+      - { zh: 嫉, en: jealousy }
+      - { zh: 惱, en: spite }
+    answer: 2
+    explain_zh: 嫉：「不耐他榮，妬忌為性……憂慼為業。」
+    explain_en: 'Jealousy: "unable to bear others'' glory … its function is gloom."'
+  - type: tf
+    q_zh: 慳也是瞋恚的一分。
+    q_en: Stinginess is also a part of aversion.
+    answer: false
+    explain_zh: 慳與憍是「貪愛一分為體」。
+    explain_en: Stinginess and haughtiness are parts of greed.
+  - type: mcq
+    q_zh: 「忿→恨→惱」的順序，最後的「惱」通常表現為？
+    q_en: In the sequence wrath → resentment → spite, how does spite usually show itself?
+    options:
+      - { zh: 動手打人, en: striking out physically }
+      - { zh: 尖刻的惡言, en: 'cutting, harsh words' }
+      - { zh: 隱藏過失, en: hiding faults }
+      - { zh: 自我陶醉, en: self-intoxication }
+    answer: 1
+    explain_zh: 惱「䖧螫為業」，《五蘊論》說「發暴惡言尤䖧為性」。
+    explain_en: 'Spite "stings"; the Pañcaskandhaka: "uttering violent, abusive words".'

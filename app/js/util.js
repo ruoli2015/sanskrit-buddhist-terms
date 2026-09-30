@@ -45,17 +45,24 @@ export function md(text) {
     escapeHtml(s)
       .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
       .replace(/(^|[^*])\*([^*\s][^*]*?)\*(?!\*)/g, '$1<em>$2</em>');
+  const kind = (l) => (/^\s*[-•]\s+/.test(l) ? 'ul' : /^\s*\d+\.\s+/.test(l) ? 'ol' : 'p');
   const blocks = String(text).trim().split(/\n\s*\n/);
   return blocks
     .map((b) => {
-      const lines = b.split('\n');
-      if (lines.every((l) => /^\s*[-•]\s+/.test(l))) {
-        return `<ul>${lines.map((l) => `<li>${inline(l.replace(/^\s*[-•]\s+/, ''))}</li>`).join('')}</ul>`;
+      // Group consecutive lines of the same kind, so a list may follow a lead-in line in the same block.
+      const runs = [];
+      for (const l of b.split('\n')) {
+        const k = kind(l);
+        if (runs.length && runs.at(-1).k === k) runs.at(-1).lines.push(l);
+        else runs.push({ k, lines: [l] });
       }
-      if (lines.every((l) => /^\s*\d+\.\s+/.test(l))) {
-        return `<ol>${lines.map((l) => `<li>${inline(l.replace(/^\s*\d+\.\s+/, ''))}</li>`).join('')}</ol>`;
-      }
-      return `<p>${lines.map(inline).join('<br>')}</p>`;
+      return runs
+        .map(({ k, lines }) =>
+          k === 'p'
+            ? `<p>${lines.map(inline).join('<br>')}</p>`
+            : `<${k}>${lines.map((l) => `<li>${inline(l.replace(/^\s*(?:[-•]|\d+\.)\s+/, ''))}</li>`).join('')}</${k}>`,
+        )
+        .join('');
     })
     .join('');
 }

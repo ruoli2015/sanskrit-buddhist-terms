@@ -1,0 +1,621 @@
+# 心所：別境五、善十一 (百法 order). Quotes are resolved with `node scripts/cbeta.mjs resolve`.
+
+# ---------------- 別境 viniyata ----------------
+
+- id: chanda
+  skt: chanda
+  deva: छन्द
+  pali: chanda
+  zh: 欲
+  zhAlt: [ 欲心所, 希望 ]
+  en: aspiration
+  enAlt: [ desire to act, desire-to-act, interest, zeal, wish, intention to act, will ]
+  root: √chand「喜好、欲求」 · √chand "to please, to wish"
+  short_zh: 對所樂之境的希望、意欲；精進的所依。別境心所之一，本身通善、惡、無記。
+  short_en: Aspiration — wishing for a desired object; the support of effort. An object-specific factor, itself morally neutral.
+  detail_zh: |
+    《成唯識論》：「於所樂境，希望為性，勤依為業。」欲是「想要」的心理動力；「勤依為業」說明它是精進的所依——想要成就善法，才會努力。
+
+    **欲不等於貪**。欲本身是中性的：希求善法的是「善法欲」，如求解脫、求菩提之心；對五欲境的染著希求才與貪（rāga）相應。所以佛典說「斷貪」，卻不說「斷欲」一概而論。
+
+    **學派差異**：說一切有部把欲列為「大地法」（每一念心都有）；唯識學則認為欲只在面對「所樂境」時生起，並非遍一切心，故移入「別境」。
+  detail_en: |
+    Cheng weishi lun: "Its nature is wishing for a desired object; its function is to be the support of effort." Chanda is the motivational pull of "wanting to"; being "the support of effort" means one strives only for what one wishes to attain.
+
+    **Chanda is not greed.** In itself it is neutral: wishing for the good (dharma-chanda, e.g. aspiring to liberation) is wholesome; only defiled longing for sense objects goes with greed (rāga). So one is told to abandon greed, not every kind of wish.
+
+    **School difference**: the Sarvāstivāda counts chanda among the universal factors (in every mind); Yogācāra holds that it arises only toward a desired object, so it is object-specific.
+  quotes:
+    - text: 云何為欲？於所樂境，希望為性，勤依為業。
+      source: 《成唯識論》卷5
+      source_en: Cheng weishi lun, fasc. 5
+      ref: T31n1585_p0028a20
+      refEnd: T31n1585_p0028a21
+      note_en: What is aspiration? Its nature is wishing for a desired object; its function is to serve as the support of effort.
+    - text: 云何為欲？謂於可愛事，希望為性。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0848c14
+      refEnd: T31n1612_p0848c15
+      note_en: What is aspiration? Its nature is wishing for an attractive thing.
+  related: [ adhimoksa, virya, raga ]
+  compare: [ chanda-raga ]
+
+- id: adhimoksa
+  skt: adhimokṣa
+  deva: अधिमोक्ष
+  pali: adhimokkha
+  zh: 勝解
+  zhAlt: [ 勝解心所, 解 ]
+  en: resolve
+  enAlt: [ determination, conviction, decisiveness, ascertainment, firm conviction, belief, resolution ]
+  root: adhi-√muc「確定、決斷」 · adhi-√muc "to be set upon, decide"
+  short_zh: 對已確定的對象加以印可、堅持，不被他說動搖。別境心所之一。
+  short_en: Resolve — confirming and holding firmly to what has been ascertained, so that one cannot be swayed. An object-specific factor.
+  detail_zh: |
+    《成唯識論》：「於決定境，印持為性，不可引轉為業。」勝解是對已確認之事「蓋章認定」的作用：一旦印持，就不被其他說法牽引改變。
+
+    勝解只在「決定境」上生起——若猶豫不決（疑），就沒有勝解。它本身通善惡：對正理的勝解是善，對邪說的堅定認定則是「邪勝解」。
+
+    **與信的分別**：勝解是認知上的「確定」；信（śraddhā）則以「心淨」為性，含有對實、德、能的信樂。詳見比較卡「勝解與信」。
+  detail_en: |
+    Cheng weishi lun: "Its nature is confirming and holding to an ascertained object; its function is that one cannot be turned away." Adhimokṣa is the mind's "seal of approval" on what it has settled: once confirmed, other views cannot drag it away.
+
+    It arises only toward an ascertained object — where there is hesitation (doubt), there is no resolve. It is morally variable: firm conviction in the truth is wholesome, firm conviction in a false teaching is "wrong resolve".
+
+    **Versus faith**: resolve is cognitive certainty; faith (śraddhā) has clarity of mind as its nature and includes trust and delight. See the comparison card.
+  quotes:
+    - text: 云何勝解？於決定境，印持為性，不可引轉為業。
+      source: 《成唯識論》卷5
+      source_en: Cheng weishi lun, fasc. 5
+      ref: T31n1585_p0028b10
+      refEnd: T31n1585_p0028b11
+      note_en: What is resolve? Its nature is confirming and holding to an ascertained object; its function is that it cannot be drawn away.
+    - text: 云何勝解？謂於決定事，即如所了印可為性。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0848c15
+      refEnd: T31n1612_p0848c16
+      note_en: What is resolve? With regard to an ascertained thing, its nature is to affirm it just as it has been understood.
+  related: [ sraddha, vicikitsa ]
+  compare: [ adhimoksa-sraddha ]
+
+- id: smrti
+  skt: smṛti
+  deva: स्मृति
+  pali: sati
+  zh: 念
+  zhAlt: [ 念心所, 憶念 ]
+  en: mindfulness
+  enAlt: [ recollection, memory, remembrance, awareness ]
+  root: √smṛ「記憶」 · √smṛ "to remember"
+  short_zh: 對曾經歷之境明記不忘；定的所依。別境心所之一，修行中的「正念」即其善的一面。
+  short_en: Mindfulness — clearly keeping in mind what has been experienced, without forgetting; the support of concentration.
+  detail_zh: |
+    smṛti 本義是「記憶」。《成唯識論》：「於曾習境，令心明記不忘為性，定依為業。」念使心持續地「記住」所緣，不讓它滑失，所以是定的基礎。
+
+    **念的範圍**：唯識學認為念只緣「曾習境」（熟悉過的對象），對全新的對象不起念，故屬別境；說一切有部則列為大地法。
+
+    **正念與失念**：《成唯識論》說「不忘念者，即是正念」。與煩惱相應、令人忘失正所緣的，則是隨煩惱中的「失念」。四念處（smṛtyupasthāna）、八正道的「正念」，都是念的修習。
+  detail_en: |
+    Smṛti originally means "memory". Cheng weishi lun: "Its nature is to make the mind clearly remember a familiar object without forgetting; its function is to be the support of concentration." Mindfulness keeps the object "in mind" so it does not slip away — the basis of samādhi.
+
+    **Scope**: Yogācāra holds that mindfulness takes only a "previously experienced" object, so it is object-specific; the Sarvāstivāda counts it as universal.
+
+    **Right mindfulness and forgetfulness**: the Cheng weishi lun says "non-forgetful mindfulness is right mindfulness". Mindfulness bound up with afflictions, losing the proper object, is the secondary affliction "forgetfulness" (muṣitasmṛtitā). The four foundations of mindfulness and the "right mindfulness" of the eightfold path are its cultivation.
+  quotes:
+    - text: 云何為念？於曾習境，令心明記不忘為性，定依為業。
+      source: 《成唯識論》卷5
+      source_en: Cheng weishi lun, fasc. 5
+      ref: T31n1585_p0028b18
+      refEnd: T31n1585_p0028b19
+      note_en: What is mindfulness? Its nature is to make the mind clearly remember a familiar object without forgetting; its function is to serve as the support of concentration.
+    - text: 云何為念？謂於串習事，令心不忘明記為性。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0848c16
+      refEnd: T31n1612_p0848c17
+      note_en: What is mindfulness? With regard to a habitually familiar thing, its nature is to keep the mind from forgetting and to remember clearly.
+    - text: 不忘念者，即是正念。
+      source: 《成唯識論》卷6
+      source_en: Cheng weishi lun, fasc. 6
+      ref: T31n1585_p0030c24
+      note_en: Non-forgetful mindfulness is right mindfulness.
+  related: [ samadhi, musitasmrtita ]
+  compare: [ smrti-musitasmrtita ]
+
+- id: samadhi
+  skt: samādhi
+  deva: समाधि
+  pali: samādhi
+  zh: 定
+  zhAlt: [ 三摩地, 三昧, 等持, 定心所 ]
+  en: concentration
+  enAlt: [ meditative concentration, one-pointedness, meditative stabilization, absorption, collectedness ]
+  root: sam-ā-√dhā「置於一處、聚合」 · sam-ā-√dhā "to put together, collect"
+  short_zh: 令心專注於所觀境而不散亂；智慧的所依。別境心所之一，也是三學之一。
+  short_en: Concentration — keeping the mind focused on its object without scattering; the support of wisdom.
+  detail_zh: |
+    音譯「三摩地、三昧」，意譯「等持」（平等持心）。《成唯識論》：「於所觀境，令心專注不散為性，智依為業。」定使心穩定於一境，由此產生觀察的智慧（「智依」）。《大乘五蘊論》：「令心一境不散為性。」
+
+    **作為心所**的定，是任何「專注觀察」時都有的作用；**作為修行**，則是戒、定、慧三學之一，八正道的「正定」，以及種種禪定（dhyāna）、等至（samāpatti）的共同核心。
+
+    唯識學認為定只在「所觀境」上生起，散亂心中沒有，故列別境；說一切有部列為大地法（稱三摩地）。
+  detail_en: |
+    Transliterated 三摩地/三昧, translated 等持 "even holding". Cheng weishi lun: "Its nature is to make the mind focus on the observed object without scattering; its function is to be the support of wisdom." Stability on one object makes discerning insight possible. Pañcaskandhaka: "its nature is to keep the mind on one object, undistracted."
+
+    **As a mental factor**, samādhi is present whenever the mind attends closely to what it observes; **as a practice**, it is the second of the three trainings (morality, concentration, wisdom), the "right concentration" of the eightfold path, and the common core of the meditative absorptions (dhyāna) and attainments (samāpatti).
+
+    Yogācāra places it among the object-specific factors, since a scattered mind lacks it; the Sarvāstivāda counts it as universal.
+  quotes:
+    - text: 云何為定？於所觀境，令心專注不散為性，智依為業。
+      source: 《成唯識論》卷5
+      source_en: Cheng weishi lun, fasc. 5
+      ref: T31n1585_p0028b25
+      refEnd: T31n1585_p0028b26
+      note_en: What is concentration? Its nature is to make the mind focus on the observed object without scattering; its function is to serve as the support of wisdom.
+    - text: 云何三摩地？謂於所觀事，令心一境不散為性。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0848c17
+      refEnd: T31n1612_p0848c18
+      note_en: What is samādhi? With regard to the observed thing, its nature is to keep the mind on one object, undistracted.
+  related: [ prajna, smrti ]
+
+- id: prajna
+  skt: prajñā
+  deva: प्रज्ञा
+  pali: paññā
+  zh: 慧
+  zhAlt: [ 般若, 智慧, 慧心所 ]
+  en: wisdom
+  enAlt: [ discernment, insight, intelligence, discrimination, understanding, analytical wisdom ]
+  root: pra-√jñā「徹底地知」 · pra-√jñā "to know thoroughly"
+  short_zh: 對所觀境的簡擇、分辨；能斷疑。作為心所通善惡，作為般若則是成佛的智慧。
+  short_en: Wisdom/discernment — discriminating the observed object; it cuts off doubt. As a factor it can be wholesome or defiled; as prajñā-pāramitā it is liberating wisdom.
+  detail_zh: |
+    《成唯識論》：「於所觀境，簡擇為性，斷疑為業。」慧是分辨是非、得失、真偽的作用；有了清楚的簡擇，疑惑自然斷除。
+
+    **慧本身通善惡**。《大乘五蘊論》說慧「或如理所引，或不如理所引，或俱非所引」。如理思惟而生的是善慧；錯誤推度的「惡見」其實也是一種慧——「染慧」。所以百法中「慧」列在別境，而不是善心所。
+
+    **般若**：六度中的般若波羅蜜（prajñā-pāramitā）、三學中的慧學，指的是如理、清淨、能斷煩惱的慧；漢譯保留音譯「般若」，以別於世間聰明。
+  detail_en: |
+    Cheng weishi lun: "Its nature is discriminating the observed object; its function is cutting off doubt." Prajñā sorts right from wrong, true from false; once things are clearly discerned, doubt ends.
+
+    **As a factor, prajñā can be defiled.** The Pañcaskandhaka says it may be "induced by proper reasoning, by improper reasoning, or by neither". Wisdom born of sound reflection is wholesome; the "wrong view" of the root afflictions is itself a kind of prajñā — "defiled discernment". That is why 慧 is an object-specific factor, not a wholesome one.
+
+    **Prajñā-pāramitā**: in the six perfections and the three trainings, prajñā means discernment that accords with reality, is pure, and cuts off afflictions; Chinese keeps the transliteration 般若 to set it apart from worldly cleverness.
+  quotes:
+    - text: 云何為慧？於所觀境，簡擇為性，斷疑為業。
+      source: 《成唯識論》卷5
+      source_en: Cheng weishi lun, fasc. 5
+      ref: T31n1585_p0028c11
+      refEnd: T31n1585_p0028c12
+      note_en: What is wisdom? Its nature is discriminating the observed object; its function is cutting off doubt.
+    - text: 云何為慧？謂即於彼擇法為性；或如理所引，或不如理所引，或俱非所引。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0848c18
+      refEnd: T31n1612_p0848c20
+      note_en: What is wisdom? Its nature is discerning dharmas with regard to that same [object]; it may be induced by proper reasoning, by improper reasoning, or by neither.
+    - text: 佛法大海，信為能入，智為能度。
+      source: 《大智度論》卷1
+      source_en: Dazhidu lun (*Mahāprajñāpāramitāśāstra), fasc. 1
+      ref: T25n1509_p0063a01
+      refEnd: T25n1509_p0063a02
+      note_en: The great ocean of the Buddha's Dharma is entered by faith and crossed by wisdom.
+  related: [ samadhi, drsti, amoha ]
+  compare: [ avidya-drsti-asamprajanya ]
+
+# ---------------- 善 kuśala ----------------
+
+- id: sraddha
+  skt: śraddhā
+  deva: श्रद्धा
+  pali: saddhā
+  zh: 信
+  zhAlt: [ 信心, 淨信 ]
+  en: faith
+  enAlt: [ confidence, trust, conviction, belief, confidence faith ]
+  root: śrad-√dhā「置心於…、信賴」 · śrad-√dhā "to put one's heart on, trust"
+  short_zh: 對實（真理）、德（三寶）、能（自己能成就）深忍樂欲，令心清淨。善心所之首。
+  short_en: Faith — deep acceptance of, delight in and aspiration toward what is real, virtuous and attainable, making the mind clear. First of the wholesome factors.
+  detail_zh: |
+    《成唯識論》：「於實、德、能，深忍、樂、欲，心淨為性；對治不信，樂善為業。」論中把信的對象分為三：
+
+    1. **信實有**：於諸法實事理深信忍可（如業果、四諦）；
+    2. **信有德**：於三寶真淨功德深信愛樂；
+    3. **信有能**：於一切世、出世善，深信自己有能力得、能成就，而起希望。
+
+    「心淨為性」是信的關鍵：信像能澄清濁水的寶珠，不但自身清淨，也令其他心、心所清淨。與不信的「心穢」正好相反。佛教的信不是盲信，而是建立在「實、德、能」上的澄淨信任。
+  detail_en: |
+    Cheng weishi lun: "Its nature is deep acceptance, delight and aspiration toward the real, the virtuous and the capable, with clarity of mind; its function is to counteract faithlessness and delight in the good." The treatise gives three objects:
+
+    1. **Faith in what is real**: firm acceptance of true facts and principles (karma and its result, the four truths);
+    2. **Faith in what has virtue**: delight in the pure qualities of the Three Jewels;
+    3. **Faith in capability**: conviction that one can attain and accomplish all worldly and transcendent good, giving rise to aspiration.
+
+    "Clarity of mind" is its essence: like a jewel that clears muddy water, faith is clear itself and clarifies the mind and factors with it — the opposite of faithlessness, whose nature is turbidity. Buddhist faith is not blind belief but clear confidence grounded in what is real, virtuous and achievable.
+  quotes:
+    - text: 云何為信？於實、德、能，深忍、樂、欲，心淨為性；對治不信，樂善為業。
+      source: 《成唯識論》卷6
+      source_en: Cheng weishi lun, fasc. 6
+      ref: T31n1585_p0029b22
+      refEnd: T31n1585_p0029b23
+      note_en: What is faith? Its nature is deep acceptance, delight and aspiration toward the real, the virtuous and the capable, with clarity of mind; its function is to counteract faithlessness and delight in the good.
+    - text: 信為道元功德母，長養一切諸善法
+      source: 《大方廣佛華嚴經》卷14
+      source_en: Avataṃsaka-sūtra (80 fasc.), fasc. 14
+      ref: T10n0279_p0072b18
+      note_en: Faith is the source of the Path and the mother of merit; it nourishes all good dharmas.
+    - text: 佛法大海，信為能入，智為能度。
+      source: 《大智度論》卷1
+      source_en: Dazhidu lun (*Mahāprajñāpāramitāśāstra), fasc. 1
+      ref: T25n1509_p0063a01
+      refEnd: T25n1509_p0063a02
+      note_en: The great ocean of the Buddha's Dharma is entered by faith and crossed by wisdom.
+  related: [ asraddhya, adhimoksa ]
+  compare: [ adhimoksa-sraddha, kusala-antidotes ]
+
+- id: virya
+  skt: vīrya
+  deva: वीर्य
+  pali: viriya
+  zh: 精進
+  zhAlt: [ 勤, 精勤 ]
+  en: diligence
+  enAlt: [ effort, energy, vigor, vigour, zeal, enthusiasm, exertion, perseverance ]
+  root: 'vīra「勇士」→「勇猛」 · from vīra "hero": heroism, vigour'
+  short_zh: 在修善、斷惡上勇猛而精純地努力；對治懈怠。善心所之一，也是六度之一。
+  short_en: Diligence — courageous, unalloyed effort in cultivating good and abandoning evil; counteracts laziness.
+  detail_zh: |
+    《成唯識論》：「勤謂精進，於善、惡品修、斷事中，勇、悍為性；對治懈怠，滿善為業。」論中解釋：「勇」表示勝進，「悍」表示精純——不雜染污。
+
+    **不是所有努力都是精進**。為惡事或無記事而勤勞，不屬精進；只有在「修善」與「斷惡」上的努力才是。
+
+    精進也是六度（vīrya-pāramitā）、五根五力、七覺支與八正道（正精進）的一支。《遺教經》：「若勤精進，則事無難……譬如小水常流，則能穿石。」
+  detail_en: |
+    Cheng weishi lun: "Diligence is courage and purity in the work of cultivating the good and abandoning the bad; it counteracts laziness and fulfils the good." "Courage" means advancing; "purity" means unmixed with defilement.
+
+    **Not all effort is diligence.** Working hard at harmful or merely neutral things is not vīrya; only effort in cultivating good and abandoning evil counts.
+
+    Vīrya is also one of the six perfections, the five faculties and powers, the seven factors of awakening and the eightfold path (right effort). The Yijiao jing: "If you are diligent, nothing is difficult … as a small stream flowing constantly can wear through stone."
+  quotes:
+    - text: 勤謂精進，於善、惡品修、斷事中，勇、悍為性；對治懈怠，滿善為業。
+      source: 《成唯識論》卷6
+      source_en: Cheng weishi lun, fasc. 6
+      ref: T31n1585_p0030a23
+      refEnd: T31n1585_p0030a25
+      note_en: 'Effort means diligence: in cultivating the wholesome and abandoning the unwholesome, its nature is courage and purity; its function is to counteract laziness and fulfil the good.'
+    - text: 若勤精進則事無難者，是故汝等當勤精進，譬如小水常流則能穿石。
+      source: 《佛垂般涅槃略說教誡經》
+      source_en: Sūtra of the Bequeathed Teaching (Yijiao jing)
+      ref: T12n0389_p1111c17
+      refEnd: T12n0389_p1111c18
+      note_en: If you are diligent, nothing is difficult. Therefore you should all be diligent — just as a small stream, flowing constantly, can wear through stone.
+  related: [ kausidya, apramada, chanda ]
+  compare: [ apramada-virya, kusala-antidotes ]
+
+- id: hri
+  skt: hrī
+  deva: ह्री
+  pali: hiri
+  zh: 慚
+  zhAlt: [ 慚心所 ]
+  en: self-respect
+  enAlt: [ conscience, sense of shame, moral shame, shame, self-respecting shame ]
+  root: √hrī「羞愧」 · √hrī "to be ashamed"
+  short_zh: 依自身與正法的力量，尊重賢善、羞恥過惡；對治無慚。
+  short_en: Self-respect — out of regard for oneself and the Dharma, honouring the good and feeling shame at wrongdoing.
+  detail_zh: |
+    《成唯識論》：「依自、法力，崇重賢、善為性；對治無慚，止息惡行為業。」慚是**向內**的羞恥：因為尊重自己的人格與所學的正法，所以不願作惡。
+
+    慚與愧常並稱。《雜阿含經》說「有二淨法，能護世間」，就是慚與愧；若無此二法，人倫秩序便會崩壞。兩者的區別在於羞恥的來源：慚依「自」與「法」，愧依「世間」。詳見比較卡「慚與愧」。
+  detail_en: |
+    Cheng weishi lun: "Relying on the power of oneself and the Dharma, its nature is honouring the worthy and the good; it counteracts shamelessness and stops wrongdoing." Hrī is **inward-facing** shame: because one respects one's own integrity and the Dharma one follows, one is unwilling to do wrong.
+
+    It is paired with apatrāpya. The Saṃyuktāgama calls the two "the pure dharmas that protect the world"; without them, human society would collapse. The difference lies in the source: hrī relies on oneself and the Dharma, apatrāpya on the world. See the comparison card.
+  quotes:
+    - text: 云何為慚？依自、法力，崇重賢、善為性；對治無慚，止息惡行為業。
+      source: 《成唯識論》卷6
+      source_en: Cheng weishi lun, fasc. 6
+      ref: T31n1585_p0029c13
+      refEnd: T31n1585_p0029c14
+      note_en: What is self-respect? Relying on the power of oneself and the Dharma, its nature is honouring the worthy and the good; its function is to counteract shamelessness and stop wrongdoing.
+    - text: 云何為慚？謂自增上，及法增上，於所作罪羞恥為性。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0848c22
+      refEnd: T31n1612_p0848c23
+      note_en: What is self-respect? Out of regard for oneself and regard for the Dharma, its nature is feeling shame at the wrong one has done.
+    - text: 有二淨法，能護世間。何等為二？所謂慚、愧。
+      source: 《雜阿含經》卷47（第1243經）
+      source_en: Saṃyuktāgama, fasc. 47, sūtra 1243
+      ref: T02n0099_p0340c23
+      refEnd: T02n0099_p0340c24
+      note_en: There are two pure dharmas that protect the world. What are the two? Namely, self-respect and decorum (hrī and apatrāpya).
+  related: [ apatrapya, ahrikya ]
+  compare: [ hri-apatrapya ]
+
+- id: apatrapya
+  skt: apatrāpya
+  deva: अपत्राप्य
+  pali: ottappa
+  zh: 愧
+  zhAlt: [ 愧心所 ]
+  en: decorum
+  enAlt: [ consideration for others, moral dread, embarrassment, shame before others, fear of blame, regard for others ]
+  root: apa-√trap「羞於（他人）」 · apa-√trap "to be ashamed before others"
+  short_zh: 依世間輿論的力量，輕拒暴惡、羞於作罪；對治無愧。
+  short_en: Decorum — out of regard for the world's opinion, rejecting violence and evil and feeling ashamed to do wrong.
+  detail_zh: |
+    《成唯識論》：「依世間力，輕拒暴惡為性；對治無愧，止息惡行為業。」愧是**向外**的羞恥：顧及他人的譏評、社會的規範而不敢作惡。
+
+    《大乘五蘊論》把兩者說得很清楚：慚是「自增上及法增上，於所作罪羞恥」；愧是「世增上，於所作罪羞恥」。一個內省、一個顧外，兩者合起來才能穩固地止息惡行。
+  detail_en: |
+    Cheng weishi lun: "Relying on the power of the world, its nature is disdaining and rejecting the violent and evil; it counteracts lack of decorum and stops wrongdoing." Apatrāpya is **outward-facing** shame: regard for others' censure and social norms restrains one from wrongdoing.
+
+    The Pañcaskandhaka puts the contrast neatly: self-respect is shame at wrongdoing "out of regard for oneself and the Dharma"; decorum is shame at wrongdoing "out of regard for the world". One looks inward, the other outward; together they restrain misconduct firmly.
+  quotes:
+    - text: 云何為愧？依世間力，輕拒暴惡為性；對治無愧，止息惡行為業。
+      source: 《成唯識論》卷6
+      source_en: Cheng weishi lun, fasc. 6
+      ref: T31n1585_p0029c16
+      refEnd: T31n1585_p0029c17
+      note_en: What is decorum? Relying on the power of the world, its nature is disdaining and rejecting the violent and evil; its function is to counteract lack of decorum and stop wrongdoing.
+    - text: 云何為愧？謂世增上，於所作罪羞恥為性。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0848c24
+      note_en: What is decorum? Out of regard for the world, its nature is feeling shame at the wrong one has done.
+  related: [ hri, anapatrapya ]
+  compare: [ hri-apatrapya ]
+
+- id: alobha
+  skt: alobha
+  deva: अलोभ
+  pali: alobha
+  zh: 無貪
+  zhAlt: [ 無貪善根 ]
+  en: non-greed
+  enAlt: [ non-attachment, nongreed, non attachment, detachment, generosity ]
+  root: a-「非」＋ lobha「貪」 · a- "not" + lobha "greed"
+  short_zh: 對三有及其因（有、有具）不染著；對治貪。三善根之一。
+  short_en: Non-greed — no attachment to existence and its causes; counteracts greed. One of the three wholesome roots.
+  detail_zh: |
+    《成唯識論》：「於有、有具，無著為性；對治貪著，作善為業。」「有」指三界的果報身，「有具」指能生三有的因與資具。無貪不只是「不貪」的消極狀態，而是一個積極的善心所——對它們不起執著。
+
+    無貪、無瞋、無癡合稱**三善根**（kuśala-mūla），是一切善法的根本，分別對治三不善根（貪、瞋、癡）。《大乘五蘊論》說無貪「令深厭患無著為性」。
+  detail_en: |
+    Cheng weishi lun: "Its nature is non-attachment to existence and the means of existence; it counteracts greed and produces good." "Existence" is the resultant existence in the three realms; "the means of existence" are its causes and supports. Non-greed is not merely the absence of greed but a positive wholesome factor of non-clinging.
+
+    Non-greed, non-hatred and non-delusion are the **three wholesome roots**, the basis of all good, countering the three unwholesome roots. The Pañcaskandhaka: "its nature is deep disenchantment and non-attachment."
+  quotes:
+    - text: 云何無貪？於有、有具，無著為性；對治貪著，作善為業。
+      source: 《成唯識論》卷6
+      source_en: Cheng weishi lun, fasc. 6
+      ref: T31n1585_p0030a04
+      refEnd: T31n1585_p0030a05
+      note_en: What is non-greed? Its nature is non-attachment to existence and the means of existence; its function is to counteract greed and produce good.
+    - text: 云何無貪？謂貪對治，令深厭患無著為性。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0848c25
+      note_en: What is non-greed? As the antidote to greed, its nature is deep disenchantment and non-attachment.
+  related: [ raga, advesa, amoha ]
+  compare: [ kusala-antidotes ]
+
+- id: advesa
+  skt: adveṣa
+  deva: अद्वेष
+  pali: adosa
+  zh: 無瞋
+  zhAlt: [ 無嗔, 無瞋善根 ]
+  en: non-hatred
+  enAlt: [ non-aversion, non-anger, nonhatred, loving-kindness, lovingkindness, non-hostility ]
+  root: a-「非」＋ dveṣa「瞋」 · a- "not" + dveṣa "hatred"
+  short_zh: 對苦及苦因不起憎恚；以慈為性，對治瞋。三善根之一。
+  short_en: Non-hatred — no hostility toward suffering or its causes; its nature is loving-kindness. One of the three wholesome roots.
+  detail_zh: |
+    《成唯識論》：「於苦、苦具，無恚為性；對治瞋恚，作善為業。」《大乘五蘊論》更直接說：「瞋對治，以慈為性。」
+
+    **無瞋與不害**：兩者都和慈悲有關。《成唯識論》說不害是「即無瞋」上假立的：「無瞋與樂，不害拔苦」——無瞋是給予快樂的慈，不害是拔除痛苦的悲。
+  detail_en: |
+    Cheng weishi lun: "Its nature is non-hostility toward suffering and the causes of suffering; it counteracts hatred and produces good." The Pañcaskandhaka says simply: "the antidote to hatred; its nature is loving-kindness."
+
+    **Non-hatred and non-harming**: both concern kindness. The Cheng weishi lun treats non-harming as designated on non-hatred: "Non-hatred gives happiness; non-harming removes suffering" — maitrī and karuṇā respectively.
+  quotes:
+    - text: 云何無瞋？於苦、苦具，無恚為性；對治瞋恚，作善為業。
+      source: 《成唯識論》卷6
+      source_en: Cheng weishi lun, fasc. 6
+      ref: T31n1585_p0030a05
+      refEnd: T31n1585_p0030a07
+      note_en: What is non-hatred? Its nature is non-hostility toward suffering and its causes; its function is to counteract hatred and produce good.
+    - text: 云何無瞋？謂瞋對治，以慈為性。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0848c26
+      note_en: What is non-hatred? As the antidote to hatred, its nature is loving-kindness.
+  related: [ pratigha, avihimsa, alobha ]
+  compare: [ kusala-antidotes ]
+
+- id: amoha
+  skt: amoha
+  deva: अमोह
+  pali: amoha
+  zh: 無癡
+  zhAlt: [ 無癡善根 ]
+  en: non-delusion
+  enAlt: [ non-confusion, nondelusion, non-bewilderment, clarity, understanding ]
+  root: a-「非」＋ moha「癡」 · a- "not" + moha "delusion"
+  short_zh: 對事理明白了解；對治愚癡。三善根之一。
+  short_en: Non-delusion — clear understanding of principles and facts; counteracts delusion. One of the three wholesome roots.
+  detail_zh: |
+    《成唯識論》：「於諸理事，明解為性；對治愚癡，作善為業。」與煩惱「癡」（於諸理事迷闇為性）正好相對。
+
+    **無癡與慧**：無癡的體性其實就是善的慧。《成唯識論》討論時指出，無癡以慧為體，但為了顯示善品中對治癡的力量特別殊勝，所以另立為三善根之一。
+  detail_en: |
+    Cheng weishi lun: "Its nature is clear understanding of principles and facts; it counteracts delusion and produces good" — the exact opposite of the affliction delusion, "darkness about principles and facts".
+
+    **Non-delusion and wisdom**: in substance non-delusion is wholesome prajñā. The Cheng weishi lun explains that although it has wisdom as its essence, it is listed separately as a wholesome root to show the special strength of the good in counteracting delusion.
+  quotes:
+    - text: 云何無癡？於諸理事，明解為性；對治愚癡，作善為業。
+      source: 《成唯識論》卷6
+      source_en: Cheng weishi lun, fasc. 6
+      ref: T31n1585_p0030a09
+      refEnd: T31n1585_p0030a10
+      note_en: What is non-delusion? Its nature is clear understanding of principles and facts; its function is to counteract delusion and produce good.
+    - text: 云何無癡？謂癡對治，以其如實正行為性。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0848c27
+      note_en: What is non-delusion? As the antidote to delusion, its nature is correct practice in accordance with reality.
+  related: [ avidya, prajna, alobha ]
+  compare: [ kusala-antidotes ]
+
+- id: prasrabdhi
+  skt: praśrabdhi
+  deva: प्रश्रब्धि
+  pali: passaddhi
+  zh: 輕安
+  zhAlt: [ 安 ]
+  en: pliancy
+  enAlt: [ tranquility, tranquillity, serenity, suppleness, flexibility, ease, calm ]
+  root: pra-√śrambh「放鬆、安息」 · pra-√śrambh "to relax, be calm"
+  short_zh: 遠離身心的麁重，調暢而堪能；對治惛沈。修定所生的善心所。
+  short_en: Pliancy — freedom from physical and mental heaviness, so that body and mind are fit for use; counteracts torpor.
+  detail_zh: |
+    《成唯識論》：「安謂輕安，遠離麁重，調暢身心，堪任為性；對治惛沈，轉依為業。」「麁重」指身心的沉重、不聽使喚；輕安則讓身心輕快、調柔，想修什麼善法都「堪能」去做。
+
+    輕安主要在修定時生起，是禪修進步的重要徵兆（七覺支中的「輕安覺支」）。「轉依為業」說明它能轉捨麁重、轉得安適，成為修道轉依的助緣。它直接對治隨煩惱中的「惛沈」。
+  detail_en: |
+    Cheng weishi lun: "Pliancy means being far from heaviness, with body and mind fluent and at ease; its nature is fitness for use; it counteracts torpor and brings about transformation of the basis." "Heaviness" is the dull unworkability of body and mind; pliancy makes them light and supple, "fit" for any wholesome task.
+
+    It arises chiefly in meditation and is an important sign of progress (the "tranquillity" factor of awakening). Its function of "transforming the basis" means discarding heaviness and gaining ease, supporting the transformation of the path. It directly counteracts the secondary affliction torpor.
+  quotes:
+    - text: 安謂輕安，遠離麁重，調暢身心，堪任為性；對治惛沈，轉依為業。
+      source: 《成唯識論》卷6
+      source_en: Cheng weishi lun, fasc. 6
+      ref: T31n1585_p0030b05
+      refEnd: T31n1585_p0030b06
+      note_en: Pliancy means being far from heaviness, with body and mind harmonized and fluent; its nature is fitness for use; its function is to counteract torpor and bring about transformation of the basis.
+    - text: 云何輕安？謂麁重對治，身心調暢堪能為性。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0848c29
+      note_en: What is pliancy? As the antidote to heaviness, its nature is fluency and fitness of body and mind.
+  related: [ styana, samadhi ]
+  compare: [ styana-auddhatya, kusala-antidotes ]
+
+- id: apramada
+  skt: apramāda
+  deva: अप्रमाद
+  pali: appamāda
+  zh: 不放逸
+  zhAlt: []
+  en: conscientiousness
+  enAlt: [ heedfulness, carefulness, vigilance, non-negligence, awareness ]
+  root: a-「非」＋ pramāda「放逸」 · a- "not" + pramāda "heedlessness"
+  short_zh: 以精進與三善根為體，防惡修善；對治放逸。非別有實體，是假立的善心所。
+  short_en: Conscientiousness — guarding against evil and cultivating good, based on diligence and the three wholesome roots; counteracts heedlessness. A designated, not separately real, factor.
+  detail_zh: |
+    《成唯識論》：「不放逸者，精進、三根，於所斷、修，防、修為性；對治放逸，成滿一切世、出世間善事為業。」不放逸不是獨立的心所，而是精進與無貪、無瞋、無癡四法在「防範該斷的惡、修習該修的善」上的作用，**假立**為一個名稱。
+
+    佛陀的最後遺言強調的正是不放逸。《長阿含經．遊行經》：「無為放逸，我以不放逸故，自致正覺。」
+  detail_en: |
+    Cheng weishi lun: "Conscientiousness is diligence and the three roots, whose nature is guarding against what is to be abandoned and cultivating what is to be developed; it counteracts heedlessness and fulfils all worldly and transcendent good." It is not a separate entity: the name is **designated** on the working of diligence plus non-greed, non-hatred and non-delusion in guarding against evil and cultivating good.
+
+    The Buddha's last words stress exactly this. Dīrghāgama, Mahāparinirvāṇa-sūtra: "Do not be heedless; it was through heedfulness that I attained right awakening."
+  quotes:
+    - text: 不放逸者：精進、三根，於所斷、修，防、修為性；對治放逸，成滿一切世、出世間善事為業。
+      source: 《成唯識論》卷6
+      source_en: Cheng weishi lun, fasc. 6
+      ref: T31n1585_p0030b07
+      refEnd: T31n1585_p0030b09
+      note_en: Conscientiousness is diligence and the three roots, whose nature is guarding against what is to be abandoned and cultivating what is to be developed; its function is to counteract heedlessness and fulfil all worldly and transcendent good deeds.
+    - text: 無為放逸，我以不放逸故，自致正覺
+      source: 《長阿含經》卷4
+      source_en: Dīrghāgama, fasc. 4
+      ref: T01n0001_p0026b19
+      refEnd: T01n0001_p0026b20
+      note_en: Do not be heedless. Through heedfulness I myself attained right awakening.
+  related: [ pramada, virya ]
+  compare: [ apramada-virya, kusala-antidotes ]
+
+- id: upeksa
+  skt: upekṣā
+  deva: उपेक्षा
+  pali: upekkhā
+  zh: 行捨
+  zhAlt: [ 捨, 捨無量 ]
+  en: equanimity
+  enAlt: [ evenness, even-mindedness, impartiality, equipoise, neutrality ]
+  root: upa-√īkṣ「旁觀、不偏」 · upa-√īkṣ "to look on (impartially)"
+  short_zh: 令心平等、正直、無功用而住；對治掉舉。也是四無量心中的「捨」。
+  short_en: Equanimity — keeping the mind even, upright and effortlessly settled; counteracts restlessness. Also the fourth immeasurable.
+  detail_zh: |
+    《成唯識論》：「行捨？精進、三根，令心平等、正直、無功用住為性；對治掉舉，靜住為業。」與不放逸一樣，行捨也是依精進與三善根**假立**的：先離掉舉而「平等」，再離不正而「正直」，最後不必用力而「無功用住」。
+
+    **「捨」字要分清**：
+    - 行捨：屬行蘊的善心所，心的平衡；
+    - 捨受：受蘊中的「不苦不樂受」，是感受；
+    - 捨無量：四無量心之一，對一切眾生平等無憎愛的心。
+    三者梵語都含 upekṣā，但體性與所屬完全不同。
+  detail_en: |
+    Cheng weishi lun: "Equanimity of formations is diligence and the three roots, whose nature is making the mind even, upright and effortlessly settled; it counteracts restlessness and brings about quiet abiding." Like conscientiousness, it is **designated** on diligence and the three wholesome roots: first free of restlessness ("even"), then free of crookedness ("upright"), finally settled without effort.
+
+    **Keep the senses of 捨 apart**:
+    - 行捨 equanimity of formations: a wholesome factor in the formations aggregate — balance of mind;
+    - 捨受 neutral feeling: neither-pleasant-nor-painful feeling, in the feeling aggregate;
+    - 捨無量 immeasurable equanimity: the fourth brahmavihāra, impartiality toward all beings.
+    All involve upekṣā, but they belong to entirely different categories.
+  quotes:
+    - text: 精進、三根，令心平等、正直、無功用住為性；對治掉舉，靜住為業。
+      source: 《成唯識論》卷6
+      source_en: Cheng weishi lun, fasc. 6
+      ref: T31n1585_p0030b21
+      refEnd: T31n1585_p0030b23
+      note_en: Equanimity of formations is diligence and the three roots, whose nature is making the mind even, upright and effortlessly settled; its function is to counteract restlessness and bring about quiet abiding.
+    - text: 云何為捨？謂即無貪乃至精進。依止此故，獲得所有心平等性，心正直性，心無發悟性。又由此故，於已除遣染污法中，無染安住。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0849a02
+      refEnd: T31n1612_p0849a04
+      note_en: What is equanimity? It is non-greed and the rest, up to diligence. Relying on these one attains evenness, uprightness and effortlessness of mind, and, the defiled dharmas having been removed, abides undefiled.
+  related: [ auddhatya, vedana ]
+  compare: [ styana-auddhatya, kusala-antidotes ]
+
+- id: avihimsa
+  skt: avihiṃsā
+  deva: अविहिंसा
+  pali: avihiṃsā
+  zh: 不害
+  zhAlt: []
+  en: non-harming
+  enAlt: [ harmlessness, non-violence, nonviolence, non-cruelty, compassion, ahimsa ]
+  root: 'a-「非」＋ vihiṃsā「傷害」（《三十頌》作 ahiṃsā） · a- + vihiṃsā "harming" (Triṃśikā: ahiṃsā)'
+  short_zh: 不損惱有情，以無瞋為體、悲愍為用；對治害。
+  short_en: Non-harming — not injuring beings; its substance is non-hatred and its function compassion. Counteracts harmfulness.
+  detail_zh: |
+    《成唯識論》：「於諸有情，不為損惱，無瞋為性；能對治害，悲愍為業。」不害也是**假立**的：「即無瞋，於有情所不為損惱，假名不害」。
+
+    論中對無瞋與不害作了精彩的區分：「無瞋翻對斷物命瞋，不害正違損惱物害。無瞋與樂，不害拔苦。」——無瞋對治的是奪命的瞋恚，給予快樂（慈）；不害對治的是損惱眾生的害心，拔除痛苦（悲）。
+  detail_en: |
+    Cheng weishi lun: "Its nature is not injuring beings, with non-hatred [as substance]; it counteracts harmfulness and its function is compassion." Non-harming is **designated**: "non-hatred, when it does not injure beings, is provisionally called non-harming."
+
+    The treatise draws a fine distinction: "Non-hatred opposes the hatred that takes life; non-harming opposes the harmfulness that torments beings. Non-hatred gives happiness; non-harming removes suffering" — loving-kindness versus compassion.
+  quotes:
+    - text: 云何『不害』？於諸有情，不為損惱，無瞋為性；能對治害，悲愍為業。
+      source: 《成唯識論》卷6
+      source_en: Cheng weishi lun, fasc. 6
+      ref: T31n1585_p0030b28
+      refEnd: T31n1585_p0030b29
+      note_en: What is non-harming? Its nature is not injuring beings, being non-hatred; its function is to counteract harmfulness and to be compassionate.
+    - text: 無瞋，翻對斷物命瞋；不害，正違損惱物害。無瞋與樂；不害拔苦。
+      source: 《成唯識論》卷6
+      source_en: Cheng weishi lun, fasc. 6
+      ref: T31n1585_p0030c02
+      refEnd: T31n1585_p0030c03
+      note_en: Non-hatred is the opposite of the hatred that cuts off beings' lives; non-harming directly opposes the harmfulness that torments beings. Non-hatred gives happiness; non-harming removes suffering.
+  related: [ vihimsa, advesa ]
+  compare: [ kusala-antidotes ]

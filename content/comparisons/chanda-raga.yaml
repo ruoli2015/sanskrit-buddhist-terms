@@ -1,0 +1,92 @@
+id: chanda-raga
+title_zh: 欲（chanda）與貪（rāga）
+title_en: Aspiration vs. greed (chanda & rāga)
+terms: [ chanda, raga ]
+summary_zh: 欲是中性的「希望」，可以希求善法（善法欲）；貪是染污的「染著」，是根本煩惱。不可把佛法說的「斷貪」誤解為「斷一切欲」。
+summary_en: Chanda is neutral wishing and can aim at the good (wholesome aspiration); rāga is defiled attachment, a root affliction. "Abandon greed" does not mean "abandon every wish".
+table:
+  columns:
+    - { zh: 欲 chanda, en: Aspiration }
+    - { zh: 貪 rāga, en: Greed }
+  rows:
+    - label: { zh: 類別, en: Category }
+      cells:
+        - { zh: 別境心所, en: Object-specific factor }
+        - { zh: 根本煩惱, en: Root affliction }
+    - label: { zh: 體性, en: Nature }
+      cells:
+        - { zh: 於所樂境希望, en: Wishing for a desired object }
+        - { zh: 於有、有具染著, en: Attachment to existence and its means }
+    - label: { zh: 作用, en: Function }
+      cells:
+        - { zh: 勤依——精進的所依, en: Support of effort }
+        - { zh: 生苦, en: Produces suffering }
+    - label: { zh: 善惡, en: Moral quality }
+      cells:
+        - { zh: 通善、惡、無記, en: 'Can be wholesome, unwholesome or neutral' }
+        - { zh: 唯染污, en: Always defiled }
+explanation_zh: |
+  **同樣是「想要」，性質不同**。欲只是希望、意向，本身無善惡：想證悟、想幫助眾生是善法欲；想吃午飯是無記的欲；對五欲境的貪求則與貪相應。貪則不同，它的本質是「染著」——黏住不放，必然帶來苦。
+
+  **修行不是消滅動力**。《成唯識論》說欲是「勤依」：沒有想要成就的意欲，就不會精進。所以佛法要斷的是貪，而要培養的是對善法的欲。
+
+  **中文陷阱**：漢譯「欲」字常兼指兩者（如「欲界」「五欲」「貪欲」）。讀經時要看上下文：作為別境心所的「欲」（chanda）是中性的；「貪欲」（kāma-rāga）則是煩惱。
+explanation_en: |
+  **Both are "wanting", with different natures.** Chanda is just wishing or intending, morally neutral in itself: wishing for awakening or to help beings is wholesome aspiration; wanting lunch is neutral; craving sense objects goes together with greed. Rāga is different: its essence is attachment — sticking fast — which inevitably brings suffering.
+
+  **Practice does not kill motivation.** The Cheng weishi lun calls chanda "the support of effort": without aspiration there is no diligence. So Buddhism abandons greed but cultivates aspiration toward the good.
+
+  **A Chinese trap**: 欲 is used for both (欲界 "desire realm", 五欲 "five sense pleasures", 貪欲 "sensual greed"). Read the context: the object-specific factor 欲 (chanda) is neutral; 貪欲 (kāma-rāga) is an affliction.
+quotes:
+  - text: 云何為欲？於所樂境，希望為性，勤依為業。
+    source: 《成唯識論》卷5
+    source_en: Cheng weishi lun, fasc. 5
+    ref: T31n1585_p0028a20
+    refEnd: T31n1585_p0028a21
+    note_en: What is aspiration? Its nature is wishing for a desired object; its function is to serve as the support of effort.
+  - text: 云何為貪？於有、有具，染著為性；能障無貪，生苦為業。
+    source: 《成唯識論》卷6
+    source_en: Cheng weishi lun, fasc. 6
+    ref: T31n1585_p0031b19
+    refEnd: T31n1585_p0031b20
+    note_en: What is greed? Its nature is attachment to existence and the means of existence; its function is to obstruct non-greed and produce suffering.
+questions:
+  - type: tf
+    q_zh: 別境心所「欲」本身必定是不善的。
+    q_en: The object-specific factor chanda is necessarily unwholesome.
+    answer: false
+    explain_zh: 欲通善、惡、無記；希求善法的是善法欲。
+    explain_en: Chanda may be wholesome, unwholesome or neutral.
+  - type: mcq
+    q_zh: 依《成唯識論》，欲的「業」（作用）是？
+    q_en: According to the Cheng weishi lun, what is the function of chanda?
+    options:
+      - { zh: 生苦, en: producing suffering }
+      - { zh: 勤依, en: supporting effort }
+      - { zh: 斷疑, en: cutting doubt }
+      - { zh: 定依, en: supporting concentration }
+    answer: 1
+    explain_zh: 「希望為性，勤依為業。」
+    explain_en: '"Its nature is wishing; its function is supporting effort."'
+  - type: mcq
+    q_zh: 「想要證悟」屬於？
+    q_en: '"Wishing to attain awakening" is…'
+    options:
+      - { zh: 貪, en: greed }
+      - { zh: 善法欲, en: wholesome aspiration }
+      - { zh: 掉舉, en: restlessness }
+      - { zh: 慢, en: pride }
+    answer: 1
+    explain_zh: 對善法的希求是善法欲，是精進的所依。
+    explain_en: Wishing for the good is wholesome aspiration, the support of diligence.
+  - type: mcq
+    q_zh: 在說一切有部，「欲」屬於哪一類？
+    q_en: In the Sarvāstivāda, chanda belongs to…
+    options:
+      - { zh: 大地法（遍一切心）, en: universal factors }
+      - { zh: 大煩惱地法, en: universal afflictions }
+      - { zh: 不定法, en: indeterminate }
+      - { zh: 別境, en: object-specific }
+    answer: 0
+    explain_zh: 有部列欲為十大地法之一；唯識移入別境。
+    explain_en: The Sarvāstivāda lists it among the ten universals; Yogācāra moves it to object-specific.

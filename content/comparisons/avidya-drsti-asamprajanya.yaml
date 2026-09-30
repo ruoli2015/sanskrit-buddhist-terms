@@ -1,0 +1,117 @@
+id: avidya-drsti-asamprajanya
+title_zh: 迷與錯：無明（癡）、惡見、疑、不正知與慧
+title_en: Not knowing and knowing wrongly — ignorance, wrong view, doubt, non-alertness and wisdom
+terms: [ avidya, drsti, vicikitsa, asamprajanya, prajna ]
+summary_zh: 無明是「迷闇」（不明）；惡見是「染慧」（錯誤推度）；疑是「猶豫」（不能決定）；不正知是對當下行為的「謬解」。它們都與「知」有關，但病根不同；慧本身則通善惡。
+summary_en: Ignorance is darkness (not seeing); wrong view is defiled discernment (reasoning wrongly); doubt is vacillation (not deciding); non-alertness is misreading present conduct. All concern knowing, with different pathologies; prajñā itself can go either way.
+table:
+  columns:
+    - { zh: 無明（癡）, en: Ignorance }
+    - { zh: 惡見, en: Wrong view }
+    - { zh: 疑, en: Doubt }
+    - { zh: 不正知, en: Non-alertness }
+  rows:
+    - label: { zh: 體性, en: Nature }
+      cells:
+        - { zh: 於諸理事迷闇, en: Darkness about principles and facts }
+        - { zh: 顛倒推度，染慧, en: 'Perverse reasoning; defiled discernment' }
+        - { zh: 於諸諦理猶豫, en: Vacillation about the truths }
+        - { zh: 於所觀境謬解, en: Misunderstanding the observed }
+    - label: { zh: 病根, en: Pathology }
+      cells:
+        - { zh: 不明——看不見, en: Not seeing }
+        - { zh: 錯看——看錯了, en: Seeing wrongly }
+        - { zh: 不定——看了不敢定, en: Not deciding }
+        - { zh: 當下不覺察, en: Not noticing one's conduct }
+    - label: { zh: 類別, en: Category }
+      cells:
+        - { zh: 根本煩惱, en: Root affliction }
+        - { zh: 根本煩惱, en: Root affliction }
+        - { zh: 根本煩惱, en: Root affliction }
+        - { zh: 大隨煩惱, en: Major secondary affliction }
+    - label: { zh: 與慧的關係, en: Relation to prajñā }
+      cells:
+        - { zh: 與慧相反；善的對治是無癡, en: 'Opposite; countered by non-delusion' }
+        - { zh: 本身就是慧（染慧）, en: Is prajñā — defiled }
+        - { zh: 慧能斷疑, en: Prajñā cuts it off }
+        - { zh: 一說慧一分, en: 'One view: part of prajñā' }
+explanation_zh: |
+  **四種「不知」的差別**：
+  - **無明**是根本的「暗」——對事理根本不明白。它是「一切雜染所依」，其他煩惱都在它的基礎上生起。
+  - **惡見**不是不想，而是想錯了：「顛倒推度，染慧為性」。有身見的人對「我」有一套清楚的推理，只是推錯了。
+  - **疑**是在真理面前猶豫不決，不肯下判斷。
+  - **不正知**是在身、語、意的當下行為中覺察錯誤，因而違犯。
+
+  **慧的兩面**：慧是別境心所，「簡擇為性，斷疑為業」。如理的慧能斷疑、破無明；而惡見恰恰就是染污的慧。所以佛法說的不是「多思考」就好，而是要「如理」思考。
+explanation_en: |
+  **Four kinds of "not knowing"**:
+  - **Ignorance** is basic darkness — not understanding at all. It is "the basis of all defilement"; the other afflictions arise on it.
+  - **Wrong view** is not failing to think but thinking wrongly: "perverse reasoning, defiled discernment". Someone holding self-view has a clear argument for a self — just a wrong one.
+  - **Doubt** is hesitating before the truth, refusing to judge.
+  - **Non-alertness** misreads one's present bodily, verbal and mental conduct, and so one transgresses.
+
+  **Two faces of prajñā**: prajñā is an object-specific factor, "discrimination by nature, cutting off doubt by function". Sound discernment cuts off doubt and dispels ignorance, yet wrong view is exactly defiled discernment. So the point is not "think more" but "think in accord with reality".
+quotes:
+  - text: 云何為癡？於諸理、事，迷闇為性；能障無癡，一切雜染所依為業。
+    source: 《成唯識論》卷6
+    source_en: Cheng weishi lun, fasc. 6
+    ref: T31n1585_p0031b23
+    refEnd: T31n1585_p0031b24
+    note_en: What is delusion? Its nature is darkness about principles and facts; its function is to obstruct non-delusion and to be the basis of all defilement.
+  - text: 云何惡見？於諸諦理，顛倒推度，染慧為性；能障善見，招苦為業。
+    source: 《成唯識論》卷6
+    source_en: Cheng weishi lun, fasc. 6
+    ref: T31n1585_p0031c11
+    refEnd: T31n1585_p0031c12
+    note_en: What is wrong view? Its nature is defiled discernment that reasons perversely about the truths; its function is to obstruct good view and bring suffering.
+questions:
+  - type: mcq
+    q_zh: 哪一個煩惱的體性本身就是「慧」（染慧）？
+    q_en: Which affliction has (defiled) prajñā as its very nature?
+    options:
+      - { zh: 無明, en: ignorance }
+      - { zh: 惡見, en: wrong view }
+      - { zh: 疑, en: doubt }
+      - { zh: 慢, en: pride }
+    answer: 1
+    explain_zh: 惡見「顛倒推度，染慧為性」。
+    explain_en: Wrong view is "perverse reasoning, with defiled discernment as nature".
+  - type: mcq
+    q_zh: 被稱為「一切雜染所依」的是？
+    q_en: Which is called "the basis of all defilement"?
+    options:
+      - { zh: 貪, en: greed }
+      - { zh: 瞋, en: aversion }
+      - { zh: 癡（無明）, en: delusion (ignorance) }
+      - { zh: 疑, en: doubt }
+    answer: 2
+    explain_zh: 癡「能障無癡，一切雜染所依為業」。
+    explain_en: Delusion "obstructs non-delusion and is the basis of all defilement".
+  - type: mcq
+    q_zh: 對四諦猶豫不決，不知是否該相信——這是？
+    q_en: Wavering about the four truths, not knowing whether to accept them — this is…
+    options:
+      - { zh: 疑, en: doubt }
+      - { zh: 惡見, en: wrong view }
+      - { zh: 不正知, en: non-alertness }
+      - { zh: 失念, en: forgetfulness }
+    answer: 0
+    explain_zh: 疑「於諸諦理，猶豫為性」。
+    explain_en: Doubt is "vacillation about the truths".
+  - type: tf
+    q_zh: 慧作為心所，必定是善的。
+    q_en: As a mental factor, prajñā is always wholesome.
+    answer: false
+    explain_zh: 慧屬別境，通善惡；惡見即是染慧。
+    explain_en: Prajñā is object-specific and variable; wrong view is defiled prajñā.
+  - type: mcq
+    q_zh: 說話時沒有覺察自己正在口出惡言，事後才發現——這主要是？
+    q_en: One does not notice while speaking that one's words are harsh, realizing only afterwards. Chiefly…
+    options:
+      - { zh: 不正知, en: non-alertness }
+      - { zh: 疑, en: doubt }
+      - { zh: 慳, en: stinginess }
+      - { zh: 無明, en: ignorance }
+    answer: 0
+    explain_zh: 不正知「於身語意現前行中不正依住」，導致毀犯。
+    explain_en: Non-alertness is "not abiding correctly in present conduct of body, speech and mind", leading to transgression.

@@ -1,0 +1,117 @@
+id: styana-auddhatya
+title_zh: 惛沈、掉舉與睡眠——禪修的兩大障礙
+title_en: Torpor, restlessness and sleep — the two great obstacles in meditation
+terms: [ styana, auddhatya, middha, prasrabdhi, upeksa, viksepa ]
+summary_zh: 惛沈令心下沉，障輕安與「觀」；掉舉令心上浮，障行捨與「止」。睡眠是身不自在、心昧略的狀態（不定心所），散亂則是在對象間流蕩。
+summary_en: Torpor makes the mind sink, obstructing pliancy and insight; restlessness makes it float, obstructing equanimity and calm. Sleep is a dim, contracted state (indeterminate); distraction is drifting between objects.
+table:
+  columns:
+    - { zh: 惛沈 styāna, en: Torpor }
+    - { zh: 掉舉 auddhatya, en: Restlessness }
+    - { zh: 睡眠 middha, en: Sleep }
+    - { zh: 散亂 vikṣepa, en: Distraction }
+  rows:
+    - label: { zh: 心的狀態, en: State of mind }
+      cells:
+        - { zh: 沉重、無堪任, en: 'Heavy, unfit' }
+        - { zh: 不寂靜、上浮, en: 'Unsettled, bubbling up' }
+        - { zh: 昧、略，身不自在, en: Dim and contracted; body not under control }
+        - { zh: 流蕩於諸所緣, en: Drifting among objects }
+    - label: { zh: 所障, en: Obstructs }
+      cells:
+        - { zh: 輕安、毘鉢舍那（觀）, en: Pliancy and insight (vipaśyanā) }
+        - { zh: 行捨、奢摩他（止）, en: Equanimity and calm (śamatha) }
+        - { zh: 觀, en: Insight }
+        - { zh: 正定, en: Right concentration }
+    - label: { zh: 類別, en: Category }
+      cells:
+        - { zh: 大隨煩惱, en: Major secondary affliction }
+        - { zh: 大隨煩惱, en: Major secondary affliction }
+        - { zh: 不定, en: Indeterminate }
+        - { zh: 大隨煩惱, en: Major secondary affliction }
+    - label: { zh: 對治, en: Antidote }
+      cells:
+        - { zh: 輕安；策勵、觀明相, en: 'Pliancy; rousing effort' }
+        - { zh: 行捨；收攝、修止, en: 'Equanimity; calming' }
+        - { zh: 精進、光明想, en: 'Effort; perception of light' }
+        - { zh: 念、定, en: 'Mindfulness, concentration' }
+explanation_zh: |
+  **一沉一浮**：禪修時心最常出的兩種毛病，一是「沉」——昏昏沉沉，心提不起來；一是「浮」——念頭紛飛，心靜不下來。前者是惛沈，後者是掉舉。《成唯識論》精確地指出它們各自所障：惛沈「能障輕安、毘鉢舍那」，掉舉「能障行捨、奢摩他」。所以止（śamatha）怕掉舉，觀（vipaśyanā）怕惛沈。
+
+  **善心所的對治**：善心所中恰有一對針對它們——輕安「對治惛沈」，行捨「對治掉舉」。
+
+  **睡眠不是惛沈**：兩者合為五蓋中的「惛沈睡眠蓋」，但惛沈是遍一切染心的大隨煩惱；睡眠則是不定心所，是「身不自在、心極闇劣」的特殊狀態。
+
+  **掉舉不是散亂**：論中說「彼令易解，此令易緣」——掉舉是在理解上浮動，散亂是在對象上轉換。
+explanation_en: |
+  **Sinking and floating**: the two commonest faults in meditation are "sinking" — dull, unable to lift the mind — and "floating" — thoughts flying, unable to settle. The first is torpor, the second restlessness. The Cheng weishi lun is precise about what each obstructs: torpor "obstructs pliancy and vipaśyanā", restlessness "obstructs equanimity and śamatha". So calm fears restlessness, insight fears torpor.
+
+  **Wholesome antidotes**: the wholesome factors include a matching pair — pliancy "counteracts torpor", equanimity "counteracts restlessness".
+
+  **Sleep is not torpor**: together they form the hindrance "torpor and sleep", but torpor is a major secondary affliction in every defiled mind, whereas sleep is an indeterminate factor, a special state in which "the body is not free and the mind extremely dark and weak".
+
+  **Restlessness is not distraction**: "the former makes [the mind] change its understanding, the latter its object".
+quotes:
+  - text: 云何掉舉？令心於境不寂靜為性；能障行捨、奢摩他為業。
+    source: 《成唯識論》卷6
+    source_en: Cheng weishi lun, fasc. 6
+    ref: T31n1585_p0034a07
+    refEnd: T31n1585_p0034a08
+    note_en: What is restlessness? Its nature is making the mind not calm with regard to its object; its function is to obstruct equanimity and śamatha.
+  - text: 云何惛沈？令心於境，無堪任為性；能障輕安、毘鉢舍那為業。
+    source: 《成唯識論》卷6
+    source_en: Cheng weishi lun, fasc. 6
+    ref: T31n1585_p0034a19
+    refEnd: T31n1585_p0034a20
+    note_en: What is torpor? Its nature is making the mind unfit with regard to its object; its function is to obstruct pliancy and vipaśyanā.
+questions:
+  - type: mcq
+    q_zh: 依《成唯識論》，惛沈障礙的是？
+    q_en: According to the Cheng weishi lun, torpor obstructs…
+    options:
+      - { zh: 行捨、奢摩他, en: equanimity and śamatha }
+      - { zh: 輕安、毘鉢舍那, en: pliancy and vipaśyanā }
+      - { zh: 正念, en: right mindfulness }
+      - { zh: 淨信, en: pure faith }
+    answer: 1
+    explain_zh: 惛沈「能障輕安、毘鉢舍那為業」。
+    explain_en: Torpor "obstructs pliancy and vipaśyanā".
+  - type: mcq
+    q_zh: 對治掉舉的善心所是？
+    q_en: Which wholesome factor counteracts restlessness?
+    options:
+      - { zh: 輕安, en: pliancy }
+      - { zh: 行捨, en: equanimity }
+      - { zh: 不害, en: non-harming }
+      - { zh: 慚, en: self-respect }
+    answer: 1
+    explain_zh: 行捨「對治掉舉，靜住為業」。
+    explain_en: Equanimity "counteracts restlessness, bringing quiet abiding".
+  - type: tf
+    q_zh: 睡眠和惛沈一樣，都是大隨煩惱。
+    q_en: Like torpor, sleep is a major secondary affliction.
+    answer: false
+    explain_zh: 睡眠是不定心所，可善可惡；惛沈才是大隨煩惱。
+    explain_en: Sleep is indeterminate; only torpor is a major secondary affliction.
+  - type: mcq
+    q_zh: 打坐時心中不斷浮現昨天的快樂事，無法平靜——主要是？
+    q_en: While sitting, memories of yesterday's pleasures keep bubbling up and the mind cannot settle. Chiefly…
+    options:
+      - { zh: 惛沈, en: torpor }
+      - { zh: 掉舉, en: restlessness }
+      - { zh: 睡眠, en: sleep }
+      - { zh: 惡作, en: regret }
+    answer: 1
+    explain_zh: 掉舉令心不寂靜，論中一說「此由憶昔樂事生故」。
+    explain_en: Restlessness makes the mind unsettled; one view says it "arises from recalling past pleasures".
+  - type: mcq
+    q_zh: 掉舉與散亂的區別，《成唯識論》如何說？
+    q_en: How does the Cheng weishi lun distinguish restlessness from distraction?
+    options:
+      - { zh: 掉舉令易解，散亂令易緣, en: restlessness changes understanding; distraction changes object }
+      - { zh: 掉舉令易緣，散亂令易解, en: restlessness changes object; distraction changes understanding }
+      - { zh: 兩者完全相同, en: they are identical }
+      - { zh: 掉舉是善，散亂是惡, en: 'restlessness is wholesome, distraction unwholesome' }
+    answer: 0
+    explain_zh: 「掉舉、散亂二用何別？彼令易解，此令易緣。」
+    explain_en: '"The former makes [the mind] change its understanding, the latter its object."'

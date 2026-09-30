@@ -1,0 +1,102 @@
+id: upaklesa-classes
+title_zh: 隨煩惱的三類與假實
+title_en: Three classes of secondary afflictions, real and designated
+terms: [ krodha, ahrikya, anapatrapya, auddhatya, styana, asraddhya, kausidya, pramada, musitasmrtita, viksepa, asamprajanya ]
+summary_zh: 小隨十（各別起）、中隨二（遍不善心）、大隨八（遍一切染心）。小十與大隨中的放逸、失念、不正知定是假有；無慚、無愧、不信、懈怠定是實有；掉舉、惛沈、散亂有假實二說。
+summary_en: 'Ten minor (arise separately), two intermediate (in every unwholesome mind), eight major (in every defiled mind). The ten minor plus heedlessness, forgetfulness and non-alertness are definitely designated; lack of self-respect, lack of decorum, faithlessness and laziness definitely real; restlessness, torpor and distraction disputed.'
+table:
+  columns:
+    - { zh: 小隨煩惱（10）, en: Minor (10) }
+    - { zh: 中隨煩惱（2）, en: Intermediate (2) }
+    - { zh: 大隨煩惱（8）, en: Major (8) }
+  rows:
+    - label: { zh: 成員, en: Members }
+      cells:
+        - { zh: 忿、恨、惱、覆、誑、諂、憍、害、嫉、慳, en: 'wrath, resentment, spite, concealment, deceit, guile, haughtiness, harmfulness, jealousy, stinginess' }
+        - { zh: 無慚、無愧, en: 'lack of self-respect, lack of decorum' }
+        - { zh: 掉舉、惛沈、不信、懈怠、放逸、失念、散亂、不正知, en: 'restlessness, torpor, faithlessness, laziness, heedlessness, forgetfulness, distraction, non-alertness' }
+    - label: { zh: 範圍, en: Scope }
+      cells:
+        - { zh: 各別起（一次一個）, en: Arise separately }
+        - { zh: 遍一切不善心, en: In every unwholesome mind }
+        - { zh: 遍一切染心, en: In every defiled mind }
+    - label: { zh: 假實, en: Real or designated }
+      cells:
+        - { zh: 定是假有, en: Definitely designated }
+        - { zh: 定是實有, en: Definitely real }
+        - { zh: 不信、懈怠實；放逸、失念、不正知假；掉舉、惛沈、散亂有二說, en: 'Faithlessness, laziness real; heedlessness, forgetfulness, non-alertness designated; the other three disputed' }
+explanation_zh: |
+  **為什麼叫「隨」煩惱**：《成唯識論》：「唯是煩惱分位差別、等流性故，名隨煩惱。」它們要嘛是根本煩惱在特定情境下的「分位」（如忿是瞋的分位），要嘛是根本煩惱的「等流」（同類延續）。
+
+  **三類的判準是「範圍」**：小隨煩惱各自生起，不會同時出現（忿時不一定有嫉）；中隨二者只要是不善心就一定有；大隨八者只要是染污心（包括有覆無記）就一定有。
+
+  **中隨 vs 大隨**：差別在「有覆無記心」——例如第七末那識的心是染污但屬無記，其中有大隨煩惱，卻沒有無慚、無愧。
+explanation_en: |
+  **Why "secondary"**: Cheng weishi lun: "They are only phases of the afflictions or outflows of the same kind, hence called secondary afflictions." They are either the root afflictions in particular situations (wrath is a phase of aversion) or their homogeneous continuations.
+
+  **The three classes are defined by scope**: minor ones arise separately, not together (wrath need not come with jealousy); the two intermediate ones are present whenever the mind is unwholesome; the eight major ones whenever it is defiled at all (including obscured-neutral minds).
+
+  **Intermediate vs major**: the difference shows in "obscured-neutral" minds — e.g. the seventh consciousness is defiled yet morally neutral; the major secondary afflictions accompany it, but not lack of self-respect and decorum.
+quotes:
+  - text: 唯是煩惱分位差別、等流性，故名隨煩惱。此二十種，類別有三：謂忿等十，各別起故，名小隨煩惱；無慚等二，遍不善故，名中隨煩惱；掉舉等八，遍染心故，名大隨煩惱。
+    source: 《成唯識論》卷6
+    source_en: Cheng weishi lun, fasc. 6
+    ref: T31n1585_p0033b05
+    refEnd: T31n1585_p0033b08
+    note_en: Being only phases of the afflictions and outflows of the same kind, they are called secondary afflictions. These twenty are of three classes — wrath and the rest, ten, arising separately, are called minor; the two beginning with lack of self-respect, pervading all unwholesome minds, intermediate; the eight beginning with restlessness, pervading all defiled minds, major.
+  - text: 如是二十隨煩惱中，小十、大三，定是假有；無慚、無愧、不信、懈怠定是實有；教、理成故。掉舉、惛沈、散亂三種，有義是假，有義是實。
+    source: 《成唯識論》卷6
+    source_en: Cheng weishi lun, fasc. 6
+    ref: T31n1585_p0034c27
+    refEnd: T31n1585_p0035a01
+    note_en: Among these twenty secondary afflictions, the ten minor and three of the major are definitely designated; lack of self-respect, lack of decorum, faithlessness and laziness are definitely real, as established by scripture and reasoning; restlessness, torpor and distraction — some say designated, some say real.
+questions:
+  - type: mcq
+    q_zh: 無慚、無愧屬於哪一類？
+    q_en: Lack of self-respect and decorum belong to which class?
+    options:
+      - { zh: 小隨, en: minor }
+      - { zh: 中隨, en: intermediate }
+      - { zh: 大隨, en: major }
+    answer: 1
+    explain_zh: 「無慚等二，遍不善故，名中隨煩惱。」
+    explain_en: '"The two beginning with lack of self-respect pervade unwholesome minds: intermediate."'
+  - type: mcq
+    q_zh: 大隨煩惱的判準是？
+    q_en: What defines the major secondary afflictions?
+    options:
+      - { zh: 各別起, en: arising separately }
+      - { zh: 遍不善心, en: pervading unwholesome minds }
+      - { zh: 遍染心, en: pervading all defiled minds }
+      - { zh: 遍一切心, en: pervading all minds }
+    answer: 2
+    explain_zh: 「掉舉等八，遍染心故，名大隨煩惱。」
+    explain_en: '"The eight beginning with restlessness pervade defiled minds: major."'
+  - type: tf
+    q_zh: 小隨煩惱十種都是假有。
+    q_en: All ten minor secondary afflictions are designated (not real entities).
+    answer: true
+    explain_zh: 「小十、大三，定是假有。」
+    explain_en: '"The ten minor and three major are definitely designated."'
+  - type: mcq
+    q_zh: 下列哪一個被判為「定是實有」？
+    q_en: Which is ruled "definitely real"?
+    options:
+      - { zh: 放逸, en: heedlessness }
+      - { zh: 失念, en: forgetfulness }
+      - { zh: 懈怠, en: laziness }
+      - { zh: 忿, en: wrath }
+    answer: 2
+    explain_zh: 「無慚、無愧、不信、懈怠定是實有。」
+    explain_en: '"Lack of self-respect, lack of decorum, faithlessness and laziness are definitely real."'
+  - type: mcq
+    q_zh: 「隨煩惱」之名的由來是？
+    q_en: Why are they called "secondary" afflictions?
+    options:
+      - { zh: 煩惱的分位差別與等流, en: phases and outflows of the afflictions }
+      - { zh: 比根本煩惱更嚴重, en: more serious than the roots }
+      - { zh: 只在修行後出現, en: they appear only after practice }
+      - { zh: 屬於善心所, en: they are wholesome }
+    answer: 0
+    explain_zh: 「唯是煩惱分位差別、等流性故，名隨煩惱。」
+    explain_en: '"Only phases of the afflictions and outflows of the same kind."'

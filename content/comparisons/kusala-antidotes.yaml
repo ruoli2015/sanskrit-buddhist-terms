@@ -1,0 +1,112 @@
+id: kusala-antidotes
+title_zh: 十一善心所與其對治
+title_en: The eleven wholesome factors and what each counteracts
+terms: [sraddha, virya, hri, apatrapya, alobha, advesa, amoha, prasrabdhi, apramada, upeksa, avihimsa]
+summary_zh: 每一個善心所都「對治」一個煩惱：信↔不信、精進↔懈怠、慚↔無慚、愧↔無愧、無貪↔貪、無瞋↔瞋、無癡↔癡、輕安↔惛沈、不放逸↔放逸、行捨↔掉舉、不害↔害。
+summary_en: 'Each wholesome factor counteracts an affliction: faith ↔ faithlessness, diligence ↔ laziness, self-respect ↔ its lack, decorum ↔ its lack, non-greed ↔ greed, non-hatred ↔ aversion, non-delusion ↔ delusion, pliancy ↔ torpor, conscientiousness ↔ heedlessness, equanimity ↔ restlessness, non-harming ↔ harmfulness.'
+table:
+  columns:
+    - {zh: 善心所, en: Wholesome factor}
+    - {zh: 所對治, en: Counteracts}
+    - {zh: 假／實, en: Real or designated}
+  rows:
+    - label: {zh: '1', en: '1'}
+      cells: [{zh: 信, en: faith}, {zh: 不信（大隨）, en: faithlessness (major)}, {zh: 實, en: real}]
+    - label: {zh: '2', en: '2'}
+      cells: [{zh: 精進, en: diligence}, {zh: 懈怠（大隨）, en: laziness (major)}, {zh: 實, en: real}]
+    - label: {zh: '3', en: '3'}
+      cells: [{zh: 慚, en: self-respect}, {zh: 無慚（中隨）, en: its lack (intermediate)}, {zh: 實, en: real}]
+    - label: {zh: '4', en: '4'}
+      cells: [{zh: 愧, en: decorum}, {zh: 無愧（中隨）, en: its lack (intermediate)}, {zh: 實, en: real}]
+    - label: {zh: '5', en: '5'}
+      cells: [{zh: 無貪, en: non-greed}, {zh: 貪（根本）, en: greed (root)}, {zh: 實, en: real}]
+    - label: {zh: '6', en: '6'}
+      cells: [{zh: 無瞋, en: non-hatred}, {zh: 瞋（根本）, en: aversion (root)}, {zh: 實, en: real}]
+    - label: {zh: '7', en: '7'}
+      cells: [{zh: 無癡, en: non-delusion}, {zh: 癡／無明（根本）, en: delusion (root)}, {zh: 實, en: real}]
+    - label: {zh: '8', en: '8'}
+      cells: [{zh: 輕安, en: pliancy}, {zh: 惛沈（大隨）, en: torpor (major)}, {zh: 實, en: real}]
+    - label: {zh: '9', en: '9'}
+      cells: [{zh: 不放逸, en: conscientiousness}, {zh: 放逸（大隨）, en: heedlessness (major)}, {zh: 假（精進＋三根）, en: designated (diligence + 3 roots)}]
+    - label: {zh: '10', en: '10'}
+      cells: [{zh: 行捨, en: equanimity}, {zh: 掉舉（大隨）, en: restlessness (major)}, {zh: 假（精進＋三根）, en: designated (diligence + 3 roots)}]
+    - label: {zh: '11', en: '11'}
+      cells: [{zh: 不害, en: non-harming}, {zh: 害（小隨）, en: harmfulness (minor)}, {zh: 假（無瞋一分）, en: designated (on non-hatred)}]
+explanation_zh: |
+  **一一相對**：《成唯識論》在每個善心所的定義中都明說「對治」什麼：信「對治不信」、精進「對治懈怠」、輕安「對治惛沈」、行捨「對治掉舉」……這使十一善心所成為一套完整的「解藥清單」。
+
+  **三個假立的**：不放逸與行捨都是「精進、三根」在不同作用上的假立——防惡修善叫不放逸，令心平等正直叫行捨；不害是「無瞋」在不損惱有情上的假立。其餘八個是實有。
+
+  **對照放逸**：放逸也是假立的——「由懈怠及貪、瞋、癡……總名放逸」，與不放逸的「精進＋三善根」恰好一一相反。
+
+  **怎麼用**：修行時發現自己惛沈，就修輕安（調身調息、令身心輕快）；發現掉舉，就修行捨（放下、平等）；發現懈怠，就修精進——並以信作為一切的起點。
+explanation_en: |
+  **Point by point**: in defining each wholesome factor the Cheng weishi lun says what it counteracts: faith "counteracts faithlessness", diligence "laziness", pliancy "torpor", equanimity "restlessness"… The eleven thus form a complete "list of antidotes".
+
+  **Three designated ones**: conscientiousness and equanimity are both "diligence and the three roots" named by different functions — guarding against evil and cultivating good is conscientiousness, making the mind even and upright is equanimity; non-harming is non-hatred named for not injuring beings. The other eight are real.
+
+  **Mirror image**: heedlessness is also designated — "laziness together with greed, hatred and delusion … collectively called heedlessness" — the exact inverse of conscientiousness's "diligence plus the three wholesome roots".
+
+  **Using it**: noticing torpor, cultivate pliancy (settling body and breath, lightening body and mind); noticing restlessness, cultivate equanimity (letting go, evenness); noticing laziness, cultivate diligence — with faith as the starting point of everything.
+questions:
+  - type: mcq
+    q_zh: 輕安對治的是？
+    q_en: Pliancy counteracts…
+    options:
+      - {zh: 掉舉, en: restlessness}
+      - {zh: 惛沈, en: torpor}
+      - {zh: 懈怠, en: laziness}
+      - {zh: 不信, en: faithlessness}
+    answer: 1
+    explain_zh: 輕安「對治惛沈，轉依為業」。
+    explain_en: Pliancy "counteracts torpor".
+  - type: mcq
+    q_zh: 行捨對治的是？
+    q_en: Equanimity counteracts…
+    options:
+      - {zh: 掉舉, en: restlessness}
+      - {zh: 惛沈, en: torpor}
+      - {zh: 瞋, en: aversion}
+      - {zh: 害, en: harmfulness}
+    answer: 0
+    explain_zh: 行捨「對治掉舉，靜住為業」。
+    explain_en: Equanimity "counteracts restlessness".
+  - type: mcq
+    q_zh: 下列哪一個善心所是依「無瞋」假立的？
+    q_en: Which wholesome factor is designated on non-hatred?
+    options:
+      - {zh: 不放逸, en: conscientiousness}
+      - {zh: 行捨, en: equanimity}
+      - {zh: 不害, en: non-harming}
+      - {zh: 輕安, en: pliancy}
+    answer: 2
+    explain_zh: 論中說不害是「即無瞋」，於有情不為損惱而假立。
+    explain_en: Non-harming is non-hatred, designated for not injuring beings.
+  - type: tf
+    q_zh: 不放逸與行捨都是依精進與三善根假立的。
+    q_en: Conscientiousness and equanimity are both designated on diligence and the three wholesome roots.
+    answer: true
+    explain_zh: 兩者定義都以「精進、三根」開頭。
+    explain_en: Both definitions begin with "diligence and the three roots".
+  - type: mcq
+    q_zh: 精進對治的是？
+    q_en: Diligence counteracts…
+    options:
+      - {zh: 放逸, en: heedlessness}
+      - {zh: 懈怠, en: laziness}
+      - {zh: 失念, en: forgetfulness}
+      - {zh: 散亂, en: distraction}
+    answer: 1
+    explain_zh: 精進「對治懈怠，滿善為業」。
+    explain_en: Diligence "counteracts laziness, fulfilling the good".
+  - type: mcq
+    q_zh: 十一善心所中有幾個是假立的？
+    q_en: How many of the eleven wholesome factors are designated rather than real?
+    options:
+      - {zh: '1', en: '1'}
+      - {zh: '3', en: '3'}
+      - {zh: '5', en: '5'}
+      - {zh: '8', en: '8'}
+    answer: 1
+    explain_zh: 不放逸、行捨、不害三者假立，其餘八者實有。
+    explain_en: Conscientiousness, equanimity and non-harming; the other eight are real.

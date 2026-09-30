@@ -5,9 +5,9 @@
   deva: चित्त
   pali: citta
   zh: 心
-  zhAlt: [心王, 心法]
+  zhAlt: [ 心王, 心法 ]
   en: mind
-  enAlt: [heart-mind, heart, thought, mind-king, primary mind, mentality]
+  enAlt: [ heart-mind, heart, thought, mind-king, primary mind, mentality ]
   root: √cit「覺知」；阿毗達磨另以 √ci「積集」解 · √cit "to perceive"; Abhidharma also glosses from √ci "to accumulate"
   short_zh: 心王：了別對境的主體，與心所相對。有部認為心、意、識體一而名異。
   short_en: Mind (the "mind-king") — the primary cognizing awareness, contrasted with mental factors; in Abhidharma, citta, manas and vijñāna are one entity with three names.
@@ -36,17 +36,17 @@
       ref: T31n1585_p0024c10
       refEnd: T31n1585_p0024c15
       note_en: Accumulating-and-arising is called citta, deliberating is called manas, discerning is called vijñāna — three distinct meanings. Though all three apply to all eight consciousnesses, each is named by what is most prominent. The eighth is called citta because it accumulates the seeds of all dharmas and gives rise to them; the seventh is called manas because, taking the store-consciousness as its object, it constantly and intently deliberates, [grasping it] as self; the remaining six are called vijñāna because they discern their six separate objects in a coarse, active, intermittent way.
-  related: [vijnana, caitasika]
-  compare: [citta-caitasika]
+  related: [ vijnana, caitasika ]
+  compare: [ citta-caitasika ]
 
 - id: caitasika
   skt: caitasika
   deva: चैतसिक
   pali: cetasika
   zh: 心所
-  zhAlt: [心所有法, 心所法, 心數, 心數法]
+  zhAlt: [ 心所有法, 心所法, 心數, 心數法 ]
   en: mental factor
-  enAlt: [mental factors, mental concomitant, mental concomitants, concomitant, mental state, mental states, mental event, mental events]
+  enAlt: [ mental factors, mental concomitant, mental concomitants, concomitant, mental state, mental states, mental event, mental events ]
   root: 'cetas「心」→「屬於心的」 · from cetas "mind": "belonging to mind"'
   short_zh: 「心所有法」：依心而起、與心相應的心理作用，如受、想、思、信、貪等。百法中有五十一種。
   short_en: Mental factor — a mental function arising dependent on and associated with mind, e.g. feeling, volition, faith, greed; 51 in Yogācāra.
@@ -85,17 +85,17 @@
       ref: T31n1585_p0026c29
       refEnd: T31n1585_p0027a04
       note_en: These six categories total fifty-one — [respectively] because they are found in every mind; because they arise only with particular objects; because they arise only in wholesome minds; because by nature they are root afflictions; because they are outflows of the afflictions; because they are not fixed as wholesome, defiled, etc.
-  related: [citta, sarvatraga, samskara]
-  compare: [citta-caitasika]
+  related: [ citta, sarvatraga, samskara ]
+  compare: [ citta-caitasika ]
 
 - id: samskrta
   skt: saṃskṛta
   deva: संस्कृत
   pali: saṅkhata
   zh: 有為
-  zhAlt: [有為法]
+  zhAlt: [ 有為法 ]
   en: conditioned
-  enAlt: [compounded, fabricated, constructed, composite, conditioned phenomena, conditioned dharmas, conditioned things]
+  enAlt: [ compounded, fabricated, constructed, composite, conditioned phenomena, conditioned dharmas, conditioned things ]
   root: saṃ-√kṛ 的過去分詞「被組合的」 · past participle of saṃ-√kṛ, "put together, made"
   short_zh: 由因緣和合而生、有生滅變化的一切法；與無為（asaṃskṛta）相對。
   short_en: Conditioned — whatever is produced by causes and conditions and subject to arising and ceasing; opposite of the unconditioned (asaṃskṛta).
@@ -129,17 +129,17 @@
       source_en: Mahāparinirvāṇa-sūtra (Dharmakṣema), fasc. 14
       ref: T12n0374_p0450a16
       note_en: All saṃskāras are impermanent; they are subject to arising and ceasing.
-  related: [samskara, skandha, pratityasamutpada]
-  compare: [samskara-cetana]
+  related: [ samskara, skandha, pratityasamutpada ]
+  compare: [ samskara-cetana ]
 
 - id: pratityasamutpada
   skt: pratītyasamutpāda
   deva: प्रतीत्यसमुत्पाद
   pali: paṭiccasamuppāda
   zh: 緣起
-  zhAlt: [緣起法, 因緣法]
+  zhAlt: [ 緣起法, 因緣法 ]
   en: dependent origination
-  enAlt: [dependent arising, conditioned arising, conditioned genesis, interdependent origination, codependent origination, co-dependent origination, dependent co-arising]
+  enAlt: [ dependent arising, conditioned arising, conditioned genesis, interdependent origination, codependent origination, co-dependent origination, dependent co-arising ]
   root: pratītya「依靠之後」（prati-√i）＋ samutpāda「生起」（sam-ut-√pad） · "having depended on" + "arising"
   short_zh: 依緣而起：一切現象依條件而生、依條件而滅。「此有故彼有，此起故彼起」。
   short_en: Dependent origination — all phenomena arise and cease in dependence on conditions. "When this exists, that comes to be; with the arising of this, that arises."
@@ -178,7 +178,7 @@
       ref: T30n1564_p0033b11
       refEnd: T30n1564_p0033b12
       note_en: Dharmas born of causes and conditions — I say they are empty (lit. "non-existent"); this is also a dependent designation; this is also the meaning of the middle way.
-  related: [avidya, samskara, samskrta]
+  related: [ avidya, samskara, samskrta ]
 
 - id: avidya
   skt: avidyā
@@ -187,7 +187,7 @@
   zh: 無明
   zhAlt: []
   en: ignorance
-  enAlt: [nescience, not-knowing, unknowing, unawareness, misknowledge, delusion]
+  enAlt: [ nescience, not-knowing, unknowing, unawareness, misknowledge, delusion ]
   root: a-「非」＋ vidyā「明、知」（√vid） · a- "not" + vidyā "knowledge" (√vid)
   short_zh: 對真理（四諦、緣起、業果等）的根本迷惑；十二因緣之首，煩惱的根本。
   short_en: Ignorance — fundamental delusion about reality (the four truths, dependent origination, karma and result); first of the twelve links, root of the afflictions.
@@ -210,16 +210,28 @@
       ref: T02n0099_p0085a16
       refEnd: T02n0099_p0085a25
       note_en: 'What is ignorance? Not knowing the past, not knowing the future, not knowing past and future … not knowing suffering, its origin, its cessation, the path … not knowing the six bases of contact as they really are; not knowing, not seeing, not penetrating this and that — delusion, darkness, ignorance, great obscurity: this is called ignorance.'
-  related: [pratityasamutpada, samskara]
+    - text: 云何為癡？於諸理、事，迷闇為性；能障無癡，一切雜染所依為業。
+      source: 《成唯識論》卷6
+      source_en: Cheng weishi lun, fasc. 6
+      ref: T31n1585_p0031b23
+      refEnd: T31n1585_p0031b24
+      note_en: What is delusion? Its nature is darkness about principles and facts; its function is to obstruct non-delusion and to be the basis of all defilement.
+    - text: 云何無明？謂於業果及諦寶中無智為性。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0849a19
+      note_en: What is ignorance? Its nature is lack of knowledge regarding karma and its results, the truths and the Jewels.
+  related: [ pratityasamutpada, samskara, amoha, drsti ]
+  compare: [ avidya-drsti-asamprajanya, kusala-antidotes ]
 
 - id: karma
   skt: karman
   deva: कर्मन्
   pali: kamma
   zh: 業
-  zhAlt: [業力]
+  zhAlt: [ 業力 ]
   en: action
-  enAlt: [karma, deed, deeds, kamma, actions, karmic action]
+  enAlt: [ karma, deed, deeds, kamma, actions, karmic action ]
   root: √kṛ「作」 · √kṛ "to do, make"
   short_zh: 造作、行為；特指由「思」推動、能招感果報的身、語、意行為。
   short_en: Action — intentional acts of body, speech and mind, driven by volition, which bring results.
@@ -242,5 +254,5 @@
       ref: T29n1558_p0067b17
       refEnd: T29n1558_p0067b20
       note_en: 'What is the essence of the karma from which these arise? The mental factor volition and what volition produces. Hence the sūtra says there are two kinds of karma — volition, and karma after having willed, which is what volition produces. These two are divided into three: the bodily, verbal and mental karma of beings.'
-  related: [cetana, samskara]
-  compare: [samskara-cetana]
+  related: [ cetana, samskara ]
+  compare: [ samskara-cetana ]

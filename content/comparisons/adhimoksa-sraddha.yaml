@@ -1,0 +1,96 @@
+id: adhimoksa-sraddha
+title_zh: 勝解（adhimokṣa）與信（śraddhā）
+title_en: Resolve vs. faith (adhimokṣa & śraddhā)
+terms: [ adhimoksa, sraddha ]
+summary_zh: 勝解是認知上的「印持確定」，可正可邪；信是以「心淨」為性的善心所，對實、德、能深忍樂欲。英譯都可能作 conviction，但體性完全不同。
+summary_en: Resolve is cognitive "sealing" certainty, which may be right or wrong; faith is a wholesome factor whose nature is clarity of mind, accepting and delighting in the real, virtuous and capable. Both get translated "conviction", yet they differ entirely.
+table:
+  columns:
+    - { zh: 勝解 adhimokṣa, en: Resolve }
+    - { zh: 信 śraddhā, en: Faith }
+  rows:
+    - label: { zh: 類別, en: Category }
+      cells:
+        - { zh: 別境心所, en: Object-specific }
+        - { zh: 善心所, en: Wholesome }
+    - label: { zh: 體性, en: Nature }
+      cells:
+        - { zh: 於決定境印持, en: Confirming an ascertained object }
+        - { zh: 深忍、樂、欲，心淨, en: 'Acceptance, delight, aspiration; clarity' }
+    - label: { zh: 作用, en: Function }
+      cells:
+        - { zh: 不可引轉, en: Cannot be swayed }
+        - { zh: 對治不信，樂善, en: Counters faithlessness; delights in good }
+    - label: { zh: 可否錯誤, en: Can it be wrong? }
+      cells:
+        - { zh: 可以——邪勝解, en: Yes — wrong resolve }
+        - { zh: 不會——信必是善, en: No — faith is always wholesome }
+    - label: { zh: 相反, en: Opposite }
+      cells:
+        - { zh: 猶豫（疑）, en: Hesitation (doubt) }
+        - { zh: 不信（心穢）, en: Faithlessness (turbidity) }
+explanation_zh: |
+  **認知 vs 情意**：勝解是「我確定了」——對已判定的事蓋章認可，他人說不動。它像法官宣判，本身不問對錯：堅信錯誤理論的人也有強烈的勝解。信則以「心淨」為性，含有信忍（接受）、信樂（歡喜）、信欲（嚮往）三面，必定是善的。
+
+  **互相配合**：修行中兩者常同時出現——經由聞思而對正法確定（勝解），同時心生澄淨歡喜（信）。但只有勝解而無信，可能流於冷硬的自以為是；只有信而無勝解，則易被動搖。
+
+  **相反**：勝解的反面是疑（猶豫不決）；信的反面是不信（心穢、懶惰之依）。
+explanation_en: |
+  **Cognitive vs affective**: resolve is "I am certain" — sealing what has been decided so no one can talk one out of it. Like a judge's verdict, it is not in itself right or wrong: a believer in a false theory can have strong resolve. Faith has clarity of mind as its nature, with acceptance, delight and aspiration, and is always wholesome.
+
+  **Working together**: in practice they often arise together — through study and reflection one becomes certain of the Dharma (resolve) while the mind grows clear and glad (faith). Resolve without faith can harden into cold self-righteousness; faith without resolve is easily shaken.
+
+  **Opposites**: resolve is opposed by hesitation (doubt); faith by faithlessness (turbidity, the basis of laziness).
+quotes:
+  - text: 云何勝解？於決定境，印持為性，不可引轉為業。
+    source: 《成唯識論》卷5
+    source_en: Cheng weishi lun, fasc. 5
+    ref: T31n1585_p0028b10
+    refEnd: T31n1585_p0028b11
+    note_en: What is resolve? Its nature is confirming and holding to an ascertained object; its function is that it cannot be drawn away.
+  - text: 云何為信？於實、德、能，深忍、樂、欲，心淨為性；對治不信，樂善為業。
+    source: 《成唯識論》卷6
+    source_en: Cheng weishi lun, fasc. 6
+    ref: T31n1585_p0029b22
+    refEnd: T31n1585_p0029b23
+    note_en: What is faith? Its nature is deep acceptance, delight and aspiration toward the real, the virtuous and the capable, with clarity of mind; its function is to counteract faithlessness and delight in the good.
+questions:
+  - type: tf
+    q_zh: 勝解可以是錯誤的（邪勝解）。
+    q_en: Resolve can be mistaken (wrong resolve).
+    answer: true
+    explain_zh: 勝解只是印持決定境，所印持的可能是邪說。
+    explain_en: Resolve merely seals what is ascertained, which may be a wrong teaching.
+  - type: mcq
+    q_zh: 信的體性是？
+    q_en: What is the nature of faith?
+    options:
+      - { zh: 印持, en: sealing }
+      - { zh: 心淨, en: clarity of mind }
+      - { zh: 希望, en: wishing }
+      - { zh: 簡擇, en: discrimination }
+    answer: 1
+    explain_zh: 信「心淨為性」。
+    explain_en: Faith has "clarity of mind" as its nature.
+  - type: mcq
+    q_zh: 《成唯識論》所說信的三種對象是？
+    q_en: What are the three objects of faith in the Cheng weishi lun?
+    options:
+      - { zh: 實、德、能, en: 'the real, the virtuous, the capable' }
+      - { zh: 佛、法、僧, en: 'Buddha, Dharma, Saṅgha' }
+      - { zh: 戒、定、慧, en: 'morality, concentration, wisdom' }
+      - { zh: 苦、集、滅, en: 'suffering, origin, cessation' }
+    answer: 0
+    explain_zh: 「於實、德、能，深忍、樂、欲。」三寶屬於「德」。
+    explain_en: '"Toward the real, the virtuous and the capable"; the Three Jewels fall under "the virtuous".'
+  - type: mcq
+    q_zh: 勝解的反面主要是？
+    q_en: Resolve is chiefly opposed by…
+    options:
+      - { zh: 不信, en: faithlessness }
+      - { zh: 疑, en: doubt }
+      - { zh: 懈怠, en: laziness }
+      - { zh: 失念, en: forgetfulness }
+    answer: 1
+    explain_zh: 勝解於決定境印持；疑則猶豫不能決定。
+    explain_en: Resolve seals what is decided; doubt cannot decide.
