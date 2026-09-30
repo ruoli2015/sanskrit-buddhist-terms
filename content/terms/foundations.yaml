@@ -1,0 +1,246 @@
+# 基本概念 Foundational concepts
+
+- id: citta
+  skt: citta
+  deva: चित्त
+  pali: citta
+  zh: 心
+  zhAlt: [心王, 心法]
+  en: mind
+  enAlt: [heart-mind, heart, thought, mind-king, primary mind, mentality]
+  root: √cit「覺知」；阿毗達磨另以 √ci「積集」解 · √cit "to perceive"; Abhidharma also glosses from √ci "to accumulate"
+  short_zh: 心王：了別對境的主體，與心所相對。有部認為心、意、識體一而名異。
+  short_en: Mind (the "mind-king") — the primary cognizing awareness, contrasted with mental factors; in Abhidharma, citta, manas and vijñāna are one entity with three names.
+  detail_zh: |
+    字根 √cit（覺知）。阿毗達磨又以 √ci（積集）解釋，所以玄奘譯文說「集起故名心」。《俱舍論》：「集起故名心，思量故名意，了別故名識」——三者體一，只是從不同作用立名。
+
+    在心與心所的關係中，心是主（心王），心所是伴。《成唯識論》：心只取對象的「總相」，心所兼取「別相」，如畫師作模、弟子填彩。
+
+    **唯識學的分配**：《成唯識論》認為心、意、識三義雖通八識，但「隨勝顯」：第八阿賴耶識集諸法種子、生起諸法，最名為「心」；第七末那識恆審思量、執藏識為我，最名為「意」；前六識於六種境界粗動間斷地了別，最名為「識」。
+  detail_en: |
+    From √cit ("to perceive"). Abhidharma also explains it from √ci ("to accumulate"), hence Xuanzang's "called citta because it accumulates/gives rise". Abhidharmakośa: "It is called citta because it accumulates, manas because it deliberates, vijñāna because it discerns" — one entity, named by different functions.
+
+    Between mind and mental factors, mind is the ruler (心王, "mind-king") and the factors its retinue. Cheng weishi lun: mind grasps only the object's general characteristic; mental factors also grasp particular ones — like a master painter drawing the outline while apprentices fill in colour.
+
+    **Yogācāra distribution**: although all three meanings apply to all eight consciousnesses, each name fits one best: the eighth (ālaya) is "citta" because it accumulates the seeds of all dharmas and produces them; the seventh (manas) is "manas" because it constantly and intently deliberates, taking the store-consciousness as a self; the first six are "vijñāna" because they discern their six coarse, intermittent objects.
+  quotes:
+    - text: 集起故名心，思量故名意，了別故名識。
+      source: 《阿毘達磨俱舍論》卷4
+      source_en: Abhidharmakośabhāṣya, fasc. 4
+      ref: T29n1558_p0021c20
+      refEnd: T29n1558_p0021c21
+      note_en: It is called citta because it accumulates, manas because it deliberates, vijñāna because it discerns.
+    - text: 集起名心，思量名意，了別名識，是三別義。如是三義，雖通八識，而隨勝顯。第八名心，集諸法種，起諸法故；第七名意，緣藏識等，恒、審思量，為我等故；餘六名識，於六別境，麁動間斷，了別轉故。
+      source: 《成唯識論》卷5
+      source_en: Cheng weishi lun, fasc. 5
+      ref: T31n1585_p0024c10
+      refEnd: T31n1585_p0024c15
+      note_en: Accumulating-and-arising is called citta, deliberating is called manas, discerning is called vijñāna — three distinct meanings. Though all three apply to all eight consciousnesses, each is named by what is most prominent. The eighth is called citta because it accumulates the seeds of all dharmas and gives rise to them; the seventh is called manas because, taking the store-consciousness as its object, it constantly and intently deliberates, [grasping it] as self; the remaining six are called vijñāna because they discern their six separate objects in a coarse, active, intermittent way.
+  related: [vijnana, caitasika]
+  compare: [citta-caitasika]
+
+- id: caitasika
+  skt: caitasika
+  deva: चैतसिक
+  pali: cetasika
+  zh: 心所
+  zhAlt: [心所有法, 心所法, 心數, 心數法]
+  en: mental factor
+  enAlt: [mental factors, mental concomitant, mental concomitants, concomitant, mental state, mental states, mental event, mental events]
+  root: 'cetas「心」→「屬於心的」 · from cetas "mind": "belonging to mind"'
+  short_zh: 「心所有法」：依心而起、與心相應的心理作用，如受、想、思、信、貪等。百法中有五十一種。
+  short_en: Mental factor — a mental function arising dependent on and associated with mind, e.g. feeling, volition, faith, greed; 51 in Yogācāra.
+  detail_zh: |
+    caitasika 源自 cetas（心），意為「屬於心的」。玄奘譯為「心所有法」，簡稱「心所」；舊譯「心數」。
+
+    《成唯識論》給出三個條件：「恒依心起，與心相應，繫屬於心，故名心所」。論中以畫師作比：心如畫師作模，只描出總體輪廓（取總相）；心所如弟子填彩（亦取別相），「助成心事」。
+
+    《大乘百法明門論》把五十一心所分為六位：遍行五、別境五、善十一、煩惱六、隨煩惱二十、不定四。《成唯識論》說明其判準：遍行「一切心中定可得」；別境「緣別別境而得生」；善「唯善心中可得生」；煩惱「性是根本煩惱攝」；隨煩惱「唯是煩惱等流性」；不定「於善、染等皆不定」。
+
+    **比較**：《俱舍論》立四十六心所（大地法十、大善地法十、大煩惱地法六、大不善地法二、小煩惱地法十、不定法八）；南傳阿毗達摩立五十二心所。
+  detail_en: |
+    Caitasika derives from cetas ("mind"): "belonging to mind". Xuanzang: 心所有法 "dharmas possessed by mind", short 心所; older translations use 心數.
+
+    The Cheng weishi lun gives three conditions: "They always arise dependent on mind, are associated with mind, and are bound to mind — hence 'mental factors'." Its simile: mind is like a master painter drawing the outline (grasping the general characteristic); mental factors are like apprentices filling in colour (grasping particular characteristics too), "helping to accomplish the work of mind".
+
+    The Hundred Dharmas treatise divides the 51 factors into six categories: 5 omnipresent, 5 object-specific, 11 wholesome, 6 root afflictions, 20 secondary afflictions, 4 indeterminate. The Cheng weishi lun gives the criteria: omnipresent — found in every mind; object-specific — arise only with particular objects; wholesome — arise only in wholesome minds; afflictions — root afflictions by nature; secondary afflictions — outflows of the afflictions; indeterminate — not fixed as wholesome or defiled.
+
+    **Comparison**: the Abhidharmakośa has 46 mental factors (10 universal, 10 universal-wholesome, 6 universal-affliction, 2 universal-unwholesome, 10 minor-affliction, 8 indeterminate); Theravāda Abhidhamma has 52.
+  quotes:
+    - text: 恒依心起，與心相應，繫屬於心，故名心所，如屬我物，立我所名。心於所緣，唯取總相；心所於彼，亦取別相，助成心事，得心所名。如畫師、資，作模、填彩。
+      source: 《成唯識論》卷5
+      source_en: Cheng weishi lun, fasc. 5
+      ref: T31n1585_p0026c15
+      refEnd: T31n1585_p0026c18
+      note_en: 'Because they always arise dependent on mind, are associated with mind and are bound to mind, they are called mental factors (lit. "what mind possesses"), just as things belonging to me are called "mine". Mind grasps only the general characteristic of its object; mental factors grasp particular characteristics too, helping accomplish the work of mind — hence the name. It is like a master painter and apprentices: one draws the outline, the others fill in the colour.'
+    - text: 第二心所有法，略有五十一種，分為六位：一遍行有五、二別境有五、三善有十一、四煩惱有六、五隨煩惱有二十、六不定有四。
+      source: 《大乘百法明門論》
+      source_en: Mahāyāna Hundred Dharmas Treatise
+      ref: T31n1614_p0855b23
+      refEnd: T31n1614_p0855b25
+      note_en: 'Second, the dharmas possessed by mind: briefly 51, in six categories — 5 omnipresent, 5 object-specific, 11 wholesome, 6 afflictions, 20 secondary afflictions, 4 indeterminate.'
+    - text: 如是六位，合五十一。一切心中，定可得故。緣別別境，而得生故。唯善心中，可得生故。性是根本煩惱攝故。唯是煩惱等流性故。於善、染等，皆不定故。
+      source: 《成唯識論》卷5
+      source_en: Cheng weishi lun, fasc. 5
+      ref: T31n1585_p0026c29
+      refEnd: T31n1585_p0027a04
+      note_en: These six categories total fifty-one — [respectively] because they are found in every mind; because they arise only with particular objects; because they arise only in wholesome minds; because by nature they are root afflictions; because they are outflows of the afflictions; because they are not fixed as wholesome, defiled, etc.
+  related: [citta, sarvatraga, samskara]
+  compare: [citta-caitasika]
+
+- id: samskrta
+  skt: saṃskṛta
+  deva: संस्कृत
+  pali: saṅkhata
+  zh: 有為
+  zhAlt: [有為法]
+  en: conditioned
+  enAlt: [compounded, fabricated, constructed, composite, conditioned phenomena, conditioned dharmas, conditioned things]
+  root: saṃ-√kṛ 的過去分詞「被組合的」 · past participle of saṃ-√kṛ, "put together, made"
+  short_zh: 由因緣和合而生、有生滅變化的一切法；與無為（asaṃskṛta）相對。
+  short_en: Conditioned — whatever is produced by causes and conditions and subject to arising and ceasing; opposite of the unconditioned (asaṃskṛta).
+  detail_zh: |
+    saṃskṛta 是 saṃ-√kṛ 的過去分詞，與 saṃskāra（行）同根：saṃskāra 側重「造作」（力量或過程），saṃskṛta 則是「被造作而成的」。（梵語的名稱 Saṃskṛta 也是同一個字，意為「精製的」語言。）
+
+    「諸行無常」中的「諸行」（sarve saṃskārāḥ）實際上就是一切有為法。《俱舍論》：「又諸有為法，謂色等五蘊」——五蘊總攝一切有為法，因為它們都是「眾緣聚集共所作」，沒有任何法僅由一緣而生。無為法（如擇滅＝涅槃、虛空）則不在五蘊之內。
+
+    **行與法**：三法印「一切行無常，一切法無我，涅槃寂滅」中，「行」只指有為法，「法」則通有為與無為。所以說無常時用「行」，說無我時用「法」——涅槃不是無常，但也不是我。
+  detail_en: |
+    Saṃskṛta is the past participle of saṃ-√kṛ, sharing its root with saṃskāra (行): saṃskāra stresses the forming (force or process), saṃskṛta is what has been formed. (The name of the Sanskrit language, saṃskṛta, "refined", is the same word.)
+
+    The "saṃskāras" of "all saṃskāras are impermanent" are simply all conditioned dharmas. Abhidharmakośa: "The conditioned dharmas are the five aggregates, form and the rest" — the aggregates include every conditioned thing, because all are "made by the coming-together of many conditions"; nothing arises from a single condition. Unconditioned dharmas (such as cessation-through-knowledge, i.e. nirvāṇa, and space) lie outside the aggregates.
+
+    **Saṃskāra vs. dharma**: in the three seals "all saṃskāras are impermanent, all dharmas are non-self, nirvāṇa is peace", "saṃskāras" covers only the conditioned, while "dharmas" covers conditioned and unconditioned alike. Impermanence is said of saṃskāras; non-self of all dharmas — nirvāṇa is not impermanent, yet it is not a self either.
+  quotes:
+    - text: 又諸有為法，謂色等五蘊，亦世路言依，有離有事等。論曰：色等五蘊，謂初色蘊乃至識蘊。如是五法具攝有為，眾緣聚集共所作故。無有少法一緣所生。
+      source: 《阿毘達磨俱舍論》卷1
+      source_en: Abhidharmakośabhāṣya, fasc. 1
+      ref: T29n1558_p0002a08
+      refEnd: T29n1558_p0002a12
+      note_en: 'Verse: "The conditioned dharmas are the five aggregates, form and the rest; they are also called paths of time, bases of speech, having an escape, having a cause…" Commentary: the five aggregates, from form to consciousness, include all conditioned dharmas, because they are produced together by the assembly of many conditions; there is no dharma, however small, born from a single condition.'
+    - text: 色無常，受、想、行、識無常，一切行無常，一切法無我，涅槃寂滅。
+      source: 《雜阿含經》卷10（第262經）
+      source_en: Saṃyuktāgama, fasc. 10, sūtra 262
+      ref: T02n0099_p0066b13
+      refEnd: T02n0099_p0066b14
+      note_en: Form is impermanent; feeling, perception, formations and consciousness are impermanent; all saṃskāras are impermanent; all dharmas are non-self; nirvāṇa is peace.
+    - text: 諸行無常，是生滅法。
+      source: 《大般涅槃經》卷14
+      source_en: Mahāparinirvāṇa-sūtra (Dharmakṣema), fasc. 14
+      ref: T12n0374_p0450a16
+      note_en: All saṃskāras are impermanent; they are subject to arising and ceasing.
+  related: [samskara, skandha, pratityasamutpada]
+  compare: [samskara-cetana]
+
+- id: pratityasamutpada
+  skt: pratītyasamutpāda
+  deva: प्रतीत्यसमुत्पाद
+  pali: paṭiccasamuppāda
+  zh: 緣起
+  zhAlt: [緣起法, 因緣法]
+  en: dependent origination
+  enAlt: [dependent arising, conditioned arising, conditioned genesis, interdependent origination, codependent origination, co-dependent origination, dependent co-arising]
+  root: pratītya「依靠之後」（prati-√i）＋ samutpāda「生起」（sam-ut-√pad） · "having depended on" + "arising"
+  short_zh: 依緣而起：一切現象依條件而生、依條件而滅。「此有故彼有，此起故彼起」。
+  short_en: Dependent origination — all phenomena arise and cease in dependence on conditions. "When this exists, that comes to be; with the arising of this, that arises."
+  detail_zh: |
+    pratītya（「依靠之後」，由 prati-√i「走向、依靠」）＋ samutpāda（「生起」）。這是佛陀證悟的核心內容，其通則為「此有故彼有，此起故彼起」；還滅門則是「此無故彼無，此滅故彼滅」。
+
+    應用於有情生死，就是**十二因緣**：無明、行、識、名色、六入、觸、受、愛、取、有、生、老死。《雜阿含經》說緣起「若佛出世，若未出世，此法常住，法住法界」——緣起是被發現的法則，不是佛所創造。
+
+    **注意區分**「緣起」（pratītyasamutpāda，依緣而起的法則）與「緣生法」（pratītyasamutpanna dharma，依緣而生的現象本身）。《雜阿含經》第296經即分說「因緣法」與「緣生法」。
+
+    大乘中觀進一步以緣起說空：凡依緣而起者即無自性。《中論》：「眾因緣生法，我說即是無（空），亦為是假名，亦是中道義。」
+  detail_en: |
+    pratītya ("having depended on", from prati-√i "go toward, rely on") + samutpāda ("arising"). This is the heart of the Buddha's awakening, stated in general form as "when this exists, that comes to be; with the arising of this, that arises" — and in reverse, "when this does not exist, that does not come to be; with the cessation of this, that ceases".
+
+    Applied to the round of birth and death it becomes the **twelve links**: ignorance, formations, consciousness, name-and-form, six sense bases, contact, feeling, craving, clinging, becoming, birth, ageing-and-death. The Saṃyuktāgama says dependent origination holds "whether or not a Buddha appears in the world; this Dharma abides constantly" — it is discovered, not invented.
+
+    **Distinguish** dependent origination (the principle) from dependently-arisen dharmas (pratītyasamutpanna, the phenomena themselves); Saṃyuktāgama sūtra 296 explicitly separates the two.
+
+    Madhyamaka reads dependent origination as emptiness: whatever arises dependently lacks intrinsic nature. Mūlamadhyamakakārikā: "Whatever arises from causes and conditions, I declare to be empty; it is also a dependent designation; this is the middle way."
+  quotes:
+    - text: 云何緣起法法說？謂此有故彼有，此起故彼起，謂緣無明行，乃至純大苦聚集，是名緣起法法說。
+      source: 《雜阿含經》卷12（第298經）
+      source_en: Saṃyuktāgama, fasc. 12, sūtra 298
+      ref: T02n0099_p0085a13
+      refEnd: T02n0099_p0085a16
+      note_en: What is the teaching of dependent origination in brief? When this exists, that comes to be; with the arising of this, that arises — that is, ignorance conditions formations … up to the arising of this whole great mass of suffering.
+    - text: 云何為因緣法？謂此有故彼有，謂緣無明行，緣行識，乃至如是如是純大苦聚集。云何緣生法？謂無明、行。若佛出世，若未出世，此法常住，法住法界。
+      source: 《雜阿含經》卷12（第296經）
+      source_en: Saṃyuktāgama, fasc. 12, sūtra 296
+      ref: T02n0099_p0084b14
+      refEnd: T02n0099_p0084b17
+      note_en: What is the dharma of causes and conditions? When this exists, that comes to be — ignorance conditions formations, formations condition consciousness … up to the arising of this whole great mass of suffering. What are dependently-arisen dharmas? Ignorance, formations… Whether or not a Buddha appears in the world, this Dharma abides constantly, the stability of Dharma, the realm of Dharma.
+    - text: 眾因緣生法，我說即是無，亦為是假名，亦是中道義。
+      source: 《中論》卷4〈觀四諦品〉
+      source_en: Mūlamadhyamakakārikā (Nāgārjuna, tr. Kumārajīva), ch. 24
+      ref: T30n1564_p0033b11
+      refEnd: T30n1564_p0033b12
+      note_en: Dharmas born of causes and conditions — I say they are empty (lit. "non-existent"); this is also a dependent designation; this is also the meaning of the middle way.
+  related: [avidya, samskara, samskrta]
+
+- id: avidya
+  skt: avidyā
+  deva: अविद्या
+  pali: avijjā
+  zh: 無明
+  zhAlt: []
+  en: ignorance
+  enAlt: [nescience, not-knowing, unknowing, unawareness, misknowledge, delusion]
+  root: a-「非」＋ vidyā「明、知」（√vid） · a- "not" + vidyā "knowledge" (√vid)
+  short_zh: 對真理（四諦、緣起、業果等）的根本迷惑；十二因緣之首，煩惱的根本。
+  short_en: Ignorance — fundamental delusion about reality (the four truths, dependent origination, karma and result); first of the twelve links, root of the afflictions.
+  detail_zh: |
+    a-（否定）＋ vidyā（明、知）。無明不是一般的「缺乏知識」，而是對實相的根本迷惑——不只「不知道」，更是「錯知」：把無常執為常、苦執為樂、無我執為我。
+
+    《雜阿含經》第298經詳說無明的內容：不知前際、後際，不知業報，不知佛法僧，不知苦集滅道，不知因與因所起法……「於六觸入處，不如實覺知」，總名為「癡闇、無明、大冥」。
+
+    在十二因緣中，「緣無明行」——無明推動身、口、意三行（業）。百法中，無明是六根本煩惱之一（《成唯識論》稱為「癡」），與善心所「無癡」相對。唯識學又分與貪等並起的「相應無明」，與獨自生起的「不共無明」。
+  detail_en: |
+    a- (negation) + vidyā ("knowledge"). Avidyā is not a mere lack of information but a basic misapprehension of reality — not just not-knowing but mis-knowing: taking the impermanent as permanent, suffering as happiness, non-self as self.
+
+    Saṃyuktāgama sūtra 298 spells out its content: not knowing the past and future, not knowing karma and its result, not knowing the Buddha, Dharma and Saṅgha, not knowing suffering, its origin, cessation and path, not knowing causes and what arises from causes … "not knowing the six bases of contact as they really are" — all this is "delusion, darkness, ignorance, great obscurity".
+
+    In the twelve links, "ignorance conditions formations": ignorance drives bodily, verbal and mental karma. In the hundred dharmas, ignorance is one of the six root afflictions (called 癡, moha, in the Cheng weishi lun), opposed to the wholesome factor non-delusion (無癡). Yogācāra distinguishes ignorance "associated" with greed etc. from "independent" ignorance arising on its own.
+  quotes:
+    - text: 彼云何無明？若不知前際、不知後際、不知前後際……不知苦、不知集、不知滅、不知道……於六觸入處，不如實覺知，於彼彼不知、不見、無無間等、癡闇、無明、大冥，是名無明。
+      source: 《雜阿含經》卷12（第298經）
+      source_en: Saṃyuktāgama, fasc. 12, sūtra 298
+      ref: T02n0099_p0085a16
+      refEnd: T02n0099_p0085a25
+      note_en: 'What is ignorance? Not knowing the past, not knowing the future, not knowing past and future … not knowing suffering, its origin, its cessation, the path … not knowing the six bases of contact as they really are; not knowing, not seeing, not penetrating this and that — delusion, darkness, ignorance, great obscurity: this is called ignorance.'
+  related: [pratityasamutpada, samskara]
+
+- id: karma
+  skt: karman
+  deva: कर्मन्
+  pali: kamma
+  zh: 業
+  zhAlt: [業力]
+  en: action
+  enAlt: [karma, deed, deeds, kamma, actions, karmic action]
+  root: √kṛ「作」 · √kṛ "to do, make"
+  short_zh: 造作、行為；特指由「思」推動、能招感果報的身、語、意行為。
+  short_en: Action — intentional acts of body, speech and mind, driven by volition, which bring results.
+  detail_zh: |
+    karman 源自 √kṛ（作），本義「所作、行為」（主格 karma）。佛教把業的本質定在「思」（cetanā）：《俱舍論》：「世別由業生，思及思所作，思即是意業，所作謂身語。」世界的種種差別，都由有情的業而生，而非由一主宰者創造。
+
+    業分身、語、意三業；契經又說「思業」（意中的思惟決意）與「思已業」（決意之後發動身語的行為）。
+
+    **業與行**：十二因緣中的「行」（身行、口行、意行）就是由無明推動所造的業；業的餘勢將招感未來的識、名色等果。唯識學認為業力以「種子」形式熏習於阿賴耶識，待緣成熟而感果。
+  detail_en: |
+    Karman comes from √kṛ ("to do"): "what is done, action" (nominative karma). Buddhism locates the essence of karma in volition: Abhidharmakośa, "The variety of the world is born of karma — volition and what volition produces. Volition is mental karma; what it produces is bodily and verbal karma." The world's variety comes from beings' actions, not from a single creator.
+
+    Karma is bodily, verbal or mental; the sūtra also distinguishes "volition-karma" (the deciding in mind) from "karma after having willed" (the bodily and verbal acts that follow the decision).
+
+    **Karma and saṃskāra**: the "formations" of the twelve links (bodily, verbal, mental) are precisely karma driven by ignorance; its residual force projects future consciousness, name-and-form and so on. Yogācāra holds that karma is stored as "seeds" imprinted in the ālaya-vijñāna, ripening when conditions come together.
+  quotes:
+    - text: 此所由業其體是何？謂心所思及思所作。故契經說：有二種業，一者思業、二思已業，思已業者謂思所作。如是二業分別為三，謂即有情身、語、意業。
+      source: 《阿毘達磨俱舍論》卷13
+      source_en: Abhidharmakośabhāṣya, fasc. 13
+      ref: T29n1558_p0067b17
+      refEnd: T29n1558_p0067b20
+      note_en: 'What is the essence of the karma from which these arise? The mental factor volition and what volition produces. Hence the sūtra says there are two kinds of karma — volition, and karma after having willed, which is what volition produces. These two are divided into three: the bodily, verbal and mental karma of beings.'
+  related: [cetana, samskara]
+  compare: [samskara-cetana]

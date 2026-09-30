@@ -1,0 +1,192 @@
+# 心所 Mental factors (百法 51 心所). Pilot: 遍行 (vedanā and saṃjñā live in five-aggregates.yaml).
+
+- id: sarvatraga
+  skt: sarvatraga
+  deva: सर्वत्रग
+  pali: sabbacittasādhāraṇa
+  zh: 遍行
+  zhAlt: [遍行心所, 五遍行]
+  en: omnipresent
+  enAlt: [omnipresent factors, ever-present, ever-present factors, universal, universals, universal factors, pervasive, omnipresent mental factors]
+  root: sarva「一切」＋ traga「行往」 · sarva "all" + traga "going" = "going everywhere"
+  short_zh: 遍一切心的五個心所：作意、觸、受、想、思——任何一念心生起時必定同時具有。
+  short_en: The five mental factors present in every moment of mind — attention, contact, feeling, perception, volition.
+  detail_zh: |
+    《成唯識論》以「一切心中，定可得故」為遍行的判準：無論善、惡、無記，無論八識中哪一識，只要心生起，這五個心所必然同時生起。唯識注疏更以「四一切」說明：遍一切性、一切地、一切時、一切俱。
+
+    五者構成認知最基本的流程：**作意**警覺心、令其趣向對象 → 根、境、識三者和合而有**觸** → **受**領納苦樂 → **想**取相、安立名言 → **思**驅役心去造作。
+
+    次序：《大乘百法明門論》作「作意、觸、受、想、思」；《成唯識論》作「觸、作意、受、想、思」。
+
+    **比較**：《俱舍論》的「大地法」有十個（受、想、思、觸、欲、慧、念、作意、勝解、三摩地）。唯識學把其中欲、勝解、念、定、慧五者移為「別境」，理由是它們只在緣特定境時生起，並非每一念心都有。南傳阿毗達摩則立七個遍一切心所：觸、受、想、思、一境性、命根、作意。
+  detail_en: |
+    The Cheng weishi lun's criterion for the omnipresent factors is that they "are found in every mind without fail": whether the mind is wholesome, unwholesome or neutral, and whichever of the eight consciousnesses it is, these five arise with it. Later commentaries explain this with the "four alls": present in every moral quality, every realm, every time, and all together.
+
+    Together they form the most basic cognitive sequence: **attention** alerts the mind and turns it toward the object → faculty, object and consciousness meet as **contact** → **feeling** registers pleasant/painful/neutral → **perception** grasps features and names → **volition** drives the mind to act.
+
+    Order: the Hundred Dharmas treatise lists attention, contact, feeling, perception, volition; the Cheng weishi lun lists contact first.
+
+    **Comparison**: the Abhidharmakośa has ten "universal" factors (mahābhūmika): feeling, perception, volition, contact, desire-to-act, wisdom, mindfulness, attention, resolve, concentration. Yogācāra moves five of them — desire-to-act, resolve, mindfulness, concentration, wisdom — to the "object-specific" category, because they arise only with particular objects, not in every mind. Theravāda Abhidhamma has seven universals: contact, feeling, perception, volition, one-pointedness, life-faculty, attention.
+  quotes:
+    - text: 此識與幾心所相應？常與觸、作意、受、想、思相應。阿賴耶識無始時來乃至未轉，於一切位恒與此五心所相應，以是遍行心所攝故。
+      source: 《成唯識論》卷3
+      source_en: Cheng weishi lun, fasc. 3
+      ref: T31n1585_p0011b16
+      refEnd: T31n1585_p0011b19
+      note_en: With how many mental factors is this (store) consciousness associated? Always with contact, attention, feeling, perception and volition. From beginningless time until it is transformed, the ālaya-vijñāna is in every state associated with these five, because they belong to the omnipresent mental factors.
+    - text: 一遍行五者，一作意、二觸、三受、四想、五思。
+      source: 《大乘百法明門論》
+      source_en: Mahāyāna Hundred Dharmas Treatise (Vasubandhu), tr. Xuanzang
+      ref: T31n1614_p0855b25
+      refEnd: T31n1614_p0855b26
+      note_en: 'First, the five omnipresent: 1 attention, 2 contact, 3 feeling, 4 perception, 5 volition.'
+    - text: 如是緣眼、色，生眼識，三事和合觸，觸俱生受、想、思。
+      source: 《雜阿含經》卷11（第273經）
+      source_en: Saṃyuktāgama, fasc. 11, sūtra 273
+      ref: T02n0099_p0072c09
+      refEnd: T02n0099_p0072c10
+      note_en: Thus, conditioned by eye and form, eye-consciousness arises; the meeting of the three is contact; together with contact arise feeling, perception and volition.
+  related: [caitasika, manaskara, sparsa, vedana, samjna, cetana]
+  compare: [vedana-samjna-skandha-vs-factor]
+
+- id: sparsa
+  skt: sparśa
+  deva: स्पर्श
+  pali: phassa
+  zh: 觸
+  zhAlt: [觸心所]
+  en: contact
+  enAlt: [touch, sense contact, sense-contact, sense impression, impression]
+  root: √spṛś「觸」 · √spṛś "to touch"
+  short_zh: 根、境、識三和合時令心、心所觸對境界的心所；受、想、思的所依。
+  short_en: Contact — the meeting of faculty, object and consciousness that brings mind into touch with its object; the basis of feeling, perception and volition.
+  detail_zh: |
+    觸不是物理上的碰觸，而是一個心所：當根（如眼根）、境（色）、識（眼識）三者相應時，觸使心與心所接觸對象。《雜阿含經》以兩手相擊出聲為喻：「譬如兩手和合相對作聲。如是緣眼、色，生眼識，三事和合觸，觸俱生受、想、思。」
+
+    《成唯識論》：「觸謂三和分別變異，令心、心所觸境為性，受、想、思等所依為業。」「所依為業」說明觸是受、想、思生起的依據——這也是十二因緣「六入緣觸、觸緣受」的心理學基礎。
+
+    **學派差異**：經部認為觸只是三事和合本身，不另有實體；說一切有部與唯識則認為觸是別立的實有心所。
+  detail_en: |
+    Contact is not physical touching but a mental factor: when faculty (e.g. the eye), object (visible form) and consciousness (eye-consciousness) come together, contact brings mind and mental factors into touch with the object. The Saṃyuktāgama compares it to two hands clapping to make a sound: "conditioned by eye and form, eye-consciousness arises; the meeting of the three is contact; together with contact arise feeling, perception and volition."
+
+    Cheng weishi lun: "Contact is the concurrence of the three, [with their] correspondence and modification; its nature is to bring mind and mental factors into contact with the object; its function is to be the support of feeling, perception, volition and so on." Being their "support" is the psychological basis of the links "six sense bases → contact → feeling".
+
+    **School difference**: the Sautrāntikas held that contact is nothing but the concurrence of the three; the Sarvāstivāda and Yogācāra treat it as a distinct, real mental factor.
+  quotes:
+    - text: 譬如兩手和合相對作聲。如是緣眼、色，生眼識，三事和合觸，觸俱生受、想、思。
+      source: 《雜阿含經》卷11（第273經）
+      source_en: Saṃyuktāgama, fasc. 11, sūtra 273
+      ref: T02n0099_p0072c08
+      refEnd: T02n0099_p0072c10
+      note_en: Just as two hands clapping together make a sound, so, conditioned by eye and form, eye-consciousness arises; the meeting of the three is contact; together with contact arise feeling, perception and volition.
+    - text: 觸謂三和分別變異，令心、心所觸境為性，受、想、思等所依為業。謂根、境、識更相隨順，故名三和。
+      source: 《成唯識論》卷3
+      source_en: Cheng weishi lun, fasc. 3
+      ref: T31n1585_p0011b19
+      refEnd: T31n1585_p0011b21
+      note_en: Contact is the concurrence of the three with its modification; its nature is to bring mind and mental factors into contact with the object, and its function is to serve as the support of feeling, perception, volition, etc. Faculty, object and consciousness conform to one another — hence "concurrence of the three".
+    - text: 云何為觸？謂三和合分別為性。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0848c12
+      note_en: What is contact? Its nature is the discerning that comes from the concurrence of the three.
+  related: [vedana, manaskara, sarvatraga]
+
+- id: manaskara
+  skt: manaskāra
+  deva: मनस्कार
+  pali: manasikāra
+  zh: 作意
+  zhAlt: [作意心所]
+  en: attention
+  enAlt: [mental engagement, advertence, application of mind, attending, mental attention]
+  root: manas「意」＋ kāra「作」 · manas "mind" + kāra "making" — "making in mind"
+  short_zh: 警覺心、引心趣向所緣境的注意作用。
+  short_en: Attention — alerting the mind and turning it toward its object.
+  detail_zh: |
+    manas（意）＋ kāra（作），字面是「作於意中」。《成唯識論》：「作意謂能警心為性，於所緣境，引心為業」，並解釋：「謂此警覺，應起心種，引令趣境，故名作意」——在種子說裡，作意喚醒應當生起的心之種子，引導它朝向對象。
+
+    論中破斥兩種異說：有人說作意是「令心迴趣異境」，或「於一境持心令住」。論主指出，這樣就與「定」無別，便不能是遍行。可見作意只是最初的**轉向**；持續專注屬於別境中的「定」（samādhi）。
+
+    修行語境中常說「如理作意」（yoniśo manaskāra）與「非理作意」：以正確或錯誤的方式注意對象，決定了煩惱是生起還是止息。
+  detail_en: |
+    manas ("mind") + kāra ("making"): literally "making [something] in the mind". Cheng weishi lun: "Attention has as its nature the alerting of mind, and as its function the leading of mind toward its object", explaining that it "alerts the seeds of mind that are due to arise and leads them toward the object" — in seed theory, attention awakens the mental seeds and directs them.
+
+    The treatise rejects two alternative views — that attention "turns the mind to a different object" or "holds the mind on one object". If so, it would be no different from concentration and could not be omnipresent. So attention is only the initial **turning toward**; sustained focus belongs to concentration (samādhi), an object-specific factor.
+
+    In practice contexts one hears of "appropriate attention" (yoniśo manaskāra, 如理作意) and inappropriate attention: how one attends to an object decides whether afflictions arise or cease.
+  quotes:
+    - text: 作意謂能警心為性，於所緣境，引心為業；謂此警覺，應起心種，引令趣境，故名作意。
+      source: 《成唯識論》卷3
+      source_en: Cheng weishi lun, fasc. 3
+      ref: T31n1585_p0011c06
+      refEnd: T31n1585_p0011c07
+      note_en: 'Attention has as its nature the alerting of mind, and as its function the leading of mind toward its object: it alerts the seeds of mind that are due to arise and leads them toward the object — hence it is called attention.'
+    - text: 有說：令心迴趣異境，或於一境，持心令住，故名作意。彼俱非理，應非遍行，不異定故。
+      source: 《成唯識論》卷3
+      source_en: Cheng weishi lun, fasc. 3
+      ref: T31n1585_p0011c09
+      refEnd: T31n1585_p0011c11
+      note_en: 'Some say it is called attention because it turns the mind to a different object, or holds the mind fixed on one object. Both views are wrong: then it would not be omnipresent, since it would not differ from concentration.'
+    - text: 云何作意？謂能令心發悟為性。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0848c12
+      refEnd: T31n1612_p0848c13
+      note_en: What is attention? Its nature is to make the mind awaken [to its object].
+  related: [sparsa, sarvatraga]
+
+- id: cetana
+  skt: cetanā
+  deva: चेतना
+  pali: cetanā
+  zh: 思
+  zhAlt: [思心所]
+  en: volition
+  enAlt: [intention, will, motivation, intentionality, volitions, conation]
+  root: √cit「思、覺察」 · √cit "to perceive, intend"
+  short_zh: 令心造作的意志作用；遍行心所之一，行蘊的核心，也是「業」的本體。
+  short_en: Volition — the factor that makes mind act; omnipresent, the core of the formations aggregate, and the essence of karma.
+  detail_zh: |
+    源自 √cit（思、覺察）。《成唯識論》：「思謂令心造作為性，於善品等役心為業，謂能取境正因等相，驅役自心令造善等。」如將軍驅使士兵，思驅使心與其他心所趨向善、惡等行為。
+
+    思有兩個關鍵角色：
+
+    1. **遍行**：每一念心都有思——即使最微弱的心念，也帶有某種趨向。所以思不只是有意識的「決定」。
+    2. **業的本體**：《俱舍論》頌：「世別由業生，思及思所作，思即是意業，所作謂身語。」契經說二業：「思業」與「思已業」。意業就是思本身；身、語業是思所發動的「思所作」。所以佛法論業，重在動機。
+
+    **思與行蘊**：經典以「六思身」定義行蘊，因為在行蘊諸法中思「造作義強，故為最勝」。但行蘊並不等於思——詳見比較卡「行與思」。
+  detail_en: |
+    From √cit ("to perceive, think"). Cheng weishi lun: "Volition has as its nature making the mind act, and as its function directing the mind toward the wholesome, etc.: it grasps the features of the object, such as whether it is a right cause, and drives one's own mind to do good and so on." Like a general commanding troops, volition drives mind and the other factors toward wholesome or unwholesome action.
+
+    Volition has two key roles:
+
+    1. **Omnipresent**: every moment of mind contains volition — even the faintest thought has some directedness. So cetanā is not just conscious "deciding".
+    2. **The essence of karma**: Abhidharmakośa verse: "The variety of the world arises from karma — volition and what is done by volition. Volition is mental karma; what it produces is bodily and verbal karma." The sūtra speaks of two karmas: "volition" and "the karma after having willed". Mental karma is volition itself; bodily and verbal karma are what volition sets in motion. This is why Buddhist ethics centres on intention.
+
+    **Volition and the formations aggregate**: the sūtras define the aggregate as "six classes of volition" because volition is "strongest in forming, hence foremost" — but the aggregate is not the same as volition. See the comparison card "saṃskāra vs. cetanā".
+  schools:
+    - name: 南傳 Theravāda
+      zh: 《增支部》著名經句：「諸比丘！我說思即是業」（cetanāhaṃ bhikkhave kammaṃ vadāmi）。
+      en: 'The famous Aṅguttara line: "Monks, it is volition that I call karma" (cetanāhaṃ bhikkhave kammaṃ vadāmi).'
+  quotes:
+    - text: 思謂令心造作為性，於善品等役心為業，謂能取境正因等相，驅役自心令造善等。
+      source: 《成唯識論》卷3
+      source_en: Cheng weishi lun, fasc. 3
+      ref: T31n1585_p0011c24
+      refEnd: T31n1585_p0011c26
+      note_en: Volition has as its nature making the mind act, and as its function directing the mind in wholesome matters and so on; it grasps the features of the object such as right causes, and drives one's own mind to do good, etc.
+    - text: 世別由業生，思及思所作，思即是意業，所作謂身語。
+      source: 《阿毘達磨俱舍論》卷13
+      source_en: Abhidharmakośabhāṣya, fasc. 13
+      ref: T29n1558_p0067b09
+      refEnd: T29n1558_p0067b10
+      note_en: The variety of the world is born of karma — volition and what volition produces. Volition is mental karma; what it produces is bodily and verbal karma.
+    - text: 云何為思？謂於功德過失及俱相違，令心造作，意業為性。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0848c13
+      refEnd: T31n1612_p0848c14
+      note_en: What is volition? With regard to merits, faults and what is neither, it makes the mind act; its nature is mental karma.
+  related: [samskara, karma, sarvatraga]
+  compare: [samskara-cetana]

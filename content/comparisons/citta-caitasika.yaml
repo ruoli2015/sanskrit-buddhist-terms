@@ -1,0 +1,154 @@
+id: citta-caitasika
+title_zh: 心（心王）與心所
+title_en: Mind (citta) vs. mental factors (caitasika)
+terms: [citta, caitasika, vijnana]
+summary_zh: 心是主，取總相；心所是伴，兼取別相——如畫師作模、弟子填彩。心所恒依心起、與心相應、繫屬於心。
+summary_en: Mind is the ruler and grasps the general characteristic; mental factors are its retinue and also grasp particulars — like a master painter outlining and apprentices colouring. Factors always arise dependent on, associated with, and bound to mind.
+table:
+  columns:
+    - zh: 心 citta
+      en: Mind (citta)
+    - zh: 心所 caitasika
+      en: Mental factors
+  rows:
+    - label: {zh: 地位, en: Role}
+      cells:
+        - zh: 主（心王）
+          en: Ruler ("mind-king")
+        - zh: 伴，依心而起
+          en: Retinue, arising dependent on mind
+    - label: {zh: 所取之相, en: What it grasps}
+      cells:
+        - zh: 唯取總相
+          en: Only the general characteristic
+        - zh: 亦取別相
+          en: Particular characteristics as well
+    - label: {zh: 比喻, en: Simile}
+      cells:
+        - zh: 畫師作模
+          en: Master painter drawing the outline
+        - zh: 弟子填彩
+          en: Apprentices filling in colour
+    - label: {zh: 百法中, en: In the hundred dharmas}
+      cells:
+        - zh: 心法 8 種（八識）
+          en: 8 "mind" dharmas (the eight consciousnesses)
+        - zh: 心所有法 51 種
+          en: 51 mental factors
+    - label: {zh: 五蘊中, en: In the aggregates}
+      cells:
+        - zh: 識蘊
+          en: Consciousness aggregate
+        - zh: 受蘊、想蘊，其餘 49 個歸行蘊
+          en: Feeling, perception; the other 49 in formations
+explanation_zh: |
+  **心所的三個條件。** 《成唯識論》：「恒依心起，與心相應，繫屬於心，故名心所。」心所不能離心單獨生起；它與心同時、同緣、相應而起；它屬於心，就像「屬我之物」叫做「我所」。
+
+  **總相與別相。** 心只把握對象的整體（總相）；心所除了總體之外，還把握種種特殊面向（別相）——受把握其可意與否，想把握其相狀，思把握其正因與否。所以說心所「助成心事」。
+
+  **相應的五義。** 《俱舍論》頌說心與心所「相應義有五」：所依、所緣、行相、時、事五者平等——同依一根、同緣一境、行相相似、同時生起、各一體而相伴。
+
+  **心、意、識。** 在說一切有部，心、意、識是同一體的三個名稱；在唯識，三名雖通八識，但第八名心、第七名意、前六名識。無論哪一說，它們都屬「心」一邊，而不是心所。
+explanation_en: |
+  **Three conditions for a mental factor.** Cheng weishi lun: "They always arise dependent on mind, are associated with mind, and are bound to mind — hence 'what mind possesses'." A factor cannot arise apart from mind; it arises simultaneously, with the same object, in association with it; and it belongs to mind as "mine" belongs to "me".
+
+  **General vs. particular characteristics.** Mind grasps the object as a whole; mental factors grasp particular aspects as well — feeling its agreeableness, perception its features, volition whether it is a right cause — so they "help accomplish the work of mind".
+
+  **Five senses of "association".** The Abhidharmakośa verse says mind and factors are "associated in five respects": same basis (faculty), same object, similar mode of apprehension, same time, and each one a single entity.
+
+  **Citta, manas, vijñāna.** For the Sarvāstivāda these are three names of one entity; for Yogācāra the three names apply to all eight consciousnesses but most aptly the eighth is citta, the seventh manas, the first six vijñāna. Either way they are all on the "mind" side, not mental factors.
+quotes:
+  - text: 恒依心起，與心相應，繫屬於心，故名心所，如屬我物，立我所名。心於所緣，唯取總相；心所於彼，亦取別相，助成心事，得心所名。如畫師、資，作模、填彩。
+    source: 《成唯識論》卷5
+    source_en: Cheng weishi lun, fasc. 5
+    ref: T31n1585_p0026c15
+    refEnd: T31n1585_p0026c18
+    note_en: Because they always arise dependent on mind, are associated with mind and bound to mind, they are called mental factors, as things belonging to me are called "mine". Mind grasps only the general characteristic of its object; mental factors grasp particular characteristics too, helping accomplish mind's work — like a master painter and apprentices, one outlining, the others colouring.
+  - text: 心意識體一，心心所有依，有緣有行相，相應義有五。
+    source: 《阿毘達磨俱舍論》卷4
+    source_en: Abhidharmakośabhāṣya, fasc. 4
+    ref: T29n1558_p0021c18
+    refEnd: T29n1558_p0021c19
+    note_en: Citta, manas and vijñāna are one in essence. Mind and mental factors have a basis, have an object, have a mode of apprehension, and are associated — "association" has five senses.
+questions:
+  - type: mcq
+    q_zh: 依《成唯識論》的畫師喻，心所的作用相當於？
+    q_en: In the Cheng weishi lun's painter simile, what do mental factors do?
+    options:
+      - zh: 作模（描輪廓）
+        en: draw the outline
+      - zh: 填彩
+        en: fill in the colour
+      - zh: 準備畫紙
+        en: prepare the paper
+      - zh: 裝裱
+        en: frame the picture
+    answer: 1
+    explain_zh: 「如畫師、資，作模、填彩」——心如畫師作模，心所如弟子填彩。
+    explain_en: Mind is the master drawing the outline; mental factors are apprentices filling in colour.
+  - type: mcq
+    q_zh: 心與心所各取對象的什麼？
+    q_en: What do mind and mental factors each grasp of the object?
+    options:
+      - zh: 心唯取總相，心所亦取別相
+        en: Mind only the general characteristic; factors particular ones too
+      - zh: 心取別相，心所取總相
+        en: Mind the particular, factors the general
+      - zh: 兩者都只取總相
+        en: Both only the general characteristic
+      - zh: 心不取相
+        en: Mind grasps no characteristic
+    answer: 0
+    explain_zh: 「心於所緣，唯取總相；心所於彼，亦取別相。」
+    explain_en: '"Mind grasps only the general characteristic; mental factors also grasp particular characteristics."'
+  - type: tf
+    q_zh: 在百法中，八識屬於「心法」，不屬於心所。
+    q_en: In the hundred dharmas, the eight consciousnesses are "mind" dharmas, not mental factors.
+    answer: true
+    explain_zh: 百法第一「心法」八種即八識；心所有法五十一種另列。
+    explain_en: The first category, "mind", consists of the eight consciousnesses; the 51 factors are a separate category.
+  - type: mcq
+    q_zh: 下列何者**不是**《成唯識論》所說心所的條件？
+    q_en: Which is NOT one of the Cheng weishi lun's conditions for a mental factor?
+    options:
+      - zh: 恒依心起
+        en: always arises dependent on mind
+      - zh: 與心相應
+        en: is associated with mind
+      - zh: 繫屬於心
+        en: is bound to mind
+      - zh: 能離心獨自生起
+        en: can arise independently of mind
+    answer: 3
+    explain_zh: 心所必依心而起，不能獨自生起。
+    explain_en: Mental factors always depend on mind and cannot arise alone.
+  - type: mcq
+    q_zh: 《俱舍論》如何看心、意、識？
+    q_en: How does the Abhidharmakośa view citta, manas and vijñāna?
+    options:
+      - zh: 體一而名異
+        en: One entity with three names
+      - zh: 三個不同的實體
+        en: Three different entities
+      - zh: 只有心是實有
+        en: Only citta is real
+      - zh: 意是心所
+        en: Manas is a mental factor
+    answer: 0
+    explain_zh: 「心意識體一」；「集起故名心，思量故名意，了別故名識」。
+    explain_en: '"Citta, manas, vijñāna are one in essence" — named by accumulating, deliberating, discerning.'
+  - type: mcq
+    q_zh: 依《成唯識論》「隨勝顯」之說，哪一識最名為「意」？
+    q_en: By the Cheng weishi lun's "named by prominence", which consciousness is most aptly called manas?
+    options:
+      - zh: 第八阿賴耶識
+        en: the eighth, ālaya-vijñāna
+      - zh: 第七末那識
+        en: the seventh, manas
+      - zh: 第六意識
+        en: the sixth, mano-vijñāna
+      - zh: 前五識
+        en: the five sense consciousnesses
+    answer: 1
+    explain_zh: 「第七名意，緣藏識等，恒、審思量，為我等故。」注意：第六「意識」的「意」是指其所依根，並非「最名為意」。
+    explain_en: '"The seventh is called manas: taking the store-consciousness as object, it constantly and intently deliberates, [taking it] as self." Note: the "mano-" of the sixth consciousness refers to its basis, not to this naming.'

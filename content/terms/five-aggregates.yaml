@@ -1,0 +1,282 @@
+# 五蘊 The Five Aggregates
+# Quote text must match CBETA exactly (punctuation may differ); run `node scripts/cbeta.mjs verify`.
+
+- id: skandha
+  skt: skandha
+  deva: स्कन्ध
+  pali: khandha
+  zh: 蘊
+  zhAlt: [陰, 聚, 五蘊]
+  en: aggregate
+  enAlt: [aggregates, heap, heaps, group, mass, pile, constituent, constituents]
+  root: 原義「肩、樹幹、大塊、堆聚」 · lit. "shoulder, trunk, mass, heap"
+  short_zh: 同類法的積聚；佛陀把有情身心分析為色、受、想、行、識五蘊。
+  short_en: A "heap" of similar dharmas; the Buddha analysed body and mind into five such aggregates.
+  detail_zh: |
+    梵語 skandha 原義為「肩」「樹幹」「大塊、堆聚」。佛教用來指「同類法的積聚」：凡過去、未來、現在，內、外，粗、細，劣、勝，遠、近的一切色，總為一聚，名為色蘊；受、想、行、識亦然。舊譯作「陰」（五陰、五受陰），玄奘新譯作「蘊」。
+
+    五蘊說的主旨在於**無我**：把被執為「我」的身心，分解為五類剎那生滅、依緣而起的法，指出其中找不到常一、主宰的「我」。經中常說「五受陰」（upādāna-skandha，新譯「五取蘊」），強調有漏而被執取的五蘊，正是苦諦的內容。
+
+    在百法體系中，五蘊恰好攝盡一切有為法：色蘊攝十一色法；受、想各為一心所；行蘊攝其餘四十九心所與二十四心不相應行；識蘊攝八識。合計 11＋1＋1＋73＋8＝94 法，即百法減去六無為。無為法不在五蘊之內。
+  detail_en: |
+    Skandha literally means "shoulder", "trunk (of a tree)", or "mass, heap". In Buddhist usage it is a grouping of similar dharmas: all form — past, future or present, internal or external, coarse or subtle, inferior or superior, far or near — is gathered into one heap called the form aggregate, and likewise for feeling, perception, formations and consciousness. Older Chinese translations use 陰 (五陰); Xuanzang uses 蘊.
+
+    The point of the analysis is **non-self**: what we cling to as "I" is broken down into five kinds of momentary, conditioned phenomena, in none of which a permanent, unitary, controlling self can be found. The sūtras often speak of the "five aggregates of clinging" (upādāna-skandha, 五取蘊): the defiled aggregates, as objects of clinging, are the content of the truth of suffering.
+
+    In the Yogācāra hundred-dharma scheme the five aggregates exactly cover all conditioned dharmas: form = 11 material dharmas; feeling and perception = one mental factor each; formations = the remaining 49 mental factors + 24 non-associated formations; consciousness = the 8 consciousnesses. 11 + 1 + 1 + 73 + 8 = 94, i.e. the hundred dharmas minus the six unconditioned ones, which lie outside the aggregates.
+  quotes:
+    - text: 如薄伽梵略說五蘊：一者、色蘊，二者、受蘊，三者、想蘊，四者、行蘊，五者、識蘊。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka (Vasubandhu), tr. Xuanzang
+      ref: T31n1612_p0848b06
+      refEnd: T31n1612_p0848b07
+      note_en: As the Blessed One briefly taught the five aggregates — first, form; second, feeling; third, perception; fourth, formations; fifth, consciousness.
+    - text: 諸有為法和合聚義是蘊義，如契經言：諸所有色，若過去若未來若現在、若內若外、若麁若細、若劣若勝、若遠若近，如是一切略為一聚，說名色蘊。
+      source: 《阿毘達磨俱舍論》卷1
+      source_en: Abhidharmakośabhāṣya, fasc. 1
+      ref: T29n1558_p0004c14
+      refEnd: T29n1558_p0004c17
+      note_en: The meaning of "aggregate" is the gathering-together of conditioned dharmas. As the sūtra says, all form whatsoever — past, future or present, internal or external, coarse or subtle, inferior or superior, far or near — all of it taken together as one heap is called the form aggregate.
+  related: [rupa, vedana, samjna, samskara, vijnana, samskrta]
+
+- id: rupa
+  skt: rūpa
+  deva: रूप
+  pali: rūpa
+  zh: 色
+  zhAlt: [色蘊, 色法]
+  en: form
+  enAlt: [matter, materiality, corporeality, material form, physical form, body, forms]
+  root: 「形色、形相」 · "form, shape, visible appearance"
+  short_zh: 物質現象；五蘊之首，即四大種及四大所造色。
+  short_en: Form/matter — the four great elements and what is derived from them; first of the five aggregates.
+  detail_zh: |
+    「色」在五蘊中泛指一切物質性的存在，不單指顏色。《雜阿含經》定義為「一切四大及四大造色」：四大種即地、水、火、風，指堅、濕、煖、動四種性質；所造色是依四大而有的物質。《大乘五蘊論》列所造色為五根（眼、耳、鼻、舌、身的淨色根）、五境（色、聲、香、味、所觸一分）與無表色等。
+
+    **注意廣狹二義**：作為色蘊，「色」是一切物質；作為十二處、十八界中的「色處／色境」（rūpa-āyatana），則專指眼所見的顏色與形狀（顯色、形色）。
+
+    阿毗達磨傳統常以「變礙」解釋色：會變壞，且佔有空間而相互障礙。
+  detail_en: |
+    In the aggregates, rūpa means all material existence, not just "colour". The Saṃyuktāgama defines it as "the four great elements and form derived from the four great elements": earth, water, fire and wind — the properties of solidity, cohesion, heat and motion — plus secondary matter that depends on them. The Pañcaskandhaka lists derived form as the five sense faculties (the subtle "clear matter" of eye, ear, nose, tongue, body), the five sense objects, and "unmanifest form" (avijñapti).
+
+    **Two scopes of one word**: as an aggregate, rūpa is all matter; as one of the twelve sense bases (rūpa-āyatana, 色處), it is only the visible object — colour and shape.
+
+    Abhidharma tradition glosses rūpa as that which "changes and obstructs" (變礙): it deteriorates, and it occupies space so as to resist other matter.
+  quotes:
+    - text: 云何色如實知？諸所有色，一切四大及四大造色，是名色。
+      source: 《雜阿含經》卷2（第41經）
+      source_en: Saṃyuktāgama, fasc. 2, sūtra 41
+      ref: T02n0099_p0009b12
+      refEnd: T02n0099_p0009b13
+      note_en: How does one know form as it really is? Whatever form there is — all of it the four great elements and form derived from the four great elements — this is called form.
+    - text: 云何色蘊？謂四大種及四大種所造諸色。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0848b08
+      note_en: What is the form aggregate? The four great elements and all forms derived from the four great elements.
+  related: [skandha]
+
+- id: vedana
+  skt: vedanā
+  deva: वेदना
+  pali: vedanā
+  zh: 受
+  zhAlt: [受蘊, 受心所, 痛痒]
+  en: feeling
+  enAlt: [feelings, sensation, feeling tone, hedonic tone, affect, feeling-tone]
+  root: √vid「知、感受」 · √vid "to know, experience"
+  short_zh: 領納苦、樂、不苦不樂的感受；既是五蘊之一，也是遍行心所之一。
+  short_en: Feeling — experiencing the pleasant, painful or neutral; both an aggregate and an omnipresent mental factor.
+  detail_zh: |
+    「受」是與境相遇時產生的苦、樂、不苦不樂（捨）三種感受基調，不是「情緒」的全部。《雜阿含經》說「六受身」：眼觸生受乃至意觸生受——受以觸為緣。
+
+    《成唯識論》定義：「領納順、違、俱非境相為性，起愛為業」。受領納可意、不可意、非可意非不可意的境；它的作用是引生愛——對樂受希望不離（合欲），對苦受希望遠離（離欲）。這正是十二因緣「觸緣受、受緣愛」的關鍵一環。
+
+    受本來只是一個心所，為什麼在五蘊中單獨立為一蘊？《俱舍論》說受是「諍根」與「生死因」：由貪著受味而貪著諸欲。詳見比較卡「受、想：作為蘊與作為遍行心所」。
+  detail_en: |
+    Vedanā is the basic hedonic tone — pleasant, painful, or neither — that arises on meeting an object; it is not "emotion" in general. The Saṃyuktāgama speaks of "six classes of feeling": feeling born of eye-contact up to feeling born of mind-contact — feeling is conditioned by contact.
+
+    The Cheng weishi lun defines it as "experiencing the agreeable, disagreeable or neutral aspect of an object; its function is to give rise to craving" — the wish not to be parted from pleasure and to be rid of pain. This is the crucial link "contact → feeling → craving" in dependent origination.
+
+    Feeling is just one mental factor, so why a separate aggregate? The Abhidharmakośa says feeling is a "root of dispute" and a "cause of saṃsāra": relishing feeling leads to attachment to sense pleasures. See the comparison card on feeling and perception as aggregates vs. omnipresent factors.
+  schools:
+    - name: 南傳阿毗達摩 Theravāda
+      zh: 受是七個「遍一切心所」之一。
+      en: One of the seven universal mental factors (sabbacittasādhāraṇa).
+    - name: 俱舍 Sarvāstivāda
+      zh: 十大地法之一。
+      en: One of the ten "universal" factors (mahābhūmika).
+  quotes:
+    - text: 云何受如實知？有六受身——眼觸生受，耳、鼻、舌、身、意觸生受，是名受。
+      source: 《雜阿含經》卷2（第41經）
+      source_en: Saṃyuktāgama, fasc. 2, sūtra 41
+      ref: T02n0099_p0009b20
+      refEnd: T02n0099_p0009b21
+      note_en: How does one know feeling as it really is? There are six classes of feeling — feeling born of eye-contact, and of ear-, nose-, tongue-, body- and mind-contact. This is called feeling.
+    - text: 受謂領納順、違、俱非境相為性，起愛為業，能起合、離、非二欲故。
+      source: 《成唯識論》卷3
+      source_en: Cheng weishi lun, fasc. 3
+      ref: T31n1585_p0011c11
+      refEnd: T31n1585_p0011c12
+      note_en: Feeling has as its nature the experiencing of an agreeable, disagreeable or neutral object; its function is to give rise to craving, since it produces the desire for union, for separation, or for neither.
+    - text: 云何受蘊？謂三領納：一、苦，二、樂，三、不苦不樂。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0848b26
+      note_en: What is the feeling aggregate? The three kinds of experiencing — painful, pleasant, and neither-painful-nor-pleasant.
+  related: [sparsa, samjna, sarvatraga]
+  compare: [vedana-samjna-skandha-vs-factor]
+
+- id: samjna
+  skt: saṃjñā
+  deva: संज्ञा
+  pali: saññā
+  zh: 想
+  zhAlt: [想蘊, 想心所]
+  en: perception
+  enAlt: [recognition, conception, apperception, perceptions, discrimination, identification, ideation]
+  root: saṃ-√jñā「合而知、認出」 · saṃ-√jñā "to know together, recognize"
+  short_zh: 於境取像、辨識特徵並施設名言；五蘊之一，亦為遍行心所。
+  short_en: Perception/recognition — grasping an object's marks and applying names; an aggregate and an omnipresent factor.
+  detail_zh: |
+    「想」不是日常中文的「想念、思考」，而是**認取、辨識**：抓取對象的特徵（青黃、長短、男女、怨親等），並與概念連結，因而能「施設種種名言」。《成唯識論》：「想謂於境取像為性，施設種種名言為業」——要先確立對象的界限相狀，才能隨之起種種名稱語言。
+
+    **常見誤譯**：把 saṃjñā 譯為 "thought"。佛教心理學中的「思考」更接近「尋、伺」（vitarka, vicāra）；「思」（cetanā）則是意志。想只是「認出這是什麼」。
+
+    想與識同根（√jñā）：識是「了別」，總體地覺知對象；想則進一步取其相狀。《俱舍論》說想是「諍根」之一：由顛倒的想而貪著諸見。
+  detail_en: |
+    Saṃjñā is not "thinking" but **recognition**: seizing an object's distinguishing marks (blue or yellow, long or short, male or female, friend or foe) and linking them with concepts, which makes it possible to "apply all kinds of names and words". The Cheng weishi lun: "its nature is to grasp the image of the object; its function is to set up names and concepts" — one must first fix the boundaries and features of an object before names can follow.
+
+    **A common mistranslation** is "thought". Discursive thinking in Buddhist psychology is closer to vitarka/vicāra (尋伺), and cetanā (思) is volition. Saṃjñā simply recognizes "what this is".
+
+    Saṃjñā shares its root √jñā with vijñāna: consciousness discerns the object as a whole, perception picks out its features. The Abhidharmakośa calls perception a "root of dispute": distorted perception leads to attachment to views.
+  schools:
+    - name: 俱舍 Sarvāstivāda
+      zh: 十大地法之一；與受並列為「諍根」，故別立為蘊。
+      en: One of the ten universal factors; with feeling, a "root of dispute", hence a separate aggregate.
+  quotes:
+    - text: 云何想如實知？謂六想身。云何為六？謂眼觸生想，耳、鼻、舌、身、意觸生想，是名想。
+      source: 《雜阿含經》卷2（第41經）
+      source_en: Saṃyuktāgama, fasc. 2, sūtra 41
+      ref: T02n0099_p0009b28
+      refEnd: T02n0099_p0009c01
+      note_en: How does one know perception as it really is? The six classes of perception. Which six? Perception born of eye-contact, and of ear-, nose-, tongue-, body- and mind-contact. This is called perception.
+    - text: 想謂於境取像為性，施設種種名言為業，謂要安立境分齊相，方能隨起種種名言。
+      source: 《成唯識論》卷3
+      source_en: Cheng weishi lun, fasc. 3
+      ref: T31n1585_p0011c22
+      refEnd: T31n1585_p0011c24
+      note_en: Perception has as its nature the grasping of the image of an object, and as its function the setting-up of names and words — only after the defining features of an object are established can names and words arise accordingly.
+    - text: 想蘊謂能取像為體，即能執取青黃長短、男女怨親、苦樂等相。
+      source: 《阿毘達磨俱舍論》卷1
+      source_en: Abhidharmakośabhāṣya, fasc. 1
+      ref: T29n1558_p0004a04
+      refEnd: T29n1558_p0004a05
+      note_en: The perception aggregate is, in essence, the grasping of images — seizing marks such as blue or yellow, long or short, male or female, enemy or friend, pain or pleasure.
+  related: [vedana, vijnana, sarvatraga]
+  compare: [vedana-samjna-skandha-vs-factor]
+
+- id: samskara
+  skt: saṃskāra
+  deva: संस्कार
+  pali: saṅkhāra
+  zh: 行
+  zhAlt: [行蘊, 諸行]
+  en: formations
+  enAlt: [formation, mental formations, volitional formations, karmic formations, fabrications, conditioning factors, compositional factors, dispositions, volitions, constructions]
+  root: saṃ-√kṛ「共同 + 作」＝組合、造作 · saṃ-√kṛ "to put together, make"
+  short_zh: 造作、遷流。行蘊＝受、想以外的一切心所與不相應行（以思為首）；十二因緣之行＝身口意三業；諸行＝一切有為法。
+  short_en: '"Formations". Aggregate — all mental factors other than feeling and perception, plus non-associated formations (led by volition); 12 links — karmic acts of body, speech, mind; "all saṃskāras" — all conditioned things.'
+  detail_zh: |
+    saṃskāra 由 saṃ-（共同）與 √kṛ（作）構成，本義是「把東西組合在一起」。它同時有能動（造作的力量）與所動（被造作者）二面，漢譯為「行」，取造作、遷流之義。這是佛教最多義的術語之一，至少要分清三種用法：
+
+    1. **行蘊**：《雜阿含經》以「六思身」定義行蘊（眼觸生思乃至意觸生思）。《俱舍論》解釋：行蘊實際包括色、受、想、識以外的一切有為法；佛只說「思」，是因為「行名造作，思是業性造作義強，故為最勝」。《大乘五蘊論》：「除受想，諸餘心法及心不相應行」——在百法中共 49 個心所加 24 個不相應行。
+    2. **十二因緣第二支「行」**：「緣無明行」。《雜阿含經》：「行有三種——身行、口行、意行」，指由無明推動、能招感後有的業。
+    3. **諸行（有為法）**：「諸行無常」的「行」是 saṃskāra 的複數，指一切因緣所造作的有為法（saṃskṛta），範圍最廣，包含五蘊全部。
+
+    三義互相關連：造作的力量（思、業）產生被造作者（有為法），被造作者又成為再造作的條件——輪迴的動力學就藏在這一個字裡。
+  detail_en: |
+    Saṃskāra is built from saṃ- ("together") and √kṛ ("make"): "putting together". It has both an active side (the forming force) and a passive side (what is formed). Chinese renders it 行, "activity, flowing on". It is one of the most polysemous Buddhist terms; distinguish at least three uses:
+
+    1. **The formations aggregate**: the Saṃyuktāgama defines it as "the six classes of volition" (volition born of eye-contact … mind-contact). The Abhidharmakośa explains that the aggregate actually includes every conditioned dharma other than form, feeling, perception and consciousness; the Buddha names only volition because "saṃskāra means 'forming', and volition, being of the nature of karma, is strongest in forming — hence foremost". The Pañcaskandhaka: "the remaining mental factors apart from feeling and perception, and the non-associated formations" — 49 mental factors + 24 non-associated formations in the hundred-dharma scheme.
+    2. **The second of the twelve links**: "ignorance conditions saṃskāra". The Saṃyuktāgama: "saṃskāra is of three kinds — bodily, verbal and mental", i.e. karma driven by ignorance that projects future existence.
+    3. **All saṃskāras (conditioned things)**: in "all saṃskāras are impermanent", the plural means everything produced by conditions (saṃskṛta) — the widest sense, including all five aggregates.
+
+    The three are linked: the forming force (volition, karma) produces what is formed (conditioned dharmas), which in turn become conditions for further forming — the dynamics of saṃsāra in a single word.
+  schools:
+    - name: 南傳阿毗達摩 Theravāda
+      zh: 行蘊＝五十二心所中除受、想之外的五十個心所。
+      en: The formations aggregate = 50 of the 52 cetasikas (all except feeling and perception).
+    - name: 俱舍 Sarvāstivāda
+      zh: 行蘊＝除受、想外的四十四心所＋十四心不相應行。
+      en: = 44 mental factors (46 minus feeling and perception) + 14 non-associated formations.
+    - name: 唯識 Yogācāra
+      zh: 行蘊＝四十九心所＋二十四心不相應行，共七十三法。
+      en: = 49 mental factors + 24 non-associated formations = 73 dharmas.
+  quotes:
+    - text: 云何行如實知？謂六思身——眼觸生思，耳、鼻、舌、身、意觸生思，是名為行。
+      source: 《雜阿含經》卷2（第41經）
+      source_en: Saṃyuktāgama, fasc. 2, sūtra 41
+      ref: T02n0099_p0009c07
+      refEnd: T02n0099_p0009c09
+      note_en: How does one know formations as they really are? The six classes of volition — volition born of eye-contact, and of ear-, nose-, tongue-, body- and mind-contact. This is called formations.
+    - text: 除前及後色、受、想、識，餘一切行名為行蘊。然薄伽梵於契經中說六思身為行蘊者，由最勝故。所以者何？行名造作，思是業性造作義強，故為最勝。
+      source: 《阿毘達磨俱舍論》卷1
+      source_en: Abhidharmakośabhāṣya, fasc. 1
+      ref: T29n1558_p0004a06
+      refEnd: T29n1558_p0004a10
+      note_en: All saṃskāras other than form, feeling, perception and consciousness are the formations aggregate. The Blessed One described it in the sūtra as the six classes of volition because volition is foremost. Why? Saṃskāra means "forming"; volition, being of the nature of karma, is strongest in forming — therefore it is foremost.
+    - text: 云何行蘊？謂除受想，諸餘心法及心不相應行。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0848c01
+      refEnd: T31n1612_p0848c02
+      note_en: What is the formations aggregate? The remaining mental factors apart from feeling and perception, and the formations not associated with mind.
+    - text: 緣無明行者，云何為行？行有三種——身行、口行、意行。
+      source: 《雜阿含經》卷12（第298經）
+      source_en: Saṃyuktāgama, fasc. 12, sūtra 298
+      ref: T02n0099_p0085a25
+      refEnd: T02n0099_p0085a26
+      note_en: '"Ignorance conditions formations" — what are formations? Formations are of three kinds: bodily, verbal and mental formations.'
+  related: [cetana, samskrta, karma, avidya]
+  compare: [samskara-cetana]
+  mnemonic_zh: 思是將軍，行蘊是軍隊，十二因緣之行是打過的仗，諸行是整個被造作的世界。
+  mnemonic_en: Volition is the general, the formations aggregate is the army, the 2nd link is the battles already fought, and "all saṃskāras" is the whole world that was built.
+
+- id: vijnana
+  skt: vijñāna
+  deva: विज्ञान
+  pali: viññāṇa
+  zh: 識
+  zhAlt: [識蘊, 了別]
+  en: consciousness
+  enAlt: [cognition, discernment, awareness, consciousnesses, cognizance]
+  root: vi-√jñā「分別 + 知」 · vi-√jñā "to know distinctly, discern"
+  short_zh: 了別；對境的基本覺知。五蘊之一；唯識學中開為八識。
+  short_en: Consciousness — the basic discerning awareness of an object; an aggregate, expanded into eight consciousnesses in Yogācāra.
+  detail_zh: |
+    vi-（分別）＋ √jñā（知），意為「分別地知」。《雜阿含經》以「六識身」定義識：眼識乃至意識，依根與境而生。《大乘五蘊論》：「云何識蘊？謂於所緣境了別為性。」
+
+    識與想同根 √jñā：識是「了別」——知道有一個對象並總體地覺知它；想則進一步抓取其相狀。《成唯識論》：「心於所緣，唯取總相；心所於彼，亦取別相。」
+
+    說一切有部認為識即心王，與心、意體一而名異（「集起故名心，思量故名意，了別故名識」）。唯識學另立第七末那識、第八阿賴耶識，合為八識；識蘊即攝百法中的八個心法。在十二因緣中，「識」是第三支（緣行識），《雜阿含經》同樣解作六識身。
+  detail_en: |
+    vi- ("apart, distinctly") + √jñā ("know"): "knowing distinctly". The Saṃyuktāgama defines it as "the six classes of consciousness", eye- through mind-consciousness, arising in dependence on faculty and object. Pañcaskandhaka: "What is the consciousness aggregate? Its nature is to discern its object."
+
+    It shares the root √jñā with saṃjñā (perception): consciousness discerns — it knows that there is an object and cognizes it as a whole; perception goes on to grasp its features. The Cheng weishi lun: "mind grasps only the general characteristic of its object; mental factors also grasp particular characteristics."
+
+    For the Sarvāstivāda, vijñāna is the "mind-king" (citta), one entity with citta and manas under three names. Yogācāra adds a seventh (manas) and eighth (ālaya-vijñāna) consciousness, and the consciousness aggregate = the eight "mind" dharmas of the hundred. In the twelve links, vijñāna is the third link ("formations condition consciousness"), again glossed as the six classes of consciousness.
+  quotes:
+    - text: 云何識如實知？謂六識身——眼識身，耳、鼻、舌、身、意識身，是名為識身。
+      source: 《雜阿含經》卷2（第41經）
+      source_en: Saṃyuktāgama, fasc. 2, sūtra 41
+      ref: T02n0099_p0009c16
+      refEnd: T02n0099_p0009c17
+      note_en: How does one know consciousness as it really is? The six classes of consciousness — eye-consciousness, and ear-, nose-, tongue-, body- and mind-consciousness. This is called the body of consciousness.
+    - text: 云何識蘊？謂於所緣境了別為性。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0849c27
+      note_en: What is the consciousness aggregate? Its nature is discerning the object.
+  related: [citta, samjna, skandha]
+  compare: [citta-caitasika]

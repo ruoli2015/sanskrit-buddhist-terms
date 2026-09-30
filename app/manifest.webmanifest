@@ -1,0 +1,17 @@
+{
+  "name": "梵語佛學名相 · Sanskrit Buddhist Terms",
+  "short_name": "佛學名相",
+  "description": "Learn Sanskrit Buddhist terms with Chinese & English, in-depth explanations and CBETA scripture quotations.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f6f1e7",
+  "theme_color": "#8c2f1b",
+  "lang": "zh-Hant",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

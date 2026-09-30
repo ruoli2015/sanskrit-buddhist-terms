@@ -1,0 +1,16 @@
+{
+  "name": "sanskrit-buddhist-terms",
+  "private": true,
+  "type": "module",
+  "description": "PWA for learning Sanskrit Buddhist terms with Chinese/English translations and CBETA scripture quotes",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "verify": "node scripts/cbeta.mjs verify",
+    "test": "node --test tests/*.test.js",
+    "serve": "python3 -m http.server 8080 -d app"
+  },
+  "devDependencies": {
+    "opencc-js": "^1.0.5",
+    "yaml": "^2.5.0"
+  }
+}

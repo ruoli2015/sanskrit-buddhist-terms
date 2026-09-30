@@ -1,0 +1,216 @@
+id: samskara-cetana
+title_zh: 行（saṃskāra）與思（cetanā）——「行」字的三義
+title_en: Saṃskāra vs. cetanā — and the three senses of 行
+terms: [samskara, cetana, samskrta, karma]
+summary_zh: 思是行蘊中「最勝」的一個心所，但行蘊不等於思；十二因緣的「行」是思所發動的業；「諸行」則是一切有為法。
+summary_en: Volition is the foremost single factor within the formations aggregate, but the aggregate is not volition; the saṃskāra of the twelve links is karma set in motion by volition; "all saṃskāras" means all conditioned things.
+table:
+  columns:
+    - zh: 行蘊
+      en: Formations aggregate
+    - zh: 十二因緣之「行」
+      en: 2nd of the 12 links
+    - zh: 諸行（有為法）
+      en: All saṃskāras (conditioned)
+    - zh: 思（心所）
+      en: Volition (a factor)
+  rows:
+    - label: {zh: 是什麼, en: What it is}
+      cells:
+        - zh: 一個分類（蘊＝聚）
+          en: A category (a "heap")
+        - zh: 過去由無明推動的業
+          en: Past karma driven by ignorance
+        - zh: 一切被造作的法
+          en: Everything that is formed
+        - zh: 一個具體心所
+          en: One specific mental factor
+    - label: {zh: 範圍, en: Scope}
+      cells:
+        - zh: 受、想以外的一切心所＋心不相應行（百法中 49＋24＝73 法）
+          en: All mental factors except feeling & perception + non-associated formations (49 + 24 = 73 in Yogācāra)
+        - zh: 身行、口行、意行
+          en: Bodily, verbal, mental action
+        - zh: 五蘊全部（色受想行識）
+          en: All five aggregates
+        - zh: 1 法
+          en: 1 dharma
+    - label: {zh: 出處, en: Framework}
+      cells:
+        - zh: 五蘊第四
+          en: 4th aggregate
+        - zh: 十二因緣第二支
+          en: 2nd link
+        - zh: 三法印「諸行無常」
+          en: '"All saṃskāras are impermanent"'
+        - zh: 五遍行之一
+          en: One of the 5 omnipresent factors
+    - label: {zh: 關鍵經證, en: Key text}
+      cells:
+        - zh: 「謂六思身」（雜阿含41）
+          en: '"the six classes of volition" (SĀ 41)'
+        - zh: 「行有三種」（雜阿含298）
+          en: '"formations are of three kinds" (SĀ 298)'
+        - zh: 「有為法，謂色等五蘊」（俱舍）
+          en: '"conditioned dharmas are the five aggregates" (AKBh)'
+        - zh: 「思謂令心造作為性」（成唯識論）
+          en: '"volition makes the mind act" (CWSL)'
+explanation_zh: |
+  **一、思是行蘊的「代表」，不是「全部」。** 《雜阿含經》以「六思身」定義行蘊，容易讓人以為行蘊＝思。但阿毗達磨指出：行蘊涵蓋受、想以外的所有心所（如信、貪、念、慧……）以及心不相應行（如得、命根、生、住、異、滅）。佛只舉「思」，是舉其最勝：「行名造作，思是業性造作義強，故為最勝」（《俱舍論》）。
+
+  **二、層次不同。** 思是一個具體的法（dharma）；行蘊是一個分類（蘊＝聚）。思必定屬於行蘊，但行蘊中的大多數法都不是思。
+
+  **三、遍行與業。** 思是遍行，每一念心都有；同時思是業的本體（「思即是意業」）。所以每一念心都帶有業性的造作傾向——這正是行蘊以「造作」為名的原因。
+
+  **四、與十二因緣之「行」。** 十二因緣的「行」是身、口、意三業，由思發動：意業就是思本身，身語業是「思已業」。行蘊描述的是當下這一念心的構成要素；十二因緣的行則是作為招感今生之因的過去業。
+
+  **五、諸行：最廣義。** 「諸行無常」的「行」＝一切有為法，連色、受、想、識都包括在內；它與「有為」（saṃskṛta，被造作的）同根。
+
+  **口訣**：思是將軍（一個心所）；行蘊是軍隊（除受、想外所有心所與不相應行）；十二因緣的行是打過的仗（已造的業）；諸行是整個被造作的世界。
+explanation_en: |
+  **1. Volition represents the formations aggregate; it is not the whole of it.** Because the Saṃyuktāgama defines the aggregate as "the six classes of volition", it is easy to think saṃskāra-skandha = cetanā. But Abhidharma points out that the aggregate contains every mental factor apart from feeling and perception (faith, greed, mindfulness, wisdom…) plus the non-associated formations (acquisition, life-faculty, arising, duration, decay, cessation). The Buddha names volition as the foremost: "saṃskāra means forming; volition, being of the nature of karma, is strongest in forming — hence foremost" (Abhidharmakośa).
+
+  **2. Different levels.** Cetanā is one specific dharma; the formations aggregate is a category ("heap"). Volition always belongs to the formations aggregate, but most dharmas in that aggregate are not volition.
+
+  **3. Omnipresent and karmic.** Volition is omnipresent — in every moment of mind — and it is also the essence of karma ("volition is mental karma"). So every moment of mind carries a karmic, forming tendency; this is why the aggregate is named "forming".
+
+  **4. The saṃskāra of the twelve links** is bodily, verbal and mental karma, set in motion by volition: mental karma is volition itself, bodily and verbal karma are "karma after having willed". The aggregate describes the components of a present moment of mind; the second link describes past karma as the cause projecting this life.
+
+  **5. "All saṃskāras" — the widest sense.** In "all saṃskāras are impermanent", saṃskāra = every conditioned dharma, including form, feeling, perception and consciousness; it shares its root with saṃskṛta, "that which is formed".
+
+  **Mnemonic**: volition is the general (one factor); the formations aggregate is the army (every factor except feeling and perception, plus the non-associated formations); the second link is the battles already fought (karma done); all saṃskāras is the whole world that has been built.
+quotes:
+  - text: 然薄伽梵於契經中說六思身為行蘊者，由最勝故。所以者何？行名造作，思是業性造作義強，故為最勝。
+    source: 《阿毘達磨俱舍論》卷1
+    source_en: Abhidharmakośabhāṣya, fasc. 1
+    ref: T29n1558_p0004a07
+    refEnd: T29n1558_p0004a10
+    note_en: The Blessed One described the formations aggregate in the sūtra as the six classes of volition because volition is foremost. Why? Saṃskāra means "forming"; volition, being of the nature of karma, is strongest in forming — therefore foremost.
+  - text: 世別由業生，思及思所作，思即是意業，所作謂身語。
+    source: 《阿毘達磨俱舍論》卷13
+    source_en: Abhidharmakośabhāṣya, fasc. 13
+    ref: T29n1558_p0067b09
+    refEnd: T29n1558_p0067b10
+    note_en: The variety of the world is born of karma — volition and what volition produces. Volition is mental karma; what it produces is bodily and verbal karma.
+questions:
+  - type: mcq
+    q_zh: 《雜阿含經》以「六思身」定義行蘊。《俱舍論》如何解釋？
+    q_en: The Saṃyuktāgama defines the formations aggregate as "the six classes of volition". How does the Abhidharmakośa explain this?
+    options:
+      - zh: 行蘊只有「思」一法
+        en: The aggregate consists of volition alone
+      - zh: 思在行蘊諸法中造作義最強，故舉思為代表
+        en: Volition is strongest in "forming" among its members, so it is named as representative
+      - zh: 思與行蘊是同義詞
+        en: Volition and formations are synonyms
+      - zh: 其他心所屬於受蘊
+        en: The other mental factors belong to the feeling aggregate
+    answer: 1
+    explain_zh: 「行名造作，思是業性造作義強，故為最勝。」行蘊實際包括色受想識以外的一切有為法。
+    explain_en: '"Saṃskāra means forming; volition … is strongest in forming, hence foremost." The aggregate actually includes all conditioned dharmas other than form, feeling, perception and consciousness.'
+  - type: tf
+    q_zh: 行蘊就等於「思」這一個心所。
+    q_en: The formations aggregate is the same as the single mental factor volition.
+    answer: false
+    explain_zh: 思只是行蘊中最勝的一法。唯識百法中行蘊攝 49 個心所與 24 個不相應行。
+    explain_en: Volition is only the foremost member. In the hundred dharmas the aggregate contains 49 mental factors and 24 non-associated formations.
+  - type: tf
+    q_zh: 在唯識百法中，「思」屬於行蘊。
+    q_en: In the Yogācāra hundred dharmas, volition belongs to the formations aggregate.
+    answer: true
+    explain_zh: 行蘊＝除受、想外的一切心所＋不相應行；思是心所而不是受、想，所以屬行蘊。
+    explain_en: Formations = all mental factors except feeling and perception, plus non-associated formations; volition is such a factor.
+  - type: mcq
+    q_zh: 「緣無明行」的「行」指什麼？
+    q_en: In "ignorance conditions saṃskāra", what does saṃskāra mean?
+    options:
+      - zh: 行蘊的全部心所
+        en: All mental factors of the formations aggregate
+      - zh: 身行、口行、意行三種業
+        en: The three kinds of karma — bodily, verbal, mental
+      - zh: 一切有為法
+        en: All conditioned dharmas
+      - zh: 五遍行心所
+        en: The five omnipresent factors
+    answer: 1
+    explain_zh: 《雜阿含經》第298經：「云何為行？行有三種——身行、口行、意行。」
+    explain_en: 'SĀ 298: "What are formations? Formations are of three kinds — bodily, verbal and mental."'
+  - type: mcq
+    q_zh: 「諸行無常」的「行」涵蓋什麼範圍？
+    q_en: What does saṃskāra cover in "all saṃskāras are impermanent"?
+    options:
+      - zh: 只有心理現象
+        en: Only mental phenomena
+      - zh: 只有行蘊
+        en: Only the formations aggregate
+      - zh: 一切有為法，包括色、受、想、行、識
+        en: All conditioned dharmas, including form, feeling, perception, formations, consciousness
+      - zh: 一切法，包括涅槃
+        en: All dharmas, including nirvāṇa
+    answer: 2
+    explain_zh: 諸行＝有為法。涅槃是無為法，不是「行」，故三法印說「一切行無常」而說「一切法無我」。
+    explain_en: All saṃskāras = conditioned dharmas. Nirvāṇa is unconditioned, so the seals say "all saṃskāras are impermanent" but "all dharmas are non-self".
+  - type: mcq
+    q_zh: 依唯識，下列哪一個**不**屬於行蘊？
+    q_en: In Yogācāra, which of these does NOT belong to the formations aggregate?
+    options:
+      - zh: 思
+        en: volition (思)
+      - zh: 信
+        en: faith (信)
+      - zh: 受
+        en: feeling (受)
+      - zh: 命根
+        en: life-faculty (命根)
+    answer: 2
+    explain_zh: 受自成受蘊。信是善心所、命根是心不相應行，都屬行蘊。
+    explain_en: Feeling forms its own aggregate. Faith (a wholesome factor) and life-faculty (a non-associated formation) are in the formations aggregate.
+  - type: mcq
+    q_zh: 唯識百法中，行蘊共攝多少法？
+    q_en: How many of the hundred dharmas does the formations aggregate contain?
+    options:
+      - zh: '49'
+        en: '49'
+      - zh: '51'
+        en: '51'
+      - zh: '73'
+        en: '73'
+      - zh: '94'
+        en: '94'
+    answer: 2
+    explain_zh: 51 心所減去受、想＝49，加上 24 個心不相應行＝73。（94 是五蘊總攝的有為法數。）
+    explain_en: 51 mental factors minus feeling and perception = 49, plus 24 non-associated formations = 73. (94 is the total of conditioned dharmas in all five aggregates.)
+  - type: tf
+    q_zh: 「思」只在有意識地做決定時才生起。
+    q_en: Volition arises only when one consciously makes a decision.
+    answer: false
+    explain_zh: 思是遍行心所，「一切心中定可得」——每一念心都有思。
+    explain_en: Volition is omnipresent — found in every moment of mind.
+  - type: mcq
+    q_zh: 依《俱舍論》，身業、語業屬於二業中的哪一種？
+    q_en: According to the Abhidharmakośa, bodily and verbal karma belong to which of the two karmas?
+    options:
+      - zh: 思業
+        en: volition-karma (思業)
+      - zh: 思已業
+        en: karma after having willed (思已業)
+      - zh: 兩者皆非
+        en: neither
+    answer: 1
+    explain_zh: 「思已業者謂思所作。」意業即思本身（思業）；身、語業是思所發動（思已業）。
+    explain_en: '"Karma after having willed is what volition produces." Mental karma is volition itself; bodily and verbal karma are produced by it.'
+  - type: mcq
+    q_zh: 南傳阿毗達摩的行蘊（saṅkhārakkhandha）包括多少個心所？
+    q_en: How many cetasikas make up the saṅkhārakkhandha in Theravāda Abhidhamma?
+    options:
+      - zh: '7'
+        en: '7'
+      - zh: '50'
+        en: '50'
+      - zh: '52'
+        en: '52'
+      - zh: '73'
+        en: '73'
+    answer: 1
+    explain_zh: 南傳立 52 心所，除受、想外的 50 個構成行蘊。
+    explain_en: Theravāda has 52 cetasikas; the 50 other than feeling and perception form the formations aggregate.

@@ -1,0 +1,29 @@
+# Lists (term groups). Order here = order in which new terms are introduced.
+# `head` is the term that names the list; `items` are its members (in canonical order when `ordered: true`).
+
+- id: five-aggregates
+  zh: 五蘊
+  en: The Five Aggregates
+  skt: pañca skandhāḥ
+  head: skandha
+  items: [rupa, vedana, samjna, samskara, vijnana]
+  ordered: true
+  summary_zh: 佛陀將有情身心分析為色、受、想、行、識五類聚合，以顯示其中無我。五蘊總攝一切有為法。
+  summary_en: The Buddha's analysis of a person into five groups — form, feeling, perception, formations, consciousness — to show that none of them is a self. Together they cover all conditioned dharmas.
+
+- id: sarvatraga
+  zh: 五遍行心所
+  en: The Five Omnipresent Mental Factors
+  skt: pañca sarvatragāḥ
+  head: sarvatraga
+  items: [manaskara, sparsa, vedana, samjna, cetana]
+  ordered: true
+  summary_zh: 百法五十一心所的第一位：任何一念心生起時必定具有的五個心所。次序依《大乘百法明門論》：作意、觸、受、想、思（《成唯識論》作觸、作意、受、想、思）。
+  summary_en: The first of the six categories of the 51 mental factors — the five present in every moment of mind. Order follows the Hundred Dharmas treatise (attention, contact, feeling, perception, volition); the Cheng weishi lun lists contact first.
+
+- id: foundations
+  zh: 基本概念
+  en: Foundational Concepts
+  items: [citta, caitasika, samskrta, pratityasamutpada, avidya, karma]
+  summary_zh: 理解五蘊、心所與十二因緣所需的基礎名相。
+  summary_en: Core terms needed to understand the aggregates, the mental factors and dependent origination.

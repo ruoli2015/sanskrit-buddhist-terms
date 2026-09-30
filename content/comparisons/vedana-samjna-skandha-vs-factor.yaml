@@ -1,0 +1,133 @@
+id: vedana-samjna-skandha-vs-factor
+title_zh: 受、想：作為「蘊」與作為「遍行心所」
+title_en: Feeling & perception — as aggregates vs. as omnipresent factors
+terms: [vedana, samjna, skandha, sarvatraga, caitasika]
+summary_zh: 同一個法，兩種分類：在百法中受、想只是五十一心所中的兩個（屬遍行）；在五蘊中卻各自獨立成蘊，因為它們是「諍根」與「生死因」。
+summary_en: One dharma, two classifications. In the hundred dharmas, feeling and perception are just two of 51 mental factors (omnipresent); in the aggregates each gets its own heap, because they are "roots of dispute" and "causes of saṃsāra".
+table:
+  columns:
+    - zh: 作為蘊（受蘊、想蘊）
+      en: As aggregates
+    - zh: 作為遍行心所（受、想）
+      en: As omnipresent factors
+  rows:
+    - label: {zh: 性質, en: Nature}
+      cells:
+        - zh: 分類（聚）：過去、現在、未來、內外、粗細……一切受（想）的總集
+          en: 'A category: all feelings (perceptions) — past, present, future, internal, external, coarse, subtle… — as one heap'
+        - zh: 一念心中具體生起的一個心理作用（法）
+          en: A single mental function arising in a given moment of mind
+    - label: {zh: 所屬體系, en: Scheme}
+      cells:
+        - zh: 五蘊（有為法的五分類）
+          en: Five aggregates (a fivefold division of conditioned dharmas)
+        - zh: 百法 → 心所有法 → 遍行位
+          en: Hundred dharmas → mental factors → omnipresent
+    - label: {zh: 關鍵問題, en: Key question}
+      cells:
+        - zh: 為何從眾多心所中單獨立蘊？——「諍根、生死因」
+          en: Why a separate heap among all the factors? — "roots of dispute, causes of saṃsāra"
+        - zh: 為何是遍行？——「一切心中定可得」
+          en: Why omnipresent? — "found in every mind"
+    - label: {zh: 同組成員, en: Companions}
+      cells:
+        - zh: 色、行、識三蘊
+          en: The form, formations, consciousness aggregates
+        - zh: 觸、作意、思（這三者在五蘊中歸入行蘊）
+          en: Contact, attention, volition (these three go into the formations aggregate)
+explanation_zh: |
+  **同一個法，兩套分類。** 五蘊與百法是兩套不同的分類：五蘊是佛陀為破我執而把身心分成五堆；百法是把一切法逐一列舉。受、想在兩套中都出現，但角色不同——在百法裡，它們只是五十一心所中的兩個，與觸、作意、思同屬遍行；在五蘊裡，它們卻各自獨立為蘊，與其餘四十九心所合成的行蘊並列。
+
+  **為什麼受、想單獨立蘊？** 《俱舍論》頌：「諍根生死因，及次第因故，於諸心所法，受想別為蘊。」論中解釋，諍根有二：著諸欲、著諸見。由於貪味受的力量而貪著諸欲，由於顛倒想的力量而貪著諸見；又「由耽著受起倒想故生死輪迴」。
+
+  **為什麼觸、作意、思沒有單獨立蘊？** 它們同樣是遍行，但對生死的影響不如受、想顯著；其中思被視為行蘊的代表。
+
+  **考試陷阱**：問「受屬於哪一蘊」→ 受蘊；問「受屬於百法哪一位」→ 遍行；問「思屬於哪一蘊」→ 行蘊。五個遍行心所在五蘊中分屬三蘊：受→受蘊、想→想蘊、觸／作意／思→行蘊。
+explanation_en: |
+  **One dharma, two schemes.** The five aggregates and the hundred dharmas are different classifications: the aggregates divide body and mind into five heaps to undo self-grasping; the hundred dharmas enumerate every dharma individually. Feeling and perception appear in both, in different roles — in the hundred dharmas they are just two of 51 mental factors, grouped with contact, attention and volition as omnipresent; in the aggregates each stands as its own heap, alongside the formations aggregate made of the other 49 factors.
+
+  **Why are feeling and perception separate aggregates?** Abhidharmakośa verse: "Because they are roots of dispute and causes of saṃsāra, and because of the order [of the aggregates], among the mental factors feeling and perception are made separate aggregates." The roots of dispute are two: attachment to sense pleasures and attachment to views. Relishing feeling leads to attachment to pleasures; distorted perception leads to attachment to views; and "because one clings to feeling and gives rise to distorted perception, one revolves in saṃsāra".
+
+  **Why not contact, attention or volition?** They are equally omnipresent, but less conspicuous as drivers of saṃsāra; volition is instead taken as the representative of the formations aggregate.
+
+  **Exam trap**: "Which aggregate is feeling in?" → feeling aggregate. "Which category of the hundred dharmas?" → omnipresent. "Which aggregate is volition in?" → formations. The five omnipresent factors spread over three aggregates: feeling → feeling, perception → perception, contact/attention/volition → formations.
+quotes:
+  - text: 諍根生死因，及次第因故，於諸心所法，受想別為蘊。論曰：諍根有二，謂著諸欲及著諸見。此二受想，如其次第為最勝因，味受力故貪著諸欲，倒想力故貪著諸見。又生死法以受及想為最勝因，由耽著受起倒想故生死輪迴。
+    source: 《阿毘達磨俱舍論》卷1
+    source_en: Abhidharmakośabhāṣya, fasc. 1
+    ref: T29n1558_p0005b10
+    refEnd: T29n1558_p0005b16
+    note_en: 'Verse: "Because they are roots of dispute and causes of saṃsāra, and because of the order, among the mental factors feeling and perception are made separate aggregates." Commentary: the roots of dispute are two — attachment to sense pleasures and attachment to views. Of these, feeling and perception are respectively the chief causes: through relishing feeling one clings to pleasures; through distorted perception one clings to views. Moreover, feeling and perception are the chief causes of saṃsāra: clinging to feeling and giving rise to distorted perception, one revolves in birth and death.'
+questions:
+  - type: mcq
+    q_zh: 在百法中，「受」屬於心所的哪一位？
+    q_en: In the hundred dharmas, which category of mental factors does feeling belong to?
+    options:
+      - zh: 遍行
+        en: omnipresent
+      - zh: 別境
+        en: object-specific
+      - zh: 善
+        en: wholesome
+      - zh: 不定
+        en: indeterminate
+    answer: 0
+    explain_zh: 遍行五：作意、觸、受、想、思。
+    explain_en: 'The five omnipresent: attention, contact, feeling, perception, volition.'
+  - type: mcq
+    q_zh: 依《俱舍論》，受、想從眾多心所中單獨立為蘊的主要理由是？
+    q_en: According to the Abhidharmakośa, the main reason feeling and perception are separate aggregates is that…
+    options:
+      - zh: 它們是諍根與生死因
+        en: they are roots of dispute and causes of saṃsāra
+      - zh: 它們在一念心中最先生起
+        en: they arise first in each moment of mind
+      - zh: 它們不是心所
+        en: they are not mental factors
+      - zh: 它們是無為法
+        en: they are unconditioned
+    answer: 0
+    explain_zh: 「諍根生死因，及次第因故，於諸心所法，受想別為蘊。」
+    explain_en: '"Because they are roots of dispute and causes of saṃsāra, and because of the order…"'
+  - type: mcq
+    q_zh: 遍行心所「思」屬於五蘊中的哪一蘊？
+    q_en: Which aggregate does the omnipresent factor volition belong to?
+    options:
+      - zh: 受蘊
+        en: feeling
+      - zh: 想蘊
+        en: perception
+      - zh: 行蘊
+        en: formations
+      - zh: 識蘊
+        en: consciousness
+    answer: 2
+    explain_zh: 除受、想外的心所都歸行蘊。
+    explain_en: All mental factors other than feeling and perception belong to the formations aggregate.
+  - type: tf
+    q_zh: 五個遍行心所在五蘊中分屬三個蘊。
+    q_en: The five omnipresent factors are distributed over three of the aggregates.
+    answer: true
+    explain_zh: 受→受蘊，想→想蘊，觸、作意、思→行蘊。
+    explain_en: Feeling → feeling, perception → perception, contact/attention/volition → formations.
+  - type: mcq
+    q_zh: 依《俱舍論》，由哪一法的力量而「貪著諸見」？
+    q_en: According to the Abhidharmakośa, the force of which factor leads to attachment to views?
+    options:
+      - zh: 受
+        en: feeling
+      - zh: 想
+        en: perception
+      - zh: 觸
+        en: contact
+      - zh: 作意
+        en: attention
+    answer: 1
+    explain_zh: 「味受力故貪著諸欲，倒想力故貪著諸見。」
+    explain_en: '"Through relishing feeling, attachment to pleasures; through distorted perception, attachment to views."'
+  - type: tf
+    q_zh: 百法中的「受」心所與五蘊中的「受蘊」是兩種不同的法。
+    q_en: The mental factor "feeling" of the hundred dharmas and the "feeling aggregate" are two different dharmas.
+    answer: false
+    explain_zh: 是同一法（受），只是分類角度不同：受蘊是所有受的「聚」。
+    explain_en: It is the same dharma seen from two classifications; the aggregate is the "heap" of all instances of feeling.
