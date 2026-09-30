@@ -82,28 +82,49 @@ function App() {
   `;
 }
 
+let swReg = null;
+
 async function registerSW() {
   if (!('serviceWorker' in navigator) || location.hostname === 'localhost' && location.search.includes('nosw')) return;
   try {
-    const reg = await navigator.serviceWorker.register('sw.js');
-    const promptUpdate = (w) => window.__showUpdate?.(() => w.postMessage('skipWaiting'));
-    if (reg.waiting && navigator.serviceWorker.controller) promptUpdate(reg.waiting);
+    const reg = (swReg = await navigator.serviceWorker.register('sw.js', { updateViaCache: 'none' }));
+    const activate = (w) => w.postMessage('skipWaiting');
+    const promptUpdate = (w) => window.__showUpdate?.(() => activate(w));
+    // A new version finished installing while the app was closed: switch to it right away,
+    // before the user has started anything.
+    if (reg.waiting && navigator.serviceWorker.controller) activate(reg.waiting);
     reg.addEventListener('updatefound', () => {
       const w = reg.installing;
       w?.addEventListener('statechange', () => {
-        if (w.state === 'installed' && navigator.serviceWorker.controller) promptUpdate(w);
+        if (w.state !== 'installed' || !navigator.serviceWorker.controller) return;
+        // Mid-session: ask. Otherwise: update silently.
+        if (location.hash.startsWith('#/session')) promptUpdate(w);
+        else activate(w);
       });
     });
     let reloaded = false;
     navigator.serviceWorker.addEventListener('controllerchange', () => {
       if (!reloaded) { reloaded = true; location.reload(); }
     });
+    reg.update().catch(() => {});
     // Check for updates whenever the app comes back to the foreground.
     document.addEventListener('visibilitychange', () => document.visibilityState === 'visible' && reg.update().catch(() => {}));
   } catch (e) {
     console.warn('service worker registration failed', e);
   }
 }
+
+/** Used by Settings: returns 'updating' | 'latest' | 'unsupported'. */
+export async function checkForUpdate() {
+  if (!swReg) return 'unsupported';
+  await swReg.update();
+  const w = swReg.waiting || swReg.installing;
+  if (!w) return 'latest';
+  if (w.state === 'installed') w.postMessage('skipWaiting');
+  else w.addEventListener('statechange', () => w.state === 'installed' && w.postMessage('skipWaiting'));
+  return 'updating';
+}
+window.__checkForUpdate = checkForUpdate;
 
 async function start() {
   try {

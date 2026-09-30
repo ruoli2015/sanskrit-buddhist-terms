@@ -71,6 +71,20 @@ function NumField({ k, zh, en, min, max }) {
   </label>`;
 }
 
+function UpdateButton() {
+  const [state, setState] = useState(null);
+  const run = async () => {
+    setState('checking');
+    try {
+      setState((await window.__checkForUpdate?.()) || 'unsupported');
+    } catch {
+      setState('error');
+    }
+  };
+  const msg = { checking: '檢查中… Checking…', latest: '已是最新版本 · Up to date', updating: '正在更新，即將重新載入… · Updating, reloading…', unsupported: '此瀏覽器不支援 · Not supported here', error: '無法連線 · Offline?' }[state];
+  return html`<p><button class="btn ghost small" onClick=${run}><${L} zh="檢查更新" en="Check for updates" /></button> ${msg ? html`<span class="small muted">${msg}</span>` : null}</p>`;
+}
+
 export function Settings() {
   const s = store.settings();
   const content = getContent();
@@ -134,6 +148,7 @@ export function Settings() {
 
     <section class="card small">
       <h2><${L} zh="關於" en="About" /></h2>
+      <${UpdateButton} />
       <p>詞庫版本 content ${content.version} · ${content.terms.size} 詞 terms · ${content.comparisons.length} 比較 comparisons</p>
       <p>經文引自 CBETA 電子佛典，並逐字核對。· Scripture quotations from CBETA, verified line by line.</p>
       <p><a href=${REPO_URL} target="_blank" rel="noopener">GitHub</a> · <a href=${REPO_URL + '/issues'} target="_blank" rel="noopener">回報問題 Report an issue</a></p>

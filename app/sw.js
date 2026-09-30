@@ -1,5 +1,5 @@
 // Service worker: offline support. VERSION and FILES are stamped by scripts/build.mjs.
-const VERSION = '9c0f73fc5a';
+const VERSION = '636034e5e4';
 const FILES = [
   "./",
   "css/app.css",
@@ -37,7 +37,9 @@ const CACHE = `sbt-${VERSION}`;
 const FONT_CACHE = 'sbt-fonts';
 
 self.addEventListener('install', (e) => {
-  e.waitUntil(caches.open(CACHE).then((c) => c.addAll(FILES)));
+  // cache: 'reload' bypasses the browser's HTTP cache (GitHub Pages sends max-age=600), so a new
+  // version never precaches stale files.
+  e.waitUntil(caches.open(CACHE).then((c) => c.addAll(FILES.map((f) => new Request(f, { cache: 'reload' })))));
 });
 
 self.addEventListener('activate', (e) => {
