@@ -10,7 +10,7 @@ import {
 import { matchZh, matchEn, matchSkt } from '../grade.js';
 import { dailyCounts, streak } from '../stats.js';
 import { dayKey } from '../util.js';
-import { Bi, L, Quote, Sheet, lang } from './common.js';
+import { Bi, L, Quote, Sheet, lang, Speak } from './common.js';
 import { TermDetail } from './term.js';
 import { CompareDetail, CompareTable } from './compare.js';
 
@@ -143,7 +143,7 @@ function IntroCard({ id, onDone }) {
   const q = t.quotes?.[0];
   return html`<div class="card intro">
     <div class="eyebrow"><${L} zh="新詞" en="New term" /></div>
-    <div class="skt-big">${t.skt}</div>
+    <div class="skt-big">${t.skt} <${Speak} term=${t} auto=${store.settings().autoplay !== 'off'} /></div>
     ${t.deva ? html`<div class="deva" lang="sa">${t.deva}</div>` : null}
     <div class="zh-big" lang="zh-Hant">${t.zh}</div>
     <div class="en-big">${t.en}</div>
@@ -253,7 +253,7 @@ function Mcq({ q, term, answer, onAnswer }) {
     const label = PROMPT_LABEL[q.to];
     prompt = html`<div class="eyebrow"><${L} zh=${label.zh} en=${label.en} /></div>
       ${q.from === 'skt'
-        ? html`<div class="skt-big">${term.skt}</div>${term.deva ? html`<div class="deva" lang="sa">${term.deva}</div>` : null}`
+        ? html`<div class="skt-big">${term.skt} <${Speak} term=${term} /></div>${term.deva ? html`<div class="deva" lang="sa">${term.deva}</div>` : null}`
         : q.from === 'zh'
           ? html`<div class="zh-big" lang="zh-Hant">${term.zh}</div>`
           : html`<div class="en-big prompt-en">${term.en}</div>`}`;
@@ -290,7 +290,7 @@ function Typed({ term, answer, s2t, onAnswer }) {
   const mark = (ok) => (answer ? (ok ? ' ok' : ' bad') : '');
   return html`<form class="ask" onSubmit=${submit}>
     <div class="eyebrow"><${L} zh="寫出中文與英文" en="Type the Chinese and English" /></div>
-    <div class="skt-big">${term.skt}</div>
+    <div class="skt-big">${term.skt} <${Speak} term=${term} /></div>
     ${term.deva ? html`<div class="deva" lang="sa">${term.deva}</div>` : null}
     <label class=${'field' + mark(answer?.detail?.zhOk)}>
       <span>中文</span>
@@ -352,7 +352,7 @@ function Feedback({ term, answer, override, mode, onOverride, onNext, onDetails 
       : null}
     ${mode === 'produce' && !answer.correct ? html`<div class="corr"><b class="skt">${term.skt}</b></div>` : null}
     <div class="mini">
-      <span class="skt">${term.skt}</span> · <span lang="zh-Hant">${term.zh}</span> · <span>${term.en}</span>
+      <span class="skt">${term.skt}</span> <${Speak} term=${term} small auto=${store.settings().autoplay === 'all'} /> · <span lang="zh-Hant">${term.zh}</span> · <span>${term.en}</span>
       <div class="small"><${Bi} zh=${term.short_zh} en=${term.short_en} block /></div>
     </div>
     <div class="fb-actions">

@@ -23,6 +23,8 @@ export const DEFAULT_SETTINGS = {
   sessionSize: 15,
   disabledLists: [],
   masteredStability: 21,  // days of FSRS stability counted as "mastered"
+  autoplay: 'intro',      // pronunciation: off | intro (new-word cards) | all (also after each answer)
+  audioSpeed: 'normal',   // normal | slow
 };
 
 const scheduler = fsrs(generatorParameters({ enable_fuzz: true, request_retention: 0.9 }));

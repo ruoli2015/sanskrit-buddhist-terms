@@ -2,7 +2,7 @@
 import { html, useState } from '../../vendor/preact.js';
 import * as store from '../store.js';
 import { get as getContent } from '../content.js';
-import { Bi, BiLong, Quote, StageBadge, L, Md, Empty } from './common.js';
+import { Bi, BiLong, Quote, StageBadge, L, Md, Empty, Speak } from './common.js';
 import { dueAt, isIntroduced, STAGE } from '../srs.js';
 import { REPO_URL } from '../config.js';
 
@@ -50,7 +50,7 @@ export function TermDetail({ id, inSheet = false, onNavigate }) {
 
   return html`<article class="term">
     <header class="term-head">
-      <div class="skt-big">${t.skt}</div>
+      <div class="skt-big">${t.skt} <${Speak} term=${t} /></div>
       ${t.deva ? html`<div class="deva" lang="sa">${t.deva}</div>` : null}
       <div class="zh-big" lang="zh-Hant">${t.zh}</div>
       <div class="en-big">${t.en}</div>
@@ -114,7 +114,8 @@ export function TermDetail({ id, inSheet = false, onNavigate }) {
     <footer class="term-foot">
       ${t.custom
         ? html`<a class="btn small ghost" href=${'#/add?edit=' + encodeURIComponent(id)}><${L} zh="編輯" en="Edit" /></a>`
-        : html`<a class="small" href=${reportUrl(`${t.skt} ${t.zh}`, `term: ${id}`)} target="_blank" rel="noopener">⚑ 回報錯誤 Report an error</a>`}
+        : html`<a class="small" href=${reportUrl(`${t.skt} ${t.zh}`, `term: ${id}`)} target="_blank" rel="noopener">⚑ 回報錯誤 Report an error</a>
+          ${t.audio ? html` · <a class="small" href=${reportUrl(`[發音] ${t.skt} ${t.zh}`, `audio: ${id}`)} target="_blank" rel="noopener">發音有誤 Report pronunciation</a>` : null}`}
     </footer>
   </article>`;
 }

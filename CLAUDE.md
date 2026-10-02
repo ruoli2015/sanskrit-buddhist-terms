@@ -6,3 +6,4 @@
 - Every new term goes into a list in `content/lists.yaml`, or it will never be introduced. Add comparison cards (`content/comparisons/`) for confusable terms, with 5–10 questions each.
 - `npm run build && npm test` must pass. `app/data/content.json` and `app/sw.js` are generated; commit them along with the YAML.
 - `node_modules` holds only the build dependencies (yaml, opencc-js). The folder lives in Google Drive, so do not add heavy dependencies. Bundle vendor libraries into `app/vendor/` elsewhere.
+- Pronunciation audio lives in `app/audio/<term-id>.m4a`. When adding terms, generate their audio with `scripts/audio/` (see its README; run outside Google Drive, CPU only) — the build prints how many terms have audio. Terms without a file fall back to the device voice.

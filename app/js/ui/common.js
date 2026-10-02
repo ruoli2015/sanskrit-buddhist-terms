@@ -3,8 +3,27 @@ import { html, useState, useEffect } from '../../vendor/preact.js';
 import { md, cbetaUrl, formatRef } from '../util.js';
 import * as store from '../store.js';
 import { STAGE_LABEL, isIntroduced, isMastered } from '../srs.js';
+import * as audio from '../audio.js';
 
 export const lang = () => store.settings().lang;
+
+/** 🔊 button that plays a term's Sanskrit pronunciation. `auto` plays once on mount. */
+export function Speak({ term, auto = false, small = false }) {
+  const [playing, setPlaying] = useState(false);
+  const run = async (e) => {
+    e?.stopPropagation();
+    setPlaying(true);
+    try { await audio.play(term); } finally { setPlaying(false); }
+  };
+  useEffect(() => {
+    if (auto) run();
+    return () => audio.stop();
+  }, [term.id, auto]);
+  const approx = !audio.hasRecording(term);
+  const label = approx ? '播放近似發音（裝置語音） Play approximate pronunciation (device voice)' : '播放發音 Play pronunciation';
+  return html`<button type="button" class=${`speak ${small ? 'small' : ''} ${playing ? 'on' : ''}`} onClick=${run}
+    aria-label=${label} title=${label}>${playing ? '◉' : '🔊'}${approx ? html`<span class="approx">≈</span>` : null}</button>`;
+}
 
 /** Bilingual text. In "both" mode Chinese first, English beneath (secondary). */
 export function Bi({ zh, en, block = false, cls = '' }) {

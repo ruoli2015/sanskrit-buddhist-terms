@@ -132,6 +132,19 @@ export function Settings() {
     </section>
 
     <section class="card">
+      <h2><${L} zh="梵語發音" en="Pronunciation" /></h2>
+      <p class="small">自動播放 · Play automatically</p>
+      <div class="segs">
+        ${[['off', '關 Off'], ['intro', '新詞 New words'], ['all', '新詞＋作答後 + answers']].map(([v, label]) => html`<button class=${`seg ${s.autoplay === v ? 'on' : ''}`} onClick=${() => store.saveSettings({ autoplay: v })}>${label}</button>`)}
+      </div>
+      <p class="small">速度 · Speed</p>
+      <div class="segs">
+        ${[['normal', '正常 Normal'], ['slow', '慢速 Slow']].map(([v, label]) => html`<button class=${`seg ${s.audioSpeed === v ? 'on' : ''}`} onClick=${() => store.saveSettings({ audioSpeed: v })}>${label}</button>`)}
+      </div>
+      <p class="small muted">內建詞彙由 Indic Parler-TTS 梵語語音合成；自行新增的詞使用裝置語音（≈，僅供參考）。· Built-in terms use a Sanskrit neural voice (Indic Parler-TTS); words you add use the device voice (≈, approximate).</p>
+    </section>
+
+    <section class="card">
       <h2><${L} zh="資料" en="Data" /></h2>
       <div class="row">
         <button class="btn ghost" onClick=${exportData}><${L} zh="匯出備份" en="Export backup" /></button>
