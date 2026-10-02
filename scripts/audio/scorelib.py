@@ -36,3 +36,12 @@ def score(target, heard, dur):
     per = dur / syl
     dur_ok = 0.12 <= per <= 0.55
     return sim, per, dur_ok
+
+def write_mp3(a, sr, path, kbps=64):
+    """Peak-normalize to -1 dBFS and encode mono MP3 (plays on every browser, incl. Android)."""
+    import lameenc
+    a = a / (np.abs(a).max() + 1e-9) * 10 ** (-1 / 20)
+    pcm = (np.clip(a, -1, 1) * 32767).astype('<i2').tobytes()
+    enc = lameenc.Encoder()
+    enc.set_bit_rate(kbps); enc.set_in_sample_rate(sr); enc.set_channels(1); enc.set_quality(2)
+    open(path, 'wb').write(enc.encode(pcm) + enc.flush())

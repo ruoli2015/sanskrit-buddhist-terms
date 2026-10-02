@@ -10,13 +10,16 @@ export const lang = () => store.settings().lang;
 /** 🔊 button that plays a term's Sanskrit pronunciation. `auto` plays once on mount. */
 export function Speak({ term, auto = false, small = false }) {
   const [playing, setPlaying] = useState(false);
-  const run = async (e) => {
+  // Not async: audio.play() must run synchronously inside the tap for Android Chrome.
+  const run = (e, quiet = false) => {
     e?.stopPropagation();
     setPlaying(true);
-    try { await audio.play(term); } finally { setPlaying(false); }
+    audio.play(term, { quiet })
+      .catch((err) => window.__toast?.(err.message))
+      .finally(() => setPlaying(false));
   };
   useEffect(() => {
-    if (auto) run();
+    if (auto) run(null, true); // autoplay may be blocked; that's fine, the button still works
     return () => audio.stop();
   }, [term.id, auto]);
   const approx = !audio.hasRecording(term);
