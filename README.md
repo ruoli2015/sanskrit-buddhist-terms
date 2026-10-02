@@ -10,6 +10,7 @@ A phone-first web app (PWA) for learning Sanskrit Buddhist terms with their Chin
 - **Study in short bursts**: sessions of 5, 15 or 40 cards. Every answer is saved immediately, so you can stop at any point.
 - **Stages**: new term → multiple choice → typed Chinese + English. You move to typing after 5 correct answers spread over at least 2 days, then to Chinese → Sanskrit spelling. Two misses in a row move a term back one stage. FSRS spaced repetition decides when each term returns.
 - **Retire** a word you know from its page or right after answering. **Add** your own words one at a time, or paste many at once.
+- **Pronunciation**: tap 🔊 next to any Sanskrit word. Built-in terms use a Sanskrit neural voice (Indic Parler-TTS, generated offline and stored in `app/audio/`); words you add use the device voice (marked ≈). Auto-play and speed are in Settings.
 - **Sync** across devices: create an account once in Settings, then sign in with the same email and password on each device.
 
 ## Project layout
