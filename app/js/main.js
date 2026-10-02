@@ -40,6 +40,7 @@ function App() {
     window.addEventListener('hashchange', onHash);
     const unsub = store.subscribe(() => setTick((t) => t + 1));
     const unsubSync = sync.subscribe(() => setTick((t) => t + 1));
+    window.__toast = (msg) => setToast({ msg });
     window.__showUpdate = (fn) => setToast({ msg: '有新版本 · New version available', action: { label: '更新 Reload', fn } });
     return () => { window.removeEventListener('hashchange', onHash); unsub(); unsubSync(); };
   }, []);

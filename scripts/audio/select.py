@@ -1,8 +1,8 @@
-# Pick the best take per term using Whisper as a sanity check, then write app/audio/<id>.m4a.
+# Pick the best take per term using Whisper as a sanity check, then write app/audio/<id>.mp3.
 #   env/bin/python select.py <path-to-app-audio-dir> [ids...]
 import glob, json, os, subprocess, sys, tempfile
 import numpy as np, soundfile as sf, whisper
-from scorelib import skeleton, score, load16k, trim
+from scorelib import skeleton, score, load16k, trim, write_mp3
 outdir = sys.argv[1]
 only = set(sys.argv[2:])
 terms = [t for t in json.load(open("terms.json")) if not only or t["id"] in only]
@@ -22,10 +22,7 @@ for t in terms:
         cand = dict(file=f, heard=heard, sim=round(sim, 2), dur=round(dur, 2), final=round(final, 2))
         if best is None or final > best["final"]: best = cand; best_audio = (trimmed, sr)
     a, sr = best_audio
-    a = a / (np.abs(a).max() + 1e-9) * 10 ** (-1 / 20)
-    with tempfile.NamedTemporaryFile(suffix=".wav") as tmp:
-        sf.write(tmp.name, a, sr)
-        subprocess.run(["afconvert", "-f", "m4af", "-d", "aac", "-c", "1", "-b", "48000", tmp.name, os.path.join(outdir, f"{t['id']}.m4a")], check=True)
+    write_mp3(a, sr, os.path.join(outdir, f"{t['id']}.mp3"))
     report[t["id"]] = dict(deva=t["deva"], skt=t["skt"], **best)
     flag = "  ⚑ LOW" if best["final"] < 0.6 else ""
     print(f"{t['id']:24} {best['final']:.2f} {best['dur']:.2f}s  {t['deva']} → {best['heard']}{flag}", flush=True)

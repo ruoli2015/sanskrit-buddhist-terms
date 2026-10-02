@@ -1,24 +1,18 @@
 // Sanskrit pronunciation playback.
-// Built-in terms have recorded files in audio/<id>.m4a (generated with Indic Parler-TTS, see
-// scripts/audio/). Words the user adds fall back to the device's Hindi voice, which is only
-// approximate (Hindi drops the final "a").
+// Built-in terms have recordings in audio/<id>.mp3 (generated with Indic Parler-TTS, see
+// scripts/audio/). Words the user adds use the device's Hindi voice, which is only approximate
+// (Hindi drops the final "a").
+//
+// play() must start the <audio> element synchronously inside the tap handler: Chrome on Android
+// rejects play() that happens after an await. The service worker answers Range requests for
+// audio files, so Safari can play them straight from the offline cache.
 import * as store from './store.js';
 
-const blobs = new Map(); // id -> object URL
 let current = null;
+export let lastError = null;
 
 export const hasRecording = (term) => !!term?.audio;
-
-// Fetch the file as a blob first: Safari can't play media served from a service-worker cache
-// without range support, but plays blob URLs fine, online or offline.
-async function urlFor(term) {
-  if (blobs.has(term.id)) return blobs.get(term.id);
-  const res = await fetch(`audio/${term.id}.m4a`);
-  if (!res.ok) throw new Error(`audio ${res.status}`);
-  const url = URL.createObjectURL(await res.blob());
-  blobs.set(term.id, url);
-  return url;
-}
+export const recordingUrl = (term) => `audio/${term.id}.mp3`;
 
 export function stop() {
   if (current) {
@@ -28,24 +22,33 @@ export function stop() {
   if ('speechSynthesis' in globalThis) speechSynthesis.cancel();
 }
 
-/** Play a term's pronunciation. Resolves when playback ends (or fails quietly). */
-export async function play(term) {
+/**
+ * Play a term's pronunciation. Call directly from a tap handler (no await before it).
+ * Resolves when playback ends; rejects with a readable message if a recording can't play.
+ */
+export function play(term, { quiet = false } = {}) {
   stop();
   const slow = store.settings().audioSpeed === 'slow';
-  if (hasRecording(term)) {
-    try {
-      const a = new Audio(await urlFor(term));
-      a.preservesPitch = true;
-      a.playbackRate = slow ? 0.75 : 1;
-      current = a;
-      await a.play();
-      await new Promise((r) => a.addEventListener('ended', r, { once: true }));
-      return;
-    } catch (e) {
-      console.warn('recording failed, using device voice', e);
-    }
-  }
-  return speak(term.deva || iastToDevanagari(term.skt || ''), slow);
+  if (!hasRecording(term)) return speak(term.deva || iastToDevanagari(term.skt || ''), slow);
+
+  const a = new Audio(recordingUrl(term));
+  a.preservesPitch = true;
+  a.playbackRate = slow ? 0.75 : 1;
+  current = a;
+  const started = a.play(); // synchronous call keeps the user gesture
+  return new Promise((resolve, reject) => {
+    const fail = (why) => {
+      lastError = why;
+      if (current === a) current = null;
+      if (quiet) resolve(); else reject(new Error(why));
+    };
+    a.addEventListener('ended', () => resolve(), { once: true });
+    a.addEventListener('pause', () => resolve(), { once: true }); // stopped by another play()
+    a.addEventListener('error', () => fail(`錄音無法播放 Recording could not play (media error ${a.error?.code ?? '?'})`), { once: true });
+    started?.catch((e) => fail(e.name === 'NotAllowedError'
+      ? '瀏覽器擋下了自動播放，請點 🔊 · The browser blocked playback; tap 🔊'
+      : `錄音無法播放 Recording could not play (${e.name}: ${e.message})`));
+  });
 }
 
 function speak(text, slow) {
