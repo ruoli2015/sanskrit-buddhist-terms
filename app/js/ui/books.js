@@ -69,6 +69,7 @@ function Seg({ s, i }) {
   switch (s.kind) {
     case 'intro': return html`<p class="bk-seg bk-intro" data-i=${i}>${s.text}</p>`;
     case 'section': return html`<h2 class="bk-seg bk-section" data-i=${i}><span lang="zh-Hant">${s.title_zh}</span> <span class="muted small">${s.title_en}</span></h2>`;
+    case 'subhead': return html`<div class="bk-seg bk-subhead" data-i=${i}><span lang="zh-Hant">${s.title_zh}</span> <span class="muted small">${s.title_en}</span></div>`;
     case 'heading': return html`<h3 class="bk-seg bk-heading" data-i=${i} id=${'v-' + s.verse}>第 ${s.verse} 頌 · Verse ${s.verse}</h3>`;
     case 'verse':
     case 'repeat':

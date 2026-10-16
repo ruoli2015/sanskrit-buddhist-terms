@@ -31,6 +31,7 @@ PY=~/.cache/sbt-tts/env/bin/python
 $PY scripts/audiobook/make.py private/audiobooks/<id> voices   # Azure voice available?
 $PY scripts/audiobook/make.py private/audiobooks/<id> all      # Sanskrit (Parler + Whisper) → Azure → MP3
 K=10 $PY scripts/audiobook/make.py private/audiobooks/<id> skt hi saḥ   # redo weak Sanskrit clips
+node scripts/audiobook/verify-quotes.mjs private/audiobooks/<id>  # Xuanzang quotes match CBETA
 node scripts/audiobook/upload.mjs private/audiobooks/<id>       # appears in the app, no deploy needed
 node scripts/audiobook/upload.mjs --list | --remove <id>
 ```

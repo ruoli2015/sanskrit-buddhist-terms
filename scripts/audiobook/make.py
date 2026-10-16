@@ -25,7 +25,7 @@ from scorelib import skeleton, score, trim  # noqa: E402
 SR = 24000
 DEFAULTS = dict(voice='zh-CN-YunyiMultilingualNeural', rate='-5%', zh_script='traditional', inline='splice',
                 takes_word=3, takes_line=4, kbps=48, spell=True)
-PAUSE = dict(intro=1.5, section=1.5, heading=0.6, verse=1.6, word=1.2, grammar=1.4, translation=1.2,
+PAUSE = dict(intro=1.5, section=1.5, subhead=1.0, heading=0.6, verse=1.6, word=1.2, grammar=1.4, translation=1.2,
              xuanzang=1.4, repeat=2.5)
 
 SKT_RE = re.compile(r'\{([^{}]+)\}')
@@ -58,6 +58,10 @@ def timeline(book, cfg=None):
         for v in sec['verses']:
             n = v['n']
             reading = [('skt', v['lines'][0]), ('pause', 0.8), ('skt', v['lines'][1])]
+            if v.get('subhead'):
+                sh = v['subhead']
+                add('subhead', [('en', sh['en'] + '.'), ('pause', 0.4), ('zh', sh['zh'])],
+                    section=sec['id'], title_zh=sh['zh'], title_en=shown(sh['en']))
             add('heading', [('en', f'Verse {n}.')], section=sec['id'], verse=n)
             add('verse', reading, section=sec['id'], verse=n, lines=v['lines'])
             for wi, w in enumerate(v['words']):

@@ -1,5 +1,5 @@
 // Service worker: offline support. VERSION and FILES are stamped by scripts/build.mjs.
-const VERSION = 'c5a9bad6c5';
+const VERSION = '856e748656';
 const FILES = [
   "./",
   "audio/abhidharma.mp3",
