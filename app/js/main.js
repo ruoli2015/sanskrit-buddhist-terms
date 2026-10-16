@@ -12,6 +12,7 @@ import { Add } from './ui/add.js';
 import { Progress } from './ui/progress.js';
 import { Settings } from './ui/settings.js';
 import { Toast } from './ui/common.js';
+import { BookList, BookPage, MiniPlayer } from './ui/books.js';
 
 function parseHash() {
   const h = location.hash.replace(/^#\/?/, '');
@@ -56,6 +57,8 @@ function App() {
   else if (p0 === 'add') page = html`<${Add} key=${route.key} params=${route.params} />`;
   else if (p0 === 'progress') page = html`<${Progress} />`;
   else if (p0 === 'settings') page = html`<${Settings} />`;
+  else if (p0 === 'books') page = html`<${BookList} />`;
+  else if (p0 === 'book') page = html`<${BookPage} key=${p1} id=${p1} />`;
   else page = html`<${Home} />`;
 
   const inSession = p0 === 'session';
@@ -71,10 +74,11 @@ function App() {
         </header>`
       : null}
     <main>${page}</main>
+    ${!inSession && p0 !== 'book' ? html`<${MiniPlayer} />` : null}
     ${!inSession
       ? html`<nav class="tabs">
           ${NAV.map(([path, icon, zh, en]) => {
-            const on = (p0 || '') === path || (path === 'browse' && ['list', 'term', 'compare'].includes(p0));
+            const on = (p0 || '') === path || (path === 'browse' && ['list', 'term', 'compare', 'books', 'book'].includes(p0));
             return html`<a class=${on ? 'on' : ''} href=${'#/' + path}><span class="ic">${icon}</span><span class="tz">${zh}</span><span class="te">${en}</span></a>`;
           })}
         </nav>`

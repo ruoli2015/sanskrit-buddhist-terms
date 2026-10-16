@@ -1,5 +1,5 @@
 // Service worker: offline support. VERSION and FILES are stamped by scripts/build.mjs.
-const VERSION = '0d5a1fdbcf';
+const VERSION = 'c5a9bad6c5';
 const FILES = [
   "./",
   "audio/abhidharma.mp3",
@@ -203,6 +203,9 @@ const FILES = [
   "icons/icon-maskable-512.png",
   "index.html",
   "js/audio.js",
+  "js/bookplan.js",
+  "js/bookplayer.js",
+  "js/books.js",
   "js/config.js",
   "js/content.js",
   "js/db.js",
@@ -213,6 +216,7 @@ const FILES = [
   "js/store.js",
   "js/sync.js",
   "js/ui/add.js",
+  "js/ui/books.js",
   "js/ui/browse.js",
   "js/ui/common.js",
   "js/ui/compare.js",

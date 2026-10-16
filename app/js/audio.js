@@ -28,6 +28,7 @@ export function stop() {
  */
 export function play(term, { quiet = false } = {}) {
   stop();
+  window.dispatchEvent(new Event('sbt-pronounce')); // pauses an audiobook (bookplayer.js)
   const slow = store.settings().audioSpeed === 'slow';
   if (!hasRecording(term)) return speak(term.deva || iastToDevanagari(term.skt || ''), slow);
 

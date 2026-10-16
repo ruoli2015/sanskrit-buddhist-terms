@@ -3,6 +3,7 @@ import { html, useState } from '../../vendor/preact.js';
 import * as store from '../store.js';
 import { get as getContent, search } from '../content.js';
 import { L, Bi, TermRow, ListProgress, Empty, termStatus } from './common.js';
+import * as sync from '../sync.js';
 
 export function Browse({ params }) {
   const content = getContent();
@@ -19,6 +20,9 @@ export function Browse({ params }) {
     ${results
       ? html`<section class="card">${results.length ? results.map((t) => html`<${TermRow} t=${t} />`) : html`<${Empty}>沒有結果 · No results</${Empty}>`}</section>`
       : html`
+        ${sync.getState().email
+          ? html`<a class="card book-link" href="#/books">🎧 <${L} zh="有聲書" en="Audiobooks" /> <span class="muted">›</span></a>`
+          : null}
         <h2 class="sec-title"><${L} zh="詞表" en="Lists" /></h2>
         ${content.lists.map((l) => {
           const ids = [l.head, ...(l.items || [])].filter(Boolean);

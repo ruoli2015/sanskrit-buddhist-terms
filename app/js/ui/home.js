@@ -6,6 +6,8 @@ import { dailyCounts, streak } from '../stats.js';
 import { dayKey, hashIndex } from '../util.js';
 import { isIntroduced, dueAt, curriculumOrder } from '../srs.js';
 import { L, Quote, ListProgress, Bi } from './common.js';
+import * as sync from '../sync.js';
+import { knownCount } from '../books.js';
 
 function Ring({ value, goal }) {
   const r = 34, c = 2 * Math.PI * r;
@@ -68,6 +70,10 @@ export function Home() {
       </div>
       ${!due && !newToday ? html`<a class="small center" href=${`#/session?extra=1&size=10&r=${now}`}>提前複習學習中的詞 · Review learning words early</a>` : null}
     </section>
+
+    ${sync.getState().email && knownCount()
+      ? html`<a class="card book-link" href="#/books">🎧 <${L} zh="有聲書" en="Audiobooks" /> <span class="muted">›</span></a>`
+      : null}
 
     ${qd
       ? html`<section class="card qotd">

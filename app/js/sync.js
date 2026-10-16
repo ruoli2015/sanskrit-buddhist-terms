@@ -24,6 +24,14 @@ function set(patch) {
   listeners.forEach((fn) => fn(getState()));
 }
 
+/** The signed-in Supabase client and access token, or null when signed out (used by books.js). */
+export async function authed() {
+  if (!enabled) return null;
+  const c = await getClient();
+  const { data } = await c.auth.getSession();
+  return data.session ? { client: c, token: data.session.access_token } : null;
+}
+
 async function getClient() {
   if (!enabled) return null;
   if (!client) {
