@@ -385,9 +385,20 @@ details summary { cursor: pointer; font-weight: 600; }
 .book-page { padding-bottom: 210px; }
 .bk-verses { display: flex; flex-wrap: wrap; gap: 6px; margin: 10px 0 4px; }
 .bk-verses a { min-width: 32px; padding: 3px 6px; text-align: center; border: 1px solid var(--line); border-radius: 8px; font-size: 13px; }
-.bk-transcript { padding: 8px 10px; }
+.bk-transcript { padding: 8px 10px; overflow-wrap: anywhere; } /* long compounds (v.6 is one 46-letter word) must wrap */
 .bk-seg { padding: 8px 8px; border-radius: 10px; cursor: pointer; scroll-margin: 90px 0 220px; -webkit-tap-highlight-color: transparent; }
-.bk-seg.on { background: var(--accent-soft); }
+.bk-seg.on { background: color-mix(in srgb, var(--accent-soft) 45%, transparent); }
+.bk-seg.on:not(:has(.bk-cue)) { background: var(--accent-soft); }
+.bk-cue { border-radius: 6px; transition: background-color 0.25s; -webkit-box-decoration-break: clone; box-decoration-break: clone; }
+.bk-cue.on { background: var(--accent-soft); box-shadow: 0 0 0 3px var(--accent-soft); color: var(--ink); }
+.bk-cue.line { display: block; }
+.bk-head { display: block; }
+.bk-follow {
+  position: fixed; left: 50%; transform: translateX(-50%); z-index: 9;
+  bottom: calc(58px + 190px + env(safe-area-inset-bottom));
+  border: 1px solid var(--accent); background: var(--card); color: var(--accent);
+  border-radius: 20px; padding: 6px 14px; font-size: 14px; box-shadow: var(--shadow); cursor: pointer;
+}
 .bk-section { margin: 14px 0 4px; }
 .bk-heading { margin: 18px 0 2px; color: var(--accent); text-transform: none; font-size: 14px; }
 .bk-skt .skt { font-size: 19px; line-height: 1.55; }

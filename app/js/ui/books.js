@@ -4,7 +4,7 @@ import { html, useState, useEffect, useRef, useMemo } from '../../vendor/preact.
 import * as books from '../books.js';
 import * as player from '../bookplayer.js';
 import * as sync from '../sync.js';
-import { verseNumbers, segmentAt } from '../bookplan.js';
+import { verseNumbers, segmentAt, cueAt } from '../bookplan.js';
 import { L, Empty } from './common.js';
 
 const pad = (n) => String(n).padStart(2, '0');
@@ -64,26 +64,36 @@ const SEG_LABEL = {
   repeat: ['再誦', 'Again'],
 };
 
+// Lines and sentences ("cues") are separate elements, so the one being read can be highlighted.
+// Manifests made before cues existed fall back to whole segments.
+const cue = (i, k, text, cls = '') => html`<span class=${`bk-cue ${cls}`} data-i=${i} data-c=${k}>${text}</span>`;
+const sentencesOf = (s, i, from = 0) => s.cues.slice(from).map((c, j) => html`${j ? ' ' : ''}${cue(i, from + j, c.text)}`);
+
 function Seg({ s, i }) {
   const lab = SEG_LABEL[s.kind] ? html`<div class="eyebrow"><${L} zh=${SEG_LABEL[s.kind][0]} en=${SEG_LABEL[s.kind][1]} /></div>` : null;
+  const has = !!s.cues?.length;
   switch (s.kind) {
-    case 'intro': return html`<p class="bk-seg bk-intro" data-i=${i}>${s.text}</p>`;
+    case 'intro': return html`<p class="bk-seg bk-intro" data-i=${i}>${has ? sentencesOf(s, i) : s.text}</p>`;
     case 'section': return html`<h2 class="bk-seg bk-section" data-i=${i}><span lang="zh-Hant">${s.title_zh}</span> <span class="muted small">${s.title_en}</span></h2>`;
     case 'subhead': return html`<div class="bk-seg bk-subhead" data-i=${i}><span lang="zh-Hant">${s.title_zh}</span> <span class="muted small">${s.title_en}</span></div>`;
     case 'heading': return html`<h3 class="bk-seg bk-heading" data-i=${i} id=${'v-' + s.verse}>第 ${s.verse} 頌 · Verse ${s.verse}</h3>`;
     case 'verse':
     case 'repeat':
-      return html`<div class=${`bk-seg bk-skt ${s.kind}`} data-i=${i}>${lab}<div class="skt">${s.lines[0]} /<br />${s.lines[1]} //</div></div>`;
-    case 'word':
+      return html`<div class=${`bk-seg bk-skt ${s.kind}`} data-i=${i}>${lab}<div class="skt">${has
+        ? html`${cue(i, 0, `${s.lines[0]} /`, 'line')}${cue(i, 1, `${s.lines[1]} //`, 'line')}`
+        : html`${s.lines[0]} /<br />${s.lines[1]} //`}</div></div>`;
+    case 'word': {
+      const head = html`<b class="skt">${s.form}</b>${s.form !== s.skt ? html` <span class="skt muted">(${s.skt})</span>` : null}
+          <span class="bk-gloss">${s.en} · <span lang="zh-Hant">${s.zh}</span></span>`;
       return html`<div class="bk-seg bk-word" data-i=${i}>
-        <div><b class="skt">${s.form}</b>${s.form !== s.skt ? html` <span class="skt muted">(${s.skt})</span>` : null}
-          <span class="bk-gloss">${s.en} · <span lang="zh-Hant">${s.zh}</span></span></div>
-        <div class="small bk-note">${s.note}</div>
+        ${has ? html`<div class="bk-cue bk-head" data-i=${i} data-c="0">${head}</div>` : html`<div>${head}</div>`}
+        <div class="small bk-note">${has ? sentencesOf(s, i, 1) : s.note}</div>
       </div>`;
+    }
     case 'xuanzang':
-      return html`<div class="bk-seg" data-i=${i}>${lab}<div lang="zh-Hant" class="bk-zh">${s.text}</div></div>`;
+      return html`<div class="bk-seg" data-i=${i}>${lab}<div lang="zh-Hant" class="bk-zh">${has ? cue(i, 0, s.text) : s.text}</div></div>`;
     default:
-      return html`<div class="bk-seg" data-i=${i}>${lab}<div>${s.text}</div></div>`;
+      return html`<div class="bk-seg" data-i=${i}>${lab}<div>${has ? sentencesOf(s, i) : s.text}</div></div>`;
   }
 }
 
@@ -143,6 +153,7 @@ export function BookPage({ id }) {
   const [saved, setSaved] = useState(0);
   const box = useRef(null);
   const lastScroll = useRef(0);
+  const [follow, setFollow] = useState(true);
 
   useEffect(() => {
     if (!signedIn) return;
@@ -150,33 +161,56 @@ export function BookPage({ id }) {
   }, [id, signedIn]);
   useEffect(() => { books.savedBytes(id).then(setSaved).catch(() => {}); }, [id, st.saved]);
   useEffect(() => {
-    const mark = () => { lastScroll.current = Date.now(); };
+    // Scrolling by hand pauses following for 10 s (or until "back to current" is tapped).
+    const mark = () => { lastScroll.current = Date.now(); setFollow(false); };
     window.addEventListener('touchmove', mark, { passive: true });
     window.addEventListener('wheel', mark, { passive: true });
     return () => { window.removeEventListener('touchmove', mark); window.removeEventListener('wheel', mark); };
   }, []);
 
-  // Highlight the line being played (directly in the DOM: the transcript is long and static).
+  // Highlight the line or sentence being read and keep it in view (directly in the DOM: the
+  // transcript is long and static, so it is rendered once).
   const active = m && st.book?.id === m.id ? segmentAt(m, st.t) : -1;
+  const activeCue = active >= 0 ? cueAt(m.segments[active], st.t) : -1;
+  const following = follow || Date.now() - lastScroll.current > 10000;
+  const current = () => box.current?.querySelector(`.bk-cue[data-i="${active}"][data-c="${activeCue}"]`) || box.current?.querySelector(`.bk-seg[data-i="${active}"]`);
+  const keepInView = (el, force = false) => {
+    // Visible band: below the header, above the player controls. Keep the current text at about
+    // a third of the way down, so what comes next is visible below it.
+    const top = document.querySelector('header.top')?.getBoundingClientRect().bottom || 0;
+    const bottom = document.querySelector('.bk-controls')?.getBoundingClientRect().top || innerHeight;
+    const r = el.getBoundingClientRect();
+    const band = bottom - top;
+    if (force || r.top < top + 12 || r.bottom > top + band * 0.7) {
+      scrollTo({ top: scrollY + r.top - (top + band * 0.3), behavior: 'smooth' });
+    }
+  };
   useEffect(() => {
     const root = box.current;
     if (!root) return;
-    root.querySelector('.bk-seg.on')?.classList.remove('on');
-    const el = root.querySelector(`[data-i="${active}"]`);
+    root.querySelectorAll('.on').forEach((x) => x.classList.remove('on'));
+    root.querySelector(`.bk-seg[data-i="${active}"]`)?.classList.add('on');
+    const el = current();
     if (!el) return;
     el.classList.add('on');
-    if (st.playing && Date.now() - lastScroll.current > 6000) el.scrollIntoView({ block: 'center', behavior: 'smooth' });
-  }, [active, m]);
+    if (st.playing && following) { if (!follow) setFollow(true); keepInView(el); }
+  }, [active, activeCue, m]);
+  const backToCurrent = () => { setFollow(true); lastScroll.current = 0; const el = current(); if (el) keepInView(el, true); };
 
   const transcript = useMemo(() => (m ? html`<${Transcript} m=${m} />` : null), [m]);
   if (!signedIn) return html`<${SignInFirst} />`;
   if (err) return html`<div class="page"><div class="card warn">${err}</div></div>`;
   if (!m) return html`<div class="page"><div class="card"><${Empty}>載入中 · Loading…</${Empty}></div></div>`;
 
-  // Tapping a line plays from there (synchronously: play() must stay inside the tap).
+  // Tapping a sentence or line plays from there (synchronously: play() must stay inside the tap).
   const onTap = (e) => {
     const el = e.target.closest('[data-i]');
-    if (el && st.book?.id === m.id && st.status === 'ready') player.seek(m.segments[+el.dataset.i].start);
+    if (!el || st.book?.id !== m.id || st.status !== 'ready') return;
+    const s = m.segments[+el.dataset.i];
+    const c = el.dataset.c != null ? s.cues?.[+el.dataset.c] : null;
+    setFollow(true);
+    lastScroll.current = 0;
+    player.seek(c ? c.start : s.start);
   };
   const del = () => {
     if (!confirm('從此裝置刪除這本有聲書的音檔？之後再播放會重新下載。\nDelete this audiobook from this device? It downloads again the next time you play it.')) return;
@@ -192,9 +226,12 @@ export function BookPage({ id }) {
         ? html`<div class="row small"><span class="muted">已存於此裝置 · Saved on this device (${mb(saved)})</span>
             <button class="btn small danger" onClick=${del}>刪除 Delete</button></div>`
         : null}
-      <p class="small muted">點任一行即從該處播放 · Tap any line to play from there.</p>
+      <p class="small muted">點任一句即從該處播放 · Tap any sentence to play from there.</p>
     </div>
     <div ref=${box} onClick=${onTap}>${transcript}</div>
+    ${st.playing && !following && st.book?.id === m.id
+      ? html`<button class="bk-follow" onClick=${backToCurrent}>↧ 回到朗讀處 · Back to current</button>`
+      : null}
     <${Controls} m=${m} st=${st} />
   </div>`;
 }

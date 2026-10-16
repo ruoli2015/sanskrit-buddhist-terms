@@ -1,6 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { planFor, step, segmentAt, verseSpan, verseAt, verseNumbers, inPlan } from '../app/js/bookplan.js';
+import { planFor, step, segmentAt, verseSpan, verseAt, verseNumbers, inPlan, cueAt } from '../app/js/bookplan.js';
 
 // A two-verse book: intro, section, then per verse heading → verse → word → repeat.
 const seg = (kind, start, end, verse) => ({ kind, start, end, ...(verse != null ? { verse } : {}) });
@@ -56,4 +56,13 @@ test('Sanskrit only: skips the explanations', () => {
   assert.deepEqual(step(planFor(m, { loop: 'off', sktOnly: true }), 64), { stop: true });
   assert.deepEqual(planFor(m, { loop: 'verse', at: 70, sktOnly: true }).intervals, [[55, 64]]);
   assert.equal(inPlan(s, 30), false);
+});
+
+test('cue (sentence) being read', () => {
+  const s = { start: 10, cues: [{ start: 10, end: 14 }, { start: 14.5, end: 20 }, { start: 20.3, end: 25 }] };
+  assert.equal(cueAt(s, 10), 0);
+  assert.equal(cueAt(s, 14.2), 0); // in the pause after a sentence: keep it highlighted
+  assert.equal(cueAt(s, 14.5), 1);
+  assert.equal(cueAt(s, 24), 2);
+  assert.equal(cueAt({ start: 0 }, 3), -1);
 });

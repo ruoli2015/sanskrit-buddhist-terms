@@ -84,3 +84,11 @@ export function step(plan, t) {
 
 /** Is time t inside the plan? (Used to decide whether tapping a line keeps the loop.) */
 export const inPlan = (plan, t) => plan.intervals.some(([s, e]) => t >= s - EPS && t < e - EPS);
+
+/** Index of the cue (line or sentence) of segment s being read at time t; 0 before the first cue. */
+export function cueAt(s, t) {
+  if (!s?.cues?.length) return -1;
+  let k = 0;
+  for (let j = 0; j < s.cues.length; j++) if (s.cues[j].start <= t + 0.05) k = j;
+  return k;
+}

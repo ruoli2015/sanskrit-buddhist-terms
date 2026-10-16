@@ -43,42 +43,63 @@ def shown(text):
 
 
 # ---------- script → timeline ----------
+SENT_GAP = 0.3  # between sentences of one text
+
+
+def sentences(text):
+    """Split English markup into sentences (each becomes its own clip, so the app can follow along)."""
+    text = ' '.join(text.split())
+    return [x for x in re.split(r'(?<=[.!?])\s+|(?<=[.!?]["”)])\s+', text) if x]
+
+
 def timeline(book, cfg=None):
     """List of segments; each has kind, metadata for the manifest, and clips to play in order.
-    Clip: ('skt', iast) | ('en', markup) | ('zh', text) | ('pause', seconds)."""
+    Clip: ('skt', iast) | ('en', markup) | ('zh', text) | ('spell', iast) | ('pause', seconds),
+    optionally with a third item: the index of the transcript cue (a line or sentence) it belongs to.
+    Segments with cues list their display texts in 'cues'; build() adds each cue's start and end."""
     cfg = cfg or DEFAULTS
     segs = []
     add = lambda kind, clips, **meta: segs.append(dict(kind=kind, clips=clips, **meta))
+
+    def said(text, first=0):
+        """Clips for an English text, one per sentence, numbered as cues from `first`."""
+        out, sents = [], sentences(text)
+        for k, x in enumerate(sents):
+            out += ([('pause', SENT_GAP)] if k else []) + [('en', x, first + k)]
+        return out, [shown(x) for x in sents]
+
     if book.get('intro'):
-        clips = [('en', book['intro'])] + ([('pause', 0.4), ('zh', book['intro_zh'])] if book.get('intro_zh') else [])
-        add('intro', clips, text=shown(book['intro']))
+        clips, cues = said(book['intro'])
+        clips += [('pause', 0.4), ('zh', book['intro_zh'])] if book.get('intro_zh') else []
+        add('intro', clips, text=shown(book['intro']), cues=cues)
     for si, sec in enumerate(book['sections'], 1):
         add('section', [('en', f"Part {si}: {sec['title_en']}."), ('pause', 0.4), ('zh', sec['title_zh'])],
             section=sec['id'], title_zh=sec['title_zh'], title_en=sec['title_en'])
         for v in sec['verses']:
             n = v['n']
-            reading = [('skt', v['lines'][0]), ('pause', 0.8), ('skt', v['lines'][1])]
+            reading = [('skt', v['lines'][0], 0), ('pause', 0.8), ('skt', v['lines'][1], 1)]
             if v.get('subhead'):
                 sh = v['subhead']
                 add('subhead', [('en', sh['en'] + '.'), ('pause', 0.4), ('zh', sh['zh'])],
                     section=sec['id'], title_zh=sh['zh'], title_en=shown(sh['en']))
             add('heading', [('en', f'Verse {n}.')], section=sec['id'], verse=n)
-            add('verse', reading, section=sec['id'], verse=n, lines=v['lines'])
+            add('verse', reading, section=sec['id'], verse=n, lines=v['lines'], cues=list(v['lines']))
             for wi, w in enumerate(v['words']):
-                spell = [('spell', w['skt']), ('pause', 0.6)] if cfg['spell'] else []
-                add('word', spell + [('skt', w['skt']), ('pause', 0.5), ('en', w['en']), ('pause', 0.35), ('zh', w['zh']),
-                             ('pause', 0.6), ('en', w['note'])],
+                head = ([('spell', w['skt'], 0), ('pause', 0.6)] if cfg['spell'] else []) + [
+                    ('skt', w['skt'], 0), ('pause', 0.5), ('en', w['en'], 0), ('pause', 0.35), ('zh', w['zh'], 0), ('pause', 0.6)]
+                note, cues = said(w['note'], 1)
+                add('word', head + note,
                     section=sec['id'], verse=n, word=wi, skt=w['skt'], form=w.get('form', w['skt']),
-                    en=shown(w['en']), zh=w['zh'], note=shown(w['note']))
-            add('grammar', [('en', 'The verse as a whole.'), ('pause', 0.5), ('en', v['grammar'])],
-                section=sec['id'], verse=n, text=shown(v['grammar']))
-            add('translation', [('en', 'Translation.'), ('pause', 0.5), ('en', v['translation'])],
-                section=sec['id'], verse=n, text=shown(v['translation']))
+                    en=shown(w['en']), zh=w['zh'], note=shown(w['note']), cues=[None] + cues)
+            for kind, label in (('grammar', 'The verse as a whole.'), ('translation', 'Translation.')):
+                clips, cues = said(v[kind])
+                add(kind, [('en', label), ('pause', 0.5)] + clips, section=sec['id'], verse=n, text=shown(v[kind]), cues=cues)
             if v.get('xuanzang'):
                 zh = ''.join(q['text'] for q in v['xuanzang'])
-                add('xuanzang', [('en', "Xuanzang's Chinese."), ('pause', 0.5), ('zh', zh)],
-                    section=sec['id'], verse=n, text=zh, refs=[{k: q[k] for k in ('ref', 'refEnd') if k in q} for q in v['xuanzang']])
-            add('repeat', reading, section=sec['id'], verse=n, lines=v['lines'])
+                add('xuanzang', [('en', "Xuanzang's Chinese."), ('pause', 0.5), ('zh', zh, 0)],
+                    section=sec['id'], verse=n, text=zh, cues=[zh],
+                    refs=[{k: q[k] for k in ('ref', 'refEnd') if k in q} for q in v['xuanzang']])
+            add('repeat', reading, section=sec['id'], verse=n, lines=v['lines'], cues=list(v['lines']))
     return segs
 
 
@@ -86,7 +107,7 @@ def skt_units(segs):
     """Every Sanskrit string to synthesize: verse lines, words, and {inline} words in English text."""
     units = {}
     for s in segs:
-        for kind, x in s['clips']:
+        for kind, x, *_ in s['clips']:
             if kind == 'skt':
                 units[x] = 'line' if s['kind'] in ('verse', 'repeat') else 'word'
             elif kind == 'en':
@@ -253,7 +274,7 @@ def ssml(kind, text, cfg, cache=None):
 def tts_jobs(segs, cache, cfg):
     jobs = {}
     for s in segs:
-        for kind, x in s['clips']:
+        for kind, x, *_ in s['clips']:
             if kind in ('en', 'zh', 'spell'):
                 doc = ssml(kind, x, cfg, cache)
                 jobs[h(doc)] = doc
@@ -354,7 +375,7 @@ def render_en(cache, cfg, text):
 
 
 def render(cache, cfg, clip):
-    kind, x = clip
+    kind, x = clip[:2]
     if kind == 'pause':
         return np.zeros(int(x * SR), np.float32)
     if kind == 'skt':
@@ -376,9 +397,20 @@ def build(book, segs, cache, cfg, outdir):
     outdir.mkdir(parents=True, exist_ok=True)
     pieces, t, manifest_segs = [], 0.0, []
     for i, s in enumerate(segs):
-        audio = np.concatenate([render(cache, cfg, c) for c in s['clips']])
+        parts, pos, cue_t = [], 0, {}
+        for c in s['clips']:
+            a = render(cache, cfg, c)
+            if len(c) > 2:  # this clip belongs to a transcript cue
+                lo, hi = cue_t.get(c[2], (pos, pos))
+                cue_t[c[2]] = (min(lo, pos), pos + len(a))
+            parts.append(a)
+            pos += len(a)
+        audio = np.concatenate(parts)
         meta = {k: v for k, v in s.items() if k != 'clips'}
         meta.update(i=i, start=round(t, 2), end=round(t + len(audio) / SR, 2))
+        if 'cues' in meta:
+            meta['cues'] = [dict(start=round(t + cue_t[k][0] / SR, 2), end=round(t + cue_t[k][1] / SR, 2), text=x)
+                            for k, x in enumerate(meta['cues'])]
         manifest_segs.append(meta)
         gap = PAUSE[s['kind']] if not (s['kind'] == 'word' and i + 1 < len(segs) and segs[i + 1]['kind'] != 'word') else 1.6
         pieces += [audio, np.zeros(int(gap * SR), np.float32)]
