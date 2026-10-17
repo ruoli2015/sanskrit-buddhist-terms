@@ -30,7 +30,18 @@ const auth = { apikey: KEY, ...(KEY.startsWith('eyJ') ? { Authorization: `Bearer
 const api = (path) => `${URL_}/storage/v1/${path}`;
 
 async function req(method, path, body, headers = {}) {
-  const res = await fetch(api(path), { method, headers: { ...auth, ...headers }, body });
+  // Retry dropped connections and server errors: large parts sometimes fail mid-upload (EPIPE).
+  let res;
+  for (let attempt = 1; ; attempt++) {
+    try {
+      res = await fetch(api(path), { method, headers: { ...auth, ...headers }, body });
+      if (res.status < 500 || attempt === 5) break;
+    } catch (e) {
+      if (attempt === 5) throw e;
+    }
+    process.stdout.write(`(retry ${attempt}) `);
+    await new Promise((r) => setTimeout(r, 2000 * attempt));
+  }
   if (!res.ok && !(method === 'GET' && (res.status === 400 || res.status === 404))) {
     throw new Error(`${method} ${path}: ${res.status} ${await res.text()}`);
   }
