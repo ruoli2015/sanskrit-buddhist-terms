@@ -1,0 +1,85 @@
+id: attraction-immeasurables
+title_zh: 四攝法與四無量心
+title_en: The four means of attraction and the four immeasurables
+terms: [ samgrahavastu, apramana, dana, priyavacana, arthacarya, samanarthata ]
+summary_zh: 四無量心（慈悲喜捨）是內在的心，遍緣無量眾生；四攝法（布施、愛語、利行、同事）是外在的行動，實際攝受眾生。
+summary_en: The four immeasurables (loving-kindness, compassion, joy, equanimity) are inner attitudes extended to countless beings; the four means of attraction (giving, kind speech, beneficial action, shared aims) are outward actions that actually draw beings in.
+table:
+  columns:
+    - { zh: 四無量心, en: Four immeasurables }
+    - { zh: 四攝法, en: Four means of attraction }
+  rows:
+    - label: { zh: 內容, en: Members }
+      cells:
+        - { zh: 慈、悲、喜、捨, en: 'Loving-kindness, compassion, joy, equanimity' }
+        - { zh: 布施、愛語、利行、同事, en: 'Giving, kind speech, beneficial action, shared aims' }
+    - label: { zh: 性質, en: Nature }
+      cells:
+        - { zh: 心（禪定中修）, en: Attitudes (cultivated in meditation) }
+        - { zh: 行（與人互動中修）, en: Actions (practised with others) }
+    - label: { zh: 共通性, en: Shared by }
+      cells:
+        - { zh: 外道亦修，生梵天, en: 'Also non-Buddhist; leads to Brahmā heavens' }
+        - { zh: 菩薩攝化眾生的方法, en: A bodhisattva method of guiding beings }
+explanation_zh: |
+  兩組都是四項、都關乎眾生，容易混淆。簡單地說：**四無量是心，四攝是行**。四無量心在禪定中培養，使慈悲遍滿十方；四攝法則把這份心落實在與人相處之中。
+
+  《維摩詰經》：「四攝法是菩薩淨土，菩薩成佛時，解脫所攝眾生來生其國。」
+
+  **共同成員**：四攝的「布施」也是六度的第一度。
+explanation_en: |
+  Both are sets of four concerned with beings, so they are easily confused. In short: **the immeasurables are attitudes, the means of attraction are actions**. The immeasurables are cultivated in meditation until kindness fills all directions; the means of attraction put that heart into practice with people.
+
+  Vimalakīrti-nirdeśa: "The four means of attraction are the bodhisattva's pure land; when the bodhisattva becomes a buddha, beings liberated by being attracted are born in that land."
+
+  **Shared member**: giving among the means of attraction is also the first perfection.
+quotes:
+  - text: 四攝法是菩薩淨土——菩薩成佛時，解脫所攝眾生來生其國；
+    source: 《維摩詰所說經》卷1
+    source_en: Vimalakīrti-nirdeśa, tr. Kumārajīva, fasc. 1
+    ref: T14n0475_p0538b14
+    refEnd: T14n0475_p0538b15
+    note_en: The four means of attraction are the bodhisattva's pure land; when the bodhisattva attains buddhahood, beings liberated through being gathered in are born in that land.
+questions:
+  - type: mcq
+    q_zh: 下列哪一項屬於四攝法？
+    q_en: Which of these is one of the four means of attraction?
+    options:
+      - { zh: 愛語, en: kind speech }
+      - { zh: 慈, en: loving-kindness }
+      - { zh: 捨, en: equanimity }
+    answer: 0
+    explain_zh: 四攝：布施、愛語、利行、同事。
+    explain_en: 'The four: giving, kind speech, beneficial action, shared aims.'
+  - type: mcq
+    q_zh: 「與眾生同其事業、以身作則」是？
+    q_en: '"Joining beings in their work and practising what one teaches" is…'
+    options:
+      - { zh: 同事, en: sharing the same aims }
+      - { zh: 利行, en: beneficial action }
+      - { zh: 喜, en: sympathetic joy }
+    answer: 0
+    explain_zh: 同事攝。
+    explain_en: Sharing the same aims.
+  - type: tf
+    q_zh: 四無量心是在禪定中培養的心，四攝法是與人相處中的行動。
+    q_en: The immeasurables are attitudes cultivated in meditation; the means of attraction are actions with others.
+    answer: true
+    explain_zh: 四無量是心，四攝是行。
+    explain_en: Immeasurables are attitudes; means of attraction are actions.
+  - type: mcq
+    q_zh: 四攝法與六度共有的一項是？
+    q_en: Which item is shared by the means of attraction and the six perfections?
+    options:
+      - { zh: 布施, en: giving }
+      - { zh: 愛語, en: kind speech }
+      - { zh: 忍辱, en: patience }
+    answer: 0
+    explain_zh: 布施是四攝之首，也是六度之首。
+    explain_en: Giving heads both lists.
+  - type: tf
+    q_zh: 四攝法是佛教以外的修行者也普遍修習、以求生梵天的法門。
+    q_en: The four means of attraction are commonly practised by non-Buddhists to reach the Brahmā heavens.
+    answer: false
+    explain_zh: 以修習生梵天著稱的是四無量心（四梵住）。
+    explain_en: That describes the four immeasurables (the "Brahmā abodes").

@@ -1,0 +1,99 @@
+id: manas-four-afflictions
+title_zh: 末那四惑：我癡、我見、我慢、我愛
+title_en: 'The four afflictions of manas: self-delusion, self-view, self-pride, self-love'
+terms: [ atma-moha, atma-drsti, atma-mana, atma-sneha, klista-manas ]
+summary_zh: 第七末那識恆緣第八識執為自我，恆與四根本煩惱相應：由我癡（無明）而起我見，依我見而有我慢、我愛。
+summary_en: Manas constantly takes the store consciousness as a self and is always joined with four root afflictions — from self-delusion (ignorance) comes self-view, and from self-view self-pride and self-love.
+table:
+  columns:
+    - { zh: 我癡, en: Self-delusion }
+    - { zh: 我見, en: Self-view }
+    - { zh: 我慢, en: Self-pride }
+    - { zh: 我愛, en: Self-love }
+  rows:
+    - label: { zh: 心所, en: Mental factor }
+      cells:
+        - { zh: 無明（癡）, en: Ignorance }
+        - { zh: 惡見（薩迦耶見）, en: Wrong view (personality view) }
+        - { zh: 慢, en: Pride }
+        - { zh: 貪, en: Greed }
+    - label: { zh: 作用, en: Function }
+      cells:
+        - { zh: 愚於我相、迷無我理, en: Blind to non-self }
+        - { zh: 於非我法妄計為我, en: Taking non-self as self }
+        - { zh: 恃所執我、令心高舉, en: Lifted up by the self }
+        - { zh: 於所執我深生耽著, en: Clinging to the self }
+explanation_zh: |
+  《唯識三十頌》說末那識「四煩惱常俱，謂我癡、我見、并我慢、我愛」。四者以我癡為根本：不明無我之理，才會執有我（我見）；有了我，才會恃我高舉（我慢）、愛著自我（我愛）。
+
+  **為何只有四種**：末那識恆時向內緣第八識為我，不緣外境，所以不起瞋；我見決定而不猶豫，所以沒有疑；既已執我，不再起邊見、邪見等其餘的見。
+
+  **恆時相續**：這四惑是有覆無記，從無始以來不斷，即使第六識起善心也仍在，使凡夫的善行都帶有我執的染污（有漏）。唯有阿羅漢位、滅盡定與出世道中才不現行。
+explanation_en: |
+  The Thirty Verses say manas "is always accompanied by four afflictions: self-delusion, self-view, self-pride and self-love". Self-delusion is the root: not understanding non-self, one grasps a self (self-view); having a self, one is lifted up by it (self-pride) and clings to it (self-love).
+
+  **Why only four**: manas always turns inward to the store consciousness as its self and takes no external object, so it has no aversion; its self-view is settled and unwavering, so it has no doubt; having grasped a self, it raises no further views.
+
+  **Constant**: the four are obscured-neutral and run unbroken from beginningless time, even while mental consciousness is wholesome — so ordinary beings' good deeds are still tinged with self-grasping (contaminated). They cease only for the arhat, in the attainment of cessation, and on the supramundane path.
+quotes:
+  - text: 四煩惱常俱，謂我癡、我見、并我慢、我愛
+    source: 《唯識三十論頌》
+    source_en: Triṃśikā (Thirty Verses)
+    ref: T31n1586_p0060b12
+    refEnd: T31n1586_p0060b13
+    note_en: Always accompanied by the four afflictions — self-delusion, self-view, together with self-pride and self-love.
+questions:
+  - type: mcq
+    q_zh: 末那四惑中，其餘三者所依的根本是？
+    q_en: Which of the four afflictions of manas is the root of the other three?
+    options:
+      - { zh: 我癡, en: self-delusion }
+      - { zh: 我見, en: self-view }
+      - { zh: 我慢, en: self-pride }
+      - { zh: 我愛, en: self-love }
+    answer: 0
+    explain_zh: 不明無我之理（我癡），才會執我、恃我、愛我。
+    explain_en: Only by not understanding non-self (self-delusion) does one grasp, exalt and love a self.
+  - type: mcq
+    q_zh: 下列哪一項不與末那識相應？
+    q_en: Which of these does not accompany manas?
+    options:
+      - { zh: 我慢, en: self-pride }
+      - { zh: 我愛, en: self-love }
+      - { zh: 瞋, en: aversion }
+      - { zh: 我癡, en: self-delusion }
+    answer: 2
+    explain_zh: 末那恆緣內我、不緣外境，無可瞋之境。
+    explain_en: Manas takes only the inner self as object, so there is nothing to be averse to.
+  - type: mcq
+    q_zh: 「恃所執我，令心高舉」是指？
+    q_en: '"Relying on the grasped self, the mind lifts itself up" describes…'
+    options:
+      - { zh: 我見, en: self-view }
+      - { zh: 我慢, en: self-pride }
+      - { zh: 我愛, en: self-love }
+    answer: 1
+    explain_zh: 《成唯識論》：「我慢者：謂倨傲，恃所執我，令心高舉。」
+    explain_en: 'Cheng weishi lun: "Self-pride is arrogance: relying on the grasped self, the mind lifts itself up."'
+  - type: tf
+    q_zh: 末那識的我慢，必須與他人比較才會生起。
+    q_en: The self-pride of manas arises only by comparing oneself with others.
+    answer: false
+    explain_zh: 它是「有我」一念本身的高舉，不需比較對象；這與六根本煩惱中一般的慢不同。
+    explain_en: It is the elevation inherent in "I am" itself, needing no comparison — unlike ordinary pride among the root afflictions.
+  - type: tf
+    q_zh: 凡夫第六識起善心時，末那的四煩惱仍然相續。
+    q_en: When an ordinary person's mental consciousness is wholesome, the four afflictions of manas still continue.
+    answer: true
+    explain_zh: 四惑恆時相續，所以凡夫的善仍是有漏。
+    explain_en: They run constantly, which is why ordinary beings' wholesome acts remain contaminated.
+  - type: mcq
+    q_zh: 我愛相當於哪一個根本煩惱？
+    q_en: Self-love corresponds to which root affliction?
+    options:
+      - { zh: 貪, en: greed }
+      - { zh: 慢, en: pride }
+      - { zh: 無明, en: ignorance }
+    answer: 0
+    explain_zh: 《成唯識論》：「我愛者：謂我貪。」
+    explain_en: 'Cheng weishi lun: "Self-love is self-greed."'

@@ -1,0 +1,103 @@
+id: three-realms
+title_zh: 三界與四無色處
+title_en: The three realms and the four formless spheres
+terms: [ traidhatuka, kamadhatu, rupadhatu, arupyadhatu, akasanantyayatana, akasa ]
+summary_zh: 欲界有欲有色身；色界離欲而有微妙色身，依四禪而生；無色界無色身、無處所，依四無色定而生。空無邊處是無色定，不是虛空無為。
+summary_en: The desire realm has desire and coarse bodies; the form realm is free of desire with subtle bodies, reached by the four dhyānas; the formless realm has no body and no location, reached by the formless attainments. The sphere of infinite space is a formless attainment, not unconditioned space.
+table:
+  columns:
+    - { zh: 欲界, en: Desire realm }
+    - { zh: 色界, en: Form realm }
+    - { zh: 無色界, en: Formless realm }
+  rows:
+    - label: { zh: 欲, en: Desire }
+      cells:
+        - { zh: 有食欲、婬欲, en: Food and sex }
+        - { zh: 已離, en: Abandoned }
+        - { zh: 已離, en: Abandoned }
+    - label: { zh: 色身, en: Body }
+      cells:
+        - { zh: 粗重, en: Coarse }
+        - { zh: 微妙清淨, en: Subtle and pure }
+        - { zh: 無, en: None }
+    - label: { zh: 所依定, en: Attainment }
+      cells:
+        - { zh: 散心（非定地）, en: None (scattered mind) }
+        - { zh: 四禪, en: Four dhyānas }
+        - { zh: 四無色定, en: Four formless attainments }
+    - label: { zh: 處數（俱舍頌）, en: 'Places (Kośa verse)' }
+      cells:
+        - { zh: 二十處, en: Twenty }
+        - { zh: 十七處, en: Seventeen }
+        - { zh: 無處，由生分四, en: 'No place; four by birth' }
+explanation_zh: |
+  《俱舍論》：「地獄傍生鬼，人及六欲天，名欲界二十」；「此上十七處，名色界」；「無色界無處，由生有四種」。
+
+  **四無色處**：空無邊處、識無邊處、無所有處、非想非非想處。它們既指四種定，也指修定所生的四種生處；最高的非想非非想處稱「有頂」。
+
+  **名稱陷阱**：空無邊處（ākāśānantyāyatana）是有為的定與生處；虛空無為（ākāśa）是無為法；色法中還有「空界色」（明暗等）。三者都帶「空」字，含義全然不同。
+explanation_en: |
+  Abhidharmakośa: "Hells, animals, ghosts, humans and the six desire heavens are the twenty of the desire realm"; "above these, seventeen places are the form realm"; "the formless realm has no place; by birth it is fourfold."
+
+  **Four formless spheres**: infinite space, infinite consciousness, nothingness, and neither perception nor non-perception. Each names both an attainment and the realm it leads to; the highest is the "peak of existence".
+
+  **Naming trap**: the sphere of infinite space is a conditioned attainment and realm; unconditioned space (ākāśa) is an unconditioned dharma; and among material dharmas there is also the "space element" (light and dark). All use "space" with entirely different meanings.
+quotes:
+  - text: 無色界無處，由生有四種
+    source: 《阿毘達磨俱舍論》卷8
+    source_en: Abhidharmakośabhāṣya, fasc. 8
+    ref: T29n1558_p0040c29
+    note_en: The formless realm has no place; by way of birth it is of four kinds.
+questions:
+  - type: mcq
+    q_zh: 依四禪而生的是？
+    q_en: Birth through the four dhyānas is in the…
+    options:
+      - { zh: 欲界, en: desire realm }
+      - { zh: 色界, en: form realm }
+      - { zh: 無色界, en: formless realm }
+    answer: 1
+    explain_zh: 色界依四禪分十七處。
+    explain_en: The form realm is divided by the four dhyānas into seventeen places.
+  - type: tf
+    q_zh: 無色界的四天在須彌山上方依次排列。
+    q_en: The four formless heavens are stacked in space above Mount Sumeru.
+    answer: false
+    explain_zh: 「無色界無處」——沒有色法就沒有方位處所。
+    explain_en: '"The formless realm has no place" — with no matter there is no location.'
+  - type: mcq
+    q_zh: 「空無邊處」與「虛空無為」的關係是？
+    q_en: How are the sphere of infinite space and unconditioned space related?
+    options:
+      - { zh: 同一法的兩種名稱, en: two names for one dharma }
+      - { zh: 前者有為（定與生處），後者無為, en: 'the first is conditioned, the second unconditioned' }
+      - { zh: 都是色法, en: both are material }
+    answer: 1
+    explain_zh: 空無邊處是無色定；虛空無為是六無為之一。
+    explain_en: The first is a formless attainment; the second one of the six unconditioned dharmas.
+  - type: mcq
+    q_zh: 三界中最高的「有頂」是？
+    q_en: The "peak of existence", the top of the three realms, is…
+    options:
+      - { zh: 他化自在天, en: the Paranirmitavaśavartin heaven }
+      - { zh: 色究竟天, en: the Akaniṣṭha heaven }
+      - { zh: 非想非非想處, en: the sphere of neither perception nor non-perception }
+    answer: 2
+    explain_zh: 非想非非想處是三界之頂。
+    explain_en: Neither perception nor non-perception is the summit of the three realms.
+  - type: mcq
+    q_zh: 人道屬於哪一界？
+    q_en: The human destiny belongs to the…
+    options:
+      - { zh: 欲界, en: desire realm }
+      - { zh: 色界, en: form realm }
+      - { zh: 無色界, en: formless realm }
+    answer: 0
+    explain_zh: 「地獄傍生鬼，人及六欲天，名欲界二十」。
+    explain_en: '"Hells, animals, ghosts, humans and the six desire heavens are the twenty of the desire realm."'
+  - type: tf
+    q_zh: 生到非想非非想處就已經解脫輪迴。
+    q_en: Birth in the sphere of neither perception nor non-perception is liberation from saṃsāra.
+    answer: false
+    explain_zh: 仍有煩惱種子，報盡還會退墮；佛陀也因此離開鬱陀羅羅摩子。
+    explain_en: Affliction-seeds remain and one falls back when the result ends; this is why the Buddha left Udraka Rāmaputra.

@@ -1,0 +1,237 @@
+# 常用名相（三）
+
+- id: mantra
+  skt: mantra
+  deva: मन्त्र
+  pali: manta
+  zh: 咒
+  zhAlt: [ 真言, 神咒, 密咒, 曼怛羅 ]
+  en: mantra
+  enAlt: [ incantation, spell, sacred formula, true word ]
+  root: √man「思惟」＋ -tra「工具」：「思惟的工具」 · √man "to think" + -tra "instrument"
+  short_zh: 具有神聖力量、持誦以護持或修證的語句；密教稱「真言」。
+  short_en: Mantra — a sacred formula recited for protection or realization; esoteric Buddhism calls it "true word".
+  detail_zh: |
+    mantra 字面是「思惟的工具」。佛教吸收了印度的咒語傳統，大乘經典多有咒語，密教更以三密（身印、口咒、意觀）為核心，稱咒為「真言」。
+
+    《心經》稱般若波羅蜜多「是大神咒，是大明咒，是無上咒，是無等等咒」，接著說出「揭帝揭帝」的咒語——這裡的「咒」就是 mantra。
+
+    **與陀羅尼**：陀羅尼原指憶持不忘的能力，後來長咒多稱陀羅尼、短咒稱真言，兩者界線並不嚴格。
+  detail_en: |
+    Mantra literally means "instrument of thought". Buddhism absorbed the Indian tradition of sacred formulas; Mahāyāna sūtras contain many, and esoteric Buddhism centres on the three secrets (mudrā, mantra, visualization), calling mantra "true word".
+
+    The Heart Sūtra calls the perfection of wisdom "the great divine mantra, the great bright mantra, the unsurpassed mantra, the unequalled mantra", then gives the mantra gate gate … — here 咒 is mantra.
+
+    **And dhāraṇī**: dhāraṇī first meant the power to retain without forgetting; later, long formulas were often called dhāraṇī and short ones mantra, though the line is loose.
+  quotes:
+    - text: 是大神咒、是大明咒、是無上咒、是無等等咒
+      source: 《般若波羅蜜多心經》
+      source_en: Heart Sūtra, tr. Xuanzang
+      ref: T08n0251_p0848c17
+      refEnd: T08n0251_p0848c18
+      note_en: It is the great divine mantra, the great bright mantra, the unsurpassed mantra, the unequalled mantra.
+  related: [ dharani, prajna, sutra ]
+  compare: [ mantra-dharani ]
+
+- id: dharani
+  skt: dhāraṇī
+  deva: धारणी
+  pali: ''
+  zh: 陀羅尼
+  zhAlt: [ 總持, 持, 陀羅尼咒 ]
+  en: dhāraṇī
+  enAlt: [ dharani, retention, mnemonic formula, total retention, spell ]
+  root: √dhṛ「持」 · √dhṛ "to hold, retain"
+  short_zh: 意譯「總持」：能持善法不失、遮惡法不生的力量；後來多指較長的咒語。
+  short_en: 'Dhāraṇī — "total retention": the power to hold good qualities without losing them and to block evil ones; later mostly a longer spell.'
+  detail_zh: |
+    《大智度論》：「陀羅尼，秦言能持，或言能遮。」能持——集種種善法，持令不散失；能遮——惡不善心生起時，能遮令不生。
+
+    陀羅尼原是菩薩的一種記憶與定慧的能力（如聞持陀羅尼，聽聞即能憶持不忘），後來凝縮為咒句的形式，如《大悲咒》（《千手千眼觀世音菩薩大悲心陀羅尼》）。
+  detail_en: |
+    Dazhidu lun: "Dhāraṇī means, in the Qin language, 'able to hold', or 'able to block'." Holding — gathering good qualities and keeping them from scattering; blocking — when unwholesome minds arise, preventing them.
+
+    Dhāraṇī was originally a bodhisattva's power of memory, concentration and wisdom (such as retaining whatever one hears); later it condensed into spell form, as in the Great Compassion Dhāraṇī of Avalokiteśvara.
+  quotes:
+    - text: 『陀羅尼』，秦言能持，或言能遮。
+      source: 《大智度論》卷5
+      source_en: Dazhidu lun (*Mahāprajñāpāramitāśāstra), fasc. 5
+      ref: T25n1509_p0095c10
+      refEnd: T25n1509_p0095c11
+      note_en: Dhāraṇī, in the Qin language, means "able to hold", or "able to block".
+  related: [ mantra, smrti, bodhisattva ]
+  compare: [ mantra-dharani ]
+
+- id: stupa
+  skt: stūpa
+  deva: स्तूप
+  pali: thūpa
+  zh: 塔
+  zhAlt: [ 窣堵波, 浮圖, 佛塔, 塔婆, 舍利塔 ]
+  en: stupa
+  enAlt: [ reliquary mound, pagoda, relic monument, chorten ]
+  root: 原義「頂髻、土堆」 · originally "topknot, mound"
+  short_zh: 供奉佛陀或聖者舍利的紀念建築；中國的「塔」即源於此。
+  short_en: Stūpa — a monument enshrining relics of the Buddha or a noble one; the Chinese pagoda derives from it.
+  detail_zh: |
+    stūpa 音譯「窣堵波」「塔婆」，簡稱「塔」。佛陀入滅後，舍利分為八份，各地起塔供養。《長阿含經·遊行經》說天下有四種人應得起塔：如來、辟支佛、聲聞、轉輪聖王。
+
+    **塔與支提**：有舍利者名塔（stūpa），無舍利者名支提（caitya），但後世常混用。中國的塔融合了印度窣堵波與本土樓閣建築。
+  detail_en: |
+    Stūpa is transliterated 窣堵波 or 塔婆, shortened to 塔. After the Buddha's passing his relics were divided into eight portions and stūpas built for them. The Dīrghāgama says four kinds of persons deserve a stūpa: a tathāgata, a solitary buddha, a disciple and a wheel-turning king.
+
+    **Stūpa and caitya**: a monument with relics is a stūpa, one without a caitya, though later usage mixes them. The Chinese pagoda blends the Indian stūpa with native tower architecture.
+  quotes:
+    - text: 天下有四種人，應得起塔，香花繒蓋，伎樂供養。
+      source: 《長阿含經》卷3
+      source_en: Dīrghāgama, fasc. 3
+      ref: T01n0001_p0020b21
+      refEnd: T01n0001_p0020b22
+      note_en: There are four kinds of persons in the world for whom stūpas should be raised.
+  related: [ buddha, arhat, punya, pratyekabuddha ]
+
+- id: prthagjana
+  skt: pṛthagjana
+  deva: पृथग्जन
+  pali: puthujjana
+  zh: 凡夫
+  zhAlt: [ 異生, 凡人, 凡愚 ]
+  en: ordinary being
+  enAlt: [ worldling, ordinary person, common person, puthujjana ]
+  root: pṛthak「各別、分離」＋ jana「人」 · pṛthak "separate, various" + jana "person"
+  short_zh: 尚未證得見道、未入聖位的眾生；玄奘譯「異生」，因其隨業受種種異類之生。
+  short_en: Ordinary being — one who has not reached the path of seeing and is not yet noble. Xuanzang renders it 異生 "variously born", since such beings take many kinds of birth through karma.
+  detail_zh: |
+    pṛthag-jana 字面是「各別的人、眾人」。玄奘譯「異生」，意指隨業受報、生於種種不同的生類；舊譯「凡夫」。凡夫與聖者的分界在見道（初果或菩薩初地）。
+
+    《金剛經》：「如來說有我者，則非有我，而凡夫之人以為有我。須菩提！凡夫者，如來說則非凡夫。」凡夫也只是假名，沒有固定不變的凡夫自性，所以人人都可轉凡成聖。
+  detail_en: |
+    Pṛthag-jana literally means "separate people, the many". Xuanzang's 異生 is explained as "taking various kinds of birth according to karma"; the older rendering is 凡夫. The line between ordinary and noble is the path of seeing (stream-entry or the first bhūmi).
+
+    Diamond Sūtra: "When the Tathāgata speaks of a self, there is no self, yet ordinary beings take there to be one. Subhūti, as for ordinary beings, the Tathāgata says they are not ordinary beings." "Ordinary being" is only a designation with no fixed nature, so anyone can become noble.
+  quotes:
+    - text: 如來說有我者，則非有我，而凡夫之人以為有我。須菩提！凡夫者，如來說則非凡夫。
+      source: 《金剛般若波羅蜜經》
+      source_en: Vajracchedikā (Diamond Sūtra), tr. Kumārajīva
+      ref: T08n0235_p0752a08
+      refEnd: T08n0235_p0752a10
+      note_en: Subhūti, when the Tathāgata speaks of a self, there is no self, yet ordinary beings take there to be a self. Subhūti, as for ordinary beings, the Tathāgata says they are not ordinary beings.
+  related: [ prthagjanatva, darsana-marga, srotaapanna, arhat ]
+
+- id: samyojana
+  skt: saṃyojana
+  deva: संयोजन
+  pali: saṃyojana
+  zh: 結
+  zhAlt: [ 三結, 五下分結, 五上分結, 十結, 結使 ]
+  en: fetter
+  enAlt: [ fetters, bond, three fetters, ten fetters, samyojana ]
+  root: sam-√yuj「綁縛在一起」 · sam-√yuj "to yoke together"
+  short_zh: 把眾生繫縛在輪迴中的煩惱；斷三結證初果，斷五下分結證三果，斷五上分結證阿羅漢。
+  short_en: Fetter — afflictions binding beings to saṃsāra. Cutting three fetters is stream-entry, cutting the five lower is non-return, cutting the five higher is arhatship.
+  detail_zh: |
+    **三結**：身見、戒禁取、疑——斷此三結即證須陀洹（初果）。
+
+    **五下分結**（繫縛於欲界）：身見、戒禁取、疑、欲貪、瞋恚；斷盡證阿那含。**五上分結**（繫縛於色、無色界）：色貪、無色貪、掉舉、慢、無明；斷盡證阿羅漢。
+
+    《俱舍論》另有「九結」（愛、恚、慢、無明、見、取、疑、嫉、慳）的分類。
+  detail_en: |
+    **Three fetters**: personality view, attachment to rules and rituals, and doubt — cutting these is stream-entry.
+
+    **Five lower fetters** (binding to the desire realm): personality view, attachment to rules and rituals, doubt, sensual desire and ill will; ending them is non-return. **Five higher fetters** (binding to the form and formless realms): desire for form, desire for the formless, restlessness, conceit and ignorance; ending them is arhatship.
+
+    The Abhidharmakośa also lists "nine fetters" (attachment, aversion, pride, ignorance, views, holding, doubt, envy, miserliness).
+  quotes:
+    - text: 謂身見、戒取、疑。
+      source: 《雜阿含經》卷3（第61經）
+      source_en: Saṃyuktāgama, fasc. 3, sūtra 61
+      ref: T02n0099_p0016a12
+      note_en: Namely personality view, attachment to rules, and doubt.
+  related: [ satkaya-drsti, silavrata-paramarsa, vicikitsa, srotaapanna, anagamin, arhat, anusaya ]
+  compare: [ klesa-anusaya ]
+
+- id: lokadhatu
+  skt: lokadhātu
+  deva: लोकधातु
+  pali: lokadhātu
+  zh: 世界
+  zhAlt: [ 三千大千世界, 小千世界, 大千世界, 世間 ]
+  en: world-system
+  enAlt: [ world system, world, universe, trichiliocosm, great trichiliocosm ]
+  root: loka「世間」＋ dhātu「界」 · loka "world" + dhātu "realm"
+  short_zh: 以須彌山為中心、四大洲圍繞的一個世界；一千個為小千，小千的千倍為中千，中千的千倍為三千大千世界，即一佛所化之境。
+  short_en: World-system — one world centred on Mount Sumeru with four continents; a thousand make a small chiliocosm, a thousand of those a medium, a thousand of those a great trichiliocosm — the field of one buddha.
+  detail_zh: |
+    《俱舍論》：「四大洲日月，蘇迷盧欲天，梵世各一千，名一小千界。」一個世界包括須彌山（蘇迷盧）、四大洲、日月、欲界天與初禪梵天；一千個這樣的世界為小千世界，再乘一千為中千，再乘一千為大千——因有三個「千」，稱三千大千世界。
+
+    「世界」一詞：世是時間（遷流），界是空間（方位）。
+  detail_en: |
+    Abhidharmakośa: "Four continents, sun and moon, Sumeru, the desire heavens and the Brahmā world — a thousand of each make one small chiliocosm." One world includes Mount Sumeru, four continents, sun and moon, the desire heavens and the first-dhyāna Brahmā heaven; a thousand form a small chiliocosm, a thousand of those a medium, a thousand of those a great one — three "thousands", hence "trichiliocosm".
+
+    In the Chinese word 世界, 世 is time (flowing) and 界 is space (directions).
+  quotes:
+    - text: 四大洲日月，蘇迷盧欲天，梵世各一千，名一小千界；
+      source: 《阿毘達磨俱舍論》卷11
+      source_en: Abhidharmakośabhāṣya, fasc. 11
+      ref: T29n1558_p0061a05
+      refEnd: T29n1558_p0061a06
+      note_en: The four continents, sun and moon, Sumeru, the desire heavens and the Brahmā world — a thousand of each is called one small chiliocosm.
+  related: [ buddhaksetra, traidhatuka, kalpa, yojana ]
+
+- id: saiksa
+  skt: śaikṣa
+  deva: शैक्ष
+  pali: sekha
+  zh: 有學
+  zhAlt: [ 學, 學人 ]
+  en: trainee
+  enAlt: [ learner, one in training, sekha, noble trainee ]
+  root: √śikṣ「學習」 · √śikṣ "to learn, train"
+  short_zh: 已見道、入聖位，但仍須修學斷惑的聖者：前三果及阿羅漢向。
+  short_en: 'Trainee — a noble one who has seen the path but still has training to do to cut afflictions: the first three fruits and those on the way to arhatship.'
+  detail_zh: |
+    śaikṣa 意為「仍在學習者」。須陀洹、斯陀含、阿那含三果，以及四向中的前四向與阿羅漢向，都是有學。所學的是戒、定、慧三學。
+
+    **注意**：有學是聖者，不是凡夫；凡夫尚未見道，連「有學」都還不算。
+  detail_en: |
+    Śaikṣa means "one still training". Stream-enterers, once-returners and non-returners, and those on the way to these and to arhatship, are trainees. What they train in is the three trainings.
+
+    **Note**: a trainee is already noble; an ordinary being has not yet seen the path and is not even a trainee.
+  quotes:
+    - text: 云何有學？幾是有學？為何義故觀有學耶？謂求解脫者所有善法，是有學義。
+      source: 《大乘阿毘達磨雜集論》卷4
+      source_en: Abhidharmasamuccaya-vyākhyā, fasc. 4
+      ref: T31n1606_p0710c17
+      refEnd: T31n1606_p0710c18
+      note_en: What is "trainee"? … The wholesome dharmas of one seeking liberation — this is the meaning of trainee.
+  related: [ asaiksa, srotaapanna, sakrdagamin, anagamin, sila ]
+  compare: [ four-fruits ]
+
+- id: asaiksa
+  skt: aśaikṣa
+  deva: अशैक्ष
+  pali: asekha
+  zh: 無學
+  zhAlt: [ 無學位, 無學果 ]
+  en: adept
+  enAlt: [ one beyond training, no more learning, asekha, beyond training ]
+  root: a「無」＋ śaikṣa「學」 · a + śaikṣa "beyond training"
+  short_zh: 斷盡煩惱、所作已辦、無須再學的聖者，即阿羅漢果（大乘中亦指佛果）。
+  short_en: 'Adept — a noble one who has ended the afflictions, done what was to be done and needs no further training: the arhat (in Mahāyāna, also a buddha).'
+  detail_zh: |
+    aśaikṣa 意為「不再需要學習」。阿羅漢「我生已盡，梵行已立，所作已作，自知不受後有」，戒定慧三學已經圓滿，故稱無學。
+
+    **大乘的觀點**：唯識五位的究竟位也稱無學道；二乘的無學在大乘看來仍未究竟，因為所知障未斷。
+  detail_en: |
+    Aśaikṣa means "no longer needing to train". The arhat knows: "My births are ended, the holy life has been lived, what was to be done is done; I will not experience a further existence" — the three trainings are complete, hence "beyond training".
+
+    **Mahāyāna view**: the culmination stage of Yogācāra is also called the path of no more training; the adepthood of the two vehicles is not final from the Mahāyāna standpoint, since the cognitive obstruction remains.
+  quotes:
+    - text: 我生已盡，梵行已立，所作已作，自知不受後有。
+      source: 《雜阿含經》卷1（第1經）
+      source_en: Saṃyuktāgama, fasc. 1, sūtra 1
+      ref: T02n0099_p0001a13
+      refEnd: T02n0099_p0001a14
+      note_en: My births are ended, the holy life has been lived, what was to be done is done; I will not experience a further existence.
+  related: [ saiksa, arhat, nistha-avastha ]
+  compare: [ four-fruits ]

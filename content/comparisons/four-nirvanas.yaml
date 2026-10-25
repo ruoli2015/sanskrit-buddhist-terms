@@ -1,0 +1,97 @@
+id: four-nirvanas
+title_zh: 四種涅槃
+title_en: The four kinds of nirvāṇa
+terms: [ nirvana, prakrti-nirvana, sopadhisesa-nirvana, nirupadhisesa-nirvana, apratisthita-nirvana ]
+summary_zh: 唯識依同一真如立四種涅槃：本來清淨（人人本具）、有餘依（斷煩惱而身在）、無餘依（身亦滅）、無住處（斷所知障，悲智不住兩邊）。
+summary_en: Yogācāra names four nirvāṇas on the one suchness — naturally pure (innate in all), with remainder (afflictions ended, body remains), without remainder (body also gone), and non-abiding (cognitive obstruction cut; compassion and wisdom dwelling in neither extreme).
+table:
+  columns:
+    - { zh: 本來自性清淨, en: Naturally pure }
+    - { zh: 有餘依, en: With remainder }
+    - { zh: 無餘依, en: Without remainder }
+    - { zh: 無住處, en: Non-abiding }
+  rows:
+    - label: { zh: 所出障, en: Freed from }
+      cells:
+        - { zh: —（本性清淨）, en: — (pure by nature) }
+        - { zh: 煩惱障, en: Afflictive obstruction }
+        - { zh: 煩惱障及生死苦依, en: Afflictions and the remaining body }
+        - { zh: 所知障, en: Cognitive obstruction }
+    - label: { zh: 具有者, en: Possessed by }
+      cells:
+        - { zh: 一切有情, en: All beings }
+        - { zh: 二乘無學、佛, en: Arhats and buddhas }
+        - { zh: 二乘（命終）、佛, en: 'Arhats at death; buddhas' }
+        - { zh: 唯佛, en: Buddhas only }
+explanation_zh: |
+  《成唯識論》：「涅槃義別略有四種。」早期阿含與《俱舍論》只說有餘依、無餘依兩種；唯識加上本來自性清淨涅槃與無住處涅槃，成為四種。
+
+  **誰有幾種**：凡夫只有第一種（本具而未證）；二乘有前三種；佛四種具足。「無餘依」對佛而言是說苦依已盡，雖然示現化身，實際已無生死苦。
+
+  **無住處涅槃**的特色是「大悲、般若常所輔翼」——因般若不住生死，因大悲不住涅槃。
+explanation_en: |
+  Cheng weishi lun: "Nirvāṇa is of four kinds." The Āgamas and Abhidharmakośa speak only of nirvāṇa with and without remainder; Yogācāra adds naturally pure and non-abiding nirvāṇa.
+
+  **Who has which**: ordinary beings have only the first (innate but unrealized); the two vehicles the first three; buddhas all four. For a buddha "without remainder" means the basis of suffering is gone, even while emanation bodies appear.
+
+  **Non-abiding nirvāṇa** is "always supported by great compassion and wisdom" — wisdom keeps one from dwelling in saṃsāra, compassion from dwelling in nirvāṇa.
+quotes:
+  - text: 四、無住處涅槃，謂即真如出所知障，大悲般若常所輔翼。由斯不住生死涅槃，利樂有情，窮未來際，用而常寂，故名涅槃。
+    source: 《成唯識論》卷10
+    source_en: Cheng weishi lun, fasc. 10
+    ref: T31n1585_p0055b16
+    refEnd: T31n1585_p0055b19
+    note_en: Fourth, non-abiding nirvāṇa — suchness emerged from the cognitive obstruction, always assisted by great compassion and wisdom; therefore it abides neither in saṃsāra nor nirvāṇa, benefiting beings to the end of the future, active yet ever tranquil, hence it is called nirvāṇa.
+questions:
+  - type: mcq
+    q_zh: 凡夫也具有的是哪一種涅槃？
+    q_en: Which nirvāṇa do even ordinary beings have?
+    options:
+      - { zh: 本來自性清淨涅槃, en: naturally pure nirvāṇa }
+      - { zh: 有餘依涅槃, en: nirvāṇa with remainder }
+      - { zh: 無住處涅槃, en: non-abiding nirvāṇa }
+    answer: 0
+    explain_zh: 「一切有情平等共有」，只是未證。
+    explain_en: '"Shared equally by all beings" — only unrealized.'
+  - type: mcq
+    q_zh: 無住處涅槃是出離哪一種障所顯？
+    q_en: Non-abiding nirvāṇa is suchness freed from which obstruction?
+    options:
+      - { zh: 煩惱障, en: the afflictive obstruction }
+      - { zh: 所知障, en: the cognitive obstruction }
+      - { zh: 五蓋, en: the five hindrances }
+    answer: 1
+    explain_zh: 「謂即真如出所知障」。
+    explain_en: '"Suchness emerged from the cognitive obstruction."'
+  - type: tf
+    q_zh: 阿含與《俱舍論》也立四種涅槃。
+    q_en: The Āgamas and Abhidharmakośa also teach four kinds of nirvāṇa.
+    answer: false
+    explain_zh: 早期只說有餘依與無餘依兩種。
+    explain_en: Early texts speak only of nirvāṇa with and without remainder.
+  - type: mcq
+    q_zh: 阿羅漢在世時所證的是？
+    q_en: A living arhat has attained…
+    options:
+      - { zh: 有餘依涅槃, en: nirvāṇa with remainder }
+      - { zh: 無餘依涅槃, en: nirvāṇa without remainder }
+      - { zh: 無住處涅槃, en: non-abiding nirvāṇa }
+    answer: 0
+    explain_zh: 煩惱已斷，但前業所感的身心尚在。
+    explain_en: Afflictions are ended but the body and mind from past karma remain.
+  - type: mcq
+    q_zh: 四種涅槃都具足的是？
+    q_en: Who has all four kinds?
+    options:
+      - { zh: 阿羅漢, en: arhats }
+      - { zh: 初地菩薩, en: first-stage bodhisattvas }
+      - { zh: 佛, en: buddhas }
+    answer: 2
+    explain_zh: 唯佛斷二障，四種具足。
+    explain_en: Only buddhas, having cut both obstructions, have all four.
+  - type: tf
+    q_zh: 無住處涅槃不住生死，是因為般若；不住涅槃，是因為大悲。
+    q_en: Non-abiding nirvāṇa avoids saṃsāra through wisdom and avoids nirvāṇa through compassion.
+    answer: true
+    explain_zh: 悲智雙運是大乘涅槃的特色。
+    explain_en: Compassion and wisdom together are the hallmark of Mahāyāna nirvāṇa.

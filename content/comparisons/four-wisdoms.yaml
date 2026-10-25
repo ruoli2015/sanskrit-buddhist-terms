@@ -1,0 +1,104 @@
+id: four-wisdoms
+title_zh: 轉識成智：四智
+title_en: 'Turning consciousness into wisdom: the four wisdoms'
+terms: [ jnana, adarsa-jnana, samata-jnana, pratyaveksana-jnana, krtyanusthana-jnana, asraya-paravrtti ]
+summary_zh: 轉第八識成大圓鏡智，轉第七識成平等性智，轉第六識成妙觀察智，轉前五識成成所作智。六七因上轉，五八果上圓。
+summary_en: The eighth consciousness becomes mirror-like wisdom, the seventh the wisdom of equality, the sixth the wisdom of discernment, the first five the wisdom of accomplishing. The sixth and seventh begin to turn on the path; the five and eighth turn only at the fruit.
+table:
+  columns:
+    - { zh: 大圓鏡智, en: Mirror-like }
+    - { zh: 平等性智, en: Equality }
+    - { zh: 妙觀察智, en: Discernment }
+    - { zh: 成所作智, en: Accomplishing }
+  rows:
+    - label: { zh: 所轉識, en: From }
+      cells:
+        - { zh: 第八阿賴耶識, en: Store consciousness }
+        - { zh: 第七末那識, en: Manas }
+        - { zh: 第六意識, en: Mental consciousness }
+        - { zh: 前五識, en: Five sense consciousnesses }
+    - label: { zh: 作用, en: Function }
+      cells:
+        - { zh: 持一切功德種、現身土, en: 'Holds pure seeds; manifests bodies and lands' }
+        - { zh: 見自他平等、起大悲, en: 'Sees self and other as equal; great compassion' }
+        - { zh: 善觀自相共相、說法斷疑, en: 'Observes all marks; teaches' }
+        - { zh: 十方示現變化、成本願事, en: 'Manifests everywhere; fulfils vows' }
+    - label: { zh: 初起, en: First arises }
+      cells:
+        - { zh: 佛果, en: At buddhahood }
+        - { zh: 見道（分證）, en: At seeing (in part) }
+        - { zh: 見道（分證）, en: At seeing (in part) }
+        - { zh: 佛果, en: At buddhahood }
+explanation_zh: |
+  《佛地經》說佛地由五法所攝：「清淨法界、大圓鏡智、平等性智、妙觀察智、成所作智。」清淨法界是所證的真如，四智是能證的智慧。
+
+  **對照記憶**：阿賴耶識藏種子 → 大圓鏡智持無漏種、如鏡現像；末那識執我分別自他 → 平等性智見自他平等；意識分別 → 妙觀察智善觀諸法；前五識緣境 → 成所作智示現度生。
+
+  **六七因上轉，五八果上圓**：第六、第七識在見道時已分轉為智；第八與前五識要到佛果才轉，因為前五識依於色根，第八識要待金剛喻定後才捨異熟。
+explanation_en: |
+  The Buddhabhūmi-sūtra says buddhahood comprises five dharmas: "the pure dharma-realm, mirror-like wisdom, wisdom of equality, wisdom of discernment and wisdom of accomplishing." The pure dharma-realm is the suchness realized; the four wisdoms are what realize it.
+
+  **Paired memory aid**: the store consciousness holds seeds → mirror-like wisdom holds pure seeds and reflects like a mirror; manas grasps a self and divides self from other → equality sees them as equal; mental consciousness discriminates → discernment observes dharmas skilfully; the senses take objects → accomplishing manifests to save beings.
+
+  **"Six and seven turn on the path; five and eight at the fruit"**: the sixth and seventh are partly transformed at the path of seeing; the eighth and the five senses only at buddhahood, since the senses depend on material faculties and the eighth gives up its ripened nature only after the vajra-like concentration.
+quotes:
+  - text: 有五種法攝大覺地。何等為五？所謂清淨法界、大圓鏡智、平等性智、妙觀察智、成所作智。
+    source: 《佛說佛地經》
+    source_en: 佛說佛地經
+    ref: T16n0680_p0721a01
+    refEnd: T16n0680_p0721a03
+    note_en: Five dharmas comprise the stage of great awakening. Which five? The pure dharma-realm, mirror-like wisdom, wisdom of equality, wisdom of discernment and wisdom of accomplishing what is to be done.
+questions:
+  - type: mcq
+    q_zh: 轉第七末那識所得的是？
+    q_en: Transforming manas yields…
+    options:
+      - { zh: 大圓鏡智, en: mirror-like wisdom }
+      - { zh: 平等性智, en: wisdom of equality }
+      - { zh: 妙觀察智, en: wisdom of discernment }
+      - { zh: 成所作智, en: wisdom of accomplishing }
+    answer: 1
+    explain_zh: 末那執我、分別自他；轉依後見自他平等。
+    explain_en: Manas grasps a self and divides self from other; transformed, it sees them as equal.
+  - type: mcq
+    q_zh: 轉前五識所得的是？
+    q_en: Transforming the five sense consciousnesses yields…
+    options:
+      - { zh: 成所作智, en: wisdom of accomplishing }
+      - { zh: 妙觀察智, en: wisdom of discernment }
+      - { zh: 大圓鏡智, en: mirror-like wisdom }
+    answer: 0
+    explain_zh: 成所作智於十方示現變化，成辦本願所應作事。
+    explain_en: It manifests transformations everywhere, fulfilling the original vows.
+  - type: mcq
+    q_zh: 「善觀諸法自相、共相無礙而轉」的是？
+    q_en: '"Skilfully observing the particular and general marks of dharmas without obstruction" describes…'
+    options:
+      - { zh: 平等性智, en: wisdom of equality }
+      - { zh: 妙觀察智, en: wisdom of discernment }
+      - { zh: 成所作智, en: wisdom of accomplishing }
+    answer: 1
+    explain_zh: 轉第六意識所得。
+    explain_en: Attained by transforming mental consciousness.
+  - type: tf
+    q_zh: 大圓鏡智在見道時就已生起。
+    q_en: Mirror-like wisdom already arises at the path of seeing.
+    answer: false
+    explain_zh: 五八果上圓：大圓鏡智與成所作智到佛果才生起。
+    explain_en: Mirror-like and accomplishing wisdom arise only at buddhahood.
+  - type: mcq
+    q_zh: 《佛地經》攝佛地的五法中，除四智外另一法是？
+    q_en: Besides the four wisdoms, the fifth dharma comprising buddhahood is…
+    options:
+      - { zh: 清淨法界, en: the pure dharma-realm }
+      - { zh: 阿賴耶識, en: the store consciousness }
+      - { zh: 無住處涅槃, en: non-abiding nirvāṇa }
+    answer: 0
+    explain_zh: 「清淨法界、大圓鏡智、平等性智、妙觀察智、成所作智」。
+    explain_en: '"The pure dharma-realm, mirror-like wisdom, …"'
+  - type: tf
+    q_zh: 平等性智恆與大慈悲相應。
+    q_en: The wisdom of equality is always joined with great compassion.
+    answer: true
+    explain_zh: 見自他平等，自然生起大慈悲。
+    explain_en: Seeing self and others as equal naturally gives rise to great compassion.

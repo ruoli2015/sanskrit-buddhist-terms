@@ -1,0 +1,77 @@
+id: name-phrase-letter
+title_zh: 名身、句身、文身
+title_en: Words, phrases and letters
+terms: [ nama-kaya, pada-kaya, vyanjana-kaya, viprayukta-samskara ]
+summary_zh: 文（字母）組成名（詞），名組成句；名詮自性，句詮差別，文為二者所依。三者都是依聲音假立的心不相應行。
+summary_en: Letters form words and words form phrases; words express the nature of things, phrases their distinctions, and letters underlie both. All three are non-associated formations designated on sound.
+table:
+  columns:
+    - { zh: 名身, en: Words }
+    - { zh: 句身, en: Phrases }
+    - { zh: 文身, en: Letters }
+  rows:
+    - label: { zh: 詮表, en: Expresses }
+      cells:
+        - { zh: 諸法自性, en: The nature of dharmas }
+        - { zh: 諸法差別, en: Their distinctions }
+        - { zh: 不詮義（二者所依）, en: Nothing by itself (their basis) }
+    - label: { zh: 例子, en: Example }
+      cells:
+        - { zh: 「色」, en: '"form"' }
+        - { zh: 「色無常」, en: '"form is impermanent"' }
+        - { zh: 字母 r、ū、p、a, en: The letters r-ū-p-a }
+explanation_zh: |
+  《大乘五蘊論》：「云何名身？謂諸法自性增語為性。」「云何句身？謂諸法差別增語為性。」「云何文身？謂諸字為性。」
+
+  **唯識的語言觀**：名、句、文不是聲音本身（聲屬色法），而是依聲音的屈曲差別假立的分位，所以列入心不相應行。有部則認為名身等是離聲而有的實法。
+
+  **「身」**：kāya 在此是「聚集、複數」，不是身體——二個以上的名稱為名身。
+explanation_en: |
+  Pañcaskandhaka: "What is the collection of words? Expressions for the own-nature of dharmas." "Phrases? Expressions for the distinctions of dharmas." "Letters? The syllables."
+
+  **Yogācāra on language**: words, phrases and letters are not sound itself (sound is matter) but phases designated on its modulations, hence non-associated formations. The Sarvāstivāda holds them to be real dharmas distinct from sound.
+
+  **"Kāya"** here means "collection", a plural — not "body": two or more words make a collection of words.
+questions:
+  - type: mcq
+    q_zh: 「諸行無常」是？
+    q_en: '"All formations are impermanent" is a…'
+    options:
+      - { zh: 名, en: word }
+      - { zh: 句, en: phrase }
+      - { zh: 文, en: letter }
+    answer: 1
+    explain_zh: 句詮諸法差別（「無常」是諸行的性質）。
+    explain_en: A phrase expresses distinctions — impermanence as a quality of formations.
+  - type: mcq
+    q_zh: 名身詮表的是？
+    q_en: Words express…
+    options:
+      - { zh: 諸法自性, en: the nature of dharmas }
+      - { zh: 諸法差別, en: the distinctions of dharmas }
+      - { zh: 字母, en: letters }
+    answer: 0
+    explain_zh: 「諸法自性增語為性」。
+    explain_en: '"Expressions for the own-nature of dharmas."'
+  - type: tf
+    q_zh: 在名身、句身中，「身」是指身體。
+    q_en: In "nāma-kāya" and "pada-kāya", kāya means "body".
+    answer: false
+    explain_zh: 此處 kāya 是聚集、複數之義。
+    explain_en: Here kāya means a collection, a plural.
+  - type: tf
+    q_zh: 唯識認為名、句、文是依聲音假立的心不相應行，不是聲音本身。
+    q_en: Yogācāra holds that words, phrases and letters are non-associated formations designated on sound, not sound itself.
+    answer: true
+    explain_zh: 聲屬色法；名句文是依聲的屈曲差別假立。
+    explain_en: Sound is matter; words and the rest are designated on its modulations.
+  - type: mcq
+    q_zh: 本身不詮表意義，只作為名、句所依的是？
+    q_en: Which expresses no meaning by itself but underlies words and phrases?
+    options:
+      - { zh: 文身, en: letters }
+      - { zh: 名身, en: words }
+      - { zh: 句身, en: phrases }
+    answer: 0
+    explain_zh: 「云何文身？謂諸字為性。」
+    explain_en: '"What are letters? The syllables."'

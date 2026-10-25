@@ -1,0 +1,103 @@
+id: four-parts
+title_zh: 四分：相分、見分、自證分、證自證分
+title_en: 'The four parts: image, seeing, self-witnessing, witness of self-witnessing'
+terms: [ nimitta-bhaga, darsana-bhaga, svasamvitti-bhaga, svasamvitti-samvitti-bhaga ]
+summary_zh: 護法說一念心識有四分：被認識的影像（相分）、能認識的作用（見分）、二者所依的識體並證知見分（自證分）、證知自證分（證自證分）。
+summary_en: Dharmapāla analyses each moment of consciousness into four parts — the image known, the seeing that knows it, the substance that witnesses the seeing, and the witness of that witnessing.
+table:
+  columns:
+    - { zh: 相分, en: Image }
+    - { zh: 見分, en: Seeing }
+    - { zh: 自證分, en: Self-witnessing }
+    - { zh: 證自證分, en: Witness of it }
+  rows:
+    - label: { zh: 所緣, en: Takes as object }
+      cells:
+        - { zh: —（唯所緣）, en: — (only an object) }
+        - { zh: 相分, en: Image part }
+        - { zh: 見分、證自證分, en: Seeing part and fourth part }
+        - { zh: 自證分, en: Self-witnessing part }
+    - label: { zh: 量, en: Cognition }
+      cells:
+        - { zh: —, en: — }
+        - { zh: 或量非量，或現或比, en: 'Valid or not; perceptual or inferential' }
+        - { zh: 唯現量, en: Perception only }
+        - { zh: 唯現量, en: Perception only }
+    - label: { zh: 內外, en: Inner or outer }
+      cells:
+        - { zh: 外, en: Outer }
+        - { zh: 外, en: Outer }
+        - { zh: 內, en: Inner }
+        - { zh: 內, en: Inner }
+explanation_zh: |
+  《成唯識論》：「似所緣相說名相分，似能緣相說名見分」；「相、見所依自體名事，即自證分」。若心不能自證，事後便不能回憶自己的認識，所以立自證分。
+
+  **為何要第四分**：「謂第二分但緣第一，或量非量，或現或比；第三能緣第二、第四；證自證分唯緣第三。」第三、第四互相證知，都是現量，因此不會無窮後退。
+
+  **諸師異說**：安慧一分、難陀二分、陳那三分、護法四分。陳那以相分為所量、見分為能量、自證分為量果。
+explanation_en: |
+  Cheng weishi lun: "The likeness of the cognized is called the image part, the likeness of the cognizing the seeing part"; "the substance on which image and seeing rest is the self-witnessing part." If mind could not witness itself, it could not later remember its own cognitions.
+
+  **Why a fourth**: "The second part takes only the first, and is valid or invalid, perceptual or inferential; the third can take the second and fourth; the fourth takes only the third." The third and fourth know each other by direct perception, so there is no infinite regress.
+
+  **Different masters**: Sthiramati one part, Nanda two, Dignāga three, Dharmapāla four. Dignāga calls the image what is measured, seeing the means, self-witnessing the result.
+quotes:
+  - text: 謂第二分但緣第一，或量、非量，或現、或比。第三能緣第二，第四證自證分，唯緣第三
+    source: 《成唯識論》卷2
+    source_en: Cheng weishi lun, fasc. 2
+    ref: T31n1585_p0010b23
+    refEnd: T31n1585_p0010b25
+    note_en: The second part takes only the first as object, and is valid or invalid, perceptual or inferential; the third can take the second and fourth; the witness of self-witnessing takes only the third.
+questions:
+  - type: mcq
+    q_zh: 見分的所緣是？
+    q_en: What does the seeing part take as its object?
+    options:
+      - { zh: 相分, en: the image part }
+      - { zh: 自證分, en: the self-witnessing part }
+      - { zh: 心外實境, en: a real external object }
+    answer: 0
+    explain_zh: 「第二分但緣第一」。唯識不承認心外實境為直接所緣。
+    explain_en: '"The second part takes only the first." Yogācāra does not accept real external objects as direct objects.'
+  - type: mcq
+    q_zh: 立自證分的主要理由是？
+    q_en: The main reason for positing the self-witnessing part is…
+    options:
+      - { zh: 心能事後回憶自己的認識, en: the mind can later recall its own cognitions }
+      - { zh: 外境需要一個所依, en: external objects need a support }
+      - { zh: 末那識需要所緣, en: manas needs an object }
+    answer: 0
+    explain_zh: 若當時心不自知，事後便無從憶念。
+    explain_en: If the mind were not self-aware at the time, it could not remember later.
+  - type: tf
+    q_zh: 證自證分還需要一個第五分來證知它。
+    q_en: The witness of self-witnessing needs a fifth part to know it.
+    answer: false
+    explain_zh: 第三、第四分互相證知，不必再立第五分。
+    explain_en: The third and fourth parts witness each other; no fifth is needed.
+  - type: mcq
+    q_zh: 四分之中，可能是比量或非量的是？
+    q_en: Which part may be inferential or invalid?
+    options:
+      - { zh: 見分, en: the seeing part }
+      - { zh: 自證分, en: the self-witnessing part }
+      - { zh: 證自證分, en: the witness of self-witnessing }
+    answer: 0
+    explain_zh: 見分「或量非量，或現或比」；後二分唯現量。
+    explain_en: The seeing part may be any of these; the last two are always perception.
+  - type: mcq
+    q_zh: 主張四分說的論師是？
+    q_en: Which master taught four parts?
+    options:
+      - { zh: 安慧, en: Sthiramati }
+      - { zh: 陳那, en: Dignāga }
+      - { zh: 護法, en: Dharmapāla }
+    answer: 2
+    explain_zh: 安慧一分、陳那三分、護法四分；《成唯識論》以護法為正義。
+    explain_en: Sthiramati one, Dignāga three, Dharmapāla four; the Cheng weishi lun follows Dharmapāla.
+  - type: tf
+    q_zh: 依陳那，自證分是認識的「量果」。
+    q_en: For Dignāga, the self-witnessing part is the result of cognition.
+    answer: true
+    explain_zh: 「似境相所量，能取相自證，即能量及果」——相分所量、見分能量、自證分量果。
+    explain_en: Image is measured, seeing is the means, self-witnessing the result.

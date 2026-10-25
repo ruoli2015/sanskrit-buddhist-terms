@@ -1,0 +1,445 @@
+# 菩薩行（四攝、願、地、無生忍）與大乘要義（二）
+
+- id: samgrahavastu
+  skt: saṃgrahavastu
+  deva: संग्रहवस्तु
+  pali: saṅgahavatthu
+  zh: 四攝法
+  zhAlt: [ 四攝, 四攝事, 攝事 ]
+  en: means of attraction
+  enAlt: [ four means of attraction, four ways of gathering, means of conversion, four sangaha-vatthu ]
+  root: saṃgraha「攝受、攝集」＋ vastu「事」 · saṃgraha "gathering in" + vastu "basis"
+  short_zh: 菩薩攝受眾生的四種方法：布施、愛語、利行、同事。
+  short_en: The four means of attraction by which bodhisattvas draw beings in — giving, kind speech, beneficial action and sharing the same aims.
+  detail_zh: |
+    四攝是菩薩度眾生的方法：先以**布施**結緣，以**愛語**令其歡喜，以**利行**使其得益，以**同事**與其同行，眾生便樂於親近、接受教化。
+
+    《維摩詰經》：「四攝法是菩薩淨土，菩薩成佛時，解脫所攝眾生來生其國。」——今日所攝受的眾生，就是將來佛國的眷屬。
+
+    阿含中已有四攝事（巴利 saṅgahavatthu），原是在家人維繫人際的美德；大乘則把它提升為與六度並列的菩薩行。
+  detail_en: |
+    The four are how a bodhisattva helps beings: first connect through **giving**, gladden them with **kind speech**, benefit them by **beneficial action**, and walk alongside them by **sharing their aims** — then they gladly draw near and accept guidance.
+
+    Vimalakīrti-nirdeśa: "The four means of attraction are the bodhisattva's pure land; when the bodhisattva becomes a buddha, beings liberated by being attracted are born in that land." Beings gathered now are the family of a future buddha-land.
+
+    The Āgamas already list them (Pāli saṅgahavatthu) as virtues holding lay society together; the Mahāyāna raises them alongside the six perfections.
+  quotes:
+    - text: 四攝法是菩薩淨土——菩薩成佛時，解脫所攝眾生來生其國；
+      source: 《維摩詰所說經》卷1
+      source_en: Vimalakīrti-nirdeśa, tr. Kumārajīva, fasc. 1
+      ref: T14n0475_p0538b14
+      refEnd: T14n0475_p0538b15
+      note_en: The four means of attraction are the bodhisattva's pure land; when the bodhisattva attains buddhahood, beings liberated through being gathered in are born in that land.
+  related: [ dana, priyavacana, arthacarya, samanarthata, bodhisattva, paramita ]
+  compare: [ attraction-immeasurables ]
+
+- id: priyavacana
+  skt: priyavacana
+  deva: प्रियवचन
+  pali: peyyavajja
+  zh: 愛語
+  zhAlt: [ 愛言, 愛語攝 ]
+  en: kind speech
+  enAlt: [ pleasant speech, loving speech, affectionate speech, gentle words ]
+  root: priya「可愛的」＋ vacana「言語」 · priya "dear" + vacana "speech"
+  short_zh: 四攝之二：隨眾生根性以溫和、悅耳、真實的言語安慰、教導，令其生起親近之心。
+  short_en: Kind speech — second means of attraction; consoling and teaching with gentle, pleasing and truthful words suited to each person, so they feel drawn near.
+  detail_zh: |
+    愛語不只是說好聽的話：慰問、讚歎善行、說法開導、乃至為利益對方而規勸，只要出於慈心而合乎真實，都是愛語。
+
+    道元禪師《正法眼藏》有〈菩提薩埵四攝法〉，強調愛語有扭轉人心乃至改變局勢的力量，是日本禪宗對四攝的著名發揮。
+  detail_en: |
+    Kind speech is not just pleasant talk: consoling, praising good deeds, teaching, even admonishing for someone's benefit — whatever comes from kindness and is true counts.
+
+    Dōgen's Shōbōgenzō has a chapter on the bodhisattva's four means of attraction, stressing that kind speech can turn hearts and even change the course of events — a famous Zen treatment of the theme.
+  quotes:
+    - text: 於諸有情常樂宣說悅可意語、諦語、法語、引攝義語。當知是名略說菩薩愛語自性。
+      source: 《瑜伽師地論》卷43
+      source_en: Yogācārabhūmi, fasc. 43
+      ref: T30n1579_p0529c25
+      refEnd: T30n1579_p0529c26
+      note_en: Toward beings, always gladly speaking words that please, true words, Dharma words, words that draw them to benefit — this, in brief, is the nature of the bodhisattva's kind speech.
+  related: [ samgrahavastu, maitri ]
+  compare: [ attraction-immeasurables ]
+
+- id: arthacarya
+  skt: arthacaryā
+  deva: अर्थचर्या
+  pali: atthacariyā
+  zh: 利行
+  zhAlt: [ 利人, 利行攝 ]
+  en: beneficial action
+  enAlt: [ helpful conduct, conduct that benefits, acts of benefit ]
+  root: artha「利益、目的」＋ caryā「行」 · artha "benefit" + caryā "conduct"
+  short_zh: 四攝之三：以身口意的善行利益眾生，引導他們離惡向善、趣向解脫。
+  short_en: Beneficial action — third means of attraction; benefiting beings through deeds of body, speech and mind, leading them from harm toward good and liberation.
+  detail_zh: |
+    利行是實際為對方做有益的事——不只是物質上的幫助（那屬於布施），更是引導對方建立信心、持戒、布施、智慧等善法。
+
+    菩薩的利行要觀察對方的根機與時機，現世利益與究竟利益兼顧。
+  detail_en: |
+    Beneficial action is actually doing what helps — not only material aid (that is giving) but leading others to establish faith, morality, generosity and wisdom.
+
+    A bodhisattva considers the person's capacities and the right moment, serving both present and ultimate welfare.
+  quotes:
+    - text: 於利行中餘差別義，我今當說。謂諸菩薩，由一切品差別愛語，隨說彼彼趣義利行，饒益有情，故名利行。
+      source: 《瑜伽師地論》卷43
+      source_en: Yogācārabhūmi, fasc. 43
+      ref: T30n1579_p0530c14
+      refEnd: T30n1579_p0530c16
+      note_en: 'As for the further meaning of beneficial action: bodhisattvas, through kind speech of every kind, act for the benefit described in each teaching, helping beings — hence "beneficial action".'
+  related: [ samgrahavastu, upaya, karuna ]
+  compare: [ attraction-immeasurables ]
+
+- id: samanarthata
+  skt: samānārthatā
+  deva: समानार्थता
+  pali: samānattatā
+  zh: 同事
+  zhAlt: [ 等利, 同事攝 ]
+  en: sharing the same aims
+  enAlt: [ consistency, cooperation, common purpose, working alongside ]
+  root: samāna「相同」＋ artha「目的、利益」＋ -tā · samāna "same" + artha "aim"
+  short_zh: 四攝之四：與眾生同其事業、同其甘苦，並以身作則，自己也實踐所教的善法。
+  short_en: Sharing the same aims — fourth means of attraction; joining beings in their work and hardships, and practising oneself the good one teaches.
+  detail_zh: |
+    同事有兩層意義：一是**與眾生同行**，深入其處境，如觀世音菩薩應以何身得度即現何身；二是**言行一致**，自己先做到勸人做的善法，使人信服。
+
+    古譯「等利」，強調與他人共享利益。
+  detail_en: |
+    It has two senses: **walking with beings**, entering their circumstances — as Avalokiteśvara appears in whatever form will save each being; and **consistency**, doing oneself the good one urges on others, which earns trust.
+
+    The old rendering 等利 "equal benefit" stresses sharing benefit with others.
+  quotes:
+    - text: 云何菩薩同事？謂諸菩薩，若於是義、於是善根勸他受學，即於此義、於此善根或等或增自現受學。如是菩薩與他事同，故名同事。
+      source: 《瑜伽師地論》卷43
+      source_en: Yogācārabhūmi, fasc. 43
+      ref: T30n1579_p0532a11
+      refEnd: T30n1579_p0532a14
+      note_en: What is the bodhisattva's sharing of aims? When bodhisattvas urge others to train in some matter or wholesome root, they themselves train in that matter or root equally or more. Thus bodhisattvas share the same work with others — hence "sharing aims".
+  related: [ samgrahavastu, avalokitesvara, upaya ]
+  compare: [ attraction-immeasurables ]
+
+- id: pranidhana
+  skt: praṇidhāna
+  deva: प्रणिधान
+  pali: paṇidhāna
+  zh: 願
+  zhAlt: [ 誓願, 本願, 願波羅蜜, 發願 ]
+  en: vow
+  enAlt: [ aspiration, resolve, earnest wish, pranidhana, vow perfection ]
+  root: pra-ni-√dhā「安置、專注」 · pra-ni-√dhā "to place forward, direct"
+  short_zh: 菩薩所立的誓願；十波羅蜜之第八。分求菩提願與利樂他願。
+  short_en: 'Vow — the commitment a bodhisattva makes; eighth of the ten perfections. Of two kinds: the vow seeking awakening and the vow to benefit others.'
+  detail_zh: |
+    《成唯識論》：「願有二種，謂求菩提願、利樂他願。」願是菩薩行的方向——四弘誓願（度無邊眾生、斷無盡煩惱、學無量法門、成無上佛道）是一切菩薩共發的通願；阿彌陀佛四十八願、藥師佛十二大願是別願。
+
+    **本願**：佛在因地所發的願，成佛後以本願力度眾生；淨土法門即依阿彌陀佛的本願力往生。
+  detail_en: |
+    Cheng weishi lun: "Vows are of two kinds: the vow seeking awakening and the vow to benefit others." Vows give the bodhisattva path its direction — the four great vows (to save boundless beings, end endless afflictions, learn countless teachings, attain unsurpassed buddhahood) are general vows; Amitābha's forty-eight and Bhaiṣajyaguru's twelve are particular.
+
+    **Original vow**: the vows a buddha made as a bodhisattva; after awakening the buddha saves beings by their power — Pure Land practice relies on the power of Amitābha's original vow for rebirth.
+  quotes:
+    - text: 願有二種：謂求菩提願、利樂他願。力有二種：謂思擇力、修習力。智有二種：謂受用法樂智、成熟有情智。
+      source: 《成唯識論》卷9
+      source_en: Cheng weishi lun, fasc. 9
+      ref: T31n1585_p0051b16
+      refEnd: T31n1585_p0051b18
+      note_en: Vows are of two kinds — the vow seeking awakening and the vow to benefit others. Power is of two kinds — the power of reflection and the power of cultivation. Wisdom is of two kinds — the wisdom enjoying the Dharma and the wisdom maturing beings.
+  related: [ bodhicitta, paramita, amitabha, sukhavati ]
+  compare: [ six-ten-perfections ]
+
+- id: bhumi
+  skt: bhūmi
+  deva: भूमि
+  pali: bhūmi
+  zh: 地
+  zhAlt: [ 十地, 菩薩地 ]
+  en: bodhisattva stage
+  enAlt: [ ground, ten grounds, ten stages, bhumi, ten bhumis ]
+  root: '√bhū「存在、生長」：大地 · √bhū "to be, become": "earth, ground"'
+  short_zh: 菩薩修行的階位；見道登初地，至第十法雲地，各地增上修一波羅蜜。
+  short_en: Bodhisattva stage — the levels of the bodhisattva path; one enters the first at the path of seeing and goes up to the tenth, Cloud of Dharma, each emphasizing one perfection.
+  detail_zh: |
+    《成唯識論》：「十地，總攝有為、無為功德以為自性，與所修行為勝依持，令得生長，故名為地。」如大地能持能生，菩薩各地的功德能支持並長養修行。
+
+    **十地**：極喜、離垢、發光、焰慧、極難勝、現前、遠行、不動、善慧、法雲；配合十波羅蜜依次增上。初地以前為資糧、加行位（地前）；初地入心為見道，其後至第十地為修道。
+
+    《華嚴經·十地品》是十地說的主要經典。
+  detail_en: |
+    Cheng weishi lun: "The ten stages comprise conditioned and unconditioned virtues as their nature; they are the excellent support of practice, making it grow — hence 'ground'." As the earth supports and produces, the virtues of each stage support and nourish practice.
+
+    **The ten**: Joyful, Stainless, Radiant, Blazing, Very Hard to Conquer, Facing, Far-going, Immovable, Good Intelligence, Cloud of Dharma, matched in turn with the ten perfections. Before the first are accumulation and preparation; entering the first is the path of seeing; from there to the tenth is cultivation.
+
+    The Daśabhūmika chapter of the Avataṃsaka is the main scripture for the ten stages.
+  quotes:
+    - text: 十地，總攝有為、無為功德以為自性。與所修行為勝依持，令得生長，故名為地。
+      source: 《成唯識論》卷9
+      source_en: Cheng weishi lun, fasc. 9
+      ref: T31n1585_p0051b06
+      refEnd: T31n1585_p0051b07
+      note_en: The ten stages comprise conditioned and unconditioned virtues as their nature; giving power to what is practised and making it grow, they are therefore called grounds.
+  related: [ bodhisattva, paramita, darsana-marga, bhavana-marga ]
+  compare: [ five-stages ]
+
+- id: anutpattika-dharma-ksanti
+  skt: anutpattika-dharma-kṣānti
+  deva: अनुत्पत्तिकधर्मक्षान्ति
+  pali: ''
+  zh: 無生法忍
+  zhAlt: [ 無生忍, 無生忍法 ]
+  en: acceptance of non-arising
+  enAlt: [ patience with the non-arising of dharmas, forbearance of the unborn, receptivity to non-origination ]
+  root: an-utpattika「無生的」＋ dharma「法」＋ kṣānti「忍、認可」 · kṣānti "acceptance"
+  short_zh: 安住於諸法不生不滅之理而不動搖的智慧；大乘多說於初地或八地證得。
+  short_en: Acceptance of non-arising — wisdom that rests unshaken in the truth that dharmas neither arise nor cease; Mahāyāna texts place it at the first or eighth bhūmi.
+  detail_zh: |
+    《大智度論》：「無生法忍者，於無生滅諸法實相中，信受、通達，無礙不退，是名無生忍。」「忍」在此不是忍耐，而是對真理的認可與安住。
+
+    **階位**：《大智度論》等說初地得無生法忍；《十地經》則特別以第八不動地為得無生法忍，此後任運無功用行。
+
+    **名稱陷阱**：此「忍」不同於六度的忍辱，也不同於加行位四善根的「忍」位。
+  detail_en: |
+    Dazhidu lun: "Acceptance of non-arising means believing, penetrating, unobstructed and irreversible, in the true character of dharmas, which neither arise nor cease." Kṣānti here is not endurance but acceptance of and abiding in the truth.
+
+    **Stage**: the Dazhidu lun and others place it at the first bhūmi; the Daśabhūmika associates it especially with the eighth (Immovable), after which practice is effortless.
+
+    **Naming trap**: this 忍 differs from the perfection of patience and from the "patience" stage among the four wholesome roots.
+  quotes:
+    - text: 『無生法忍』者，於無生滅諸法實相中，信受、通達、無礙、不退，是名無生忍。
+      source: 《大智度論》卷50
+      source_en: Dazhidu lun (*Mahāprajñāpāramitāśāstra), fasc. 50
+      ref: T25n1509_p0417c05
+      refEnd: T25n1509_p0417c06
+      note_en: Acceptance of non-arising means believing and penetrating the true character of dharmas, which is without arising or ceasing, unobstructed and irreversible — this is called acceptance of non-arising.
+  related: [ ksanti, sunyata, bhumi, bodhisattva ]
+
+- id: svabhava
+  skt: svabhāva
+  deva: स्वभाव
+  pali: sabhāva
+  zh: 自性
+  zhAlt: [ 性, 自體 ]
+  en: intrinsic nature
+  enAlt: [ own-being, inherent existence, self-nature, essence, svabhava ]
+  root: sva「自己」＋ bhāva「有、存在」 · sva "own" + bhāva "being"
+  short_zh: 不依他、不變、自己成立的本質；中觀破斥諸法有自性，唯識以三無性說無自性。
+  short_en: Intrinsic nature — an essence that exists by itself, independent and unchanging. Madhyamaka refutes it for all dharmas; Yogācāra explains its absence by the three non-natures.
+  detail_zh: |
+    《中論》：「眾緣中有性，是事則不然；性從眾緣出，即名為作法。」又：「性名為無作，不待異法成。」若有自性，就不應依賴因緣；既從因緣生，就沒有自性——這就是「空」。
+
+    **阿毗達磨的用法**：有部說每一法「任持自性」，自性是法的自相，並非都被否定；中觀破的是不依他而有的自性。
+
+    **唯識**：《解深密經》《成唯識論》以三無性說「一切法無自性」，但不否定依他起的如幻之有與圓成實的真如。
+  detail_en: |
+    Mūlamadhyamakakārikā: "That intrinsic nature should be in causes and conditions is not so; a nature arising from conditions would be something made." And: "Intrinsic nature is unmade, not dependent on anything else." If something had intrinsic nature it would not depend on conditions; arising from conditions, it lacks it — this is emptiness.
+
+    **In Abhidharma**: each dharma "holds its own nature" — svabhāva as a dharma's defining mark, not rejected as such; Madhyamaka refutes a nature existing independently of others.
+
+    **Yogācāra**: the Saṃdhinirmocana and Cheng weishi lun explain "all dharmas lack intrinsic nature" by the three non-natures, without denying the illusory existence of the dependent or the reality of suchness.
+  quotes:
+    - text: 眾緣中有性，是事則不然；性從眾緣出，即名為作法。
+      source: 《中論》卷3
+      source_en: Mūlamadhyamakakārikā, tr. Kumārajīva, fasc. 3
+      ref: T30n1564_p0019c22
+      refEnd: T30n1564_p0019c23
+      note_en: That intrinsic nature should exist within the conditions is not so; a nature that came from conditions would be called something made.
+    - text: 性名為無作，不待異法成。
+      source: 《中論》卷3
+      source_en: Mūlamadhyamakakārikā, tr. Kumārajīva, fasc. 3
+      ref: T30n1564_p0019c28
+      note_en: Intrinsic nature means what is not made, not dependent on another dharma for its existence.
+  related: [ sunyata, nihsvabhava, pratityasamutpada, dharma ]
+  compare: [ sunyata-anatman ]
+
+- id: prapanca
+  skt: prapañca
+  deva: प्रपञ्च
+  pali: papañca
+  zh: 戲論
+  zhAlt: [ 妄想戲論, 虛妄分別 ]
+  en: conceptual proliferation
+  enAlt: [ mental proliferation, elaboration, conceptual elaboration, papanca, prapancha ]
+  root: pra-√pañc「展開、擴散」 · pra-√pañc "to spread out, diversify"
+  short_zh: 由名言概念不斷擴散分別而產生的種種戲論妄執；佛法以息滅戲論為目標。
+  short_en: Conceptual proliferation — the endless spreading of names and concepts into fixations; the Dharma aims at its stilling.
+  detail_zh: |
+    《中論》開卷皈敬偈：「不生亦不滅，不常亦不斷，不一亦不異，不來亦不出；能說是因緣，善滅諸戲論，我稽首禮佛，諸說中第一。」緣起的真義在於「善滅諸戲論」。
+
+    **阿含**：巴利經典說「想與戲論」（saññā-papañca）源於愛、慢、見，使人陷入無盡的分別。
+
+    **唯識**：《成唯識論》說法身「絕諸戲論」；戲論習氣即名言種子。
+  detail_en: |
+    The dedicatory verse of the Mūlamadhyamakakārikā: "Neither arising nor ceasing, neither permanent nor annihilated, neither one nor many, neither coming nor going — I bow to the Buddha, best of teachers, who taught dependent origination, the happy stilling of proliferation." The true meaning of dependent origination is "the happy stilling of all proliferation".
+
+    **Āgamas**: Pāli suttas trace "perception and proliferation" (saññā-papañca) to craving, conceit and views, which trap one in endless discrimination.
+
+    **Yogācāra**: the Cheng weishi lun says the dharma body is "beyond all proliferation"; its habit-energies are the seeds of naming.
+  quotes:
+    - text: 不生亦不滅，不常亦不斷，不一亦不異，不來亦不出。能說是因緣，善滅諸戲論，我稽首禮佛，諸說中第一。
+      source: 《中論》卷1
+      source_en: Mūlamadhyamakakārikā, tr. Kumārajīva, fasc. 1
+      ref: T30n1564_p0001b14
+      refEnd: T30n1564_p0001b17
+      note_en: 'Neither arising nor ceasing, neither permanent nor annihilated, neither one nor different, neither coming nor going — he who could teach this dependent origination, the happy stilling of proliferation: I bow to the Buddha, first among teachers.'
+  related: [ sunyata, vitarka, pratityasamutpada, vasana ]
+
+- id: dharmadhatu
+  skt: dharmadhātu
+  deva: धर्मधातु
+  pali: dhammadhātu
+  zh: 法界
+  zhAlt: [ 清淨法界, 真法界 ]
+  en: dharma-realm
+  enAlt: [ realm of dharmas, dharmadhatu, sphere of reality, ultimate reality ]
+  root: dharma「法」＋ dhātu「界、因、性」 · dhātu "element, source, nature"
+  short_zh: 一指十八界中的「法界」（意識所緣）；大乘多指諸法的真實本性，即真如。佛果以清淨法界為體。
+  short_en: Dharma-realm — narrowly, the dharma element among the eighteen (objects of mind); in Mahāyāna, the true nature of all dharmas, suchness. Buddhahood has the pure dharma-realm as its substance.
+  detail_zh: |
+    **兩種用法**：在十八界中，「法界」是意識所緣的一切法（與法處同）。大乘則以法界為諸法的本性、聖法之因（dhātu 作「因」解），等同真如、法性。
+
+    《佛地經》說佛地以五法攝：「清淨法界、大圓鏡智、平等性智、妙觀察智、成所作智。」清淨法界即真如離垢，是自性身。
+
+    **華嚴**：華嚴宗發展出「四法界」（事、理、理事無礙、事事無礙）之說。
+  detail_en: |
+    **Two senses**: among the eighteen elements, the dharma element is everything known by mental consciousness (same as the dharma base). In Mahāyāna it is the nature of all dharmas and the cause of noble qualities (dhātu as "source") — equivalent to suchness and dharma-nature.
+
+    The Buddhabhūmi-sūtra says buddhahood comprises five dharmas: "the pure dharma-realm, mirror-like wisdom, wisdom of equality, wisdom of discernment, wisdom of accomplishing." The pure dharma-realm is suchness freed of stains — the intrinsic body.
+
+    **Huayan**: the Huayan school developed the "four dharma-realms" (phenomena, principle, non-obstruction of principle and phenomena, non-obstruction among phenomena).
+  quotes:
+    - text: 有五種法攝大覺地。何等為五？所謂清淨法界、大圓鏡智、平等性智、妙觀察智、成所作智。
+      source: 《佛說佛地經》
+      source_en: 佛說佛地經
+      ref: T16n0680_p0721a01
+      refEnd: T16n0680_p0721a03
+      note_en: Five dharmas comprise the stage of great awakening. Which five? The pure dharma-realm, mirror-like wisdom, wisdom of equality, wisdom of discernment and wisdom of accomplishing what is to be done.
+  related: [ tathata, dharmata, dharmayatana, dharmakaya, jnana ]
+  compare: [ suchness-names ]
+
+- id: dharmata
+  skt: dharmatā
+  deva: धर्मता
+  pali: dhammatā
+  zh: 法性
+  zhAlt: [ 法爾, 法住 ]
+  en: dharma-nature
+  enAlt: [ nature of things, true nature of dharmas, reality, dharmata ]
+  root: dharma「法」＋ -tā「性」 · dharma + -tā "-ness"
+  short_zh: 諸法本來如此、不因佛出世與否而改變的本性；與真如、法界同義。
+  short_en: Dharma-nature — the way things truly are, unchanged whether or not a buddha appears; synonymous with suchness and dharma-realm.
+  detail_zh: |
+    《雜阿含經》說緣起法：「若佛出世，若未出世，此法常住，法住、法界。」緣起的道理不是佛所創造，而是本來如此，佛只是發現並開示。
+
+    **法爾**：dharmatā 也譯「法爾」，意為「自然如此」；唯識說本有無漏種子是「法爾所得」。
+
+    大乘經論中，真如、法性、法界、實際、空性等多為同義的異名。
+  detail_en: |
+    The Saṃyuktāgama says of dependent origination: "Whether buddhas appear or not, this Dharma abides constantly — the stability of Dharma, the dharma-realm." Dependent origination is not the Buddha's invention but how things are; the Buddha discovered and taught it.
+
+    **Naturally so**: dharmatā is also rendered 法爾 "naturally thus"; Yogācāra says the innate uncontaminated seeds are "naturally possessed".
+
+    In Mahāyāna texts suchness, dharma-nature, dharma-realm, the reality-limit and emptiness are largely synonyms.
+  quotes:
+    - text: 若佛出世，若未出世，此法常住，法住法界
+      source: 《雜阿含經》卷12（第296經）
+      source_en: Saṃyuktāgama, fasc. 12, sūtra 296
+      ref: T02n0099_p0084b16
+      refEnd: T02n0099_p0084b17
+      note_en: Whether a buddha appears in the world or does not appear, this Dharma abides constantly — the stability of the Dharma, the dharma-realm.
+  related: [ tathata, dharmadhatu, pratityasamutpada, sunyata ]
+  compare: [ suchness-names ]
+
+- id: sarvajnata
+  skt: sarvajñatā
+  deva: सर्वज्ञता
+  pali: sabbaññutā
+  zh: 一切智
+  zhAlt: [ 一切種智, 薩婆若, 一切智智 ]
+  en: omniscience
+  enAlt: [ all-knowing wisdom, knowledge of all, sarvajna, sarvajnata ]
+  root: sarva「一切」＋ jña「知」＋ -tā「性」 · sarva "all" + jña "knowing"
+  short_zh: 了知一切法的智慧；《大智度論》分一切智（二乘）、道種智（菩薩）、一切種智（佛）三智。
+  short_en: Omniscience — knowledge of all dharmas. The Dazhidu lun distinguishes the knowledge of all (disciples), knowledge of paths (bodhisattvas) and knowledge of all modes (buddhas).
+  detail_zh: |
+    sarvajña 音譯「薩婆若」。佛被稱為「一切智者」。
+
+    **三智**：《大智度論》說一切智是聲聞、辟支佛事，道智是菩薩事，一切種智是佛事。一切智知一切法的總相（空），一切種智則兼知一切法的別相（種種差別），所以只有佛才圓滿。
+
+    **唯識**：斷所知障才能得一切種智；二乘只斷煩惱障，雖證涅槃而非一切智者。
+  detail_en: |
+    Sarvajña is transliterated 薩婆若; the Buddha is "the all-knowing one".
+
+    **Three knowledges**: the Dazhidu lun says the knowledge of all belongs to disciples and solitary buddhas, knowledge of paths to bodhisattvas, knowledge of all modes to buddhas. The first knows the general mark of dharmas (emptiness); the last also knows every particular, so only a buddha has it fully.
+
+    **Yogācāra**: omniscience requires cutting the cognitive obstruction; the two vehicles cut only the afflictive one, so though they attain nirvāṇa they are not omniscient.
+  quotes:
+    - text: 一切智是聲聞、辟支佛事，道智是諸菩薩事，一切種智是佛事。
+      source: 《大智度論》卷27
+      source_en: Dazhidu lun (*Mahāprajñāpāramitāśāstra), fasc. 27
+      ref: T25n1509_p0259a20
+      refEnd: T25n1509_p0259a22
+      note_en: The knowledge of all is the business of disciples and solitary buddhas; the knowledge of paths is the business of bodhisattvas; the knowledge of all modes is the business of the buddhas.
+  related: [ buddha, bodhi, jneyavarana, jnana ]
+
+- id: mahayana
+  skt: mahāyāna
+  deva: महायान
+  pali: ''
+  zh: 大乘
+  zhAlt: [ 摩訶衍, 菩薩乘, 上乘 ]
+  en: Great Vehicle
+  enAlt: [ mahayana, great vehicle, bodhisattva vehicle ]
+  root: mahā「大」＋ yāna「乘、車乘」 · mahā "great" + yāna "vehicle"
+  short_zh: 以發菩提心、行六度、自利利他而成佛為目標的佛教傳統；相對於聲聞、緣覺二乘。
+  short_en: Great Vehicle — the Buddhist tradition aiming at buddhahood through the awakening mind, the perfections and benefiting self and others; contrasted with the two vehicles of disciples and solitary buddhas.
+  detail_zh: |
+    mahāyāna 音譯「摩訶衍」。《大乘起信論》：「所言法者，謂眾生心。是心則攝一切世間法、出世間法，依於此心顯示摩訶衍義。」
+
+    **大的意義**：所發心大（為一切眾生）、所修行大（六度萬行）、所證果大（佛果）。唯識、中觀、如來藏都屬大乘。
+
+    **用語提醒**：「小乘」（hīnayāna）是大乘經典中的貶稱，今日學界多改用「聲聞乘」或「部派佛教」；上座部佛教並不自稱小乘。
+  detail_en: |
+    Mahāyāna is transliterated 摩訶衍. Awakening of Faith: "What is called the Dharma is the mind of sentient beings. This mind contains all worldly and world-transcending dharmas; based on this mind the meaning of Mahāyāna is revealed."
+
+    **Why great**: great in aspiration (for all beings), in practice (the perfections), in fruit (buddhahood). Yogācāra, Madhyamaka and tathāgatagarbha thought all belong to it.
+
+    **A note on terms**: "Hīnayāna" is a pejorative from Mahāyāna sūtras; scholars now prefer "Śrāvakayāna" or "mainstream Buddhism", and Theravāda does not call itself Hīnayāna.
+  quotes:
+    - text: 所言法者，謂眾生心，是心則攝一切世間法、出世間法。依於此心顯示摩訶衍義。
+      source: 《大乘起信論》
+      source_en: Awakening of Faith
+      ref: T32n1666_p0575c21
+      refEnd: T32n1666_p0575c23
+      note_en: What is called the Dharma is the mind of sentient beings. This mind includes all worldly and supramundane dharmas; on the basis of this mind the meaning of the Mahāyāna is revealed.
+  related: [ bodhisattva, bodhicitta, paramita, ekayana, sravaka ]
+  compare: [ three-vehicles ]
+
+- id: ekayana
+  skt: ekayāna
+  deva: एकयान
+  pali: ''
+  zh: 一佛乘
+  zhAlt: [ 一乘, 佛乘 ]
+  en: One Vehicle
+  enAlt: [ single vehicle, one buddha vehicle, ekayana ]
+  root: eka「一」＋ yāna「乘」 · eka "one" + yāna "vehicle"
+  short_zh: 《法華經》的核心教義：三乘只是方便，究竟唯有令一切眾生成佛的一佛乘。
+  short_en: 'The One Vehicle — the core teaching of the Lotus Sūtra: the three vehicles are skilful means; ultimately there is only the one vehicle leading all to buddhahood.'
+  detail_zh: |
+    《法華經》：「十方佛土中，唯有一乘法，無二亦無三，除佛方便說。」火宅喻中，長者許諸子羊車、鹿車、牛車，出宅後卻平等賜予大白牛車。
+
+    **一乘與三乘之爭**：天台、華嚴等主張一乘真實、三乘方便；唯識宗依《解深密經》主張五種姓各別，認為「一乘」是為引導不定種姓而說的密意。這是中國佛教的著名爭論。
+  detail_en: |
+    Lotus Sūtra: "In the buddha-lands of the ten directions there is only the Dharma of the One Vehicle — no second, no third — except as the Buddha teaches by skilful means." In the burning-house parable the father promises goat, deer and ox carts, but outside gives every child the same great white-ox cart.
+
+    **One vehicle or three**: Tiantai and Huayan hold the one vehicle real and three provisional; Yogācāra, following the Saṃdhinirmocana, holds the five lineages distinct and reads "one vehicle" as an intentional teaching to draw in those of indeterminate lineage — a famous Chinese debate.
+  quotes:
+    - text: 十方佛土中，唯有一乘法，無二亦無三。除佛方便說。
+      source: 《妙法蓮華經》卷1
+      source_en: Lotus Sūtra, tr. Kumārajīva, fasc. 1
+      ref: T09n0262_p0008a17
+      refEnd: T09n0262_p0008a18
+      note_en: In the buddha-lands of the ten directions there is only the Dharma of the One Vehicle — there is no second and no third — except as the Buddha teaches by skilful means.
+  related: [ mahayana, upaya, gotra, sravaka, pratyekabuddha ]
+  compare: [ three-vehicles ]

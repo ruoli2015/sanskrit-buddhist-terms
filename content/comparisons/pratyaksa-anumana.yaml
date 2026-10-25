@@ -1,0 +1,78 @@
+id: pratyaksa-anumana
+title_zh: 現量與比量
+title_en: Perception and inference
+terms: [ pramana, pratyaksa, anumana ]
+summary_zh: 現量離分別、直接親證個別的當下（自相）；比量藉徵相推理、認知概念性的共相。陳那只承認這兩種量。
+summary_en: Perception is non-conceptual, directly knowing the particular (svalakṣaṇa); inference reasons from signs and knows conceptual universals. Dignāga accepts only these two means of valid cognition.
+table:
+  columns:
+    - { zh: 現量, en: Perception }
+    - { zh: 比量, en: Inference }
+  rows:
+    - label: { zh: 分別, en: Concepts }
+      cells:
+        - { zh: 離名言種類等分別, en: Free of names and kinds }
+        - { zh: 依名言概念, en: Uses concepts }
+    - label: { zh: 所緣, en: Object }
+      cells:
+        - { zh: 自相, en: Particulars }
+        - { zh: 共相, en: Universals }
+    - label: { zh: 例子, en: Example }
+      cells:
+        - { zh: 眼識見色、定中親證, en: 'Eye seeing colour; meditative insight' }
+        - { zh: 見煙知火, en: Knowing fire from smoke }
+explanation_zh: |
+  《因明入正理論》：「此中現量，謂無分別」；「言比量者，謂藉眾相而觀於義」。
+
+  **非量**：錯誤的認知，如把繩看成蛇（似現量）、因推理錯誤而得出錯誤結論（似比量）。唯識常合稱「現量、比量、非量」為三量。
+
+  **與修行的關係**：聞思所得的道理多屬比量；見道時以無分別智親證真如，才是現量。前五識都是現量，但凡夫第六意識多夾雜分別。
+explanation_en: |
+  Nyāyapraveśa: "Perception is free of conceptual construction"; "inference observes an object through its marks."
+
+  **Invalid cognition**: mistaking a rope for a snake (pseudo-perception), or drawing a wrong conclusion from faulty reasoning (pseudo-inference). Yogācāra often counts perception, inference and invalid cognition as three.
+
+  **For practice**: understanding from study and reflection is mostly inference; only at the path of seeing is suchness known directly by non-conceptual wisdom. The five sense consciousnesses are always perception, but an ordinary person's mental consciousness is mostly conceptual.
+questions:
+  - type: mcq
+    q_zh: 「見煙知有火」屬於？
+    q_en: '"Seeing smoke, knowing there is fire" is…'
+    options:
+      - { zh: 現量, en: perception }
+      - { zh: 比量, en: inference }
+      - { zh: 非量, en: invalid cognition }
+    answer: 1
+    explain_zh: 藉徵相（煙）推知不可見的對象（火）。
+    explain_en: Knowing an unseen object (fire) from a sign (smoke).
+  - type: mcq
+    q_zh: 現量所緣的是？
+    q_en: Perception knows…
+    options:
+      - { zh: 自相, en: particulars }
+      - { zh: 共相, en: universals }
+      - { zh: 名言, en: names }
+    answer: 0
+    explain_zh: 現量緣自相，比量緣共相。
+    explain_en: Perception knows particulars; inference knows universals.
+  - type: tf
+    q_zh: 陳那把聖言量（經典權威）立為第三種獨立的量。
+    q_en: Dignāga made scriptural authority a third, independent means of valid cognition.
+    answer: false
+    explain_zh: 陳那只立現、比二量，聖言量歸入比量。
+    explain_en: He accepted only perception and inference; scripture falls under inference.
+  - type: mcq
+    q_zh: 把繩子看成蛇屬於？
+    q_en: Seeing a rope as a snake is…
+    options:
+      - { zh: 現量, en: perception }
+      - { zh: 比量, en: inference }
+      - { zh: 非量（似現量）, en: invalid (pseudo-perception) }
+    answer: 2
+    explain_zh: 看似直接知覺，實為錯誤認知。
+    explain_en: It seems like perception but is mistaken.
+  - type: tf
+    q_zh: 自證分與證自證分都唯是現量。
+    q_en: The self-witnessing part and its witness are always direct perception.
+    answer: true
+    explain_zh: 只有見分「或現或比」，後二分唯現量。
+    explain_en: Only the seeing part can be inferential; the last two parts are always perception.

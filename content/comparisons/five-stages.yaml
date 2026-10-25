@@ -1,0 +1,107 @@
+id: five-stages
+title_zh: 唯識五位
+title_en: The five stages of the Yogācāra path
+terms: [ sambhara-avastha, prayoga-avastha, darsana-marga, bhavana-marga, nistha-avastha, bhumi ]
+summary_zh: 資糧位積集福智；加行位伏二取；通達位（見道）初證真如；修習位（修道）歷十地斷俱生障；究竟位成佛。《唯識三十頌》後五頌依次說此五位。
+summary_en: Accumulation gathers merit and wisdom; preparation subdues the two graspings; penetration (seeing) first realizes suchness; cultivation removes the innate obstructions through the ten stages; culmination is buddhahood. The last five of the Thirty Verses describe them in order.
+table:
+  columns:
+    - { zh: 資糧, en: Accumulation }
+    - { zh: 加行, en: Preparation }
+    - { zh: 通達（見道）, en: Penetration }
+    - { zh: 修習（修道）, en: Cultivation }
+    - { zh: 究竟, en: Culmination }
+  rows:
+    - label: { zh: 二取, en: Two graspings }
+      cells:
+        - { zh: 未能伏滅, en: Not yet subdued }
+        - { zh: 漸伏（仍有所得）, en: Subdued (still apprehending) }
+        - { zh: 離二取相, en: Free of them }
+        - { zh: 斷其習氣, en: Their traces cut }
+        - { zh: 永盡, en: Ended forever }
+    - label: { zh: 菩薩階位, en: Bodhisattva level }
+      cells:
+        - { zh: 地前, en: Before the stages }
+        - { zh: 地前（四善根）, en: Before the stages (four roots) }
+        - { zh: 初地入心, en: Entering the first stage }
+        - { zh: 初地至十地, en: First to tenth stage }
+        - { zh: 佛地, en: Buddhahood }
+    - label: { zh: 三十頌, en: Thirty Verses }
+      cells:
+        - { zh: 第26頌, en: Verse 26 }
+        - { zh: 第27頌, en: Verse 27 }
+        - { zh: 第28頌, en: Verse 28 }
+        - { zh: 第29頌, en: Verse 29 }
+        - { zh: 第30頌, en: Verse 30 }
+explanation_zh: |
+  《成唯識論》：「何謂悟入唯識五位？一、資糧位，謂修大乘順解脫分；二、加行位，謂修大乘順決擇分；三、通達位，謂諸菩薩所住見道；四、修習位，謂諸菩薩所住修道；五、究竟位，謂住無上正等菩提。」
+
+  **關鍵分界**：加行位雖然觀「唯識」，但「現前立少物，謂是唯識性，以有所得故，非實住唯識」；到通達位「智都無所得」，才真正住於唯識。
+
+  **時間**：資糧、加行為第一大阿僧祇劫；初地至七地為第二劫；八地至十地為第三劫。
+explanation_en: |
+  Cheng weishi lun: "What are the five stages of entering consciousness-only? Accumulation, preparation, penetration (the path of seeing), cultivation (the path of cultivation), and culmination (abiding in unsurpassed perfect awakening)."
+
+  **The key divide**: in preparation one contemplates "consciousness-only", yet "setting something up before oneself and calling it the nature of consciousness-only — because something is apprehended, one does not truly abide in it"; at penetration "wisdom apprehends nothing at all", and one truly abides in consciousness-only.
+
+  **Time**: accumulation and preparation take the first incalculable aeon; the first to seventh stages the second; the eighth to tenth the third.
+quotes:
+  - text: 何謂悟入唯識五位？一、資糧位，謂修大乘順解脫分；二、加行位，謂修大乘順決擇分；三、通達位，謂諸菩薩所住見道；四、修習位，謂諸菩薩所住修道；五、究竟位，謂住無上正等菩提。
+    source: 《成唯識論》卷9
+    source_en: Cheng weishi lun, fasc. 9
+    ref: T31n1585_p0048b11
+    refEnd: T31n1585_p0048b15
+    note_en: 'What are the five stages of entering consciousness-only? First, accumulation: cultivating the Mahāyāna factors conducive to liberation. Second, preparation: cultivating the factors conducive to penetration. Third, penetration: the path of seeing in which bodhisattvas dwell. Fourth, cultivation: the path of cultivation in which bodhisattvas dwell. Fifth, culmination: abiding in unsurpassed perfect awakening.'
+questions:
+  - type: mcq
+    q_zh: 修煖、頂、忍、世第一法的是哪一位？
+    q_en: In which stage are heat, summit, patience and the highest worldly dharma cultivated?
+    options:
+      - { zh: 資糧位, en: accumulation }
+      - { zh: 加行位, en: preparation }
+      - { zh: 通達位, en: penetration }
+    answer: 1
+    explain_zh: 加行位修四善根，伏除二取。
+    explain_en: Preparation cultivates the four wholesome roots, subduing the two graspings.
+  - type: mcq
+    q_zh: 「若時於所緣，智都無所得，爾時住唯識」描述的是？
+    q_en: '"When wisdom apprehends nothing in its object, then it abides in consciousness-only" describes…'
+    options:
+      - { zh: 加行位, en: preparation }
+      - { zh: 通達位（見道）, en: penetration (seeing) }
+      - { zh: 究竟位, en: culmination }
+    answer: 1
+    explain_zh: 見道時無分別智親證真如，離二取相。
+    explain_en: At seeing, non-conceptual wisdom realizes suchness, free of the two graspings.
+  - type: tf
+    q_zh: 加行位已經真實住於唯識。
+    q_en: In the stage of preparation one already truly abides in consciousness-only.
+    answer: false
+    explain_zh: 「以有所得故，非實住唯識。」
+    explain_en: '"Because something is apprehended, one does not truly abide in consciousness-only."'
+  - type: mcq
+    q_zh: 菩薩登初地是在哪一位？
+    q_en: A bodhisattva enters the first stage (bhūmi) at…
+    options:
+      - { zh: 通達位, en: penetration }
+      - { zh: 修習位結束時, en: the end of cultivation }
+      - { zh: 資糧位, en: accumulation }
+    answer: 0
+    explain_zh: 見道即初地入心；修習位歷初地住心至十地。
+    explain_en: Seeing is entering the first stage; cultivation spans the first to the tenth.
+  - type: mcq
+    q_zh: 「無得不思議，是出世間智，捨二麤重故，便證得轉依」對應？
+    q_en: '"Apprehending nothing, inconceivable … abandoning the two coarsenesses, transformation of the basis is realized" corresponds to…'
+    options:
+      - { zh: 修習位, en: cultivation }
+      - { zh: 資糧位, en: accumulation }
+      - { zh: 加行位, en: preparation }
+    answer: 0
+    explain_zh: 修道中反覆修習無分別智，斷二障種子，證轉依。
+    explain_en: In cultivation non-conceptual wisdom is practised repeatedly, cutting the seeds of both obstructions.
+  - type: tf
+    q_zh: 資糧位與加行位合為第一大阿僧祇劫。
+    q_en: Accumulation and preparation together make up the first incalculable aeon.
+    answer: true
+    explain_zh: 地前為第一劫，初地至七地為第二劫，八地至十地為第三劫。
+    explain_en: Before the stages is the first aeon; stages 1–7 the second; 8–10 the third.

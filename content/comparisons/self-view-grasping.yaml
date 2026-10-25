@@ -1,0 +1,86 @@
+id: self-view-grasping
+title_zh: 我執、薩迦耶見、我見
+title_en: Self-grasping, personality view and self-view
+terms: [ atma-graha, satkaya-drsti, atma-drsti, atman ]
+summary_zh: 我執是執取實我的總稱；薩迦耶見是五見之一，執五蘊為我、我所；末那識的我見則只是俱生的薩迦耶見。
+summary_en: Self-grasping is the general term for taking a real self; the personality view is one of the five views, taking the aggregates as I and mine; manas's self-view is only its innate form.
+table:
+  columns:
+    - { zh: 我執, en: Self-grasping }
+    - { zh: 薩迦耶見, en: Personality view }
+    - { zh: 末那識的我見, en: Self-view of manas }
+  rows:
+    - label: { zh: 範圍, en: Scope }
+      cells:
+        - { zh: 俱生與分別, en: Innate and conceptual }
+        - { zh: 俱生與分別；含我見與我所見, en: 'Innate and conceptual; "I" and "mine"' }
+        - { zh: 唯俱生, en: Innate only }
+    - label: { zh: 所在識, en: Consciousness }
+      cells:
+        - { zh: 第六、第七識, en: Sixth and seventh }
+        - { zh: 第六、第七識, en: Sixth and seventh }
+        - { zh: 第七識, en: Seventh }
+    - label: { zh: 斷時, en: Removed at }
+      cells:
+        - { zh: 分別見道斷，俱生修道斷, en: 'Conceptual at seeing, innate in cultivation' }
+        - { zh: 分別見道斷（三結之一）, en: Conceptual at seeing (a fetter) }
+        - { zh: 修道漸斷, en: Gradually in cultivation }
+explanation_zh: |
+  **我執**：《成唯識論》：「然諸我執略有二種：一者俱生，二者分別。」俱生我執不待邪教邪思、任運而起，在第六、第七識；分別我執由邪教邪思而起，只在第六識。
+
+  **薩迦耶見**：五見之首，「謂於五取蘊，執我、我所」。它是我執在「見」這個心所上的表現。
+
+  **末那的我見**：《成唯識論》：「我見者：謂我執，於非我法，妄計為我。」末那識只有俱生的一類，所以見道時不斷，要在修道中漸次斷除。
+
+  **簡記**：初果斷的「身見」是分別起的薩迦耶見；阿羅漢才斷盡俱生的我執。
+explanation_en: |
+  **Self-grasping**: Cheng weishi lun: "Self-grasping is of two kinds: innate and conceptual." The innate kind arises spontaneously without wrong teaching, in the sixth and seventh consciousnesses; the conceptual kind comes from wrong teachings and reasoning, in the sixth only.
+
+  **Personality view**: first of the five views, "taking the five aggregates of clinging as I and mine". It is self-grasping as expressed through the mental factor of view.
+
+  **Self-view of manas**: Cheng weishi lun: "Self-view is self-grasping: falsely taking what is not self as self." Manas has only the innate kind, so it is not cut at seeing but gradually during cultivation.
+
+  **In short**: the "personality view" cut at stream-entry is the conceptual kind; only the arhat ends innate self-grasping.
+questions:
+  - type: mcq
+    q_zh: 末那識的我見屬於哪一類？
+    q_en: What kind is manas's self-view?
+    options:
+      - { zh: 唯俱生, en: innate only }
+      - { zh: 唯分別, en: conceptual only }
+      - { zh: 俱生與分別皆有, en: both innate and conceptual }
+    answer: 0
+    explain_zh: 末那恆時任運緣第八識為我，不依邪教，所以只有俱生。
+    explain_en: Manas spontaneously takes the eighth as self, independent of teachings — so innate only.
+  - type: mcq
+    q_zh: 須陀洹（初果）所斷的身見是？
+    q_en: The personality view cut by a stream-enterer is…
+    options:
+      - { zh: 分別起的薩迦耶見, en: the conceptual personality view }
+      - { zh: 俱生的我執, en: innate self-grasping }
+      - { zh: 末那識的我見, en: the self-view of manas }
+    answer: 0
+    explain_zh: 分別起者見道頓斷；俱生者修道漸斷。
+    explain_en: The conceptual kind is cut all at once at seeing; the innate kind gradually in cultivation.
+  - type: tf
+    q_zh: 分別我執只在第六意識中。
+    q_en: Conceptual self-grasping occurs only in mental consciousness.
+    answer: true
+    explain_zh: 由邪教、邪思惟而起的分別，只有第六識能做。
+    explain_en: Discrimination driven by wrong teachings and reasoning is done only by the sixth consciousness.
+  - type: mcq
+    q_zh: 「於五取蘊，執我、我所」是哪一種見？
+    q_en: '"Taking the five aggregates of clinging as I and mine" is which view?'
+    options:
+      - { zh: 薩迦耶見, en: personality view }
+      - { zh: 邊執見, en: extreme view }
+      - { zh: 見取見, en: attachment to views }
+    answer: 0
+    explain_zh: 《成唯識論》五見的第一。
+    explain_en: The first of the five views in the Cheng weishi lun.
+  - type: tf
+    q_zh: 我執與法執一樣，都分俱生與分別兩種。
+    q_en: Like grasping at dharmas, self-grasping is divided into innate and conceptual.
+    answer: true
+    explain_zh: 《成唯識論》對二執都說「略有二種：一者俱生，二者分別」。
+    explain_en: 'The Cheng weishi lun says of both: "of two kinds — innate and conceptual".'

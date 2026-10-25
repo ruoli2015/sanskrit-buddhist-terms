@@ -1,0 +1,103 @@
+id: six-ten-perfections
+title_zh: 六度與十度
+title_en: Six and ten perfections
+terms: [ paramita, prajna, upaya, pranidhana, bala, jnana ]
+summary_zh: 十波羅蜜是在六度之後再加方便、願、力、智四度；後四度都是從般若開出，屬後得智的妙用。唯識以十度配十地。
+summary_en: The ten perfections add skilful means, vow, power and wisdom (jñāna) to the six; the last four unfold from prajñā as functions of subsequent wisdom. Yogācāra matches the ten to the ten stages.
+table:
+  columns:
+    - { zh: 方便, en: Means }
+    - { zh: 願, en: Vow }
+    - { zh: 力, en: Power }
+    - { zh: 智, en: Wisdom (jñāna) }
+  rows:
+    - label: { zh: 二種, en: Two kinds }
+      cells:
+        - { zh: 迴向方便、拔濟方便, en: 'Dedicating; rescuing' }
+        - { zh: 求菩提願、利樂他願, en: 'Seeking awakening; benefiting others' }
+        - { zh: 思擇力、修習力, en: 'Reflection; cultivation' }
+        - { zh: 受用法樂智、成熟有情智, en: 'Enjoying the Dharma; maturing beings' }
+    - label: { zh: 增上之地, en: Stage emphasized }
+      cells:
+        - { zh: 第七地, en: 7th }
+        - { zh: 第八地, en: 8th }
+        - { zh: 第九地, en: 9th }
+        - { zh: 第十地, en: 10th }
+explanation_zh: |
+  《成唯識論》：「十勝行者，即是十種波羅蜜多。」前六即布施、持戒、忍辱、精進、靜慮、般若；後四是方便善巧、願、力、智。
+
+  **後四度的意義**：第六般若是證真如的根本無分別智；後四度則是後得智——在證悟之後，善巧方便地教化眾生、發願、增長力量、成熟有情。所以說後四度「從般若開出」。
+
+  **配十地**：初地布施增上……第十地智波羅蜜增上；但每一地並非只修一度，而是隨分具修十度。
+explanation_en: |
+  Cheng weishi lun: "The ten superior practices are the ten perfections." The first six are giving, morality, patience, energy, meditation and wisdom (prajñā); the last four are skilful means, vow, power and wisdom (jñāna).
+
+  **The last four**: the sixth, prajñā, is the root non-conceptual wisdom that realizes suchness; the last four are subsequent wisdom — after realization, skilfully teaching, vowing, strengthening and maturing beings. Hence they "unfold from prajñā".
+
+  **The ten stages**: giving is emphasized on the first stage … jñāna on the tenth; yet on each stage all ten are practised to some degree.
+quotes:
+  - text: 十勝行者，即是十種波羅蜜多。
+    source: 《成唯識論》卷9
+    source_en: Cheng weishi lun, fasc. 9
+    ref: T31n1585_p0051b08
+    note_en: The ten superior practices are the ten perfections.
+  - text: 願有二種：謂求菩提願、利樂他願。力有二種：謂思擇力、修習力。智有二種：謂受用法樂智、成熟有情智。
+    source: 《成唯識論》卷9
+    source_en: Cheng weishi lun, fasc. 9
+    ref: T31n1585_p0051b16
+    refEnd: T31n1585_p0051b18
+    note_en: Vows are of two kinds — the vow seeking awakening and the vow to benefit others. Power is of two kinds — the power of reflection and the power of cultivation. Wisdom is of two kinds — the wisdom enjoying the Dharma and the wisdom maturing beings.
+questions:
+  - type: mcq
+    q_zh: 十波羅蜜中，在六度之外加上的不包括？
+    q_en: Which is not among the four added to the six perfections?
+    options:
+      - { zh: 方便, en: skilful means }
+      - { zh: 願, en: vow }
+      - { zh: 精進, en: energy }
+      - { zh: 智, en: wisdom (jñāna) }
+    answer: 2
+    explain_zh: 精進已在六度之中。
+    explain_en: Energy is already one of the six.
+  - type: mcq
+    q_zh: 「思擇力、修習力」是哪一度的二種？
+    q_en: '"The power of reflection and the power of cultivation" are the two kinds of…'
+    options:
+      - { zh: 力, en: power }
+      - { zh: 願, en: vow }
+      - { zh: 智, en: wisdom (jñāna) }
+    answer: 0
+    explain_zh: 《成唯識論》：「力有二種，謂思擇力、修習力。」
+    explain_en: 'Cheng weishi lun: "Power is of two kinds: reflection and cultivation."'
+  - type: tf
+    q_zh: 第六般若與第十智是同一種智慧。
+    q_en: The sixth perfection (prajñā) and the tenth (jñāna) are the same wisdom.
+    answer: false
+    explain_zh: 般若是根本無分別智；智波羅蜜是後得智。
+    explain_en: Prajñā is root non-conceptual wisdom; jñāna is subsequent wisdom.
+  - type: mcq
+    q_zh: 「求菩提願、利樂他願」屬於？
+    q_en: '"The vow seeking awakening and the vow to benefit others" belong to…'
+    options:
+      - { zh: 願波羅蜜, en: the perfection of vow }
+      - { zh: 方便波羅蜜, en: the perfection of means }
+      - { zh: 般若波羅蜜, en: the perfection of wisdom }
+    answer: 0
+    explain_zh: 願波羅蜜，第八地增上。
+    explain_en: The perfection of vow, emphasized on the eighth stage.
+  - type: mcq
+    q_zh: 唯識以十度配合什麼？
+    q_en: Yogācāra matches the ten perfections to…
+    options:
+      - { zh: 十地, en: the ten stages }
+      - { zh: 十二因緣, en: the twelve links }
+      - { zh: 十八界, en: the eighteen elements }
+    answer: 0
+    explain_zh: 初地布施增上，至第十地智波羅蜜增上。
+    explain_en: Giving on the first stage up to jñāna on the tenth.
+  - type: tf
+    q_zh: 菩薩在每一地都只修一種波羅蜜。
+    q_en: On each stage a bodhisattva practises only one perfection.
+    answer: false
+    explain_zh: 每地有一度特別增上，但隨分具修十度。
+    explain_en: One is emphasized on each stage, but all ten are practised to some degree.

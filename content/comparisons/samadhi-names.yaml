@@ -1,0 +1,82 @@
+id: samadhi-names
+title_zh: 定的異名：三摩地、等至、靜慮
+title_en: 'Names for concentration: samādhi, samāpatti, dhyāna'
+terms: [ samadhi, samapatti, dhyana, nirodha-samapatti ]
+summary_zh: 三摩地（等持）是心一境性的心所，散心中也有；等至是已到達的深定境界，含無心定；靜慮專指色界四禪。
+summary_en: Samādhi is the mental factor of one-pointedness, present even in ordinary minds; samāpatti is a deep attainment actually reached, including mindless states; dhyāna means specifically the four form-realm absorptions.
+table:
+  columns:
+    - { zh: 三摩地（等持）, en: Samādhi }
+    - { zh: 等至, en: Samāpatti }
+    - { zh: 靜慮（禪那）, en: Dhyāna }
+  rows:
+    - label: { zh: 性質, en: Nature }
+      cells:
+        - { zh: 別境心所, en: An object-specific mental factor }
+        - { zh: 所到達的定境, en: An attained state }
+        - { zh: 色界定, en: Form-realm absorption }
+    - label: { zh: 散心中有否, en: In ordinary mind? }
+      cells:
+        - { zh: 有（微弱）, en: Yes (weak) }
+        - { zh: 無, en: No }
+        - { zh: 無, en: No }
+    - label: { zh: 範圍, en: Covers }
+      cells:
+        - { zh: 有心位, en: States with mind }
+        - { zh: 四禪、四無色、無想定、滅盡定, en: 'Dhyānas, formless, mindless attainments' }
+        - { zh: 四禪, en: The four dhyānas }
+explanation_zh: |
+  **三摩地**（samādhi）在唯識是五別境心所之一：「於所觀境，令心專注不散為性」。只要心專注於所觀之境，散心中也有微弱的定。
+
+  **等至**（samāpatti，三摩鉢底）指由定力令身心平等而到達的境界。滅盡定、無想定沒有心、心所，不能稱三摩地，卻可稱等至。
+
+  **靜慮**（dhyāna，禪那）專指色界四禪，定慧均等、寂靜審慮；六度中的「禪定」即此。「禪定」一詞是梵漢合璧（禪 + 定）。
+explanation_en: |
+  **Samādhi** is one of the five object-specific mental factors in Yogācāra: "its nature is making the mind focus on the observed object without scattering". Whenever the mind focuses on an object, a weak concentration is present even in ordinary mind.
+
+  **Samāpatti** is a state reached when concentration evens out body and mind. The attainments of cessation and of non-perception have no mind or mental factors, so they cannot be called samādhi — but they are samāpatti.
+
+  **Dhyāna** means specifically the four form-realm absorptions, where calm and insight are balanced; it is the dhyāna of the six perfections. The Chinese 禪定 combines a transliteration (禪) and a translation (定).
+questions:
+  - type: mcq
+    q_zh: 滅盡定可以稱為？
+    q_en: The attainment of cessation can be called…
+    options:
+      - { zh: 等至, en: samāpatti }
+      - { zh: 三摩地, en: samādhi }
+      - { zh: 靜慮, en: dhyāna }
+    answer: 0
+    explain_zh: 滅盡定無心所，故非三摩地；它屬於等至。
+    explain_en: Without mental factors it is not samādhi; it is a samāpatti.
+  - type: tf
+    q_zh: 依唯識，散心中也有微弱的定（三摩地）。
+    q_en: According to Yogācāra, a weak samādhi is present even in ordinary scattered minds.
+    answer: true
+    explain_zh: 定是別境心所，緣所觀境時即有，不限於定地。
+    explain_en: It is an object-specific factor arising whenever an object is observed, not only in meditative states.
+  - type: mcq
+    q_zh: 專指色界四禪的是？
+    q_en: Which term means specifically the four form-realm absorptions?
+    options:
+      - { zh: 靜慮, en: dhyāna }
+      - { zh: 等至, en: samāpatti }
+      - { zh: 三摩地, en: samādhi }
+    answer: 0
+    explain_zh: dhyāna 音譯「禪那」，意譯「靜慮」。
+    explain_en: Dhyāna, transliterated 禪那, rendered 靜慮.
+  - type: mcq
+    q_zh: 玄奘譯「等至」的梵語是？
+    q_en: Xuanzang's 等至 translates…
+    options:
+      - { zh: samāpatti, en: samāpatti }
+      - { zh: samādhi, en: samādhi }
+      - { zh: śamatha, en: śamatha }
+    answer: 0
+    explain_zh: samāpatti 舊音譯「三摩鉢底」，舊意譯「正受」。
+    explain_en: Samāpatti was formerly transliterated 三摩鉢底 and rendered 正受.
+  - type: tf
+    q_zh: 四無色定也屬於靜慮（dhyāna）。
+    q_en: The four formless attainments are also dhyānas.
+    answer: false
+    explain_zh: 靜慮專指色界四禪；四無色定稱無色定或等至。
+    explain_en: Dhyāna is only the four form-realm absorptions; the formless ones are samāpatti.

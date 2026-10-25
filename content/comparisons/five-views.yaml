@@ -1,0 +1,110 @@
+id: five-views
+title_zh: 五見：身見、邊見、邪見、見取、戒禁取
+title_en: 'The five views: personality, extreme, false, attachment to views, attachment to rules'
+terms: [ drsti, satkaya-drsti, antagraha-drsti, mithya-drsti, drsti-paramarsa, silavrata-paramarsa ]
+summary_zh: 根本煩惱「惡見」分為五種：執我（身見）、執我斷常（邊見）、撥無因果（邪見）、執見為勝（見取）、執邪行為道（戒禁取）。
+summary_en: 'The root affliction "wrong view" divides into five: grasping a self, grasping it as eternal or annihilated, denying cause and effect, holding views supreme, and holding wrong practices to be the path.'
+table:
+  columns:
+    - { zh: 薩迦耶見, en: Personality }
+    - { zh: 邊執見, en: Extreme }
+    - { zh: 邪見, en: 'False' }
+    - { zh: 見取見, en: Views }
+    - { zh: 戒禁取見, en: Rules }
+  rows:
+    - label: { zh: 所執, en: Holds }
+      cells:
+        - { zh: 五蘊為我、我所, en: Aggregates as I and mine }
+        - { zh: 我常住或斷滅, en: Self eternal or annihilated }
+        - { zh: 無因果、無作用, en: No cause and effect }
+        - { zh: 諸見為最勝, en: Views as supreme }
+        - { zh: 邪戒禁能得淨, en: Wrong observances purify }
+    - label: { zh: 業用, en: Function }
+      cells:
+        - { zh: 一切見趣所依, en: Basis of all views }
+        - { zh: 障中道、出離, en: Blocks the middle way }
+        - { zh: 能斷善根, en: Can cut wholesome roots }
+        - { zh: 一切鬪諍所依, en: Basis of disputes }
+        - { zh: 無利勤苦所依, en: Basis of fruitless toil }
+explanation_zh: |
+  五見是「不正見（惡見）」這一心所的五種分類，由淺至深環環相扣：先執有我（薩迦耶見）；有我便問我常或斷（邊執見）；或者撥無因果（邪見）；對自己的見解執為最勝（見取見）；依邪見而修種種苦行，以為能解脫（戒禁取見）。
+
+  **前二與後二**：身見、邊見針對「我」；見取、戒禁取是對見與行的執取；邪見則是否定，在五見中最重。
+
+  **三結**：身見、戒禁取加上疑，是初果所斷的三結。
+explanation_en: |
+  The five are divisions of the single mental factor "wrong view", linked in sequence: one grasps a self (personality view); with a self one asks whether it lasts or ends (extreme view); or one denies cause and effect (false view); one holds one's own views supreme (attachment to views); and one practises austerities based on wrong views, believing they liberate (attachment to rules and rituals).
+
+  **Pairs**: personality and extreme views concern the self; attachment to views and to rules concern clinging to doctrines and practices; false view is denial, the gravest of the five.
+
+  **Three fetters**: personality view and attachment to rules, with doubt, are the three fetters cut at stream-entry.
+quotes:
+  - text: 一、薩迦耶見：謂於五取蘊，執我、我所，一切見趣所依為業。
+    source: 《成唯識論》卷6
+    source_en: Cheng weishi lun, fasc. 6
+    ref: T31n1585_p0031c13
+    refEnd: T31n1585_p0031c14
+    note_en: First, personality view — taking the five aggregates of clinging as I and mine; its function is to be the basis of all views.
+  - text: 我我所斷常，撥無劣謂勝，非因道妄謂，是五見自體。
+    source: 《阿毘達磨俱舍論》卷19
+    source_en: Abhidharmakośabhāṣya, fasc. 19
+    ref: T29n1558_p0099c28
+    refEnd: T29n1558_p0099c29
+    note_en: '"I" and "mine"; annihilation and permanence; denial; taking the inferior as superior; falsely taking what is not the cause or path as such — these are the substance of the five views.'
+questions:
+  - type: mcq
+    q_zh: 執「人死後一切斷滅、沒有後世」屬於？
+    q_en: '"At death everything ends; there is no next life" is…'
+    options:
+      - { zh: 邊執見, en: extreme view }
+      - { zh: 邪見, en: false view }
+      - { zh: 見取見, en: attachment to views }
+    answer: 0
+    explain_zh: 執我死後斷滅是斷見，屬邊執見（斷、常二邊）。
+    explain_en: Holding that the self is annihilated is annihilationism, one of the two extremes.
+  - type: mcq
+    q_zh: 「一切鬪諍所依為業」的是？
+    q_en: Which view "is the basis of all disputes"?
+    options:
+      - { zh: 薩迦耶見, en: personality view }
+      - { zh: 見取見, en: attachment to views }
+      - { zh: 戒禁取見, en: attachment to rules and rituals }
+    answer: 1
+    explain_zh: 把自己的見解執為最勝，便與他人爭論不休。
+    explain_en: Holding one's own view supreme leads to endless quarrels.
+  - type: mcq
+    q_zh: 模仿牛狗以求生天的「牛戒、狗戒」屬於？
+    q_en: The "cow vow" and "dog vow" (imitating animals to reach heaven) are…
+    options:
+      - { zh: 邪見, en: false view }
+      - { zh: 戒禁取見, en: attachment to rules and rituals }
+      - { zh: 邊執見, en: extreme view }
+    answer: 1
+    explain_zh: 把無益的行持當作解脫之因。
+    explain_en: Taking fruitless practices as the cause of liberation.
+  - type: tf
+    q_zh: 戒禁取見是指持守佛教戒律的執著，所以修行人不應持戒。
+    q_en: Attachment to rules and rituals means keeping Buddhist precepts, so practitioners should not keep them.
+    answer: false
+    explain_zh: 《俱舍論》：「於非因道謂因道見，一切總說名戒禁取。」即把錯誤的行為當作解脫之道，不是指持守正戒。
+    explain_en: It means taking wrong practices as the path, not keeping proper precepts.
+  - type: mcq
+    q_zh: 五見中被視為最重、能斷善根的是？
+    q_en: Which of the five views is gravest and can cut the wholesome roots?
+    options:
+      - { zh: 薩迦耶見, en: personality view }
+      - { zh: 邪見, en: false view }
+      - { zh: 見取見, en: attachment to views }
+    answer: 1
+    explain_zh: 邪見撥無因果，能斷善根。
+    explain_en: False view denies cause and effect and can sever the wholesome roots.
+  - type: mcq
+    q_zh: 初果所斷的三結是身見、疑與？
+    q_en: The three fetters cut at stream-entry are personality view, doubt and…
+    options:
+      - { zh: 戒禁取見, en: attachment to rules and rituals }
+      - { zh: 邊執見, en: extreme view }
+      - { zh: 邪見, en: false view }
+    answer: 0
+    explain_zh: 三結：身見、戒禁取、疑。
+    explain_en: 'The three fetters: personality view, attachment to rules and rituals, doubt.'

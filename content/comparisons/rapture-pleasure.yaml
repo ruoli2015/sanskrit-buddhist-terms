@@ -1,0 +1,82 @@
+id: rapture-pleasure
+title_zh: 喜（prīti）、樂（sukha）與喜無量（muditā）
+title_en: Rapture, pleasure and sympathetic joy
+terms: [ priti, sukha, mudita, vedana ]
+summary_zh: 喜支（prīti）是初、二禪的踊躍歡喜；樂（sukha）是寧靜的適悅，延續到三禪；四無量的喜（muditā）是隨喜他人之樂。三者漢譯都可能作「喜」或「樂」。
+summary_en: Rapture (prīti) is the elated joy of the first two dhyānas; pleasure (sukha) is calm well-being lasting into the third; sympathetic joy (muditā) is rejoicing in others' happiness. Chinese may render any of them 喜 or 樂.
+table:
+  columns:
+    - { zh: 喜支 prīti, en: Rapture }
+    - { zh: 樂 sukha, en: Pleasure }
+    - { zh: 喜無量 muditā, en: Sympathetic joy }
+  rows:
+    - label: { zh: 特徵, en: Character }
+      cells:
+        - { zh: 踊躍、興奮, en: Elated }
+        - { zh: 寧靜、適悅, en: Calm ease }
+        - { zh: 隨喜他人, en: Rejoicing for others }
+    - label: { zh: 禪支, en: Dhyāna factor }
+      cells:
+        - { zh: 初禪、二禪, en: First and second }
+        - { zh: 初禪至三禪, en: First to third }
+        - { zh: —, en: — }
+    - label: { zh: 唯識／俱舍分類, en: Yogācāra / Kośa }
+      cells:
+        - { zh: 喜受, en: Feeling of joy }
+        - { zh: 樂受（初二禪為輕安）, en: Pleasant feeling (pliancy in 1st–2nd) }
+        - { zh: 以無瞋為體, en: Based on non-aversion }
+explanation_zh: |
+  **禪中的次第**：九地中，初禪名離生喜樂地，二禪名定生喜樂地，三禪名離喜妙樂地，四禪名捨念清淨地。喜比樂粗，先捨喜，再捨樂。
+
+  **上座部的區分**：pīti 是行蘊的心所，sukha 是受蘊——喜如口渴者聽說前方有水，樂如真正喝到水。唯識與《俱舍論》則把禪支之喜歸入喜受。
+
+  **muditā**：四無量心中的「喜」，看到眾生離苦得樂而歡喜，對治嫉妒；與禪支的喜是不同的梵語。
+explanation_en: |
+  **Order in the dhyānas**: among the nine levels, the first dhyāna is called the level of rapture and pleasure born of seclusion, the second of rapture and pleasure born of concentration, the third of pleasure free of rapture, the fourth of purity of equanimity and mindfulness. Rapture is coarser than pleasure, so it is dropped first.
+
+  **Theravāda distinction**: pīti is a mental factor (formations aggregate), sukha is feeling — rapture is the thirsty traveller hearing of water ahead, pleasure is drinking it. Yogācāra and the Kośa class rapture as the feeling of joy.
+
+  **Muditā**: the 喜 of the four immeasurables, gladness at beings' happiness, which counters envy — a different Sanskrit word from the rapture of dhyāna.
+questions:
+  - type: mcq
+    q_zh: 三禪捨去的是？
+    q_en: What is dropped in the third dhyāna?
+    options:
+      - { zh: 喜（prīti）, en: rapture }
+      - { zh: 樂（sukha）, en: pleasure }
+      - { zh: 念, en: mindfulness }
+    answer: 0
+    explain_zh: 三禪「離喜」而有妙樂；四禪才捨樂。
+    explain_en: The third dhyāna leaves rapture but keeps pleasure; pleasure goes in the fourth.
+  - type: mcq
+    q_zh: 對治嫉妒、隨喜他人之樂的是？
+    q_en: Which counters envy by rejoicing in others' happiness?
+    options:
+      - { zh: muditā（喜無量）, en: muditā }
+      - { zh: prīti（喜支）, en: prīti }
+      - { zh: sukha（樂）, en: sukha }
+    answer: 0
+    explain_zh: 四無量心中的喜。
+    explain_en: The joy of the four immeasurables.
+  - type: tf
+    q_zh: 上座部阿毗達摩把 pīti 歸入受蘊。
+    q_en: Theravāda Abhidhamma classes pīti in the feeling aggregate.
+    answer: false
+    explain_zh: 上座部以 pīti 為行蘊的心所，與樂受區分。
+    explain_en: It treats pīti as a mental factor in the formations aggregate, distinct from feeling.
+  - type: mcq
+    q_zh: 依《俱舍論》，初禪、二禪的「樂」支其實是？
+    q_en: According to the Abhidharmakośa, the "pleasure" of the first two dhyānas is really…
+    options:
+      - { zh: 輕安, en: pliancy }
+      - { zh: 喜受, en: the feeling of joy }
+      - { zh: 捨受, en: neutral feeling }
+    answer: 0
+    explain_zh: 三禪的樂才是樂受。
+    explain_en: Only the third dhyāna's pleasure is pleasant feeling.
+  - type: tf
+    q_zh: 七覺支中的「喜覺支」是 prīti。
+    q_en: The rapture among the seven factors of awakening is prīti.
+    answer: true
+    explain_zh: 七覺支：念、擇法、精進、喜、輕安、定、捨。
+    explain_en: 'The seven: mindfulness, investigation, energy, rapture, pliancy, concentration, equanimity.'

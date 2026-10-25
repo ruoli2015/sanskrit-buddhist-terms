@@ -197,3 +197,209 @@
   ordered: true
   summary_zh: 法身（自性身）、報身（受用身）、化身（變化身）。
   summary_en: Dharma body (intrinsic), enjoyment body, emanation body.
+
+- id: basics-3
+  zh: 常用名相（三）
+  en: Basic Vocabulary (3)
+  items: [prthagjana, saiksa, asaiksa, samyojana, lokadhatu, stupa, mantra, dharani]
+  summary_zh: 凡夫與有學、無學，三結與十結，三千大千世界，塔、咒與陀羅尼。
+  summary_en: Ordinary beings, trainees and adepts, the fetters, the world-system, stūpas, mantras and dhāraṇīs.
+
+- id: six-destinies
+  zh: 六道
+  en: The Six Destinies
+  skt: ṣaḍ gatayaḥ
+  head: gati
+  items: [deva, manusya, asura, tiryagyoni, preta, naraka]
+  ordered: true
+  summary_zh: 天、人、阿修羅、畜生、餓鬼、地獄。有部只立五趣，阿修羅分屬天、鬼。
+  summary_en: Gods, humans, asuras, animals, hungry ghosts and hell beings. The Sarvāstivāda counts five, filing asuras under gods or ghosts.
+
+- id: buddhas-bodhisattvas
+  zh: 佛、菩薩與淨土
+  en: Buddhas, Bodhisattvas and the Pure Land
+  items: [sakyamuni, amitabha, sukhavati, maitreya, manjusri, avalokitesvara, ksitigarbha]
+  summary_zh: 釋迦牟尼、阿彌陀與極樂世界，以及彌勒、文殊、觀世音、地藏四大菩薩。
+  summary_en: Śākyamuni, Amitābha and the Land of Bliss, and the bodhisattvas Maitreya, Mañjuśrī, Avalokiteśvara and Kṣitigarbha.
+
+- id: three-realms
+  zh: 三界
+  en: The Three Realms
+  head: traidhatuka
+  items: [kamadhatu, rupadhatu, arupyadhatu]
+  ordered: true
+  summary_zh: 欲界、色界、無色界——有情生死流轉的三個層次。
+  summary_en: The desire, form and formless realms — the three levels of existence in saṃsāra.
+
+- id: four-formless
+  zh: 四無色處
+  en: The Four Formless Spheres
+  skt: catvāra ārūpyāḥ
+  items: [akasanantyayatana, vijnananantyayatana, akincanyayatana, naivasamjnanasamjnayatana]
+  ordered: true
+  summary_zh: 空無邊處、識無邊處、無所有處、非想非非想處——既是四種定，也是無色界的四種生處。
+  summary_en: Infinite space, infinite consciousness, nothingness, neither perception nor non-perception — four attainments and the four births of the formless realm.
+
+- id: meditation-terms
+  zh: 禪定名相
+  en: Meditation Terms
+  items: [samapatti, priti, sukha]
+  summary_zh: 等至，以及禪支中的喜與樂。
+  summary_en: Meditative attainment, and the dhyāna factors rapture and pleasure.
+
+- id: seven-bodhyanga
+  zh: 七覺支
+  en: The Seven Factors of Awakening
+  skt: sapta bodhyaṅgāni
+  head: bodhyanga
+  items: [smrti, dharmapravicaya, virya, priti, prasrabdhi, samadhi, upeksa]
+  ordered: true
+  summary_zh: 念、擇法、精進、喜、輕安、定、捨。昏沉時修擇法、精進、喜；掉舉時修輕安、定、捨。
+  summary_en: Mindfulness, investigation, energy, rapture, pliancy, concentration, equanimity. Rouse a sluggish mind with the second three; settle a restless one with the last three.
+
+- id: awakening-aids
+  zh: 道品（選）
+  en: Aids to Awakening (selection)
+  items: [smrtyupasthana, samyakprahana, rddhipada, bala]
+  ordered: true
+  summary_zh: 四念處、四正勤、四神足、五根五力。
+  summary_en: The foundations of mindfulness, right efforts, bases of power, and the faculties and powers.
+
+- id: five-powers
+  zh: 五根與五力
+  en: The Five Faculties and Powers
+  skt: pañca balāni
+  head: bala
+  items: [sraddha, virya, smrti, samadhi, prajna]
+  ordered: true
+  summary_zh: 信、精進、念、定、慧：增上時稱根，堅固不被摧伏時稱力。
+  summary_en: Faith, energy, mindfulness, concentration, wisdom — called faculties when dominant, powers when unshakeable.
+
+- id: four-samgraha
+  zh: 四攝法
+  en: The Four Means of Attraction
+  skt: catvāri saṃgrahavastūni
+  head: samgrahavastu
+  items: [dana, priyavacana, arthacarya, samanarthata]
+  ordered: true
+  summary_zh: 布施、愛語、利行、同事——菩薩攝受眾生的方法。
+  summary_en: Giving, kind speech, beneficial action and sharing aims — how bodhisattvas draw beings in.
+
+- id: ten-paramitas
+  zh: 十波羅蜜
+  en: The Ten Perfections
+  skt: daśa pāramitāḥ
+  items: [dana, sila, ksanti, virya, dhyana, prajna, upaya, pranidhana, bala, jnana]
+  ordered: true
+  summary_zh: 六度加方便、願、力、智。唯識以十度配十地。
+  summary_en: The six perfections plus skilful means, vow, power and wisdom (jñāna); Yogācāra matches them to the ten stages.
+
+- id: mahayana-core-2
+  zh: 大乘要義（二）
+  en: Mahāyāna Essentials (2)
+  items: [svabhava, prapanca, dharmadhatu, dharmata, sarvajnata, mahayana, ekayana, bhumi, anutpattika-dharma-ksanti]
+  summary_zh: 自性與戲論、法界與法性、一切智、大乘與一佛乘、十地與無生法忍。
+  summary_en: Intrinsic nature and proliferation, dharma-realm and dharma-nature, omniscience, the Great and One Vehicles, the bodhisattva stages and acceptance of non-arising.
+
+- id: five-views
+  zh: 五見
+  en: The Five Views
+  skt: pañca dṛṣṭayaḥ
+  head: drsti
+  items: [satkaya-drsti, antagraha-drsti, mithya-drsti, drsti-paramarsa, silavrata-paramarsa]
+  ordered: true
+  summary_zh: 根本煩惱「惡見」的五種：薩迦耶見、邊執見、邪見、見取見、戒禁取見。
+  summary_en: 'The five kinds of the root affliction "wrong view": personality view, extreme view, false view, attachment to views, attachment to rules and rituals.'
+
+- id: manas-four
+  zh: 末那四惑
+  en: The Four Afflictions of Manas
+  items: [atma-moha, atma-drsti, atma-mana, atma-sneha]
+  ordered: true
+  summary_zh: 第七末那識恆與我癡、我見、我慢、我愛四根本煩惱相應。
+  summary_en: Manas is always joined with self-delusion, self-view, self-pride and self-love.
+
+- id: yogacara-core-2
+  zh: 唯識要義（二）
+  en: Yogācāra Essentials (2)
+  items: [parinama, samudacara, grahya-grahaka, atma-graha, dharma-graha, adana-vijnana, gotra, icchantika]
+  summary_zh: 識變、現行、二取、我執法執、阿陀那識、種姓與一闡提。
+  summary_en: Transformation of consciousness, manifestation, grasper and grasped, the two graspings, the appropriating consciousness, lineage and the icchantika.
+
+- id: four-parts
+  zh: 心識四分
+  en: The Four Parts of Consciousness
+  items: [nimitta-bhaga, darsana-bhaga, svasamvitti-bhaga, svasamvitti-samvitti-bhaga]
+  ordered: true
+  summary_zh: 護法所立：相分、見分、自證分、證自證分。
+  summary_en: Dharmapāla's four parts — image, seeing, self-witnessing, and the witness of self-witnessing.
+
+- id: pramana
+  zh: 量
+  en: Valid Cognition
+  head: pramana
+  items: [pratyaksa, anumana]
+  ordered: true
+  summary_zh: 陳那因明只立現量與比量；唯識另說非量，合為三量。
+  summary_en: Dignāga's logic accepts only perception and inference; Yogācāra adds invalid cognition to make three.
+
+- id: four-conditions
+  zh: 四緣
+  en: The Four Conditions
+  head: catvarah-pratyayah
+  items: [hetupratyaya, samanantara-pratyaya, alambana-pratyaya, adhipati-pratyaya]
+  ordered: true
+  summary_zh: 因緣、等無間緣、所緣緣、增上緣。心法四緣具足，色法只需因緣與增上緣。
+  summary_en: Causal, immediately preceding, object and dominant conditions. Minds need all four; matter only the first and last.
+
+- id: five-results
+  zh: 五果
+  en: The Five Results
+  head: phala
+  items: [vipaka-phala, nisyanda-phala, visamyoga-phala, purusakara-phala, adhipati-phala]
+  ordered: true
+  summary_zh: 異熟、等流、離繫、士用、增上（依《成唯識論》次序）。
+  summary_en: Ripened, outflow, separation, agent-made and dominant (in the Cheng weishi lun's order).
+
+- id: viprayukta-2
+  zh: 心不相應行（二）
+  en: Non-associated Formations (2)
+  items: [nikaya-sabhaga, prthagjanatva, asamjnika, nama-kaya, pada-kaya, vyanjana-kaya]
+  summary_zh: 眾同分、異生性、無想報，以及名身、句身、文身。
+  summary_en: Commonality of a class, ordinariness, the state of non-perception, and words, phrases and letters.
+
+- id: six-asamskrta
+  zh: 六無為
+  en: The Six Unconditioned Dharmas
+  skt: ṣaḍ asaṃskṛtāni
+  head: asamskrta
+  items: [akasa, pratisamkhya-nirodha, apratisamkhya-nirodha, aninjya, samjnavedita-nirodha, tathata]
+  ordered: true
+  summary_zh: 虛空、擇滅、非擇滅、不動滅、想受滅、真如——唯識說六者皆依真如假立。
+  summary_en: Space, the two cessations, imperturbability, cessation of perception and feeling, and suchness — all designated on suchness in Yogācāra.
+
+- id: five-stages
+  zh: 唯識五位
+  en: The Five Stages of Yogācāra
+  items: [sambhara-avastha, prayoga-avastha, darsana-marga, bhavana-marga, nistha-avastha]
+  ordered: true
+  summary_zh: 資糧、加行、通達（見道）、修習（修道）、究竟——悟入唯識的五個階位。
+  summary_en: Accumulation, preparation, penetration (seeing), cultivation and culmination — the five stages of entering consciousness-only.
+
+- id: four-wisdoms
+  zh: 四智
+  en: The Four Wisdoms
+  head: jnana
+  items: [adarsa-jnana, samata-jnana, pratyaveksana-jnana, krtyanusthana-jnana]
+  ordered: true
+  summary_zh: 轉八識成四智：大圓鏡智、平等性智、妙觀察智、成所作智。
+  summary_en: 'The eight consciousnesses become four wisdoms: mirror-like, equality, discernment and accomplishing.'
+
+- id: four-nirvanas
+  zh: 四種涅槃
+  en: The Four Kinds of Nirvāṇa
+  head: nirvana
+  items: [prakrti-nirvana, sopadhisesa-nirvana, nirupadhisesa-nirvana, apratisthita-nirvana]
+  ordered: true
+  summary_zh: 本來自性清淨、有餘依、無餘依、無住處涅槃。
+  summary_en: Naturally pure nirvāṇa, nirvāṇa with and without remainder, and non-abiding nirvāṇa.

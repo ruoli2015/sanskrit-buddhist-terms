@@ -1,0 +1,237 @@
+# 百法補遺：心不相應行（選）與六無為
+
+- id: nikaya-sabhaga
+  skt: nikāya-sabhāga
+  deva: निकायसभाग
+  pali: ''
+  zh: 眾同分
+  zhAlt: [ 同分 ]
+  en: commonality of a class
+  enAlt: [ group homogeneity, species commonality, class similarity, nikaya-sabhaga ]
+  root: nikāya「類、聚」＋ sabhāga「同分」 · nikāya "class" + sabhāga "sharing a part"
+  short_zh: 心不相應行之一：有情各依其類而彼此相似的性質——人與人同、天與天同。
+  short_en: Commonality of a class — a non-associated formation; the similarity by which beings of one kind resemble each other — humans with humans, gods with gods.
+  detail_zh: |
+    《大乘五蘊論》：「云何眾同分？謂諸有情自類相似為性。」人之所以為人、狗之所以為狗，在於各類有情身心的相似性。
+
+    **唯識與有部**：說一切有部以眾同分為實有之法；唯識認為它只是依有情身心相似的分位假立，沒有獨立實體。命根即是「於眾同分中，先業所引」的壽命。
+  detail_en: |
+    Pañcaskandhaka: "What is commonality of a class? The resemblance of beings, each to its own kind." What makes a human a human and a dog a dog is the similarity of body and mind within each class.
+
+    **Yogācāra and Sarvāstivāda**: the Sarvāstivāda treats it as a real dharma; Yogācāra holds it is only designated on the similar states of beings, without separate substance. The life faculty is the lifespan "within a class of beings, projected by past karma".
+  quotes:
+    - text: 云何眾同分？謂諸有情自類相似為性。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0849c15
+      refEnd: T31n1612_p0849c16
+      note_en: What is commonality of a class? Its nature is the resemblance of beings, each to its own kind.
+  related: [ viprayukta-samskara, jivitendriya, sattva, prajnapti ]
+  compare: [ prajnapti-dravya ]
+
+- id: prthagjanatva
+  skt: pṛthagjanatva
+  deva: पृथग्जनत्व
+  pali: puthujjanatta
+  zh: 異生性
+  zhAlt: [ 凡夫性 ]
+  en: ordinariness
+  enAlt: [ state of an ordinary being, nature of an ordinary person, worldling-hood ]
+  root: pṛthag-jana「異生、凡夫」＋ -tva「性」 · pṛthagjana "ordinary person" + -tva "-ness"
+  short_zh: 心不相應行之一：未得聖法的狀態，使有情仍為凡夫（異生）；見道時捨。
+  short_en: Ordinariness — a non-associated formation; the state of not having attained the noble dharmas, which keeps one an ordinary being. It is abandoned at the path of seeing.
+  detail_zh: |
+    《大乘五蘊論》：「云何異生性？謂於諸聖法不得為性。」只要還沒有證得見道的無漏聖法，就是異生。
+
+    **唯識**：依見道所斷二障種子未斷的分位假立異生性；《成唯識論》說二乘見道斷煩惱障分別種子而捨異生性，菩薩見道兼斷二障。有部則以異生性為「不得聖法」的實法。
+  detail_en: |
+    Pañcaskandhaka: "What is ordinariness? Not having obtained the noble dharmas." Until the uncontaminated dharmas of the path of seeing are attained, one is an ordinary being.
+
+    **Yogācāra**: it is designated on the state in which the seeds to be cut by the path of seeing remain; disciples abandon it on cutting the conceptual afflictive seeds, bodhisattvas on cutting both obstructions. The Sarvāstivāda treats it as a real dharma, "non-attainment of the noble dharmas".
+  quotes:
+    - text: 云何異生性？謂於諸聖法不得為性。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0849c25
+      note_en: What is ordinariness? Its nature is not having obtained the noble dharmas.
+  related: [ prthagjana, viprayukta-samskara, darsana-marga, prapti ]
+
+- id: asamjnika
+  skt: āsaṃjñika
+  deva: आसंज्ञिक
+  pali: ''
+  zh: 無想報
+  zhAlt: [ 無想異熟, 無想事, 無想果 ]
+  en: state of non-perception
+  enAlt: [ non-perceptual state, result of non-perception, birth without perception ]
+  root: a-saṃjñā「無想」＋ -ika「所屬」 · asaṃjñā "no perception"
+  short_zh: 心不相應行之一：修無想定所感，生於無想天時前六識心心所不起的果報。
+  short_en: State of non-perception — a non-associated formation; the result of the attainment of non-perception, in which the first six consciousnesses do not arise while living among the non-perceiving gods.
+  detail_zh: |
+    《大乘五蘊論》：「云何無想所有？」說的是修無想定所得的果——生於色界第四禪的無想天，五百大劫中前六識不起，如同長眠。
+
+    外道誤以為這是涅槃；但報盡之後，想心復起，又墮下界。佛教把無想天列為「八難」之一，因為在此無法聞法修行。
+  detail_en: |
+    The Pañcaskandhaka defines "what belongs to non-perception" as the fruit of the attainment of non-perception — birth in the non-perceiving heaven of the fourth dhyāna, where for five hundred great aeons the first six consciousnesses do not arise, like a long sleep.
+
+    Non-Buddhist meditators mistook this for nirvāṇa; but when the result is exhausted perception returns and they fall to lower realms. It is one of the "eight inopportune states", since no Dharma can be heard or practised there.
+  quotes:
+    - text: 云何無想所有？謂無想等至果。無想有情天中生已，不恒現行心心法滅為性。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0849c13
+      refEnd: T31n1612_p0849c14
+      note_en: 'What is the state of non-perception? The fruit of the attainment of non-perception: after birth among the non-perceiving gods, its nature is the cessation of the non-constant minds and mental factors.'
+  related: [ asamjni-samapatti, viprayukta-samskara, rupadhatu, vipaka ]
+  compare: [ two-attainments ]
+
+- id: nama-kaya
+  skt: nāma-kāya
+  deva: नामकाय
+  pali: ''
+  zh: 名身
+  zhAlt: [ 名 ]
+  en: collection of words
+  enAlt: [ words, names, word-group, nama-kaya ]
+  root: nāman「名」＋ kāya「身、聚集」 · nāman "name" + kāya "collection"
+  short_zh: 心不相應行之一：詮表諸法自性的名稱，如「眼」「色」；身是聚集之義。
+  short_en: Collection of words — a non-associated formation; names expressing the nature of dharmas, such as "eye" or "form". Kāya here means "collection".
+  detail_zh: |
+    《大乘五蘊論》：「云何名身？謂諸法自性增語為性。」名能詮表事物本身，如說「色」便讓人想起色法。
+
+    **名、句、文**：文（字母）組成名（詞），名組成句（句子）。三者都是依聲音的屈曲差別假立的，不是聲音本身，也不是獨立實法——唯識把語言視為假立的心不相應行。「身」是複數、聚集之義：二名以上稱名身。
+  detail_en: |
+    Pañcaskandhaka: "What is the collection of words? Expressions for the own-nature of dharmas." A name points to a thing itself: saying "form" brings form to mind.
+
+    **Words, phrases, letters**: letters make words, words make phrases. All three are designated on modulations of sound — not sound itself and not independent real dharmas; Yogācāra treats language as designated non-associated formations. "Kāya" marks a plural: two or more words make a collection of words.
+  quotes:
+    - text: 云何名身？謂諸法自性增語為性。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0849c20
+      refEnd: T31n1612_p0849c21
+      note_en: What is the collection of words? Its nature is expressions for the own-nature of dharmas.
+  related: [ pada-kaya, vyanjana-kaya, viprayukta-samskara, prajnapti ]
+  compare: [ name-phrase-letter ]
+
+- id: pada-kaya
+  skt: pada-kāya
+  deva: पदकाय
+  pali: ''
+  zh: 句身
+  zhAlt: [ 句 ]
+  en: collection of phrases
+  enAlt: [ phrases, sentences, phrase-group, pada-kaya ]
+  root: pada「句、足跡」＋ kāya「聚集」 · pada "phrase" + kāya "collection"
+  short_zh: 心不相應行之一：詮表諸法差別（性質、關係）的語句，如「諸行無常」。
+  short_en: Collection of phrases — a non-associated formation; statements expressing the distinctions of dharmas, such as "all formations are impermanent".
+  detail_zh: |
+    《大乘五蘊論》：「云何句身？謂諸法差別增語為性。」名只說出事物，句則說出事物的差別、屬性與關係：「色」是名，「色無常」是句。
+
+    句由名組成，二句以上稱句身。偈頌中的一「句」即一行。
+  detail_en: |
+    Pañcaskandhaka: "What is the collection of phrases? Expressions for the distinctions of dharmas." A word names a thing; a phrase states its qualities and relations: "form" is a word, "form is impermanent" a phrase.
+
+    Phrases are built of words; two or more make a collection. In verse, one 句 is one line.
+  quotes:
+    - text: 云何句身？謂諸法差別增語為性。
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0849c21
+      refEnd: T31n1612_p0849c22
+      note_en: What is the collection of phrases? Its nature is expressions for the distinctions of dharmas.
+  related: [ nama-kaya, vyanjana-kaya, gatha ]
+  compare: [ name-phrase-letter ]
+
+- id: vyanjana-kaya
+  skt: vyañjana-kāya
+  deva: व्यञ्जनकाय
+  pali: ''
+  zh: 文身
+  zhAlt: [ 文, 字身 ]
+  en: collection of letters
+  enAlt: [ letters, syllables, phonemes, vyanjana-kaya ]
+  root: vyañjana「顯現、字母」＋ kāya「聚集」 · vyañjana "manifesting, letter"
+  short_zh: 心不相應行之一：組成名與句的字母（音素）；文能彰顯名、句的意義。
+  short_en: Collection of letters — a non-associated formation; the letters (phonemes) that make up words and phrases, revealing their meaning.
+  detail_zh: |
+    《大乘五蘊論》：「云何文身？謂諸字為性，以能表彰前二種故。」vyañjana 本義「顯現」，字母能彰顯名與句所詮的意義，所以稱「文」。
+
+    梵文以字母（akṣara）拼音，因此有「文」組成「名」、「名」組成「句」的層次。文本身不詮表意義，只作為名、句的所依。
+  detail_en: |
+    Pañcaskandhaka: "What is the collection of letters? The syllables." Vyañjana means "manifesting": letters reveal what words and phrases express.
+
+    Sanskrit is spelled with syllabic letters (akṣara), hence the layering of letters into words and words into phrases. Letters themselves express no meaning; they are the basis of words and phrases.
+  quotes:
+    - text: 云何文身？謂諸字為性，以能表彰前二種故；
+      source: 《大乘五蘊論》
+      source_en: Pañcaskandhaka
+      ref: T31n1612_p0849c22
+      refEnd: T31n1612_p0849c23
+      note_en: What is the collection of letters? Its nature is the syllables, because they reveal the former two.
+  related: [ nama-kaya, pada-kaya ]
+  compare: [ name-phrase-letter ]
+
+- id: aninjya
+  skt: āniñjya
+  deva: आनिञ्ज्य
+  pali: āneñja
+  zh: 不動滅無為
+  zhAlt: [ 不動無為, 不動 ]
+  en: unconditioned imperturbability
+  enAlt: [ imperturbable cessation, cessation of the imperturbable, the imperturbable ]
+  root: a-√iñj「不動搖」 · a + √iñj "not to stir"
+  short_zh: 六無為之一：第四禪離苦樂受，依此所顯的真如理；唯識依真如假立。
+  short_en: Unconditioned imperturbability — one of the six unconditioned dharmas; suchness as revealed in the fourth dhyāna, free of pleasant and painful feeling. Yogācāra designates it on suchness.
+  detail_zh: |
+    《大乘百法明門論》列六無為，第四為「不動滅無為」。第四禪以上離苦、樂受（及憂、喜），心不被八風搖動，故名「不動」；依此所顯的寂滅即不動滅無為。
+
+    **唯識的立場**：《成唯識論》說六無為都是依真如假立的——同一真如，依不同的顯現因緣而立不同名稱，不是另有六種實法。有部只立三無為（虛空、擇滅、非擇滅）。
+  detail_en: |
+    The Hundred Dharmas Treatise lists six unconditioned dharmas; the fourth is the cessation of the imperturbable. From the fourth dhyāna up, painful and pleasant feeling (with grief and joy) are gone and the mind is unshaken by the eight worldly winds — "imperturbable". The stillness revealed there is this unconditioned dharma.
+
+    **Yogācāra view**: the Cheng weishi lun says all six are designated on suchness — one suchness named differently according to how it is revealed, not six real dharmas. The Sarvāstivāda recognizes only three (space and the two cessations).
+  quotes:
+    - text: 第五無為法者，略有六種：一虛空無為、二擇滅無為、三非擇滅無為、四不動滅無為、五想受滅無為、六真如無為。
+      source: 《大乘百法明門論》
+      source_en: Mahāyāna Hundred Dharmas Treatise
+      ref: T31n1614_p0855c17
+      refEnd: T31n1614_p0855c19
+      note_en: Fifth, the unconditioned dharmas are briefly six — 1 space, 2 cessation through discernment, 3 cessation not through discernment, 4 cessation of the imperturbable, 5 cessation of perception and feeling, 6 suchness.
+    - text: 苦、樂受滅，故名不動；想、受不行，名想受滅。
+      source: 《成唯識論》卷2
+      source_en: Cheng weishi lun, fasc. 2
+      ref: T31n1585_p0006c15
+      refEnd: T31n1585_p0006c16
+      note_en: The cessation of painful and pleasant feeling is called imperturbable; perception and feeling not operating is called the cessation of perception and feeling.
+  related: [ asamskrta, tathata, dhyana, samjnavedita-nirodha ]
+  compare: [ nirodha-kinds ]
+
+- id: samjnavedita-nirodha
+  skt: saṃjñāvedayita-nirodha
+  deva: संज्ञावेदयितनिरोध
+  pali: saññāvedayita-nirodha
+  zh: 想受滅無為
+  zhAlt: [ 想受滅 ]
+  en: unconditioned cessation of perception and feeling
+  enAlt: [ cessation of perception and feeling, cessation of ideation and feeling ]
+  root: saṃjñā「想」＋ vedayita「受」＋ nirodha「滅」 · "perception-feeling cessation"
+  short_zh: 六無為之一：入滅盡定時想、受不行，依此所顯的真如理。不同於有為的滅盡定本身。
+  short_en: Unconditioned cessation of perception and feeling — one of the six unconditioned dharmas; suchness as revealed when perception and feeling stop in the attainment of cessation. Not the same as that conditioned attainment itself.
+  detail_zh: |
+    《大乘百法明門論》第五無為。聖者入滅盡定，前六識及第七識染分的想、受等都停止；依此所顯的寂滅，假名想受滅無為。
+
+    **名稱陷阱**：「滅盡定」是心不相應行（有為），是定的狀態本身；「想受滅無為」是依該狀態所顯的真如（無為）。兩者常被混同，經中也以「想受滅」稱滅盡定。
+  detail_en: |
+    The fifth unconditioned dharma of the Hundred Dharmas Treatise. When a noble one enters the attainment of cessation, perception, feeling and the rest stop in the first six consciousnesses and the defiled side of the seventh; the stillness revealed there is figuratively called this unconditioned dharma.
+
+    **Naming trap**: the attainment of cessation is a non-associated formation (conditioned) — the state itself; this unconditioned dharma is the suchness revealed in it. They are often conflated, and sūtras also call the attainment "cessation of perception and feeling".
+  quotes:
+    - text: 苦、樂受滅，故名不動；想、受不行，名想受滅。
+      source: 《成唯識論》卷2
+      source_en: Cheng weishi lun, fasc. 2
+      ref: T31n1585_p0006c15
+      refEnd: T31n1585_p0006c16
+      note_en: The cessation of painful and pleasant feeling is called imperturbable; perception and feeling not operating is called the cessation of perception and feeling.
+  related: [ asamskrta, nirodha-samapatti, tathata, aninjya ]
+  compare: [ nirodha-kinds ]

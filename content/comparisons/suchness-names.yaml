@@ -1,0 +1,81 @@
+id: suchness-names
+title_zh: 真如、法性、法界
+title_en: Suchness, dharma-nature and dharma-realm
+terms: [ tathata, dharmata, dharmadhatu, parinispanna ]
+summary_zh: 三者在大乘中多指同一實相：真如強調「真實如常」，法性強調「法的本性」，法界強調「聖法之因、諸法之性」。但「法界」在十八界中另有狹義。
+summary_en: In Mahāyāna all three usually name the same reality — suchness stresses "true and unchanging", dharma-nature "the nature of dharmas", dharma-realm "the source of noble qualities, the nature of things". But dharma-realm also has a narrow sense among the eighteen elements.
+table:
+  columns:
+    - { zh: 真如, en: Suchness }
+    - { zh: 法性, en: Dharma-nature }
+    - { zh: 法界, en: Dharma-realm }
+  rows:
+    - label: { zh: 字義重點, en: Emphasis }
+      cells:
+        - { zh: 真實、如常不變, en: True and unchanging }
+        - { zh: 諸法本來如此, en: Things naturally being so }
+        - { zh: 聖法之因、法的範圍, en: Source of noble qualities }
+    - label: { zh: 狹義, en: Narrow sense }
+      cells:
+        - { zh: —, en: — }
+        - { zh: —, en: — }
+        - { zh: 十八界之一（意識所緣）, en: One of the eighteen elements }
+explanation_zh: |
+  **真如**：《成唯識論》：「真謂真實，顯非虛妄；如謂如常，表無變易。」即圓成實性。
+
+  **法性**：《雜阿含經》說緣起「若佛出世，若未出世，此法常住，法住、法界」——諸法本來如此，不因佛而有。
+
+  **法界**：在十八界中，法界是意識所緣的法（與法處同）；在大乘，法界是真如的異名，佛果以「清淨法界」為體。
+
+  **其他異名**：實際、空性、無相、勝義諦、法身等，在不同脈絡中都可指同一實相。
+explanation_en: |
+  **Suchness**: Cheng weishi lun: "真 means true, showing it is not false; 如 means constant, showing it does not change." It is the perfected nature.
+
+  **Dharma-nature**: the Saṃyuktāgama says of dependent origination, "whether buddhas appear or not, this Dharma abides — the stability of Dharma, the dharma-realm": things are so by nature, not because of a buddha.
+
+  **Dharma-realm**: among the eighteen elements it is what mental consciousness knows (same as the dharma base); in Mahāyāna it is a synonym of suchness, and buddhahood has the "pure dharma-realm" as its substance.
+
+  **Other synonyms**: the reality-limit, emptiness, signlessness, ultimate truth and dharma body may all name the same reality in different contexts.
+questions:
+  - type: mcq
+    q_zh: 在十八界中，「法界」指的是？
+    q_en: Among the eighteen elements, the "dharma element" is…
+    options:
+      - { zh: 意識所緣的一切法, en: everything known by mental consciousness }
+      - { zh: 真如, en: suchness }
+      - { zh: 佛的國土, en: a buddha-land }
+    answer: 0
+    explain_zh: 這是法界的狹義，與法處相同。
+    explain_en: This is the narrow sense, the same as the dharma base.
+  - type: tf
+    q_zh: 依《雜阿含經》，緣起法是佛陀所創造的。
+    q_en: According to the Saṃyuktāgama, dependent origination was created by the Buddha.
+    answer: false
+    explain_zh: 「若佛出世，若未出世，此法常住」——佛只是發現並開示。
+    explain_en: '"Whether buddhas appear or not, this Dharma abides" — the Buddha discovered and taught it.'
+  - type: mcq
+    q_zh: 「真謂真實，顯非虛妄；如謂如常，表無變易」解釋的是？
+    q_en: '"True, showing it is not false; constant, showing it does not change" explains…'
+    options:
+      - { zh: 真如, en: suchness }
+      - { zh: 法界, en: dharma-realm }
+      - { zh: 空性, en: emptiness }
+    answer: 0
+    explain_zh: 《成唯識論》對真如的解釋。
+    explain_en: The Cheng weishi lun's explanation of suchness.
+  - type: mcq
+    q_zh: 《佛地經》說佛地五法中，除四智外的是？
+    q_en: In the Buddhabhūmi-sūtra, the fifth dharma of buddhahood besides the four wisdoms is…
+    options:
+      - { zh: 清淨法界, en: the pure dharma-realm }
+      - { zh: 法性身, en: the dharma-nature body }
+      - { zh: 真如種子, en: seeds of suchness }
+    answer: 0
+    explain_zh: 「清淨法界、大圓鏡智……」。
+    explain_en: '"The pure dharma-realm, mirror-like wisdom, …"'
+  - type: tf
+    q_zh: 在大乘經論中，真如、法性、法界多為同一實相的異名。
+    q_en: In Mahāyāna texts, suchness, dharma-nature and dharma-realm are largely synonyms for one reality.
+    answer: true
+    explain_zh: 側重點不同，所指相同。
+    explain_en: Different emphases, same referent.

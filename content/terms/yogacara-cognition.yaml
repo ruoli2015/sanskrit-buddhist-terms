@@ -1,0 +1,539 @@
+# 唯識：四分、三量、四緣、五果
+
+- id: nimitta-bhaga
+  skt: nimitta-bhāga
+  deva: निमित्तभाग
+  pali: ''
+  zh: 相分
+  en: image part
+  enAlt: [ objective aspect, image aspect, object part, perceived part, nimitta-bhaga ]
+  root: nimitta「相、影像」＋ bhāga「分」 · nimitta "image, sign" + bhāga "part"
+  short_zh: 識體生起時所現似「所緣」的一面——心直接認識的影像；四分之一。
+  short_en: Image part — the side of a consciousness that appears as its object; the image the mind directly knows. One of the four parts.
+  detail_zh: |
+    《成唯識論》：「然有漏識自體生時，皆似所緣、能緣相現」；「似所緣相說名相分，似能緣相說名見分」。識生起時自然分出兩面：被認識的影像（相分）與能認識的作用（見分）。
+
+    **唯識的關鍵**：我們所見的「山河大地」，直接認識到的都是識自身變現的相分，並非心外實境。外境只是心所變的影像，故說「唯識」。
+
+    **諸師異說**：安慧立一分（相、見皆是遍計所執），難陀立二分，陳那立三分，護法立四分；《成唯識論》以護法為正義。有部則主張心可以直接緣取外境，不需相分。
+  detail_en: |
+    Cheng weishi lun: "When the substance of a contaminated consciousness arises, it appears as both the cognized and the cognizing"; "the likeness of the cognized is called the image part, the likeness of the cognizing is called the seeing part." A consciousness divides itself into what is known (image) and the knowing (seeing).
+
+    **Why this matters**: what we directly know as "mountains, rivers and earth" is the image part transformed by consciousness itself, not a real object outside the mind. Hence "consciousness-only".
+
+    **Masters differ**: Sthiramati held one part (image and seeing both imagined), Nanda two, Dignāga three, Dharmapāla four; the Cheng weishi lun follows Dharmapāla. The Sarvāstivāda holds that mind grasps external objects directly, with no image part.
+  quotes:
+    - text: 然有漏識自體生時，皆似所緣、能緣相現
+      source: 《成唯識論》卷2
+      source_en: Cheng weishi lun, fasc. 2
+      ref: T31n1585_p0010a21
+      refEnd: T31n1585_p0010a22
+      note_en: When the substance of a contaminated consciousness arises, it always appears in the likeness of the cognized and the cognizing.
+    - text: 似所緣相說名相分，似能緣相說名見分。
+      source: 《成唯識論》卷2
+      source_en: Cheng weishi lun, fasc. 2
+      ref: T31n1585_p0010a23
+      refEnd: T31n1585_p0010a24
+      note_en: The likeness of the cognized is called the image part; the likeness of the cognizing is called the seeing part.
+  related: [ darsana-bhaga, vijnaptimatra, alambana, parinama ]
+  compare: [ four-parts ]
+
+- id: darsana-bhaga
+  skt: darśana-bhāga
+  deva: दर्शनभाग
+  pali: ''
+  zh: 見分
+  en: seeing part
+  enAlt: [ subjective aspect, perceiving part, cognizing part, darshana-bhaga ]
+  root: darśana「見」（√dṛś）＋ bhāga「分」 · darśana "seeing" + bhāga "part"
+  short_zh: 識體所現似「能緣」的一面——認識相分的作用；四分之一。
+  short_en: Seeing part — the side of a consciousness that appears as the cognizer; the activity that knows the image part. One of the four parts.
+  detail_zh: |
+    《成唯識論》：「似所緣相說名相分，似能緣相說名見分。」見分是識的「了別」作用，以相分為所緣。
+
+    **見分也不是我**：末那識恆緣阿賴耶識的見分執為自我，但見分只是識體所現的一面，剎那生滅，沒有常一的主宰。「見」在此是廣義的認識作用，不限於眼見。
+
+    見分的認識或量、或非量，或現量、或比量；它本身也需要被證知，因此有自證分。
+  detail_en: |
+    Cheng weishi lun: "The likeness of the cognized is called the image part; the likeness of the cognizing is called the seeing part." The seeing part is the discerning function of consciousness, taking the image part as its object.
+
+    **Not a self either**: manas constantly grasps the seeing part of the store consciousness as a self, but it is only one side of a momentary consciousness, with no lasting controller. "Seeing" here means cognition in general, not just the eye.
+
+    Its cognitions may be valid or invalid, perceptual or inferential; it must itself be known, hence the self-witnessing part.
+  quotes:
+    - text: 謂第二分但緣第一，或量、非量，或現、或比。第三能緣第二，第四證自證分，唯緣第三
+      source: 《成唯識論》卷2
+      source_en: Cheng weishi lun, fasc. 2
+      ref: T31n1585_p0010b23
+      refEnd: T31n1585_p0010b25
+      note_en: That is, the second part takes only the first as object, and is valid or invalid, perceptual or inferential; the third can take the second and fourth; the witness of self-witnessing takes only the third.
+  related: [ nimitta-bhaga, svasamvitti-bhaga, klista-manas ]
+  compare: [ four-parts ]
+
+- id: svasamvitti-bhaga
+  skt: svasaṃvitti-bhāga
+  deva: स्वसंवित्तिभाग
+  pali: ''
+  zh: 自證分
+  zhAlt: [ 自體分 ]
+  en: self-witnessing part
+  enAlt: [ self-awareness, reflexive awareness, self-cognizing part, svasamvitti ]
+  root: sva「自」＋ saṃvitti「證知」＋ bhāga「分」 · sva "self" + saṃvitti "awareness"
+  short_zh: 相分、見分所依的識體本身，證知見分的作用；陳那以之為「量果」。
+  short_en: Self-witnessing part — the substance of consciousness on which image and seeing rest, which knows the seeing part. Dignāga calls it the "result of cognition".
+  detail_zh: |
+    《成唯識論》：「相、見所依自體名事，即自證分。」若沒有自證分，心便不能事後回憶自己曾經的認識——能憶念，證明當時心對自身已有覺知。
+
+    **量與量果**：《成唯識論》引陳那《集量論》：「似境相所量，能取相自證，即能量及果，此三體無別。」相分是所量，見分是能量，自證分是量果，三者同一識體。
+
+    **其他傳統**：中觀應成派（月稱）與有部不承認自證；這是印度佛教認識論的長期爭論。
+  detail_en: |
+    Cheng weishi lun: "The substance on which image and seeing rest is called the thing itself — the self-witnessing part." Without it, the mind could not later remember its own past cognitions; the ability to recall shows the mind was aware of itself at the time.
+
+    **Means and result of cognition**: the Cheng weishi lun cites Dignāga's Pramāṇasamuccaya: "The image of the object is what is measured; the grasping image and self-awareness are the means and the result — these three are not different in substance." Image part = measured, seeing part = means, self-witnessing part = result: one consciousness.
+
+    **Other traditions**: Candrakīrti's Madhyamaka and the Sarvāstivāda reject reflexive awareness — a long debate in Indian Buddhist epistemology.
+  quotes:
+    - text: 相、見所依自體名事，即自證分。
+      source: 《成唯識論》卷2
+      source_en: Cheng weishi lun, fasc. 2
+      ref: T31n1585_p0010b07
+      note_en: The substance on which the image and seeing parts rest is called the thing itself — that is, the self-witnessing part.
+    - text: 似境相所量，能取相、自證，即能量及果，此三體無別。
+      source: 《成唯識論》卷2
+      source_en: Cheng weishi lun, fasc. 2
+      ref: T31n1585_p0010b15
+      refEnd: T31n1585_p0010b16
+      note_en: The likeness of the object is what is measured; the grasping image and self-awareness are the means of measuring and its result — these three are not different in substance.
+  related: [ darsana-bhaga, svasamvitti-samvitti-bhaga, pramana ]
+  compare: [ four-parts ]
+
+- id: svasamvitti-samvitti-bhaga
+  skt: svasaṃvitti-saṃvitti-bhāga
+  deva: स्वसंवित्तिसंवित्तिभाग
+  pali: ''
+  zh: 證自證分
+  en: witness of self-witnessing
+  enAlt: [ awareness of self-awareness, fourth part, re-witnessing part ]
+  root: svasaṃvitti「自證」＋ saṃvitti「證」＋ bhāga「分」（梵名為後代擬構） · reconstructed Sanskrit
+  short_zh: 護法所立第四分：證知自證分的作用；它與自證分互相證知，不需第五分。
+  short_en: Witness of self-witnessing — the fourth part added by Dharmapāla, which knows the self-witnessing part. The two witness each other, so no fifth is needed.
+  detail_zh: |
+    《成唯識論》：「又心、心所若細分別應有四分：三分如前，復有第四證自證分。」自證分證知見分，那麼誰證知自證分？護法立證自證分。
+
+    **為何不會無窮**：「第三能緣第二、第四；證自證分唯緣第三」——自證分與證自證分互相證知，且都是現量，所以不必再立第五分。
+
+    這是護法一系獨有的主張；梵名 svasaṃvitti-saṃvitti 為學者依漢譯擬構。
+  detail_en: |
+    Cheng weishi lun: "Analysed finely, minds and mental factors have four parts: the three as above, and a fourth, the witness of self-witnessing." The self-witnessing part knows the seeing part — then what knows the self-witnessing part? Dharmapāla posits this fourth part.
+
+    **Why no infinite regress**: "the third can take the second and fourth; the witness of self-witnessing takes only the third" — the two know each other, both by direct perception, so no fifth is needed.
+
+    This is a position peculiar to Dharmapāla's school; the Sanskrit is a scholarly reconstruction from the Chinese.
+  quotes:
+    - text: 又心、心所若細分別應有四分，三分如前，復有第四證自證分。
+      source: 《成唯識論》卷2
+      source_en: Cheng weishi lun, fasc. 2
+      ref: T31n1585_p0010b17
+      refEnd: T31n1585_p0010b18
+      note_en: Moreover, minds and mental factors, if analysed finely, should have four parts — the three as before, and a fourth, the witness of self-witnessing.
+  related: [ svasamvitti-bhaga, darsana-bhaga, pratyaksa ]
+  compare: [ four-parts ]
+
+- id: pramana
+  skt: pramāṇa
+  deva: प्रमाण
+  pali: pamāṇa
+  zh: 量
+  zhAlt: [ 三量, 正量, 量論 ]
+  en: valid cognition
+  enAlt: [ means of valid knowledge, means of knowledge, measure, pramana, epistemology ]
+  root: pra-√mā「衡量、認知」 · pra-√mā "to measure, know correctly"
+  short_zh: 正確認知的方法與標準；陳那立現量、比量二量，唯識另言非量，合稱三量。
+  short_en: Valid cognition — the means and standard of correct knowing. Dignāga accepts perception and inference; Yogācāra adds invalid cognition to make three.
+  detail_zh: |
+    pramāṇa 原義是「尺度、衡量」。陳那（Dignāga）、法稱建立佛教量論（因明），只承認兩種量：**現量**（直接知覺）與**比量**（推理）。聖言量（經典權威）被歸入比量。
+
+    **三量**：唯識常說現量、比量、非量——非量是錯誤的認知（似現量、似比量）。見分的認識「或量、非量，或現、或比」，自證分與證自證分則唯是現量。
+
+    **量果**：陳那說「似境相所量，能取相自證，即能量及果」——認識的結果就在識自身，不在外境。
+  detail_en: |
+    Pramāṇa originally means "measure". Dignāga and Dharmakīrti founded Buddhist epistemology (hetuvidyā), accepting only two valid means: **perception** (direct) and **inference**. Scriptural authority is classed under inference.
+
+    **Three kinds**: Yogācāra often speaks of perception, inference and invalid cognition (pseudo-perception, pseudo-inference). The seeing part "is valid or invalid, perceptual or inferential"; the self-witnessing parts are always direct perception.
+
+    **Result of cognition**: Dignāga says "the image of the object is measured; the grasping image and self-awareness are the means and the result" — the result of knowing lies in consciousness itself, not in an outer object.
+  quotes:
+    - text: 為自開悟，當知唯有現、比二量。
+      source: 《因明入正理論》
+      source_en: 因明入正理論
+      ref: T32n1630_p0012b27
+      note_en: For one's own understanding, know that there are only two means of valid cognition, perception and inference.
+  related: [ pratyaksa, anumana, svasamvitti-bhaga ]
+  compare: [ pratyaksa-anumana ]
+
+- id: pratyaksa
+  skt: pratyakṣa
+  deva: प्रत्यक्ष
+  pali: paccakkha
+  zh: 現量
+  zhAlt: [ 現量智 ]
+  en: direct perception
+  enAlt: [ perception, direct perceptual cognition, immediate perception, pratyaksha ]
+  root: 'prati「對」＋ akṣa「根（眼等）」 · prati + akṣa "sense organ": "before the senses"'
+  short_zh: 離名言、種類等分別，直接親證對象自相的認知；前五識與定心等是現量。
+  short_en: Direct perception — cognition free of names and conceptual construction, directly knowing the particular itself; e.g. the five sense consciousnesses and meditative insight.
+  detail_zh: |
+    《因明入正理論》：「此中現量，謂無分別。若有正智，於色等義，離名種等所有分別，現現別轉，故名現量。」現量的關鍵是「無分別」——不加上名稱、類別等概念。
+
+    **四種現量**：陳那說五根現量、意現量、自證現量、瑜伽現量。凡夫的第六意識大多夾雜分別，屬於比量或非量。
+
+    **自相與共相**：現量緣「自相」（個別的當下實在），比量緣「共相」（概念性的普遍）。
+  detail_en: |
+    Nyāyapraveśa: "Perception is free of conceptual construction: correct knowledge of forms and so on, free of all constructions such as names and kinds, operating separately for each sense — hence called perception." Its mark is being non-conceptual — adding no names or categories.
+
+    **Four kinds**: Dignāga lists sense perception, mental perception, self-awareness and yogic perception. An ordinary person's mental consciousness is mostly conceptual — inference or invalid cognition.
+
+    **Particular and universal**: perception knows the particular (svalakṣaṇa), the momentary real; inference knows the universal (sāmānyalakṣaṇa), the conceptual.
+  quotes:
+    - text: 此中現量，謂無分別。若有正智於色等義，離名種等所有分別，現現別轉，故名現量。
+      source: 《因明入正理論》
+      source_en: 因明入正理論
+      ref: T32n1630_p0012b27
+      refEnd: T32n1630_p0012b29
+      note_en: Of these, perception is free of conceptual construction. Correct knowledge of form and other objects, free of all constructions such as name and kind, operating distinctly for each [sense] — hence it is called perception.
+  related: [ pramana, anumana, svasamvitti-bhaga, vitarka ]
+  compare: [ pratyaksa-anumana ]
+
+- id: anumana
+  skt: anumāna
+  deva: अनुमान
+  pali: anumāna
+  zh: 比量
+  en: inference
+  enAlt: [ inferential cognition, reasoning, anumana ]
+  root: anu「隨後」＋ √mā「衡量」 · anu "after" + √mā "to measure"
+  short_zh: 藉由徵相（因）推知對象的認知，如見煙知有火；緣共相。
+  short_en: Inference — knowing an object through a sign (reason), as knowing fire from smoke; it grasps universals.
+  detail_zh: |
+    《因明入正理論》：「言比量者，謂藉眾相而觀於義。」比量依據可見的徵相，推知不可見的對象：見煙比知有火，見水鳥比知有水。
+
+    **三支作法**：佛教因明以宗（論題）、因（理由）、喻（例證）組成論式，因須具足「三相」才是正因。
+
+    比量所知是概念性的共相，雖然正確，卻不是親證；修行中聞思所得多屬比量，到見道才以現量親證真如。
+  detail_en: |
+    Nyāyapraveśa: "Inference observes an object by means of its marks." From a visible sign one knows an unseen object — fire from smoke, water from water birds.
+
+    **The three-part syllogism**: Buddhist logic sets out a thesis, a reason and an example; a valid reason must have the "three marks".
+
+    What inference knows is a conceptual universal — correct but not direct. Understanding from study and reflection is mostly inference; at the path of seeing, suchness is known directly by perception.
+  quotes:
+    - text: 言比量者，謂藉眾相而觀於義。
+      source: 《因明入正理論》
+      source_en: 因明入正理論
+      ref: T32n1630_p0012b29
+      refEnd: T32n1630_p0012c01
+      note_en: Inference means observing an object by means of its marks.
+  related: [ pramana, pratyaksa ]
+  compare: [ pratyaksa-anumana ]
+
+- id: hetupratyaya
+  skt: hetu-pratyaya
+  deva: हेतुप्रत्यय
+  pali: hetu-paccaya
+  zh: 因緣
+  zhAlt: [ 親因緣 ]
+  en: causal condition
+  enAlt: [ cause as condition, root condition, direct cause ]
+  root: hetu「因」＋ pratyaya「緣」 · hetu "cause" + pratyaya "condition"
+  short_zh: 四緣之一：有為法親自辦成自果的條件——種子生現行、現行熏種子、種子生種子。
+  short_en: 'Causal condition — first of the four conditions; what directly produces its own result: seeds producing manifestation, manifestation imprinting seeds, seeds producing seeds.'
+  detail_zh: |
+    《成唯識論》：「因緣，謂有為法親辦自果。」「親」是直接、自類的意思——稻種生稻、不生麥。唯識以種子與現行為因緣的體：種子生現行、種子生後念種子、現行熏成種子。
+
+    **名稱陷阱**：此處「因緣」是四緣中的一個專名，不同於日常泛稱「因與緣」的因緣，也不同於十二因緣。
+
+    **俱舍**：有部以六因中除能作因以外的五因為因緣。
+  detail_en: |
+    Cheng weishi lun: "First, the causal condition: a conditioned dharma that directly accomplishes its own result." "Directly" means immediately and of the same kind — rice seed yields rice, not wheat. Yogācāra identifies it with seeds and manifestation: seeds producing manifestation, seeds producing later seeds, manifestation imprinting seeds.
+
+    **Naming trap**: here 因緣 is the technical name of one of the four conditions, not the everyday "causes and conditions", nor the twelve links (十二因緣).
+
+    **Abhidharmakośa**: the Sarvāstivāda counts five of its six causes (all but the efficient cause) as causal condition.
+  quotes:
+    - text: 因緣：謂有為法親辦自果。
+      source: 《成唯識論》卷7
+      source_en: Cheng weishi lun, fasc. 7
+      ref: T31n1585_p0040a21
+      refEnd: T31n1585_p0040a22
+      note_en: First, the causal condition — a conditioned dharma that directly accomplishes its own result.
+  related: [ catvarah-pratyayah, hetu, bija, vasana ]
+  compare: [ hetu-pratyaya ]
+
+- id: samanantara-pratyaya
+  skt: samanantara-pratyaya
+  deva: समनन्तरप्रत्यय
+  pali: samanantara-paccaya
+  zh: 等無間緣
+  zhAlt: [ 次第緣 ]
+  en: immediately preceding condition
+  enAlt: [ contiguous condition, immediate condition, proximate condition ]
+  root: sam「等」＋ an-antara「無間」＋ pratyaya「緣」 · "equal, without interval"
+  short_zh: 四緣之一：前一念心、心所滅去，讓位並引導後一念同類心生起。只有心法有此緣。
+  short_en: Immediately preceding condition — the previous moment of mind ceases, making way for and leading the next moment of the same kind. Only minds have it.
+  detail_zh: |
+    《成唯識論》：「二、等無間緣，謂八現識及彼心所，前聚於後，自類無間，等而開導，令彼定生。」前念心不滅，後念心無法生起；前念滅去即為後念開路。
+
+    **只限自類**：眼識的前念只為眼識的後念作等無間緣，八識各自相續。色法沒有等無間緣。
+
+    **舊譯**：「次第緣」。阿羅漢入無餘涅槃的最後一念，因為沒有後念，不作等無間緣。
+  detail_en: |
+    Cheng weishi lun: "Second, the immediately preceding condition: the eight manifest consciousnesses and their factors — the earlier group, for the later of its own kind without interval, equally opens the way, making it certainly arise." The next moment of mind cannot arise until the previous ceases; ceasing, it opens the way.
+
+    **Own kind only**: a moment of eye consciousness conditions only the next moment of eye consciousness; each of the eight runs in its own stream. Matter has no such condition.
+
+    **Old rendering**: 次第緣 "sequential condition". An arhat's last moment before final nirvāṇa, having no successor, is not this condition.
+  quotes:
+    - text: 二、等無間緣，謂八現識及彼心所前聚於後自類無間，等而開導，令彼定生。
+      source: 《成唯識論》卷7
+      source_en: Cheng weishi lun, fasc. 7
+      ref: T31n1585_p0040b06
+      refEnd: T31n1585_p0040b07
+      note_en: Second, the immediately preceding condition — the eight manifest consciousnesses and their mental factors, the earlier group for the later of its own kind without interval, equally opening the way so that it certainly arises.
+  related: [ catvarah-pratyayah, citta, caitasika ]
+
+- id: alambana-pratyaya
+  skt: ālambana-pratyaya
+  deva: आलम्बनप्रत्यय
+  pali: ārammaṇa-paccaya
+  zh: 所緣緣
+  zhAlt: [ 緣緣 ]
+  en: object condition
+  enAlt: [ objective condition, object-support condition, cognitive object as condition ]
+  root: ālambana「所緣」＋ pratyaya「緣」 · ālambana "support, object"
+  short_zh: 四緣之一：被心所攀緣、心帶其影像而生的對象；分親所緣緣（相分）與疏所緣緣（本質）。
+  short_en: Object condition — the object the mind rests on and whose image it bears; divided into the direct object (image part) and the indirect support.
+  detail_zh: |
+    《成唯識論》：「三、所緣緣，謂若有法是帶己相心或相應所慮、所託。」兩個條件：心要「帶」它的相（影像），並且「慮、託」它（以它為所知、所依）。
+
+    **親與疏**：與心同一識體、內在被認識的相分，是**親所緣緣**；離開此識、作為相分依託的本質（如第八識所變的器世間之於眼識），是**疏所緣緣**。陳那《觀所緣緣論》以此論證外境不能成為所緣緣。
+  detail_en: |
+    Cheng weishi lun: "Third, the object condition: a dharma that the mind bearing its image, or its associated factors, cognize and rest on." Two requirements: the mind must bear its image, and must cognize and rest on it.
+
+    **Direct and indirect**: the image part within the same consciousness is the **direct** object condition; a basis outside that consciousness supporting the image (such as the world transformed by the store consciousness, for eye consciousness) is the **indirect** one. Dignāga's Ālambanaparīkṣā uses this to argue that external atoms cannot be object conditions.
+  quotes:
+    - text: 三、所緣緣：謂若有法是帶己相心或相應所慮、所託。
+      source: 《成唯識論》卷7
+      source_en: Cheng weishi lun, fasc. 7
+      ref: T31n1585_p0040c14
+      refEnd: T31n1585_p0040c16
+      note_en: Third, the object condition — any dharma that is cognized and rested on by a mind bearing its image, or by the associated factors.
+  related: [ catvarah-pratyayah, alambana, nimitta-bhaga ]
+
+- id: adhipati-pratyaya
+  skt: adhipati-pratyaya
+  deva: अधिपतिप्रत्यय
+  pali: adhipati-paccaya
+  zh: 增上緣
+  en: dominant condition
+  enAlt: [ predominant condition, contributory condition, dominance condition ]
+  root: adhipati「主、增上」＋ pratyaya「緣」 · adhipati "lord, dominant"
+  short_zh: 四緣之一：除前三緣外，對他法有助（順）或有阻（違）力用的一切條件；範圍最廣。
+  short_en: Dominant condition — besides the other three, everything with power to aid or hinder another dharma; the broadest condition.
+  detail_zh: |
+    《成唯識論》：「增上緣……謂若有法有勝勢用，能於餘法或順、或違。」眼根之於眼識、陽光雨水之於稻穀，都是增上緣；連「不障礙」也算廣義的增上緣。
+
+    增上緣所得的果是**增上果**。色法生起只需因緣與增上緣；心法則需四緣具足。
+  detail_en: |
+    Cheng weishi lun: "Fourth, the dominant condition: a dharma with strong power that aids or hinders other dharmas." The eye faculty for eye consciousness, sunlight and rain for rice — all are dominant conditions; in the broad sense even "not obstructing" counts.
+
+    Its result is the **dominant result**. Matter needs only the causal and dominant conditions; mind needs all four.
+  quotes:
+    - text: 謂若有法有勝勢用，能於餘法或順、或違。
+      source: 《成唯識論》卷7
+      source_en: Cheng weishi lun, fasc. 7
+      ref: T31n1585_p0041a06
+      note_en: That is, any dharma with superior power that can aid or hinder other dharmas.
+  related: [ catvarah-pratyayah, adhipati-phala, indriya ]
+
+- id: phala
+  skt: phala
+  deva: फल
+  pali: phala
+  zh: 果
+  zhAlt: [ 五果, 果報 ]
+  en: result
+  enAlt: [ fruit, effect, five results, five fruits ]
+  root: √phal「結果、成熟」 · √phal "to bear fruit"
+  short_zh: 由因緣所生的結果；唯識與俱舍都分五果：異熟、等流、離繫、士用、增上。
+  short_en: 'Result — what arises from causes and conditions. Yogācāra and Abhidharmakośa both count five: ripened, outflow, separation, agent-made and dominant.'
+  detail_zh: |
+    《成唯識論》：「果有五種：一者、異熟……二者、等流……三者、離繫……四者、士用……五者、增上，謂除前四餘所得果。」
+
+    **俱舍**：《俱舍論》以六因配五果——異熟因得異熟果，同類因、遍行因得等流果，俱有因、相應因得士用果，能作因得增上果；離繫果是擇滅，由道力證得，不是六因所生。唯識則以十因、四緣說明。
+
+    「果」也指修行的證果，如四果、佛果。
+  detail_en: |
+    Cheng weishi lun: "There are five kinds of result: first, ripened … second, outflow … third, separation … fourth, agent-made … fifth, dominant — every result other than the first four."
+
+    **Abhidharmakośa**: it matches six causes to the five results — the ripening cause yields the ripened result; homogeneous and pervasive causes, the outflow result; simultaneous and associated causes, the agent-made result; the efficient cause, the dominant result. The result of separation is analytical cessation, attained by the path rather than produced by the six causes. Yogācāra explains results by ten causes and four conditions.
+
+    "Fruit" also means an attainment of practice, as in the four fruits or buddhahood.
+  quotes:
+    - text: 果有五種：一者異熟，謂有漏善及不善法所招自相續異熟生無記；二者等流，謂習善等所引同類，或似先業，後果隨轉；三者離繫，謂無漏道斷障所證善無為法；四者士用，謂諸作者，假諸作具，所辦事業；五者增上，謂除前四，餘所得果。
+      source: 《成唯識論》卷8
+      source_en: Cheng weishi lun, fasc. 8
+      ref: T31n1585_p0042a29
+      refEnd: T31n1585_p0042b05
+      note_en: 'There are five kinds of result: ripened … outflow … separation … agent-made … and dominant — every result obtained other than the first four.'
+  related: [ hetu, vipaka-phala, nisyanda-phala, visamyoga-phala, purusakara-phala, adhipati-phala ]
+  compare: [ five-results ]
+
+- id: vipaka-phala
+  skt: vipāka-phala
+  deva: विपाकफल
+  pali: vipāka-phala
+  zh: 異熟果
+  zhAlt: [ 果報, 報果 ]
+  en: ripened result
+  enAlt: [ result of ripening, maturation result, karmic retribution ]
+  root: vipāka「異熟、成熟」＋ phala「果」 · vipāka "ripening" + phala
+  short_zh: 五果之一：有漏善、惡業所招，性質為無記的果報——如此生的身心與壽命。
+  short_en: Ripened result — the morally neutral result brought about by contaminated wholesome or unwholesome karma, such as this life's body, mind and lifespan.
+  detail_zh: |
+    《成唯識論》：「一者、異熟，謂有漏善及不善法所招自相續異熟生無記。」
+
+    **異熟三義**：異時而熟（因果隔世）、變異而熟、異類而熟——因是善或惡，果卻是無記。因此樂報本身不是善，苦報本身也不是惡。
+
+    唯識中第八阿賴耶識是「真異熟」（總報），前六識的異熟生是「別報」。
+  detail_en: |
+    Cheng weishi lun: "First, the ripened result: the neutral [dharmas] born of ripening in one's own continuum, brought about by contaminated wholesome and unwholesome dharmas."
+
+    **Three senses of vipāka**: ripening at a different time, by transformation, and as a different kind — the cause is good or bad, the result is neutral. So a pleasant life is not itself good, nor a painful one bad.
+
+    In Yogācāra the store consciousness is the "true ripened" (general result); what ripens in the first six consciousnesses is the particular result.
+  quotes:
+    - text: 一者異熟，謂有漏善及不善法所招自相續異熟生無記；
+      source: 《成唯識論》卷8
+      source_en: Cheng weishi lun, fasc. 8
+      ref: T31n1585_p0042a29
+      refEnd: T31n1585_p0042b01
+      note_en: First, the ripened result — the neutral [dharmas] born of ripening in one's own continuum, brought about by contaminated wholesome and unwholesome dharmas.
+  related: [ phala, vipaka, karma, alaya-vijnana ]
+  compare: [ five-results ]
+
+- id: nisyanda-phala
+  skt: niṣyanda-phala
+  deva: निष्यन्दफल
+  pali: ''
+  zh: 等流果
+  en: outflow result
+  enAlt: [ result similar to the cause, homogeneous result, causally concordant result ]
+  root: ni-√syand「流出」＋ phala「果」 · ni-√syand "to flow down" + phala
+  short_zh: 五果之一：與因同類的果——善引善、惡引惡，或似先業的後果（如殺生而短命）。
+  short_en: 'Outflow result — a result of the same kind as its cause: good leading to good, bad to bad, or a later result resembling the earlier deed (as killing leading to a short life).'
+  detail_zh: |
+    《成唯識論》：「二者、等流，謂習善等所引同類，或似先業後果隨轉。」
+
+    兩種：一是**性質相同**——前念善心引後念善心，習慣成自然；二是**相似先業**——殺生者短命、偷盜者貧窮，果報與所造業相似。
+
+    隨煩惱稱為根本煩惱的「等流」，也是同類流出之意。
+  detail_en: |
+    Cheng weishi lun: "Second, the outflow result: the same kind induced by practising the good and so on, or a later result that follows in resemblance to the earlier deed."
+
+    Two kinds: **same moral quality** — a wholesome moment leading to later wholesome moments, habits becoming nature; and **resembling the deed** — killing leading to a short life, stealing to poverty.
+
+    The secondary afflictions are called "outflows" of the root afflictions in the same sense.
+  quotes:
+    - text: 二者等流，謂習善等所引同類，或似先業，後果隨轉；
+      source: 《成唯識論》卷8
+      source_en: Cheng weishi lun, fasc. 8
+      ref: T31n1585_p0042b01
+      refEnd: T31n1585_p0042b02
+      note_en: Second, the outflow result — the same kind induced by practising wholesomeness and the like, or a later result that follows in the likeness of a previous deed.
+  related: [ phala, vasana, kusala-moral ]
+  compare: [ five-results ]
+
+- id: visamyoga-phala
+  skt: visaṃyoga-phala
+  deva: विसंयोगफल
+  pali: ''
+  zh: 離繫果
+  en: result of separation
+  enAlt: [ result of disjunction, freedom result, disconnection result ]
+  root: vi-saṃyoga「離開繫縛」＋ phala「果」 · visaṃyoga "disjunction"
+  short_zh: 五果之一：無漏聖道斷除障礙所證得的善無為法，即擇滅、涅槃。
+  short_en: Result of separation — the wholesome unconditioned dharma realized when the uncontaminated path cuts the obstructions; analytical cessation, nirvāṇa.
+  detail_zh: |
+    《成唯識論》：「三者、離繫，謂無漏道斷障所證善無為法。」離繫果不是被「生出」的，而是障礙斷除後所顯現的——如雲散而月現。
+
+    離繫果即擇滅無為；它是五果中唯一的無為法。《俱舍論》也說離繫果不由六因所生，只是由道力而得。
+  detail_en: |
+    Cheng weishi lun: "Third, the result of separation: the wholesome unconditioned dharma realized when the uncontaminated path cuts the obstructions." It is not produced but revealed once the obstructions are removed — like the moon when clouds part.
+
+    It is analytical cessation, the only unconditioned dharma among the five results. The Abhidharmakośa likewise says it is not produced by the six causes, only attained through the path.
+  quotes:
+    - text: 三者離繫，謂無漏道斷障所證善無為法；
+      source: 《成唯識論》卷8
+      source_en: Cheng weishi lun, fasc. 8
+      ref: T31n1585_p0042b02
+      refEnd: T31n1585_p0042b03
+      note_en: Third, the result of separation — the wholesome unconditioned dharma realized when the uncontaminated path cuts off the obstructions.
+  related: [ phala, pratisamkhya-nirodha, nirvana, anasrava ]
+  compare: [ five-results ]
+
+- id: purusakara-phala
+  skt: puruṣakāra-phala
+  deva: पुरुषकारफल
+  pali: ''
+  zh: 士用果
+  en: agent-made result
+  enAlt: [ result of human effort, man-made result, result of personal effort ]
+  root: puruṣa「人、士夫」＋ kāra「作用」＋ phala「果」 · puruṣakāra "human effort"
+  short_zh: 五果之一：作者憑藉工具所成辦的事業——如農夫耕種得穀、工匠造器。
+  short_en: Agent-made result — what an agent accomplishes by means of instruments, as a farmer's harvest or a craftsman's pot.
+  detail_zh: |
+    《成唯識論》：「四者、士用，謂諸作者假諸作具所辦事業。」「士用」是人（士夫）的作用；如農夫以犁鋤耕作而得收成。
+
+    **俱舍**：《俱舍論》把士用的意義擴大，凡法的力用所生都叫士用果（如俱有因、相應因同時所得之果），不限於人的造作。
+  detail_en: |
+    Cheng weishi lun: "Fourth, the agent-made result: the work accomplished by agents by means of instruments." Puruṣakāra is the effort of a person — a farmer ploughing and harvesting.
+
+    **Abhidharmakośa**: it widens the sense to whatever arises from a dharma's power (such as results obtained simultaneously from the simultaneous and associated causes), not only human making.
+  quotes:
+    - text: 四者士用，謂諸作者，假諸作具，所辦事業；
+      source: 《成唯識論》卷8
+      source_en: Cheng weishi lun, fasc. 8
+      ref: T31n1585_p0042b03
+      refEnd: T31n1585_p0042b04
+      note_en: Fourth, the agent-made result — the work accomplished by agents through their instruments.
+  related: [ phala, karma ]
+  compare: [ five-results ]
+
+- id: adhipati-phala
+  skt: adhipati-phala
+  deva: अधिपतिफल
+  pali: ''
+  zh: 增上果
+  en: dominant result
+  enAlt: [ predominant result, result of dominance, environmental result ]
+  root: adhipati「增上」＋ phala「果」 · adhipati "dominant" + phala
+  short_zh: 五果之一：除前四果以外的一切果，由增上緣而得——如共業所感的山河環境。
+  short_en: Dominant result — every result other than the first four, obtained through dominant conditions, such as the shared environment produced by collective karma.
+  detail_zh: |
+    《成唯識論》：「五者、增上，謂除前四餘所得果。」範圍最廣，凡以增上緣而得的果都屬之。
+
+    例如眾生共業所感的國土、氣候、物產，相對於個人的業，是增上果；十惡業使所居之處貧瘠險惡，也是增上果。
+  detail_en: |
+    Cheng weishi lun: "Fifth, the dominant result: every result obtained other than the first four." It is the broadest, covering whatever is obtained through dominant conditions.
+
+    The lands, climates and produce shaped by beings' shared karma are dominant results relative to each person's deeds; the ten unwholesome deeds making one's surroundings barren and dangerous are another example.
+  quotes:
+    - text: 五者增上，謂除前四，餘所得果。
+      source: 《成唯識論》卷8
+      source_en: Cheng weishi lun, fasc. 8
+      ref: T31n1585_p0042b04
+      refEnd: T31n1585_p0042b05
+      note_en: Fifth, the dominant result — every result obtained other than the first four.
+  related: [ phala, adhipati-pratyaya ]
+  compare: [ five-results ]

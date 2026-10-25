@@ -1,0 +1,441 @@
+# 唯識五位、四智、四種涅槃
+
+- id: sambhara-avastha
+  skt: saṃbhārāvasthā
+  deva: संभारावस्था
+  pali: ''
+  zh: 資糧位
+  zhAlt: [ 資糧道 ]
+  en: stage of accumulation
+  enAlt: [ path of accumulation, stage of provisions, accumulation stage ]
+  root: saṃbhāra「資糧、積集」＋ avasthā「位」 · saṃbhāra "provisions" + avasthā "stage"
+  short_zh: 唯識五位之一：從發菩提心起，廣修福德、智慧資糧，順解脫分；尚未能伏二取。
+  short_en: Stage of accumulation — first of the five stages; from arousing the awakening mind, gathering merit and wisdom in accord with liberation, though the two graspings are not yet subdued.
+  detail_zh: |
+    《成唯識論》：「一、資糧位，謂修大乘順解脫分。」如遠行要先備糧，菩薩發心後，修六度、四攝等廣積福智。
+
+    《唯識三十頌》：「乃至未起識，求住唯識性，於二取隨眠，猶未能伏滅。」此位對唯識之理雖已深信理解，但能取、所取的隨眠仍未能伏。依《成唯識論》，資糧位與加行位合為第一阿僧祇劫。
+  detail_en: |
+    Cheng weishi lun: "First, the stage of accumulation: cultivating the Mahāyāna factors conducive to liberation." As a traveller first lays in provisions, a bodhisattva after arousing the mind gathers merit and wisdom through the perfections and the means of attraction.
+
+    Thirty Verses: "So long as consciousness has not arisen seeking to abide in the nature of consciousness-only, the latent tendencies of the two graspings are not yet subdued." The bodhisattva trusts and understands consciousness-only, but the latent grasper and grasped remain. Accumulation and preparation together fill the first incalculable aeon.
+  quotes:
+    - text: 何謂悟入唯識五位？一、資糧位，謂修大乘順解脫分；二、加行位，謂修大乘順決擇分；三、通達位，謂諸菩薩所住見道；四、修習位，謂諸菩薩所住修道；五、究竟位，謂住無上正等菩提。
+      source: 《成唯識論》卷9
+      source_en: Cheng weishi lun, fasc. 9
+      ref: T31n1585_p0048b11
+      refEnd: T31n1585_p0048b15
+      note_en: 'What are the five stages of entering consciousness-only? First, accumulation: cultivating the Mahāyāna factors conducive to liberation. Second, preparation: cultivating the factors conducive to penetration. Third, penetration: the path of seeing in which bodhisattvas dwell. Fourth, cultivation: the path of cultivation in which bodhisattvas dwell. Fifth, culmination: abiding in unsurpassed perfect awakening.'
+    - text: 乃至未起識，求住唯識性，於二取隨眠，猶未能伏滅。
+      source: 《唯識三十論頌》
+      source_en: Triṃśikā (Thirty Verses)
+      ref: T31n1586_p0061b06
+      refEnd: T31n1586_p0061b07
+      note_en: So long as consciousness has not arisen seeking to abide in the nature of consciousness-only, the latent tendencies of the two graspings are not yet subdued or destroyed.
+  related: [ bodhicitta, grahya-grahaka, prayoga-avastha, asamkhyeya ]
+  compare: [ five-stages ]
+
+- id: prayoga-avastha
+  skt: prayogāvasthā
+  deva: प्रयोगावस्था
+  pali: ''
+  zh: 加行位
+  zhAlt: [ 加行道, 四加行, 四善根 ]
+  en: stage of preparation
+  enAlt: [ path of preparation, path of application, preparatory stage, stage of application ]
+  root: prayoga「加行、努力」＋ avasthā「位」 · prayoga "application, effort"
+  short_zh: 唯識五位之二：為入見道而加功用行，修煖、頂、忍、世第一法四善根，伏除二取。
+  short_en: Stage of preparation — second of the five stages; intensified effort to enter the path of seeing, through the four wholesome roots (heat, summit, patience, highest worldly dharma), subduing the two graspings.
+  detail_zh: |
+    《成唯識論》：「菩薩先於初無數劫，善備福德、智慧資糧，順解脫分既圓滿已，為入見道住唯識性，復修加行伏除二取，謂煖、頂、忍、世第一法。」
+
+    **四善根**：煖（如鑽木將出火之煖相）、頂（動搖善根之頂）、忍（印可）、世第一法（世間最高之法）。
+
+    《唯識三十頌》：「現前立少物，謂是唯識性，以有所得故，非實住唯識。」此位仍在觀想中執持「唯識」的相，尚有所得，故非真實證入。
+
+    **俱舍**：有部也立四善根為見道前的加行，觀四諦十六行相。
+  detail_en: |
+    Cheng weishi lun: "Having in the first incalculable aeon fully prepared the provisions of merit and wisdom and completed the factors conducive to liberation, the bodhisattva, to enter the path of seeing and abide in consciousness-only, cultivates preparation, subduing the two graspings — namely heat, summit, patience and the highest worldly dharma."
+
+    **Four wholesome roots**: heat (like the warmth before friction makes fire), summit (the peak of wavering roots), patience (acceptance) and the highest worldly dharma.
+
+    Thirty Verses: "Setting up something before oneself and calling it the nature of consciousness-only — because something is still apprehended, one does not truly abide in consciousness-only." One still holds an image of "consciousness-only" in meditation.
+
+    **Abhidharmakośa**: the Sarvāstivāda also places four wholesome roots before the path of seeing.
+  quotes:
+    - text: 菩薩先於初無數劫，善備福德、智慧資糧。順解脫分既圓滿已，為入見道住唯識性，復修加行，伏除二取，謂煖、頂、忍、世第一法。
+      source: 《成唯識論》卷9
+      source_en: Cheng weishi lun, fasc. 9
+      ref: T31n1585_p0049a25
+      refEnd: T31n1585_p0049a28
+      note_en: In the first incalculable aeon the bodhisattva has well prepared the provisions of merit and wisdom; the factors conducive to liberation being complete, to enter the path of seeing and abide in consciousness-only, the bodhisattva further cultivates preparation, subduing the two graspings — namely heat, summit, patience and the highest worldly dharma.
+    - text: 現前立少物，謂是唯識性，以有所得故，非實住唯識。
+      source: 《唯識三十論頌》
+      source_en: Triṃśikā (Thirty Verses)
+      ref: T31n1586_p0061b10
+      refEnd: T31n1586_p0061b11
+      note_en: Setting up a little something before oneself and calling it the nature of consciousness-only — because something is apprehended, one does not truly abide in consciousness-only.
+  related: [ sambhara-avastha, darsana-marga, grahya-grahaka ]
+  compare: [ five-stages ]
+
+- id: darsana-marga
+  skt: darśana-mārga
+  deva: दर्शनमार्ग
+  pali: dassana-magga
+  zh: 見道
+  zhAlt: [ 通達位, 見道位 ]
+  en: path of seeing
+  enAlt: [ stage of penetration, path of vision, insight path ]
+  root: darśana「見」＋ mārga「道」 · darśana "seeing" + mārga "path"
+  short_zh: 唯識五位之三（通達位）：無分別智初證真如，離二取相；斷分別二執，登初地。
+  short_en: Path of seeing (stage of penetration) — third of the five stages; non-conceptual wisdom first realizes suchness, free of grasper and grasped. Conceptual graspings are cut and the first bhūmi is entered.
+  detail_zh: |
+    《唯識三十頌》：「若時於所緣，智都無所得，爾時住唯識，離二取相故。」無分別智親證真如，智與真如平等平等，沒有能取、所取的分別。
+
+    **斷與證**：見道頓斷分別所起的煩惱障、所知障種子，菩薩登初地（極喜地），聲聞則證初果。
+
+    **俱舍**：有部的見道是以十五心觀四諦，第十六心屬修道；唯識的見道分真見道與相見道。
+  detail_en: |
+    Thirty Verses: "When wisdom apprehends nothing at all in its object, then it abides in consciousness-only, being free of the marks of the two graspings." Non-conceptual wisdom directly realizes suchness; wisdom and suchness are equal, with no grasper or grasped.
+
+    **Cut and attained**: the seeds of both obstructions arising from conceptual thought are cut at once; a bodhisattva enters the first bhūmi (Joyful), a disciple attains the first fruit.
+
+    **Abhidharmakośa**: for the Sarvāstivāda the path of seeing is fifteen moments contemplating the truths, the sixteenth belonging to cultivation; Yogācāra distinguishes a true and a derived path of seeing.
+  quotes:
+    - text: 何謂悟入唯識五位？一、資糧位，謂修大乘順解脫分；二、加行位，謂修大乘順決擇分；三、通達位，謂諸菩薩所住見道；四、修習位，謂諸菩薩所住修道；五、究竟位，謂住無上正等菩提。
+      source: 《成唯識論》卷9
+      source_en: Cheng weishi lun, fasc. 9
+      ref: T31n1585_p0048b11
+      refEnd: T31n1585_p0048b15
+      note_en: '… Third, the stage of penetration: the path of seeing in which bodhisattvas dwell …'
+    - text: 若時於所緣，　　智都無所得，爾時住唯識，離二取相故。
+      source: 《唯識三十論頌》
+      source_en: Triṃśikā (Thirty Verses)
+      ref: T31n1586_p0061b14
+      refEnd: T31n1586_p0061b15
+      note_en: When wisdom apprehends nothing whatever in its object, then one abides in consciousness-only, being free of the marks of the two graspings.
+  related: [ tathata, prayoga-avastha, bhavana-marga, srotaapanna, bhumi ]
+  compare: [ five-stages ]
+
+- id: bhavana-marga
+  skt: bhāvanā-mārga
+  deva: भावनामार्ग
+  pali: bhāvanā-magga
+  zh: 修道
+  zhAlt: [ 修習位, 修道位 ]
+  en: path of cultivation
+  enAlt: [ stage of cultivation, path of meditation, path of development ]
+  root: bhāvanā「修習」（√bhū 使成為）＋ mārga「道」 · bhāvanā "cultivation"
+  short_zh: 唯識五位之四（修習位）：見道後於十地中數數修習無分別智，漸斷俱生二障，證得轉依。
+  short_en: Path of cultivation — fourth of the five stages; after seeing, repeatedly cultivating non-conceptual wisdom through the ten bhūmis, gradually cutting the innate obstructions and attaining the transformation of the basis.
+  detail_zh: |
+    《唯識三十頌》：「無得不思議，是出世間智，捨二麁重故，便證得轉依。」見道只是初見真如；俱生的我執、法執微細難斷，必須在十地中反覆修習。
+
+    「二麤重」指煩惱障與所知障的種子。斷盡二障種子，轉捨雜染所依，證得菩提與涅槃，即轉依。
+  detail_en: |
+    Thirty Verses: "Apprehending nothing, inconceivable — this is supramundane wisdom. By abandoning the two kinds of coarseness, the transformation of the basis is realized." Seeing is only the first glimpse of suchness; the subtle innate graspings must be worn away by repeated cultivation through the ten bhūmis.
+
+    "The two kinds of coarseness" are the seeds of the two obstructions. When they are gone, the defiled basis is transformed and awakening and nirvāṇa are attained — the transformation of the basis.
+  quotes:
+    - text: 無得不思議，是出世間智，捨二麁重故，便證得轉依。
+      source: 《唯識三十論頌》
+      source_en: Triṃśikā (Thirty Verses)
+      ref: T31n1586_p0061b18
+      refEnd: T31n1586_p0061b19
+      note_en: Without apprehending, inconceivable — this is supramundane wisdom. Through abandoning the two kinds of coarseness, the transformation of the basis is realized.
+  related: [ darsana-marga, asraya-paravrtti, bhumi, nistha-avastha ]
+  compare: [ five-stages ]
+
+- id: nistha-avastha
+  skt: niṣṭhāvasthā
+  deva: निष्ठावस्था
+  pali: ''
+  zh: 究竟位
+  zhAlt: [ 究竟道, 無學道 ]
+  en: stage of culmination
+  enAlt: [ final stage, path of no more learning, culmination ]
+  root: niṣṭhā「終極、究竟」＋ avasthā「位」 · niṣṭhā "completion"
+  short_zh: 唯識五位之五：住於無上正等菩提，即佛果；轉依圓滿，具四智、證大涅槃。
+  short_en: Stage of culmination — fifth of the five stages; abiding in unsurpassed perfect awakening, buddhahood, with the transformation complete, the four wisdoms and great nirvāṇa.
+  detail_zh: |
+    《唯識三十頌》最後一頌：「此即無漏界，不思議善常，安樂解脫身，大牟尼名法。」轉依所得的果，是無漏、不可思議、善、常、安樂的；二乘所得名解脫身，佛所得名大牟尼法身。
+
+    此位轉八識成四智，四種涅槃中具無住處涅槃，盡未來際利樂有情。
+  detail_en: |
+    The last of the Thirty Verses: "This is the uncontaminated realm — inconceivable, wholesome, permanent, blissful; the liberation body; the dharma [body] of the Great Sage." The fruit of transformation is uncontaminated, inconceivable, good, permanent and blissful; what the two vehicles attain is the liberation body, what the Buddha attains is called the dharma body of the Great Sage.
+
+    Here the eight consciousnesses become the four wisdoms, and the non-abiding nirvāṇa benefits beings to the end of time.
+  quotes:
+    - text: 此即無漏界，不思議善常，安樂解脫身，大牟尼名法。
+      source: 《唯識三十論頌》
+      source_en: Triṃśikā (Thirty Verses)
+      ref: T31n1586_p0061b22
+      refEnd: T31n1586_p0061b23
+      note_en: This is the uncontaminated realm — inconceivable, wholesome, permanent, blissful; the body of liberation; the dharma of the Great Sage.
+  related: [ bodhi, buddha, dharmakaya, jnana, apratisthita-nirvana ]
+  compare: [ five-stages ]
+
+- id: jnana
+  skt: jñāna
+  deva: ज्ञान
+  pali: ñāṇa
+  zh: 智
+  zhAlt: [ 智慧, 四智, 智波羅蜜 ]
+  en: knowledge
+  enAlt: [ wisdom, gnosis, jnana, four wisdoms, jñāna ]
+  root: √jñā「知」 · √jñā "to know"
+  short_zh: 決斷了知的智；唯識說佛果轉八識成四智，又為十波羅蜜的第十。
+  short_en: Wisdom (jñāna) — decisive knowing. In Yogācāra the eight consciousnesses become the four wisdoms at buddhahood; it is also the tenth perfection.
+  detail_zh: |
+    《佛地經》：「有五種法攝大覺地。何等為五？所謂清淨法界、大圓鏡智、平等性智、妙觀察智、成所作智。」佛果的內容是清淨法界加上四智。
+
+    **轉識成智**：轉第八識得大圓鏡智，轉第七識得平等性智，轉第六識得妙觀察智，轉前五識得成所作智。
+
+    **智與慧**：prajñā（慧）偏指揀擇的能力，jñāna（智）偏指決斷的了知。十波羅蜜中，第六般若是無分別智，第十智波羅蜜是後得智（受用法樂智、成熟有情智）。
+  detail_en: |
+    Buddhabhūmi-sūtra: "Five dharmas comprise the stage of great awakening. Which five? The pure dharma-realm, mirror-like wisdom, wisdom of equality, wisdom of discernment and wisdom of accomplishing what is to be done." Buddhahood is the pure dharma-realm plus the four wisdoms.
+
+    **Turning consciousness into wisdom**: the eighth consciousness becomes mirror-like wisdom, the seventh the wisdom of equality, the sixth the wisdom of discernment, the first five the wisdom of accomplishing.
+
+    **Jñāna and prajñā**: prajñā stresses discerning; jñāna stresses decisive knowing. Among the ten perfections, the sixth (prajñā) is non-conceptual wisdom, the tenth (jñāna) is subsequent wisdom — enjoying the Dharma and maturing beings.
+  quotes:
+    - text: 有五種法攝大覺地。何等為五？所謂清淨法界、大圓鏡智、平等性智、妙觀察智、成所作智。
+      source: 《佛說佛地經》
+      source_en: 佛說佛地經
+      ref: T16n0680_p0721a01
+      refEnd: T16n0680_p0721a03
+      note_en: Five dharmas comprise the stage of great awakening. Which five? The pure dharma-realm, mirror-like wisdom, wisdom of equality, wisdom of discernment and wisdom of accomplishing what is to be done.
+  related: [ prajna, adarsa-jnana, samata-jnana, pratyaveksana-jnana, krtyanusthana-jnana, asraya-paravrtti ]
+  compare: [ four-wisdoms ]
+
+- id: adarsa-jnana
+  skt: ādarśa-jñāna
+  deva: आदर्शज्ञान
+  pali: ''
+  zh: 大圓鏡智
+  zhAlt: [ 圓鏡智, 鏡智 ]
+  en: mirror-like wisdom
+  enAlt: [ great perfect mirror wisdom, great mirror wisdom, mirror wisdom ]
+  root: ādarśa「鏡」＋ jñāna「智」 · ādarśa "mirror"
+  short_zh: 四智之一：轉第八識所得，離諸分別，如大圓鏡現一切相，持一切功德種子。
+  short_en: Mirror-like wisdom — one of the four wisdoms, attained by transforming the eighth consciousness; free of all discrimination, like a great round mirror reflecting everything, holding the seeds of all virtues.
+  detail_zh: |
+    《成唯識論》：「一、大圓鏡智相應心品：謂此心品，離諸分別，所緣、行相，微細難知，不忘不愚，一切境相，性相清淨，離諸雜染，純淨圓德，現種依持，能現、能生身、土智影，無間無斷，窮未來際，如大圓鏡，現眾色像。」
+
+    阿賴耶識藏雜染種子，轉依後成為大圓鏡智，持一切無漏種子、現佛身佛土。依唯識，此智要到佛果（金剛喻定後）才生起。
+  detail_en: |
+    Cheng weishi lun: "First, the mind with mirror-like wisdom: free of all discrimination, its objects and modes are subtle and hard to know; never forgetting or deluded about any object, pure in nature and characteristics, free of all defilement, it holds the pure and perfect virtues both manifest and as seeds, and can manifest and produce the reflections of bodies, lands and wisdoms, without interruption to the end of the future — like a great round mirror reflecting all forms."
+
+    The store consciousness holds defiled seeds; transformed, it becomes this wisdom, holding all uncontaminated seeds and manifesting buddha-bodies and lands. In Yogācāra it arises only at buddhahood.
+  quotes:
+    - text: 一、大圓鏡智相應心品：謂此心品，離諸分別，所緣、行相，微細難知，不忘不愚，一切境相，性相清淨，離諸雜染，純淨圓德，現種依持，能現、能生身、土智影，無間無斷，窮未來際，如大圓鏡，現眾色像。
+      source: 《成唯識論》卷10
+      source_en: Cheng weishi lun, fasc. 10
+      ref: T31n1585_p0056a12
+      refEnd: T31n1585_p0056a16
+      note_en: First, the mind associated with mirror-like wisdom — free of all discrimination, its objects and modes subtle and hard to know … like a great round mirror reflecting all forms.
+  related: [ jnana, alaya-vijnana, asraya-paravrtti ]
+  compare: [ four-wisdoms ]
+
+- id: samata-jnana
+  skt: samatā-jñāna
+  deva: समताज्ञान
+  pali: ''
+  zh: 平等性智
+  zhAlt: [ 平等智 ]
+  en: wisdom of equality
+  enAlt: [ equality wisdom, wisdom of sameness, wisdom of equanimity ]
+  root: samatā「平等性」＋ jñāna「智」 · samatā "sameness"
+  short_zh: 四智之一：轉第七末那識所得，觀一切法與自他有情悉皆平等，起大慈悲。
+  short_en: Wisdom of equality — one of the four wisdoms, attained by transforming manas; seeing all dharmas, self and others as equal, and giving rise to great compassion.
+  detail_zh: |
+    《成唯識論》：「二、平等性智相應心品：謂此心品，觀一切法、自他有情悉皆平等，大慈悲等恒共相應。」
+
+    末那識恆執自我、分別自他；轉依後恰好相反，見自他平等，故與大慈悲相應。此智在見道時分證，佛果圓滿。
+  detail_en: |
+    Cheng weishi lun: "Second, the mind with the wisdom of equality: it sees all dharmas and all beings, self and others, as equal, and is always joined with great loving-kindness and compassion."
+
+    Manas constantly grasps a self and divides self from other; transformed, it sees self and others as equal, and so is joined with great compassion. It arises in part at the path of seeing and is complete at buddhahood.
+  quotes:
+    - text: 二、平等性智相應心品：謂此心品，觀一切法，自、他有情，悉皆平等。大慈悲等，恒共相應
+      source: 《成唯識論》卷10
+      source_en: Cheng weishi lun, fasc. 10
+      ref: T31n1585_p0056a16
+      refEnd: T31n1585_p0056a18
+      note_en: Second, the mind associated with the wisdom of equality — it sees all dharmas, self and other beings as entirely equal, and great loving-kindness, compassion and the like are always associated with it.
+  related: [ jnana, klista-manas, karuna ]
+  compare: [ four-wisdoms ]
+
+- id: pratyaveksana-jnana
+  skt: pratyavekṣaṇā-jñāna
+  deva: प्रत्यवेक्षणाज्ञान
+  pali: ''
+  zh: 妙觀察智
+  zhAlt: [ 觀察智 ]
+  en: wisdom of discernment
+  enAlt: [ discerning wisdom, wisdom of wondrous observation, investigating wisdom, discriminating wisdom ]
+  root: prati-ava-√īkṣ「觀察」＋ jñāna「智」 · pratyavekṣaṇā "close observation"
+  short_zh: 四智之一：轉第六意識所得，善觀諸法自相、共相，無礙說法，斷眾生疑。
+  short_en: Wisdom of discernment — one of the four wisdoms, attained by transforming mental consciousness; skilfully observing the particular and general marks of dharmas, teaching without obstruction and resolving beings' doubts.
+  detail_zh: |
+    《成唯識論》：「三、妙觀察智相應心品：謂此心品，善觀諸法自相、共相無礙而轉。」
+
+    意識本是分別的根源；轉依後分別不但不是過失，反而成為精確觀察、隨機說法的妙用。此智在見道時分證。
+  detail_en: |
+    Cheng weishi lun: "Third, the mind with the wisdom of discernment: it skilfully observes the particular and general marks of dharmas, operating without obstruction."
+
+    Mental consciousness is the source of discrimination; transformed, discrimination is no fault but becomes precise observation and teaching suited to each listener. It arises in part at the path of seeing.
+  quotes:
+    - text: 三、妙觀察智相應心品：謂此心品，善觀諸法自相、共相，無礙而轉。
+      source: 《成唯識論》卷10
+      source_en: Cheng weishi lun, fasc. 10
+      ref: T31n1585_p0056a21
+      refEnd: T31n1585_p0056a22
+      note_en: Third, the mind associated with the wisdom of discernment — it skilfully observes the particular and general characteristics of dharmas, operating without obstruction.
+  related: [ jnana, mano-vijnana, prajna ]
+  compare: [ four-wisdoms ]
+
+- id: krtyanusthana-jnana
+  skt: kṛtyānuṣṭhāna-jñāna
+  deva: कृत्यानुष्ठानज्ञान
+  pali: ''
+  zh: 成所作智
+  zhAlt: [ 作事智 ]
+  en: wisdom of accomplishing activities
+  enAlt: [ all-accomplishing wisdom, wisdom of accomplishing what is to be done, accomplishing wisdom ]
+  root: kṛtya「所作」＋ anuṣṭhāna「成辦」＋ jñāna「智」 · kṛtyānuṣṭhāna "carrying out what is to be done"
+  short_zh: 四智之一：轉前五識所得，為利樂有情，於十方示現種種變化，成辦本願所應作事。
+  short_en: Wisdom of accomplishing activities — one of the four wisdoms, attained by transforming the five sense consciousnesses; manifesting transformations everywhere to benefit beings and fulfil the original vows.
+  detail_zh: |
+    《成唯識論》：「四、成所作智相應心品：謂此心品，為欲利樂諸有情故，普於十方示現種種變化三業，成本願力所應作事。」
+
+    前五識轉依後，以身、語、意三業的化現度化眾生；化身即由此智所現。依唯識，此智要到佛果才生起，因為前五識的轉依依賴無漏的根身。
+  detail_en: |
+    Cheng weishi lun: "Fourth, the mind with the wisdom of accomplishing activities: wishing to benefit and gladden all beings, it manifests various transformations of body, speech and mind throughout the ten directions, accomplishing what the power of the original vows requires."
+
+    The transformed sense consciousnesses act through manifested deeds; emanation bodies come from this wisdom. In Yogācāra it arises only at buddhahood, since it depends on an uncontaminated body.
+  quotes:
+    - text: 四、成所作智相應心品：謂此心品，為欲利樂諸有情故，普於十方，示現種種變化三業，成本願力所應作事。
+      source: 《成唯識論》卷10
+      source_en: Cheng weishi lun, fasc. 10
+      ref: T31n1585_p0056a25
+      refEnd: T31n1585_p0056a28
+      note_en: Fourth, the mind associated with the wisdom of accomplishing activities — wishing to benefit and gladden beings, it manifests everywhere in the ten directions various transformations of the three kinds of action, accomplishing what the power of the original vows should do.
+  related: [ jnana, caksur-vijnana, nirmanakaya ]
+  compare: [ four-wisdoms ]
+
+- id: prakrti-nirvana
+  skt: prakṛti-śuddha-nirvāṇa
+  deva: प्रकृतिशुद्धनिर्वाण
+  pali: ''
+  zh: 本來自性清淨涅槃
+  zhAlt: [ 自性清淨涅槃, 自性涅槃, 性淨涅槃 ]
+  en: naturally pure nirvāṇa
+  enAlt: [ intrinsically pure nirvana, nirvana of original purity, natural nirvana ]
+  root: prakṛti「本性」＋ śuddha「清淨」＋ nirvāṇa（梵名為擬構） · prakṛti "original nature" (reconstructed)
+  short_zh: 四種涅槃之一：一切法本具的真如理，雖有客塵覆蓋而本性清淨；一切有情平等共有。
+  short_en: Naturally pure nirvāṇa — one of the four nirvāṇas; the suchness inherent in all dharmas, pure by nature though covered by adventitious defilements, shared equally by all beings.
+  detail_zh: |
+    《成唯識論》：「涅槃義別略有四種：一、本來自性清淨涅槃，謂一切法相真如理，雖有客染而本性淨，具無數量微妙功德，無生無滅，湛若虛空，一切有情平等共有。」
+
+    這種涅槃不是修出來的，凡夫也本具，只是未證。其餘三種涅槃都是在此真如上依斷障而立。
+  detail_en: |
+    Cheng weishi lun: "Nirvāṇa is of four kinds. First, naturally pure nirvāṇa: the principle of suchness, the true character of all dharmas — though adventitiously stained, pure by nature, endowed with countless subtle virtues, unborn and unceasing, clear as space, shared equally by all beings."
+
+    It is not produced by practice; ordinary beings have it too, unrealized. The other three are named according to which obstructions are removed from this suchness.
+  quotes:
+    - text: 涅槃義別，略有四種：一、本來自性清淨涅槃，謂一切法相真如理，雖有客染而本性淨，具無數量微妙功德，無生無滅，湛若虛空，一切有情平等共有
+      source: 《成唯識論》卷10
+      source_en: Cheng weishi lun, fasc. 10
+      ref: T31n1585_p0055b07
+      refEnd: T31n1585_p0055b10
+      note_en: 'Nirvāṇa, by distinctions of meaning, is of four kinds. First, naturally pure nirvāṇa: the principle of suchness, the true character of all dharmas; though adventitiously stained it is pure by nature … shared equally by all beings.'
+  related: [ nirvana, tathata, tathagatagarbha ]
+  compare: [ four-nirvanas ]
+
+- id: sopadhisesa-nirvana
+  skt: sopadhiśeṣa-nirvāṇa
+  deva: सोपधिशेषनिर्वाण
+  pali: sa-upādisesa-nibbāna
+  zh: 有餘依涅槃
+  zhAlt: [ 有餘涅槃 ]
+  en: nirvāṇa with remainder
+  enAlt: [ nirvana with residue, nirvana with remainder of substrate, nirvana with residue ]
+  root: sa「有」＋ upadhi「依（身）」＋ śeṣa「餘」 · sa-upadhi-śeṣa "with remaining substrate"
+  short_zh: 四種涅槃之一：煩惱已斷，但前業所感的身心（餘依）尚在；如阿羅漢在世時。
+  short_en: Nirvāṇa with remainder — one of the four nirvāṇas; afflictions are ended but the body and mind produced by past karma remain, as with a living arhat.
+  detail_zh: |
+    《成唯識論》：「二、有餘依涅槃，謂即真如出煩惱障，雖有微苦所依未滅，而障永寂，故名涅槃。」
+
+    **阿含與俱舍**：早期經論只說兩種涅槃——有餘依與無餘依。佛陀在菩提樹下證有餘依涅槃，於拘尸那羅入滅時證無餘依涅槃。
+  detail_en: |
+    Cheng weishi lun: "Second, nirvāṇa with remainder: suchness freed from the afflictive obstruction; though the basis of subtle suffering has not yet ceased, the obstruction is forever stilled — hence nirvāṇa."
+
+    **Āgamas and Abhidharmakośa**: early texts speak of only two nirvāṇas, with and without remainder. The Buddha attained the first under the bodhi tree and the second at his passing in Kuśinagara.
+  quotes:
+    - text: 二、有餘依涅槃，謂即真如出煩惱障，雖有微苦所依未滅，而障永寂，故名涅槃。
+      source: 《成唯識論》卷10
+      source_en: Cheng weishi lun, fasc. 10
+      ref: T31n1585_p0055b12
+      refEnd: T31n1585_p0055b14
+      note_en: Second, nirvāṇa with remainder — suchness emerged from the afflictive obstruction; although the basis of subtle suffering has not ceased, the obstruction is forever stilled, hence it is called nirvāṇa.
+  related: [ nirvana, arhat, klesavarana, nirupadhisesa-nirvana ]
+  compare: [ four-nirvanas ]
+
+- id: nirupadhisesa-nirvana
+  skt: nirupadhiśeṣa-nirvāṇa
+  deva: निरुपधिशेषनिर्वाण
+  pali: anupādisesa-nibbāna
+  zh: 無餘依涅槃
+  zhAlt: [ 無餘涅槃, 般涅槃 ]
+  en: nirvāṇa without remainder
+  enAlt: [ nirvana without residue, final nirvana, parinirvana ]
+  root: nir「無」＋ upadhi「依」＋ śeṣa「餘」 · "without remaining substrate"
+  short_zh: 四種涅槃之一：煩惱已盡，所餘身心亦滅，眾苦永寂；阿羅漢命終時所入。
+  short_en: Nirvāṇa without remainder — one of the four nirvāṇas; afflictions ended and the remaining body and mind also gone, all suffering stilled; entered by an arhat at death.
+  detail_zh: |
+    《成唯識論》：「三、無餘依涅槃，謂即真如出生死苦，煩惱既盡，餘依亦滅，眾苦永寂，故名涅槃。」
+
+    **大乘的看法**：二乘入無餘依涅槃後灰身滅智，不再利益眾生；《法華經》等則說二乘終將回心向大。菩薩不入此涅槃，而住無住處涅槃。
+  detail_en: |
+    Cheng weishi lun: "Third, nirvāṇa without remainder: suchness freed from the suffering of birth and death; afflictions exhausted, the remaining basis also ceases, all suffering forever stilled — hence nirvāṇa."
+
+    **Mahāyāna view**: having entered it, those of the two vehicles no longer benefit beings; the Lotus Sūtra and others say they will eventually turn to the great vehicle. Bodhisattvas do not enter it but abide in non-abiding nirvāṇa.
+  quotes:
+    - text: 三、無餘依涅槃，謂即真如出生死苦，煩惱既盡，餘依亦滅，眾苦永寂，故名涅槃。
+      source: 《成唯識論》卷10
+      source_en: Cheng weishi lun, fasc. 10
+      ref: T31n1585_p0055b14
+      refEnd: T31n1585_p0055b16
+      note_en: Third, nirvāṇa without remainder — suchness emerged from the suffering of birth and death; the afflictions exhausted, the remaining basis also ceases, all sufferings are forever stilled, hence it is called nirvāṇa.
+  related: [ nirvana, arhat, sopadhisesa-nirvana, apratisthita-nirvana ]
+  compare: [ four-nirvanas ]
+
+- id: apratisthita-nirvana
+  skt: apratiṣṭhita-nirvāṇa
+  deva: अप्रतिष्ठितनिर्वाण
+  pali: ''
+  zh: 無住處涅槃
+  zhAlt: [ 無住涅槃 ]
+  en: non-abiding nirvāṇa
+  enAlt: [ unlocated nirvana, nirvana that abides nowhere, non-abiding nirvana ]
+  root: a「不」＋ pratiṣṭhita「安住」＋ nirvāṇa · apratiṣṭhita "not fixed"
+  short_zh: 四種涅槃之一：斷所知障，大悲與般若常相輔翼，不住生死、不住涅槃，窮未來際利樂有情；唯佛具有。
+  short_en: Non-abiding nirvāṇa — one of the four nirvāṇas; with the cognitive obstruction cut, compassion and wisdom always together, dwelling neither in saṃsāra nor in nirvāṇa, benefiting beings forever. Only buddhas have it.
+  detail_zh: |
+    《成唯識論》：「四、無住處涅槃，謂即真如出所知障，大悲、般若常所輔翼，由斯不住生死、涅槃，利樂有情窮未來際，用而常寂，故名涅槃。」
+
+    **悲智雙運**：因般若而不住生死，因大悲而不住涅槃——這是大乘涅槃的特色。四種涅槃中，凡夫有第一，二乘有前三，佛四種具足。
+  detail_en: |
+    Cheng weishi lun: "Fourth, non-abiding nirvāṇa: suchness freed from the cognitive obstruction, always supported by great compassion and wisdom; so it dwells in neither saṃsāra nor nirvāṇa, benefiting beings to the end of time, active yet ever still — hence nirvāṇa."
+
+    **Compassion and wisdom together**: wisdom keeps one from dwelling in saṃsāra, compassion from dwelling in nirvāṇa — the hallmark of Mahāyāna nirvāṇa. Ordinary beings have the first, the two vehicles the first three, buddhas all four.
+  quotes:
+    - text: 四、無住處涅槃，謂即真如出所知障，大悲般若常所輔翼。由斯不住生死涅槃，利樂有情，窮未來際，用而常寂，故名涅槃。
+      source: 《成唯識論》卷10
+      source_en: Cheng weishi lun, fasc. 10
+      ref: T31n1585_p0055b16
+      refEnd: T31n1585_p0055b19
+      note_en: Fourth, non-abiding nirvāṇa — suchness emerged from the cognitive obstruction, always assisted by great compassion and wisdom; therefore it abides neither in saṃsāra nor nirvāṇa, benefiting beings to the end of the future, active yet ever tranquil, hence it is called nirvāṇa.
+  related: [ nirvana, jneyavarana, karuna, prajna, bodhisattva ]
+  compare: [ four-nirvanas ]

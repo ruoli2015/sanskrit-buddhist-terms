@@ -1,0 +1,297 @@
+# 末那四惑、五見
+
+- id: atma-moha
+  skt: ātma-moha
+  deva: आत्ममोह
+  pali: ''
+  zh: 我癡
+  zhAlt: [ 我無明 ]
+  en: self-delusion
+  enAlt: [ delusion about self, ignorance of self, self delusion ]
+  root: ātman「我」＋ moha「愚癡」 · ātman "self" + moha "delusion"
+  short_zh: 末那識四煩惱之一：愚於我相、迷於無我之理的無明；其餘三者都由它而起。
+  short_en: Self-delusion — one of the four afflictions of manas; ignorance that is confused about self and blind to non-self. The other three arise from it.
+  detail_zh: |
+    《唯識三十頌》說第七末那識「四煩惱常俱，謂我癡、我見、并我慢、我愛」。《成唯識論》解釋：「我癡者：謂無明，愚於我相，迷無我理，故名我癡。」
+
+    **四者的次序**：我癡是根本——因為不明白無我，才會執有我（我見）；既執有我，便恃我而高舉（我慢）、貪著所執之我（我愛）。
+
+    **恆行不共無明**：這種與末那識俱起的無明，從無始以來恆時相續，連善心時也不間斷，唯識稱為「不共無明」，是有情不能自覺無我的根源。
+  detail_en: |
+    The Thirty Verses say manas, the seventh consciousness, "is always accompanied by four afflictions: self-delusion, self-view, self-pride and self-love". The Cheng weishi lun explains: "Self-delusion is ignorance: confused about the characteristics of self, blind to the principle of non-self — hence self-delusion."
+
+    **The order of the four**: self-delusion is the root. Not understanding non-self, one grasps a self (self-view); grasping a self, one is lifted up by it (self-pride) and attached to it (self-love).
+
+    **Constant, unshared ignorance**: the ignorance that accompanies manas runs unbroken from beginningless time, even during wholesome minds. Yogācāra calls it "unshared ignorance" — the reason beings cannot see non-self for themselves.
+  quotes:
+    - text: 四煩惱常俱，謂我癡、我見、并我慢、我愛
+      source: 《唯識三十論頌》
+      source_en: Triṃśikā (Thirty Verses)
+      ref: T31n1586_p0060b12
+      refEnd: T31n1586_p0060b13
+      note_en: Always accompanied by the four afflictions — self-delusion, self-view, together with self-pride and self-love.
+    - text: 我癡者：謂無明，愚於我相，迷無我理，故名我癡。
+      source: 《成唯識論》卷4
+      source_en: Cheng weishi lun, fasc. 4
+      ref: T31n1585_p0022a28
+      refEnd: T31n1585_p0022a29
+      note_en: Self-delusion is ignorance — confused about the characteristics of self, blind to the principle of non-self; hence it is called self-delusion.
+  related: [ klista-manas, avidya, atma-drsti, atma-mana, atma-sneha ]
+  compare: [ manas-four-afflictions ]
+
+- id: atma-drsti
+  skt: ātma-dṛṣṭi
+  deva: आत्मदृष्टि
+  pali: atta-diṭṭhi
+  zh: 我見
+  zhAlt: [ 我執見 ]
+  en: self-view
+  enAlt: [ view of self, belief in a self, self view ]
+  root: ātman「我」＋ dṛṣṭi「見」 · ātman "self" + dṛṣṭi "view"
+  short_zh: 末那識四煩惱之一：於非我法妄計為我；即俱生的薩迦耶見。
+  short_en: Self-view — one of the four afflictions of manas; falsely taking what is not self as self. It is the innate form of the personality view.
+  detail_zh: |
+    《成唯識論》：「我見者：謂我執，於非我法，妄計為我，故名我見。」末那識恆緣阿賴耶識的見分，執之為自內我。
+
+    **與薩迦耶見的關係**：我見屬於五見中的薩迦耶見（身見）。但末那識的我見只有**俱生**一類——與生俱來、不待學習；由邪教邪思而起的**分別**我見則在第六意識。見道斷分別我執，俱生我執要到修道才漸次斷盡。
+  detail_en: |
+    Cheng weishi lun: "Self-view is self-grasping: falsely taking what is not self as self — hence self-view." Manas constantly takes the seeing part of the store consciousness as an inner self.
+
+    **Relation to the personality view**: self-view belongs to the personality view (satkāya-dṛṣṭi), first of the five views. But the self-view of manas is only the **innate** kind — present from birth, needing no teaching. The **conceptual** kind, produced by wrong teachings and reasoning, belongs to mental consciousness. Conceptual self-grasping is cut at the path of seeing; innate self-grasping is removed gradually on the path of cultivation.
+  quotes:
+    - text: 我見者：謂我執，於非我法，妄計為我，故名我見。
+      source: 《成唯識論》卷4
+      source_en: Cheng weishi lun, fasc. 4
+      ref: T31n1585_p0022a29
+      refEnd: T31n1585_p0022b01
+      note_en: Self-view is self-grasping — falsely conceiving what is not self as self; hence it is called self-view.
+  related: [ klista-manas, satkaya-drsti, atma-graha, atman ]
+  compare: [ manas-four-afflictions, self-view-grasping ]
+
+- id: atma-mana
+  skt: ātma-māna
+  deva: आत्ममान
+  pali: ''
+  zh: 我慢
+  en: self-pride
+  enAlt: [ conceit of self, I-am conceit, self conceit, egotism ]
+  root: ātman「我」＋ māna「慢」 · ātman "self" + māna "pride"
+  short_zh: 末那識四煩惱之一：恃所執之我，令心高舉。
+  short_en: Self-pride — one of the four afflictions of manas; relying on the grasped self, the mind lifts itself up.
+  detail_zh: |
+    《成唯識論》：「我慢者：謂倨傲，恃所執我，令心高舉，故名我慢。」
+
+    **與一般的慢不同**：六根本煩惱中的「慢」是「恃己於他，高舉為性」，需要比較的對象。末那識的我慢不必與他人比較，只是「有我」這一念本身的高舉——即阿含所說的「我慢」（asmimāna，「我是」之慢），阿羅漢才斷盡。
+  detail_en: |
+    Cheng weishi lun: "Self-pride is arrogance: relying on the grasped self, the mind lifts itself up — hence self-pride."
+
+    **Different from ordinary pride**: the root affliction pride is "elevating oneself over others", which needs a comparison. The self-pride of manas compares with no one; it is the elevation inherent in the very sense "I am" — the asmimāna ("I-am conceit") of the Āgamas, ended only by an arhat.
+  quotes:
+    - text: 我慢者：謂倨傲，恃所執我，令心高舉，故名我慢。
+      source: 《成唯識論》卷4
+      source_en: Cheng weishi lun, fasc. 4
+      ref: T31n1585_p0022b01
+      refEnd: T31n1585_p0022b02
+      note_en: Self-pride is arrogance — relying on the grasped self, the mind is lifted up; hence it is called self-pride.
+  related: [ klista-manas, mana, atma-drsti ]
+  compare: [ manas-four-afflictions ]
+
+- id: atma-sneha
+  skt: ātma-sneha
+  deva: आत्मस्नेह
+  pali: ''
+  zh: 我愛
+  zhAlt: [ 我貪 ]
+  en: self-love
+  enAlt: [ attachment to self, self attachment, self-attachment ]
+  root: ātman「我」＋ sneha「愛著、油膩」 · ātman "self" + sneha "affection, stickiness"
+  short_zh: 末那識四煩惱之一：對所執之我深生耽著的貪。
+  short_en: Self-love — one of the four afflictions of manas; the greed that clings deeply to the grasped self.
+  detail_zh: |
+    《成唯識論》：「我愛者：謂我貪，於所執我，深生耽著，故名我愛。」sneha 本義是「油膩、黏著」，形容這種愛著難以洗脫。
+
+    我愛使有情執持自身、貪戀存在；《攝大乘論》等以末那為「染污意」，正因為它恆與這四惑相應，令前六識的善心也帶有我執的染污（有漏）。
+  detail_en: |
+    Cheng weishi lun: "Self-love is self-greed: clinging deeply to the grasped self — hence self-love." Sneha literally means "oiliness, stickiness" — an attachment hard to wash off.
+
+    Self-love makes beings hold on to themselves and crave existence. Manas is called the "defiled mind" because it is always joined with these four, so that even the wholesome minds of the first six consciousnesses remain tinged by self-grasping (contaminated).
+  quotes:
+    - text: 我愛者：謂我貪，於所執我，深生耽著，故名我愛。
+      source: 《成唯識論》卷4
+      source_en: Cheng weishi lun, fasc. 4
+      ref: T31n1585_p0022b02
+      refEnd: T31n1585_p0022b03
+      note_en: Self-love is self-greed — deeply clinging to the grasped self; hence it is called self-love.
+  related: [ klista-manas, raga, trsna, sasrava ]
+  compare: [ manas-four-afflictions ]
+
+- id: satkaya-drsti
+  skt: satkāya-dṛṣṭi
+  deva: सत्कायदृष्टि
+  pali: sakkāya-diṭṭhi
+  zh: 薩迦耶見
+  zhAlt: [ 身見, 有身見, 偽身見 ]
+  en: personality view
+  enAlt: [ view of a real self, identity view, view of the existing body, self-identity view, sakkaya ditthi ]
+  root: sat「有、壞」＋ kāya「身、聚」＋ dṛṣṭi「見」 · sat + kāya "body, aggregate" + dṛṣṭi "view"
+  short_zh: 五見之一：於五取蘊執我、我所；一切邪見所依。三結之首。
+  short_en: Personality view — first of the five views; taking the five aggregates of clinging as "I" and "mine". The basis of all views and first of the three fetters.
+  detail_zh: |
+    《成唯識論》：「薩迦耶見：謂於五取蘊，執我、我所，一切見趣所依為業。」執五蘊為我，是我見；執五蘊為我所有，是我所見。
+
+    **譯名**：sat-kāya 舊譯「有身」，玄奘音譯「薩迦耶」。《俱舍論》把 sat 解作「壞」（無常可壞），強調所執的只是無常的蘊聚，並無實我。
+
+    **斷除**：分別起的身見在見道（初果）斷，因此身見、戒禁取、疑稱為初果所斷的「三結」。俱生的身見（末那識的我見）到修道才斷。
+  detail_en: |
+    Cheng weishi lun: "Personality view: taking the five aggregates of clinging as I and mine; its function is to be the basis of all views." Taking the aggregates as self is self-view; taking them as belonging to a self is the view of "mine".
+
+    **The name**: sat-kāya was rendered "existing body" in older translations; Xuanzang transliterated it 薩迦耶. The Abhidharmakośa reads sat as "perishing", stressing that what is grasped is only a perishable heap of aggregates, with no real self.
+
+    **Removal**: the conceptual form is cut at the path of seeing (stream-entry), so personality view, attachment to rules and rituals, and doubt are the "three fetters" ended by stream-enterers. The innate form (manas's self-view) is removed only on the path of cultivation.
+  quotes:
+    - text: 一、薩迦耶見：謂於五取蘊，執我、我所，一切見趣所依為業。
+      source: 《成唯識論》卷6
+      source_en: Cheng weishi lun, fasc. 6
+      ref: T31n1585_p0031c13
+      refEnd: T31n1585_p0031c14
+      note_en: First, personality view — taking the five aggregates of clinging as I and mine; its function is to be the basis of all views.
+  related: [ drsti, atma-drsti, upadana, samyojana, srotaapanna ]
+  compare: [ five-views, self-view-grasping ]
+
+- id: antagraha-drsti
+  skt: antagrāha-dṛṣṭi
+  deva: अन्तग्राहदृष्टि
+  pali: ''
+  zh: 邊執見
+  zhAlt: [ 邊見 ]
+  en: extreme view
+  enAlt: [ view of extremes, extremist view, eternalism and annihilationism, view holding to an extreme ]
+  root: anta「邊」＋ grāha「執」＋ dṛṣṭi「見」 · anta "extreme" + grāha "grasping"
+  short_zh: 五見之二：依身見而執我常住或死後斷滅；障礙中道。
+  short_en: Extreme view — second of the five views; based on the personality view, holding that the self is eternal or is annihilated at death. It blocks the middle way.
+  detail_zh: |
+    《成唯識論》：「邊執見：謂即於彼，隨執斷、常，障處中行、出離為業。」「於彼」指薩迦耶見所執的我——先有了我，才會追問這個我是常住還是斷滅。
+
+    **常見與斷見**：執我死後仍在、永恆不變，是常見；執我死後完全斷滅、無有後世，是斷見。佛陀說緣起，正是遠離這兩邊的中道。
+  detail_en: |
+    Cheng weishi lun: "Extreme view: with regard to that [self], holding to annihilation or permanence; its function is to obstruct the middle way and liberation." "That" is the self grasped by the personality view — only once a self is assumed can one ask whether it lasts or is destroyed.
+
+    **Eternalism and annihilationism**: holding that the self survives death unchanged forever is eternalism; holding that it is wholly cut off at death, with no future life, is annihilationism. Dependent origination is the middle way that avoids both.
+  quotes:
+    - text: 二、邊執見：謂即於彼，隨執斷、常，障處中行、出離為業。
+      source: 《成唯識論》卷6
+      source_en: Cheng weishi lun, fasc. 6
+      ref: T31n1585_p0031c15
+      refEnd: T31n1585_p0031c17
+      note_en: Second, extreme view — with regard to that, holding to annihilation or permanence; its function is to obstruct the middle way and liberation.
+  related: [ drsti, satkaya-drsti, pratityasamutpada ]
+  compare: [ five-views ]
+
+- id: mithya-drsti
+  skt: mithyā-dṛṣṭi
+  deva: मिथ्यादृष्टि
+  pali: micchā-diṭṭhi
+  zh: 邪見
+  en: false view
+  enAlt: [ wrong view, perverse view, nihilistic view, miccha ditthi ]
+  root: mithyā「虛妄、顛倒」＋ dṛṣṭi「見」 · mithyā "false, inverted"
+  short_zh: 五見之三：否定因果、業報與聖者證悟，以及其餘四見以外的種種邪執。
+  short_en: False view — third of the five views; denying cause and effect, karmic results and the attainments of the noble, plus every other wrong view not covered by the other four.
+  detail_zh: |
+    《成唯識論》：「邪見：謂謗因果、作用、實事及非四見諸餘邪執」——撥無善惡業因與苦樂果報，否定世間的作用（如父母、他世），否定涅槃等實事，都是邪見。
+
+    **最重的見**：其他四見是增益或誤取，邪見是「撥無」，能斷善根，因此被視為最嚴重的見。
+
+    **名稱陷阱**：心所中的「不正見（惡見）」是五見的總名；邪見只是其中一種。
+  detail_en: |
+    Cheng weishi lun: "False view: denying cause and effect, function and real things, and all other wrong attachments besides the four [other] views." Denying wholesome and unwholesome deeds and their pleasant and painful results, denying worldly functions (such as parents or other lives), denying real things like nirvāṇa — all are false view.
+
+    **The gravest view**: the other four add or mis-take something; false view denies outright and can sever the wholesome roots, so it is counted the most serious.
+
+    **Naming trap**: the mental factor "wrong view" (dṛṣṭi) is the umbrella for all five views; false view is only one of them.
+  quotes:
+    - text: 三、邪見：謂謗因果、作用、實事及非四見諸餘邪執
+      source: 《成唯識論》卷6
+      source_en: Cheng weishi lun, fasc. 6
+      ref: T31n1585_p0031c19
+      refEnd: T31n1585_p0031c21
+      note_en: Third, false view — denying cause and effect, function and real things, and all other wrong attachments not among the four views.
+  related: [ drsti, karma, vipaka ]
+  compare: [ five-views ]
+
+- id: drsti-paramarsa
+  skt: dṛṣṭi-parāmarśa
+  deva: दृष्टिपरामर्श
+  pali: diṭṭhi-parāmāsa
+  zh: 見取見
+  zhAlt: [ 見取 ]
+  en: attachment to views
+  enAlt: [ clinging to views, holding views as supreme, grasping at views ]
+  root: dṛṣṭi「見」＋ parā-√mṛś「執取、觸摸」 · parāmarśa "grasping, clinging"
+  short_zh: 五見之四：執自己的見解及所依五蘊為最勝、能得清淨；一切鬥諍的根源。
+  short_en: Attachment to views — fourth of the five views; holding one's own views (and the aggregates they rest on) as supreme and purifying. The source of all disputes.
+  detail_zh: |
+    《成唯識論》：「見取：謂於諸見及所依蘊，執為最勝，能得清淨，一切鬪諍所依為業。」
+
+    見取見不是另一種內容的見，而是對見本身的執著——把前三見（乃至任何見）當作真理、唯一正確，因而與他人爭論不休。
+
+    **俱舍**：《俱舍論》：「於劣謂勝，名為見取。」——有漏法本是低劣的，卻執為殊勝。
+  detail_en: |
+    Cheng weishi lun: "Attachment to views: taking views and the aggregates they rest on as supreme and able to bring purity; its function is to be the basis of all disputes."
+
+    It is not a view with new content but clinging to views as such — treating the other views (or any view) as the sole truth, and so quarrelling endlessly with others.
+
+    **Abhidharmakośa**: "Taking the inferior as superior is called attachment to views" — contaminated things are inferior, yet held to be the best.
+  quotes:
+    - text: 四、見取：謂於諸見及所依蘊，執為最勝，能得清淨，一切鬪諍所依為業。
+      source: 《成唯識論》卷6
+      source_en: Cheng weishi lun, fasc. 6
+      ref: T31n1585_p0031c26
+      refEnd: T31n1585_p0031c28
+      note_en: Fourth, attachment to views — holding views and the aggregates they rest on as supreme and able to bring purity; its function is to be the basis of all disputes.
+    - text: 於劣謂勝，名為見取。
+      source: 《阿毘達磨俱舍論》卷19
+      source_en: Abhidharmakośabhāṣya, fasc. 19
+      ref: T29n1558_p0100a18
+      note_en: Taking the inferior as superior is called attachment to views.
+  related: [ drsti, upadana, silavrata-paramarsa ]
+  compare: [ five-views ]
+
+- id: silavrata-paramarsa
+  skt: śīlavrata-parāmarśa
+  deva: शीलव्रतपरामर्श
+  pali: sīlabbata-parāmāsa
+  zh: 戒禁取見
+  zhAlt: [ 戒禁取, 戒取, 戒取見 ]
+  en: attachment to rules and rituals
+  enAlt: [ clinging to rites and rituals, attachment to rites and vows, rule-and-ritual attachment ]
+  root: śīla「戒」＋ vrata「禁、苦行誓願」＋ parāmarśa「執取」 · śīla "rule" + vrata "vow, observance"
+  short_zh: 五見之五：執持隨順邪見的戒律、苦行為最勝，以為能得清淨解脫。三結之一。
+  short_en: Attachment to rules and rituals — fifth of the five views; holding observances and austerities that follow wrong views to be supreme and liberating. One of the three fetters.
+  detail_zh: |
+    《成唯識論》：「戒禁取：謂於隨順諸見戒禁及所依蘊，執為最勝，能得清淨，無利勤苦所依為業。」
+
+    例如古印度的牛戒、狗戒（模仿牛狗以求生天）、投火、斷食等，以為僅憑這些外在行為就能解脫，徒勞無益。
+
+    **注意**：戒禁取不是指持守佛教戒律，而是把錯誤的行持當作解脫之因（《俱舍論》：「於非因道謂因道見，一切總說名戒禁取。」）。它與身見、疑合稱「三結」，見道時斷。
+  detail_en: |
+    Cheng weishi lun: "Attachment to rules and rituals: taking the observances that accord with [wrong] views, and the aggregates they rest on, as supreme and able to bring purity; its function is to be the basis of fruitless toil."
+
+    Examples are the ancient Indian "cow vow" and "dog vow" (imitating animals to reach heaven), walking into fire or fasting to death — believing outward acts alone bring liberation.
+
+    **Note**: it does not mean keeping Buddhist precepts, but taking wrong practices as the cause of liberation (Abhidharmakośa: "seeing what is not the cause or path as the cause or path — all of this is called attachment to rules and rituals"). With personality view and doubt it forms the "three fetters", cut at the path of seeing.
+  quotes:
+    - text: 五、戒禁取：謂於隨順諸見戒禁及所依蘊，執為最勝，能得清淨，無利勤苦所依為業。
+      source: 《成唯識論》卷6
+      source_en: Cheng weishi lun, fasc. 6
+      ref: T31n1585_p0031c28
+      refEnd: T31n1585_p0032a01
+      note_en: Fifth, attachment to rules and rituals — holding the observances that accord with views, and the aggregates they rest on, as supreme and able to bring purity; its function is to be the basis of fruitless toil.
+    - text: 於非因道謂因道見，一切總說名戒禁取。
+      source: 《阿毘達磨俱舍論》卷19
+      source_en: Abhidharmakośabhāṣya, fasc. 19
+      ref: T29n1558_p0100a20
+      refEnd: T29n1558_p0100a21
+      note_en: Seeing what is not the cause or path as the cause or path — all of this together is called attachment to rules and rituals.
+  related: [ drsti, sila, samyojana, drsti-paramarsa ]
+  compare: [ five-views ]

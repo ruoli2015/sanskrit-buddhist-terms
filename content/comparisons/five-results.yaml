@@ -1,0 +1,107 @@
+id: five-results
+title_zh: 五果：異熟、等流、離繫、士用、增上
+title_en: 'The five results: ripened, outflow, separation, agent-made, dominant'
+terms: [ phala, vipaka-phala, nisyanda-phala, visamyoga-phala, purusakara-phala, adhipati-phala ]
+summary_zh: 異熟果性質與因不同（無記）；等流果與因同類；離繫果是斷障所顯的無為；士用果是作者以工具所成；增上果是其餘一切果。
+summary_en: The ripened result differs in quality from its cause (neutral); the outflow result is of the same kind; the separation result is the unconditioned revealed by cutting obstructions; the agent-made result is what an agent makes with tools; the dominant result is all the rest.
+table:
+  columns:
+    - { zh: 異熟, en: Ripened }
+    - { zh: 等流, en: Outflow }
+    - { zh: 離繫, en: Separation }
+    - { zh: 士用, en: Agent-made }
+    - { zh: 增上, en: Dominant }
+  rows:
+    - label: { zh: 與因關係, en: Relation to cause }
+      cells:
+        - { zh: 因善惡、果無記, en: Good/bad cause; neutral result }
+        - { zh: 同類相似, en: Same kind }
+        - { zh: 道力所顯, en: Revealed by the path }
+        - { zh: 作者假作具, en: Agent using tools }
+        - { zh: 除前四之餘, en: All the rest }
+    - label: { zh: 例子, en: Example }
+      cells:
+        - { zh: 此生的身心, en: This life's body and mind }
+        - { zh: 殺生而短命, en: Killing leading to short life }
+        - { zh: 擇滅、涅槃, en: Analytical cessation }
+        - { zh: 農夫收成, en: A farmer's harvest }
+        - { zh: 共業所感的環境, en: Shared environment }
+    - label: { zh: 有為／無為, en: Conditioned? }
+      cells:
+        - { zh: 有為, en: Conditioned }
+        - { zh: 有為, en: Conditioned }
+        - { zh: 無為, en: Unconditioned }
+        - { zh: 有為, en: Conditioned }
+        - { zh: 有為, en: Conditioned }
+explanation_zh: |
+  《成唯識論》定義五果。最容易混淆的是異熟果與等流果：殺生業令人墮三惡道、生為短命之身，是**異熟果**（總體的果報身，無記）；同樣的業使人在人間也短命多病，或者養成嗜殺的習氣，是**等流果**（與因相似）。
+
+  **離繫果**是五果中唯一的無為法：它不是被生出的，而是障礙斷除後所顯。
+
+  **俱舍**：六因配五果——異熟因→異熟果；同類、遍行因→等流果；俱有、相應因→士用果；能作因→增上果；離繫果由道證得，非六因所生。
+explanation_en: |
+  The Cheng weishi lun defines the five. The most confusable pair is ripened and outflow: killing that leads to rebirth in a lower destiny or a short-lived body is the **ripened** result (the overall resultant existence, neutral); the same deed making one short-lived and sickly as a human, or forming a habit of killing, is the **outflow** result (resembling the cause).
+
+  The **separation** result is the only unconditioned one: not produced, but revealed once obstructions are removed.
+
+  **Abhidharmakośa**: six causes map to five results — ripening cause → ripened; homogeneous and pervasive causes → outflow; simultaneous and associated causes → agent-made; efficient cause → dominant; separation is attained by the path, not produced by the six causes.
+quotes:
+  - text: 果有五種：一者異熟，謂有漏善及不善法所招自相續異熟生無記；二者等流，謂習善等所引同類，或似先業，後果隨轉；三者離繫，謂無漏道斷障所證善無為法；四者士用，謂諸作者，假諸作具，所辦事業；五者增上，謂除前四，餘所得果。
+    source: 《成唯識論》卷8
+    source_en: Cheng weishi lun, fasc. 8
+    ref: T31n1585_p0042a29
+    refEnd: T31n1585_p0042b05
+    note_en: 'There are five kinds of result: ripened … outflow … separation … agent-made … and dominant — every result obtained other than the first four.'
+questions:
+  - type: mcq
+    q_zh: 五果中唯一的無為法是？
+    q_en: Which of the five results is unconditioned?
+    options:
+      - { zh: 異熟果, en: ripened }
+      - { zh: 離繫果, en: separation }
+      - { zh: 增上果, en: dominant }
+    answer: 1
+    explain_zh: 「無漏道斷障所證善無為法」。
+    explain_en: '"The wholesome unconditioned dharma realized when the uncontaminated path cuts the obstructions."'
+  - type: mcq
+    q_zh: 前念善心引生後念善心，屬於？
+    q_en: A wholesome moment leading to another wholesome moment is a…
+    options:
+      - { zh: 等流果, en: outflow result }
+      - { zh: 異熟果, en: ripened result }
+      - { zh: 士用果, en: agent-made result }
+    answer: 0
+    explain_zh: 與因同類相似。
+    explain_en: Same in kind as the cause.
+  - type: tf
+    q_zh: 異熟果的性質與因相同——善因得善果。
+    q_en: A ripened result has the same moral quality as its cause — good causes give good results.
+    answer: false
+    explain_zh: 因是善或惡，異熟果卻是無記；樂報本身不是善。
+    explain_en: The cause is good or bad but the ripened result is neutral; a pleasant life is not itself good.
+  - type: mcq
+    q_zh: 農夫以犁鋤耕作所得的收成是？
+    q_en: A farmer's harvest from ploughing is a…
+    options:
+      - { zh: 士用果, en: agent-made result }
+      - { zh: 離繫果, en: separation result }
+      - { zh: 等流果, en: outflow result }
+    answer: 0
+    explain_zh: 「諸作者假諸作具所辦事業」。
+    explain_en: '"The work accomplished by agents by means of instruments."'
+  - type: mcq
+    q_zh: 眾生共業所感的山河環境，相對於個人的業是？
+    q_en: The environment shaped by collective karma is, relative to individual deeds, a…
+    options:
+      - { zh: 異熟果, en: ripened result }
+      - { zh: 增上果, en: dominant result }
+      - { zh: 等流果, en: outflow result }
+    answer: 1
+    explain_zh: 增上果範圍最廣，由增上緣而得。
+    explain_en: The dominant result is the broadest, arising through dominant conditions.
+  - type: tf
+    q_zh: 依《俱舍論》，離繫果不是由六因所生。
+    q_en: According to the Abhidharmakośa, the separation result is not produced by the six causes.
+    answer: true
+    explain_zh: 離繫果是擇滅，由道力證得。
+    explain_en: It is analytical cessation, attained through the path.

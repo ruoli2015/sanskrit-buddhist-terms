@@ -1,0 +1,371 @@
+# 六道；佛、菩薩與淨土
+
+- id: naraka
+  skt: naraka
+  deva: नरक
+  pali: niraya
+  zh: 地獄
+  zhAlt: [ 捺落迦, 那落迦, 泥犁 ]
+  en: hell
+  enAlt: [ hells, hell realm, hell beings, naraka ]
+  root: 「地下的處所」 · "the underworld"
+  short_zh: 六道中最苦的去處；由極重惡業所感。俱舍說有八熱、八寒地獄，最下為無間地獄。
+  short_en: Hell — the most painful of the destinies, produced by the gravest evil karma. The Abhidharmakośa describes eight hot and eight cold hells, the lowest being Avīci.
+  detail_zh: |
+    naraka 音譯「捺落迦」「那落迦」，意譯地獄。《俱舍論》說贍部洲下有八大熱地獄，最深者為「阿鼻旨」（無間）。
+
+    **不是永恆的懲罰**：佛教的地獄是業力所感的果報，業盡即出，並無永罰；也沒有審判者——閻羅王是後來的民間觀念與經典融合。唯識認為地獄的獄卒、刀山等都是罪人自身業識所變，並非實有的有情。
+  detail_en: |
+    Naraka is transliterated 捺落迦 or 那落迦 and rendered "earth-prison". The Abhidharmakośa places eight great hot hells beneath Jambudvīpa, the deepest being Avīci ("uninterrupted").
+
+    **Not eternal punishment**: hell is a karmic result; when the karma is spent one leaves. There is no judge in the early texts — King Yama is a later blend of folk belief and scripture. Yogācāra holds that hell-guards and mountains of knives are transformations of the sinner's own karmic consciousness, not real beings.
+  quotes:
+    - text: 此贍部洲下過二萬，有阿鼻旨大㮈落迦。
+      source: 《阿毘達磨俱舍論》卷11
+      source_en: Abhidharmakośabhāṣya, fasc. 11
+      ref: T29n1558_p0058b03
+      refEnd: T29n1558_p0058b04
+      note_en: Twenty thousand [yojanas] below this Jambudvīpa is the great hell Avīci.
+  related: [ gati, karma, akusala, kamadhatu ]
+
+- id: preta
+  skt: preta
+  deva: प्रेत
+  pali: peta
+  zh: 餓鬼
+  zhAlt: [ 鬼, 薜荔多, 鬼道 ]
+  en: hungry ghost
+  enAlt: [ ghost, hungry ghosts, departed one, preta ]
+  root: 'pra-√i「離去」：「已去世者」 · pra-√i "to go forth": "the departed"'
+  short_zh: 六道之一：由慳貪所感、常受飢渴之苦的眾生；其王為琰魔王。
+  short_en: Hungry ghost — a destiny produced by miserliness and greed, beings tormented by hunger and thirst; their king is Yama.
+  detail_zh: |
+    preta 本義「亡者」，原指祖先亡靈，佛教轉為由慳貪業所感、常受飢渴的一類眾生。《俱舍論》說諸鬼的本處在琰魔王國。
+
+    盂蘭盆、施食（放焰口）等法事都以救度餓鬼為主。慳貪（mātsarya）是墮餓鬼道的主要因。
+  detail_en: |
+    Preta originally means "the departed", ancestors' spirits; Buddhism made it a class of beings produced by miserly karma, ever hungry and thirsty. The Abhidharmakośa says ghosts originally dwell in Yama's realm.
+
+    The Ullambana festival and food-offering rites for "flaming mouths" are aimed at relieving hungry ghosts. Miserliness is the main cause of rebirth among them.
+  quotes:
+    - text: 諸鬼本處琰魔王國，於此贍部洲下過五百踰繕那有琰魔王國
+      source: 《阿毘達磨俱舍論》卷11
+      source_en: Abhidharmakośabhāṣya, fasc. 11
+      ref: T29n1558_p0059a12
+      refEnd: T29n1558_p0059a14
+      note_en: The ghosts originally dwell in the realm of King Yama; five hundred yojanas below this Jambudvīpa is Yama's realm.
+  related: [ gati, matsarya, raga ]
+
+- id: tiryagyoni
+  skt: tiryagyoni
+  deva: तिर्यग्योनि
+  pali: tiracchānayoni
+  zh: 畜生
+  zhAlt: [ 傍生, 旁生, 畜生道 ]
+  en: animal
+  enAlt: [ animals, animal realm, beasts, tiryak ]
+  root: tiryañc「橫行的」＋ yoni「生類」 · tiryañc "going horizontally" + yoni "birth"
+  short_zh: 六道之一：橫行、互相吞食的生類；多由愚癡業所感。玄奘譯「傍生」。
+  short_en: Animal — a destiny of beings that move horizontally and prey on one another, chiefly produced by deluded karma. Xuanzang renders it 傍生 "sideways-born".
+  detail_zh: |
+    tiryañc 意為「橫行」——相對於人直立而行，畜生多橫身而行，所以玄奘譯「傍生」，舊譯「畜生」。《俱舍論》說傍生的住處遍及水、陸、空。
+
+    傳統以貪、瞋、癡配三惡道：瞋多墮地獄、貪多墮餓鬼、癡多墮畜生。
+  detail_en: |
+    Tiryañc means "moving horizontally" — unlike upright humans, animals move with their bodies level; hence Xuanzang's 傍生 "sideways-born", the older 畜生 "domestic beast". The Abhidharmakośa says animals live in water, on land and in the air.
+
+    Traditionally the three poisons lead to the three lower destinies: aversion to hell, greed to ghosts, delusion to animals.
+  quotes:
+    - text: 傍生住處謂水陸空，本處大海，後流餘處。
+      source: 《阿毘達磨俱舍論》卷11
+      source_en: Abhidharmakośabhāṣya, fasc. 11
+      ref: T29n1558_p0059a11
+      refEnd: T29n1558_p0059a12
+      note_en: The dwelling places of animals are water, land and air; their original home is the ocean, from which they later spread elsewhere.
+  related: [ gati, avidya, amoha ]
+
+- id: asura
+  skt: asura
+  deva: असुर
+  pali: asura
+  zh: 阿修羅
+  zhAlt: [ 阿素洛, 修羅, 非天 ]
+  en: asura
+  enAlt: [ demigod, titan, jealous god, anti-god ]
+  root: a「非」＋ sura「天」（俗解） · popularly a + sura "not-god"
+  short_zh: 好鬥、多瞋嫉的一類眾生，福報似天而無天德；有部歸入天或鬼趣，大乘常立為六道之一。
+  short_en: Asura — a class of combative, jealous beings with merit like gods but lacking their virtue. The Sarvāstivāda files them under gods or ghosts; Mahāyāna often counts them as a sixth destiny.
+  detail_zh: |
+    asura 舊譯「阿修羅」，玄奘譯「阿素洛」，意譯「非天」。印度神話中阿修羅與帝釋天（三十三天）常常爭戰。
+
+    **五趣或六道**：說一切有部只立五趣，認為阿修羅分屬天趣或鬼趣；《大智度論》等則立阿修羅為一道，成為漢傳常說的六道。瞋與嫉妒心重、好勝爭鬥，是生為阿修羅的因。
+  detail_en: |
+    Asura is transliterated 阿修羅 (old) or 阿素洛 (Xuanzang) and rendered 非天 "not-god". In Indian myth the asuras constantly war with Śakra and the gods of the Thirty-three.
+
+    **Five or six destinies**: the Sarvāstivāda recognizes five, filing asuras under gods or ghosts; the Dazhidu lun and others make them a separate destiny, giving the six commonly taught in Chinese Buddhism. Strong anger, jealousy and love of contest lead to rebirth as an asura.
+  quotes:
+    - text: 經說有五道，云何言六道？
+      source: 《大智度論》卷30
+      source_en: Dazhidu lun (*Mahāprajñāpāramitāśāstra), fasc. 30
+      ref: T25n1509_p0280a15
+      refEnd: T25n1509_p0280a16
+      note_en: The sūtras speak of five destinies — why do you say six?
+  related: [ gati, irsya, pratigha, deva ]
+
+- id: manusya
+  skt: manuṣya
+  deva: मनुष्य
+  pali: manussa
+  zh: 人
+  zhAlt: [ 人道, 人身, 摩奴闍 ]
+  en: human
+  enAlt: [ human being, humans, human realm, manushya ]
+  root: manu「人祖摩奴」＋ -ṣya · "descendant of Manu"; 俗解自 √man「思惟」
+  short_zh: 六道之一：苦樂參半、能思惟修行的生處；人身難得，是修道最佳的所依。
+  short_en: Human — a destiny of mixed pleasure and pain where one can reflect and practise; a human birth is rare and the best basis for the path.
+  detail_zh: |
+    manuṣya 傳統俗解為「能思惟者」（√man）。人道苦樂參半：不像天道沉迷享樂，也不像三惡道苦不堪言，所以最適合修行。
+
+    《雜阿含經》以盲龜浮木為喻：大海中一隻盲龜百年才浮出頭一次，要恰好鑽進漂流木的孔中，比得人身還容易。諸佛皆在人間成佛。
+  detail_en: |
+    Manuṣya is popularly explained as "the one who thinks" (√man). Human life mixes pleasure and pain — neither lost in enjoyment like the gods nor crushed by suffering like the lower destinies — so it is ideal for practice.
+
+    The Saṃyuktāgama's simile of the blind turtle: a blind turtle surfacing once a century in the ocean is more likely to put its head through the hole of a floating yoke than one is to regain a human birth. All buddhas attain awakening as humans.
+  quotes:
+    - text: 盲龜壽無量劫，百年一出其頭，海中有浮木，止有一孔，漂流海浪，隨風東西。
+      source: 《雜阿含經》卷15（第406經）
+      source_en: Saṃyuktāgama, fasc. 15, sūtra 406
+      ref: T02n0099_p0108c08
+      refEnd: T02n0099_p0108c09
+      note_en: A blind turtle.
+  related: [ gati, kamadhatu, sattva ]
+
+- id: deva
+  skt: deva
+  deva: देव
+  pali: deva
+  zh: 天
+  zhAlt: [ 天人, 天道, 提婆, 天眾 ]
+  en: god
+  enAlt: [ gods, deity, heavenly being, celestial, deva ]
+  root: √div「光明、照耀」 · √div "to shine"
+  short_zh: 六道中福報最大的生處，遍於三界：欲界六天、色界諸天、無色界四天。仍在輪迴之中。
+  short_en: 'God — the most fortunate destiny, found in all three realms: six desire heavens, the form heavens and four formless heavens. Still within saṃsāra.'
+  detail_zh: |
+    deva 源自「光明」，指光明自在的眾生。欲界六天為四大王眾天、三十三天（忉利天）、夜摩天、覩史多天（兜率天）、樂變化天、他化自在天；其上有色界、無色界諸天。
+
+    **天也會墮落**：天人福盡時有「五衰相」現，仍會隨業流轉。佛教中的天神（如帝釋、梵天）是護法者，並非創造主或解脫者。
+  detail_en: |
+    Deva comes from "shining" — radiant, free beings. The six desire heavens are the Four Great Kings, the Thirty-three (Trāyastriṃśa), Yāma, Tuṣita, Nirmāṇarati and Paranirmitavaśavartin; above them lie the heavens of the form and formless realms.
+
+    **Gods fall too**: when their merit runs out the "five signs of decay" appear and they move on with their karma. Gods like Śakra and Brahmā are protectors of the Dharma, not creators or liberators.
+  quotes:
+    - text: 地獄傍生鬼，人及六欲天，名欲界二十
+      source: 《阿毘達磨俱舍論》卷8
+      source_en: Abhidharmakośabhāṣya, fasc. 8
+      ref: T29n1558_p0040c25
+      refEnd: T29n1558_p0040c26
+      note_en: Hells, animals, ghosts, humans and the six desire heavens are called the twenty [places] of the desire realm.
+  related: [ gati, traidhatuka, rupadhatu, punya ]
+
+- id: sakyamuni
+  skt: śākyamuni
+  deva: शाक्यमुनि
+  pali: sakyamuni
+  zh: 釋迦牟尼
+  zhAlt: [ 釋迦牟尼佛, 釋迦, 釋尊, 本師, 釋迦文 ]
+  en: Śākyamuni
+  enAlt: [ shakyamuni, sakyamuni, sage of the sakyas, gautama buddha, siddhartha ]
+  root: śākya「釋迦族」＋ muni「聖者、寂默者」 · "sage of the Śākyas"
+  short_zh: 「釋迦族的聖者」，此娑婆世界的本師；俗名喬達摩·悉達多。
+  short_en: '"Sage of the Śākya clan" — the teacher of our Sahā world, born Siddhārtha Gautama.'
+  detail_zh: |
+    śākya 是族名，muni 意為「寂默的聖者」，漢譯「能仁寂默」。佛陀俗姓喬達摩（Gautama），名悉達多（Siddhārtha），約西元前五世紀生於迦毗羅衛。
+
+    **授記**：《金剛經》：「然燈佛與我受記，作是言：『汝於來世，當得作佛，號釋迦牟尼。』」大乘說他在過去世於燃燈佛前受記，經三大阿僧祇劫修行而成佛。
+  detail_en: |
+    Śākya is the clan name; muni means "silent sage" (Chinese 能仁寂默 "capable, benevolent, silent"). The Buddha's family name was Gautama and his given name Siddhārtha; he was born in Kapilavastu around the fifth century BCE.
+
+    **Prediction**: Diamond Sūtra: "Dīpaṃkara Buddha gave me a prediction, saying: 'In a future life you will become a buddha named Śākyamuni.'" The Mahāyāna holds that he received this prediction long ago and practised for three incalculable aeons.
+  quotes:
+    - text: 是故然燈佛與我受記，作是言：『汝於來世當得作佛，號釋迦牟尼。』
+      source: 《金剛般若波羅蜜經》
+      source_en: Vajracchedikā (Diamond Sūtra), tr. Kumārajīva
+      ref: T08n0235_p0751a25
+      refEnd: T08n0235_p0751a26
+      note_en: 'Dīpaṃkara Buddha gave me a prediction, saying: "In a future life you will become a buddha named Śākyamuni."'
+  related: [ buddha, tathagata, nirmanakaya, asamkhyeya ]
+  compare: [ three-bodies ]
+
+- id: amitabha
+  skt: amitābha
+  deva: अमिताभ
+  pali: ''
+  zh: 阿彌陀佛
+  zhAlt: [ 阿彌陀, 無量光, 無量壽, 彌陀 ]
+  en: Amitābha
+  enAlt: [ amitabha, buddha of infinite light, amitayus, amida ]
+  root: amita「無量」＋ ābhā「光明」 · amita "immeasurable" + ābhā "light"
+  short_zh: 西方極樂世界的教主；名號意為無量光（Amitābha）與無量壽（Amitāyus）。
+  short_en: Amitābha — the buddha of the Western Land of Bliss; the name means "Immeasurable Light" (Amitābha), also "Immeasurable Life" (Amitāyus).
+  detail_zh: |
+    《阿彌陀經》：「彼佛光明無量，照十方國，無所障礙，是故號為阿彌陀。」又說彼佛壽命無量，所以阿彌陀兼含無量光、無量壽二義。
+
+    依《無量壽經》，阿彌陀佛因地為法藏比丘，發四十八大願，成就極樂淨土。淨土宗以稱念阿彌陀佛名號、求生極樂為修行核心。
+  detail_en: |
+    Smaller Sukhāvatīvyūha: "That buddha's light is immeasurable, shining on the lands of the ten directions without obstruction — therefore he is called Amitābha." His lifespan is also immeasurable, so the name carries both meanings, light and life.
+
+    According to the Larger Sukhāvatīvyūha, as the monk Dharmākara he made forty-eight great vows and brought the Land of Bliss into being. Pure Land practice centres on reciting his name and aspiring to rebirth there.
+  quotes:
+    - text: 彼佛光明無量，照十方國無所障礙，是故號為阿彌陀。
+      source: 《佛說阿彌陀經》
+      source_en: 佛說阿彌陀經
+      ref: T12n0366_p0347a26
+      refEnd: T12n0366_p0347a27
+      note_en: That buddha's light is immeasurable, illuminating the lands of the ten directions without obstruction; therefore he is called Amitābha.
+  related: [ sukhavati, buddhaksetra, pranidhana, sambhogakaya ]
+
+- id: sukhavati
+  skt: sukhāvatī
+  deva: सुखावती
+  pali: ''
+  zh: 極樂世界
+  zhAlt: [ 極樂, 安樂國, 西方淨土, 淨土, 安養 ]
+  en: Land of Bliss
+  enAlt: [ sukhavati, pure land, western paradise, land of ultimate bliss, western pure land ]
+  root: sukha「樂」＋ -vatī「具有」 · sukha "happiness" + -vatī "possessing"
+  short_zh: 阿彌陀佛的淨土，位於西方，過十萬億佛土；其國眾生無有眾苦、但受諸樂。
+  short_en: Land of Bliss — Amitābha's pure land in the west, beyond a hundred thousand million buddha-lands; its beings know no suffering, only joys.
+  detail_zh: |
+    《阿彌陀經》：「從是西方，過十萬億佛土，有世界名曰極樂，其土有佛，號阿彌陀，今現在說法。」
+
+    **唯識的淨土觀**：淨土也是識所變現；佛的自受用身居自受用土，為地上菩薩現他受用土，為地前眾生現變化土。《維摩詰經》「隨其心淨，則佛土淨」是大乘普遍的淨土觀。
+  detail_en: |
+    Smaller Sukhāvatīvyūha: "West of here, beyond a hundred thousand million buddha-lands, is a world called Bliss. In that land is a buddha named Amitābha, teaching the Dharma right now."
+
+    **Yogācāra view of pure lands**: pure lands too are transformations of consciousness; a buddha's self-enjoyment body dwells in a self-enjoyment land, and manifests other-enjoyment lands for bodhisattvas on the stages and transformation lands for those below. The Vimalakīrti's "as the mind is purified, so the buddha-land is purified" is a widely shared Mahāyāna view.
+  quotes:
+    - text: 從是西方過十萬億佛土，有世界名曰極樂。其土有佛，號阿彌陀，今現在說法。
+      source: 《佛說阿彌陀經》
+      source_en: 佛說阿彌陀經
+      ref: T12n0366_p0346c10
+      refEnd: T12n0366_p0346c12
+      note_en: West of here, past a hundred thousand million buddha-lands, there is a world called Bliss; in that land there is a buddha called Amitābha, now teaching the Dharma.
+    - text: 隨其心淨，則一切功德淨。是故，寶積！若菩薩欲得淨土，當淨其心；隨其心淨，則佛土淨。
+      source: 《維摩詰所說經》卷1
+      source_en: Vimalakīrti-nirdeśa, tr. Kumārajīva, fasc. 1
+      ref: T14n0475_p0538c03
+      refEnd: T14n0475_p0538c05
+      note_en: As the mind is purified, so the buddha-land is purified.
+  related: [ amitabha, buddhaksetra, pranidhana ]
+
+- id: maitreya
+  skt: maitreya
+  deva: मैत्रेय
+  pali: metteyya
+  zh: 彌勒
+  zhAlt: [ 彌勒菩薩, 彌勒佛, 慈氏, 梅呾利耶 ]
+  en: Maitreya
+  enAlt: [ maitreya, the kindly one, future buddha, metteyya ]
+  root: 'maitrī「慈」＋ -eya「所生」 · from maitrī "loving-kindness": "the kindly one"'
+  short_zh: 當來下生成佛的菩薩，現居兜率天內院；唯識傳統尊為《瑜伽師地論》的說者。
+  short_en: Maitreya — the bodhisattva who will be the next buddha, now in the Tuṣita heaven; Yogācāra tradition reveres him as the author of the Yogācārabhūmi.
+  detail_zh: |
+    maitreya 意為「慈氏」。《長阿含經》預言人壽八萬歲時將有佛出世，「名為彌勒如來、至真、等正覺」。
+
+    **與唯識的關係**：漢傳認為無著上兜率天，從彌勒受《瑜伽師地論》，所以彌勒是唯識學的始祖；玄奘、窺基都發願往生兜率內院。藏傳另有「彌勒五論」之說。學界則多認為「彌勒」作為論師的歷史身分仍有爭議。
+  detail_en: |
+    Maitreya means "the kindly one". The Dīrghāgama predicts that when human life spans eighty thousand years a buddha will appear "named Maitreya Tathāgata, the Worthy, the Perfectly Awakened".
+
+    **Link to Yogācāra**: Chinese tradition holds that Asaṅga ascended to Tuṣita and received the Yogācārabhūmi from Maitreya, making him the founder of Yogācāra; Xuanzang and Kuiji both aspired to rebirth in Tuṣita's inner court. Tibetan tradition credits him with "five treatises". Scholars still debate whether a human teacher named Maitreya existed.
+  quotes:
+    - text: 名為彌勒如來、至真、等正覺
+      source: 《長阿含經》卷6
+      source_en: Dīrghāgama, fasc. 6
+      ref: T01n0001_p0041c29
+      refEnd: T01n0001_p0042a01
+      note_en: … named Maitreya Tathāgata, the Worthy, the Perfectly Awakened.
+  related: [ bodhisattva, maitri, buddha, deva ]
+
+- id: manjusri
+  skt: mañjuśrī
+  deva: मञ्जुश्री
+  pali: ''
+  zh: 文殊師利
+  zhAlt: [ 文殊, 文殊菩薩, 曼殊室利, 妙吉祥 ]
+  en: Mañjuśrī
+  enAlt: [ manjushri, manjusri, gentle glory, bodhisattva of wisdom ]
+  root: mañju「柔和、妙」＋ śrī「吉祥」 · mañju "gentle, lovely" + śrī "glory"
+  short_zh: 象徵智慧的大菩薩；在《維摩詰經》中代表佛前往問疾，與維摩詰論不二法門。
+  short_en: Mañjuśrī — the great bodhisattva of wisdom; in the Vimalakīrti-nirdeśa he goes on the Buddha's behalf to visit the ailing Vimalakīrti and discuss non-duality.
+  detail_zh: |
+    mañjuśrī 玄奘譯「曼殊室利」，意為「妙吉祥」。在大乘經典中常代表般若智慧，持劍（斷煩惱）乘獅。
+
+    《維摩詰經》中，眾弟子與菩薩都不敢去探望維摩詰，最後「佛告文殊師利：汝行詣維摩詰問疾」；兩人的問答，在「入不二法門」時以維摩詰的默然達到高潮。中國以五台山為文殊道場。
+  detail_en: |
+    Xuanzang transliterates his name 曼殊室利 and renders it "lovely glory". In Mahāyāna sūtras he stands for prajñā, holding a sword (cutting afflictions) and riding a lion.
+
+    In the Vimalakīrti-nirdeśa, no disciple or bodhisattva dares visit Vimalakīrti, until "the Buddha said to Mañjuśrī: Go and ask after Vimalakīrti's illness". Their dialogue culminates in Vimalakīrti's silence on entering non-duality. In China, Mount Wutai is his seat.
+  quotes:
+    - text: 佛告文殊師利：『汝行詣維摩詰問疾。』
+      source: 《維摩詰所說經》卷2
+      source_en: Vimalakīrti-nirdeśa, tr. Kumārajīva, fasc. 2
+      ref: T14n0475_p0544a26
+      note_en: 'The Buddha said to Mañjuśrī: "Go to Vimalakīrti and ask after his illness."'
+  related: [ bodhisattva, prajna, advesa ]
+
+- id: avalokitesvara
+  skt: avalokiteśvara
+  deva: अवलोकितेश्वर
+  pali: ''
+  zh: 觀世音
+  zhAlt: [ 觀世音菩薩, 觀音, 觀自在, 觀自在菩薩 ]
+  en: Avalokiteśvara
+  enAlt: [ avalokitesvara, guanyin, kannon, bodhisattva of compassion, chenrezig ]
+  root: avalokita「觀察」＋ īśvara「自在」 · avalokita "looking down" + īśvara "lord"
+  short_zh: 象徵大悲的大菩薩；鳩摩羅什譯「觀世音」，玄奘依 īśvara 譯「觀自在」。
+  short_en: Avalokiteśvara — the great bodhisattva of compassion; Kumārajīva rendered the name "Perceiver of the World's Sounds", Xuanzang, reading īśvara, "Freely Observing".
+  detail_zh: |
+    《法華經·普門品》：「若有無量百千萬億眾生受諸苦惱，聞是觀世音菩薩，一心稱名，觀世音菩薩即時觀其音聲，皆得解脫。」
+
+    **兩種譯名**：鳩摩羅什的「觀世音」可能依據另一種梵本形式 avalokita-svara（svara「音聲」）；玄奘依 avalokita-īśvara 譯為「觀自在」，《心經》即作「觀自在菩薩」。相傳唐代為避太宗李世民之諱，又簡稱「觀音」。
+  detail_en: |
+    Lotus Sūtra, Universal Gate chapter: "If countless hundreds of thousands of millions of beings suffering torment hear of Avalokiteśvara Bodhisattva and call his name single-mindedly, he at once perceives their voices and all are freed."
+
+    **Two renderings**: Kumārajīva's 觀世音 "perceiving the world's sounds" may reflect a variant Sanskrit form avalokita-svara (svara "sound"); Xuanzang read avalokita-īśvara and rendered 觀自在, as in his Heart Sūtra. Tradition says the name was shortened to 觀音 in the Tang to avoid Emperor Taizong's personal name (Li Shimin).
+  quotes:
+    - text: 若有無量百千萬億眾生受諸苦惱，聞是觀世音菩薩，一心稱名，觀世音菩薩即時觀其音聲，皆得解脫。
+      source: 《妙法蓮華經》卷7
+      source_en: Lotus Sūtra, tr. Kumārajīva, fasc. 7
+      ref: T09n0262_p0056c06
+      refEnd: T09n0262_p0056c08
+      note_en: If there are countless hundreds of thousands of millions of beings suffering torments who hear of Avalokiteśvara Bodhisattva and call his name single-mindedly, Avalokiteśvara at once perceives their voices and all are freed.
+  related: [ bodhisattva, karuna, upaya, samanarthata ]
+
+- id: ksitigarbha
+  skt: kṣitigarbha
+  deva: क्षितिगर्भ
+  pali: ''
+  zh: 地藏
+  zhAlt: [ 地藏菩薩, 地藏王 ]
+  en: Kṣitigarbha
+  enAlt: [ ksitigarbha, earth store, jizo, dizang ]
+  root: kṣiti「大地」＋ garbha「藏、胎」 · kṣiti "earth" + garbha "womb, treasury"
+  short_zh: 發願度盡地獄等六道眾生才成佛的大菩薩；在釋迦滅後、彌勒未來之間教化眾生。
+  short_en: Kṣitigarbha — the great bodhisattva who vowed to become a buddha only after freeing the beings of the six destinies, including the hells; he teaches in the age between Śākyamuni and Maitreya.
+  detail_zh: |
+    kṣitigarbha 意為「大地之藏」：如大地能持萬物、藏寶藏。《地藏菩薩本願經》記其因地誓願：「我今盡未來際不可計劫，為是罪苦六道眾生，廣設方便，盡令解脫，而我自身方成佛道。」
+
+    **注意**：流傳甚廣的「地獄不空，誓不成佛」並不見於《地藏經》原文，是後人的概括。九華山為地藏道場。
+  detail_en: |
+    Kṣitigarbha means "earth-treasury": like the earth that bears all things and holds treasures. The Sūtra of His Original Vows records his vow: "Throughout incalculable aeons to the end of the future, for these suffering beings of the six destinies I will set up skilful means to free them all — only then will I myself attain buddhahood."
+
+    **Note**: the famous line "Until the hells are empty I will not become a buddha" is not in the sūtra itself but a later summary. Mount Jiuhua is his seat.
+  quotes:
+    - text: 我今盡未來際不可計劫，為是罪苦六道眾生，廣設方便，盡令解脫，而我自身，方成佛道。
+      source: 《地藏菩薩本願經》卷1
+      source_en: 地藏菩薩本願經, fasc. 1
+      ref: T13n0412_p0778b14
+      refEnd: T13n0412_p0778b16
+      note_en: To the end of the future, through incalculable aeons, for these suffering beings of the six destinies I will widely set up skilful means and free them all; only then will I myself attain the buddha way.
+  related: [ bodhisattva, pranidhana, naraka, gati ]

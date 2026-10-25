@@ -1,0 +1,266 @@
+# 唯識要義（二）：識變、現行、二取、二執、阿陀那、種姓
+
+- id: parinama
+  skt: pariṇāma
+  deva: परिणाम
+  pali: pariṇāma
+  zh: 識變
+  zhAlt: [ 轉變, 能變, 識轉變, 三能變 ]
+  en: transformation of consciousness
+  enAlt: [ transformation, evolution of consciousness, parinama, transformation of mind ]
+  root: pari-√nam「轉變、成熟」 · pari-√nam "to change, develop"
+  short_zh: 識體轉似相分、見分二分而現起；能變的識有三類：異熟（第八）、思量（第七）、了別境（前六）。
+  short_en: 'Transformation — consciousness turning into the two aspects of image and seeing. The transforming consciousnesses are of three kinds: ripening (8th), deliberating (7th) and object-discerning (first six).'
+  detail_zh: |
+    《唯識三十頌》開宗即說：「由假說我、法，有種種相轉，彼依識所變，此能變唯三。」世間所說的我與法，都是依識所變現而假立的。
+
+    《成唯識論》：「變謂識體轉似二分。」識生起時，自體轉現為相分與見分；所以「是諸識轉變，分別所分別，由此彼皆無，故一切唯識」。
+
+    **三能變**：第八阿賴耶識是異熟能變，第七末那識是思量能變，前六識是了別境能變。
+  detail_en: |
+    The Thirty Verses open: "Because of the figurative talk of self and dharmas, various appearances occur; they depend on what consciousness transforms, and the transformers are only three." The self and dharmas we speak of are designated on what consciousness manifests.
+
+    Cheng weishi lun: "Transformation means the substance of consciousness turning into the likeness of two parts." Arising, consciousness appears as image and seeing; hence "these transformations of consciousness are the discriminating and the discriminated; therefore those [self and dharmas] do not exist, and so all is consciousness-only."
+
+    **Three transformers**: the store consciousness transforms as ripening, manas as deliberating, the first six as discerning objects.
+  quotes:
+    - text: 由假說我法，有種種相轉。彼依識所變，此能變唯三
+      source: 《唯識三十論頌》
+      source_en: Triṃśikā (Thirty Verses)
+      ref: T31n1586_p0060a27
+      refEnd: T31n1586_p0060a28
+      note_en: Because of the figurative talk of self and dharmas, various appearances arise; these depend on what consciousness transforms, and the transformers are only three.
+    - text: 是諸識轉變，分別、所分別，由此彼皆無，故一切唯識。
+      source: 《唯識三十論頌》
+      source_en: Triṃśikā (Thirty Verses)
+      ref: T31n1586_p0061a02
+      refEnd: T31n1586_p0061a03
+      note_en: These transformations of consciousness are the discriminating and the discriminated; therefore those do not exist — hence all is consciousness-only.
+    - text: 『變』謂識體轉似二分，相、見俱依自證起故，依斯二分施設我、法，彼二離此無所依故。
+      source: 《成唯識論》卷1
+      source_en: Cheng weishi lun, fasc. 1
+      ref: T31n1585_p0001a29
+      refEnd: T31n1585_p0001b02
+      note_en: Transformation means the substance of consciousness turning into the likeness of two parts.
+  related: [ vijnaptimatra, nimitta-bhaga, darsana-bhaga, alaya-vijnana, klista-manas ]
+
+- id: samudacara
+  skt: samudācāra
+  deva: समुदाचार
+  pali: ''
+  zh: 現行
+  zhAlt: [ 現起, 能熏 ]
+  en: manifest activity
+  enAlt: [ manifestation, actualization, active manifestation, actual operation ]
+  root: sam-ud-ā-√car「現起、運作」 · sam-ud-ā-√car "to come forth, be active"
+  short_zh: 種子遇緣生起的實際心識活動與現象；現行能熏習成新種子，與種子互為因果。
+  short_en: Manifest activity — the actual mental activity and phenomena that arise when seeds meet conditions; manifestation in turn imprints new seeds, so the two cause each other.
+  detail_zh: |
+    種子是潛在的功能，現行是顯現的作用。眼識看見、心中起貪，都是現行。
+
+    **三法展轉**：《成唯識論》：「能熏識等從種生時，即能為因，復熏成種。三法展轉，因果同時。」種子生現行、現行熏種子，種子、現行、新種三法同時互為因果，相續不斷。
+
+    修行的要點在現行：以善的、無漏的現行熏習善種、無漏種，使雜染種子漸漸被對治而斷。
+  detail_en: |
+    A seed is a latent potency; manifest activity is its actual operation. Eye consciousness seeing, greed arising in the mind — these are manifestations.
+
+    **Three dharmas in mutual causation**: Cheng weishi lun: "When the perfuming consciousnesses arise from seeds, they at once act as causes and perfume seeds again. The three dharmas cause one another; cause and result are simultaneous." Seeds produce manifestation, manifestation imprints seeds — seed, manifestation and new seed cause one another at once, without break.
+
+    Practice works at the level of manifestation: wholesome and uncontaminated activity perfumes wholesome and uncontaminated seeds, gradually counteracting the defiled ones.
+  quotes:
+    - text: 能熏識等，從種生時，即能為因，復熏成種，三法展轉因果同時
+      source: 《成唯識論》卷2
+      source_en: Cheng weishi lun, fasc. 2
+      ref: T31n1585_p0010a04
+      refEnd: T31n1585_p0010a05
+      note_en: When the perfuming consciousnesses and so on arise from seeds, they at once serve as causes and again perfume seeds. The three dharmas cause one another in turn, cause and result being simultaneous.
+  related: [ bija, vasana, alaya-vijnana, hetupratyaya ]
+  compare: [ bija-vasana ]
+
+- id: grahya-grahaka
+  skt: grāhya-grāhaka
+  deva: ग्राह्यग्राहक
+  pali: ''
+  zh: 二取
+  zhAlt: [ 能取所取, 所取能取, 能所二取 ]
+  en: grasped and grasper
+  enAlt: [ subject and object, apprehended and apprehender, the two graspings, duality ]
+  root: grāhya「所取」＋ grāhaka「能取」（√grah「取」） · √grah "to seize"
+  short_zh: 所取（被認識的對象）與能取（認識的主體）的二元分別；唯識修行要伏除、斷盡二取。
+  short_en: Grasped and grasper — the dual split into an object apprehended and a subject apprehending. Yogācāra practice subdues and finally removes this duality.
+  detail_zh: |
+    凡夫把相分執為心外實有的境（所取），把見分執為實在的心或我（能取）。《辯中邊論》：「虛妄分別有，於此二都無。」——虛妄分別的識是有的，但其中所顯的能取、所取二者並不真實。
+
+    **修行次第**：《唯識三十頌》說資糧位「於二取隨眠，猶未能伏滅」；加行位伏二取；見道時「離二取相」，證入唯識真性。
+  detail_en: |
+    Ordinary beings take the image part as a real object outside the mind (the grasped) and the seeing part as a real mind or self (the grasper). Madhyāntavibhāga: "Unreal imagination exists; in it the two do not exist at all" — the imagining consciousness is real, but the grasper and grasped appearing in it are not.
+
+    **Stages**: the Thirty Verses say that in the stage of accumulation "the latent tendencies of the two graspings are not yet subdued"; in the stage of preparation they are subdued; at the path of seeing one is "free of the marks of the two graspings" and abides in the true nature of consciousness-only.
+  quotes:
+    - text: 虛妄分別有，於此二都無
+      source: 《辯中邊論》卷1
+      source_en: Madhyāntavibhāga, fasc. 1
+      ref: T31n1600_p0464b16
+      note_en: Unreal imagination exists; in it the two do not exist at all.
+    - text: 乃至未起識，求住唯識性，於二取隨眠，猶未能伏滅。
+      source: 《唯識三十論頌》
+      source_en: Triṃśikā (Thirty Verses)
+      ref: T31n1586_p0061b06
+      refEnd: T31n1586_p0061b07
+      note_en: So long as consciousness has not arisen seeking to abide in the nature of consciousness-only, the latent tendencies of the two graspings are not yet subdued or destroyed.
+  related: [ nimitta-bhaga, darsana-bhaga, parikalpita, vijnaptimatra ]
+
+- id: atma-graha
+  skt: ātma-grāha
+  deva: आत्मग्राह
+  pali: ''
+  zh: 我執
+  zhAlt: [ 人執, 補特伽羅執 ]
+  en: self-grasping
+  enAlt: [ grasping at a self, clinging to self, attachment to self, ego-grasping ]
+  root: ātman「我」＋ grāha「執取」 · ātman "self" + grāha "seizing"
+  short_zh: 執取實我的心理作用；分俱生、分別兩種，是煩惱障的根本。
+  short_en: Self-grasping — taking a real self to exist; innate and conceptual kinds. The root of the afflictive obstruction.
+  detail_zh: |
+    《成唯識論》：「然諸我執略有二種：一者俱生，二者分別。」**俱生**我執由無始熏習而來，與身俱有，不待邪教邪思，任運而起，在第六、第七識；**分別**我執由邪教、邪思惟而起，只在第六識。
+
+    **斷除**：分別我執粗而易斷，見道時頓斷；俱生我執細而難斷，修道中數數修習才斷盡。我執生煩惱障，證人無我而斷。
+  detail_en: |
+    Cheng weishi lun: "Self-grasping is of two kinds: innate and conceptual." **Innate** self-grasping comes from beginningless habituation, is present with the body and arises spontaneously without wrong teachings or reasoning; it occurs in the sixth and seventh consciousnesses. **Conceptual** self-grasping arises from wrong teachings and reasoning, in the sixth only.
+
+    **Removal**: the conceptual kind is coarse and cut all at once at the path of seeing; the innate kind is subtle and removed only by repeated cultivation. Self-grasping produces the afflictive obstruction and is cut by realizing the selflessness of persons.
+  quotes:
+    - text: 然諸我執略有二種：一者俱生；二者分別。俱生我執無始時來虛妄熏習，內因力故，恒與身俱；不待邪教及邪分別，任運而轉，故名俱生。
+      source: 《成唯識論》卷1
+      source_en: Cheng weishi lun, fasc. 1
+      ref: T31n1585_p0002a09
+      refEnd: T31n1585_p0002a12
+      note_en: Self-grasping is broadly of two kinds — innate and conceptual. Innate self-grasping, through the inner force of false habituation since beginningless time, is always with the body; not depending on wrong teachings or wrong discrimination, it operates spontaneously, hence "innate".
+  related: [ atman, atma-drsti, pudgala-nairatmya, klesavarana, dharma-graha ]
+  compare: [ self-view-grasping ]
+
+- id: dharma-graha
+  skt: dharma-grāha
+  deva: धर्मग्राह
+  pali: ''
+  zh: 法執
+  en: grasping at dharmas
+  enAlt: [ grasping at phenomena, clinging to dharmas, attachment to dharmas, phenomena-grasping ]
+  root: dharma「法」＋ grāha「執取」 · dharma + grāha "seizing"
+  short_zh: 執取諸法（蘊、處、界等）為實有自性的心理作用；所知障的根本。
+  short_en: Grasping at dharmas — taking dharmas (aggregates, bases, elements) to have real intrinsic nature. The root of the cognitive obstruction.
+  detail_zh: |
+    《成唯識論》：「然諸法執略有二種：一者俱生，二者分別。」與我執一樣分為與生俱來的俱生法執，與由學說、思辨而起的分別法執。
+
+    **比我執更細**：聲聞人證人無我、斷我執，但仍執五蘊等法實有；菩薩進一步證法無我、斷法執，才能成佛。法執生所知障，障礙一切種智。
+  detail_en: |
+    Cheng weishi lun: "Grasping at dharmas is broadly of two kinds: innate and conceptual." Like self-grasping, it is either inborn or produced by doctrines and speculation.
+
+    **Subtler than self-grasping**: disciples realize the selflessness of persons and cut self-grasping, yet still take the aggregates and so on as real. Bodhisattvas go on to realize the selflessness of dharmas and cut this grasping, which is needed for buddhahood. It produces the cognitive obstruction, which blocks omniscience.
+  quotes:
+    - text: 然諸法執略有二種：一者俱生；二者分別。俱生法執，無始時來虛妄熏習，內因力故，恒與身俱，不待邪教及邪分別，任運而轉，故名俱生。
+      source: 《成唯識論》卷2
+      source_en: Cheng weishi lun, fasc. 2
+      ref: T31n1585_p0006c26
+      refEnd: T31n1585_p0006c29
+      note_en: Grasping at dharmas is broadly of two kinds — innate and conceptual. The innate kind, through the inner force of false habituation since beginningless time, is always with the body; not depending on wrong teachings or wrong discrimination, it operates spontaneously, hence "innate".
+  related: [ dharma-nairatmya, jneyavarana, atma-graha, svabhava ]
+  compare: [ two-obstructions ]
+
+- id: adana-vijnana
+  skt: ādāna-vijñāna
+  deva: आदानविज्ञान
+  pali: ''
+  zh: 阿陀那識
+  zhAlt: [ 執持識, 阿陀那 ]
+  en: appropriating consciousness
+  enAlt: [ adana consciousness, holding consciousness, consciousness that appropriates ]
+  root: ā-√dā「執取、執持」＋ vijñāna「識」 · ādāna "taking hold"
+  short_zh: 第八識的別名，意為「執持」——執持種子與根身，令不壞失。
+  short_en: 'Appropriating consciousness — another name for the eighth consciousness, meaning "holding": it holds the seeds and the body so they are not lost.'
+  detail_zh: |
+    《解深密經》：「阿陀那識甚深細，一切種子如瀑流，我於凡愚不開演，恐彼分別執為我。」佛陀說這個識極深細，凡夫聽了容易執它為我，所以不輕易宣說。
+
+    **第八識的多種名稱**：就能藏種子說「阿賴耶」，就業果說「異熟識」，就執持種子與根身說「阿陀那」，就清淨位說「無垢識」。
+
+    **注意**：真諦等舊譯有以阿陀那為第七識者；《成唯識論》以之為第八識。
+  detail_en: |
+    Saṃdhinirmocana-sūtra: "The appropriating consciousness is deep and subtle; all seeds flow like a torrent. I do not reveal it to the foolish, lest they imagine it to be a self." Because ordinary people would easily take it as a self, the Buddha taught it sparingly.
+
+    **Names of the eighth consciousness**: as storing seeds, ālaya; as karmic result, ripening consciousness; as holding seeds and body, ādāna; at the stage of purity, stainless consciousness.
+
+    **Note**: some older translations, such as Paramārtha's, took ādāna as the seventh consciousness; the Cheng weishi lun identifies it with the eighth.
+  quotes:
+    - text: 阿陀那識甚深細，一切種子如瀑流，我於凡愚不開演，恐彼分別執為我。
+      source: 《解深密經》卷1
+      source_en: Saṃdhinirmocana-sūtra, fasc. 1
+      ref: T16n0676_p0692c22
+      refEnd: T16n0676_p0692c23
+      note_en: The appropriating consciousness is deep and subtle; all its seeds are like a torrent. I do not expound it to the foolish, fearing they would imagine it to be a self.
+  related: [ alaya-vijnana, bija, klista-manas ]
+
+- id: gotra
+  skt: gotra
+  deva: गोत्र
+  pali: gotta
+  zh: 種姓
+  zhAlt: [ 種性, 五種姓, 姓 ]
+  en: spiritual lineage
+  enAlt: [ lineage, spiritual potential, family, disposition, five lineages ]
+  root: 原義「牛欄、家族」 · originally "cow-pen, clan"
+  short_zh: 有情本具、決定其能證何種菩提的潛能；唯識立五種姓，並分本性住與習所成二種。
+  short_en: Spiritual lineage — the potential in beings that determines what awakening they can attain. Yogācāra teaches five lineages, and distinguishes innate from cultivated lineage.
+  detail_zh: |
+    《成唯識論》：「何謂大乘二種種姓？一、本性住種姓，謂無始來依附本識，法爾所得無漏法因。二、習所成種姓，謂聞法界等流法已，聞所成等熏習所成。」本有的無漏種子是本性住種姓；聽聞正法、思惟修習所熏成的是習所成種姓。
+
+    **五種姓**：聲聞種姓、獨覺種姓、菩薩種姓、不定種姓、無種姓（無出世無漏種子）。唯識宗主張有情種姓各別，這與如來藏系「一切眾生悉有佛性」的說法形成著名的爭論。
+  detail_en: |
+    Cheng weishi lun: "What are the two kinds of Mahāyāna lineage? First, the innately abiding lineage: the cause of uncontaminated dharmas, naturally possessed since beginningless time and attached to the root consciousness. Second, the cultivated lineage: produced by the perfuming of hearing and so on, after hearing the teaching that flows from the dharma-realm."
+
+    **Five lineages**: disciple, solitary buddha, bodhisattva, indeterminate, and no lineage (lacking uncontaminated seeds). Yogācāra holds that beings' lineages differ — famously contested by the tathāgatagarbha teaching that "all beings have buddha-nature".
+  quotes:
+    - text: 何謂大乘二種種姓？一、本性住種姓，謂無始來依附本識，法爾所得無漏法因。二、習所成種姓，謂聞法界等流法已，聞所成等熏習所成。
+      source: 《成唯識論》卷9
+      source_en: Cheng weishi lun, fasc. 9
+      ref: T31n1585_p0048b06
+      refEnd: T31n1585_p0048b10
+      note_en: What are the two kinds of Mahāyāna lineage? First, the innately abiding lineage — the cause of uncontaminated dharmas, naturally obtained since beginningless time, adhering to the root consciousness. Second, the cultivated lineage — produced by the perfuming of hearing and the rest, after hearing the teaching that flows forth from the dharma-realm.
+  related: [ bija, anasrava, icchantika, tathagatagarbha ]
+
+- id: icchantika
+  skt: icchantika
+  deva: इच्छन्तिक
+  pali: ''
+  zh: 一闡提
+  zhAlt: [ 闡提, 斷善根 ]
+  en: icchantika
+  enAlt: [ incorrigible, one who has cut off the roots of goodness, desire-driven one ]
+  root: '√iṣ「欲求」 · from √iṣ "to desire": one bent on worldly desire'
+  short_zh: 斷絕善根、不信因果的人；能否成佛是中國佛教的重要爭論。
+  short_en: Icchantika — one who has severed the wholesome roots and denies cause and effect. Whether such a person can become a buddha was a major debate in Chinese Buddhism.
+  detail_zh: |
+    icchantika 意為「一味追求欲樂者」。早期譯出的六卷《泥洹經》說一闡提不能成佛；竺道生力主闡提亦可成佛，後來曇無讖譯的北本《大般涅槃經》果然說一切眾生悉有佛性。
+
+    **楞伽二種闡提**：《楞伽經》分捨一切善根的闡提，與為度眾生而發願不入涅槃的菩薩闡提（大悲闡提）。
+
+    **唯識**：五種姓中的「無種姓」相當於一闡提，畢竟不能證得出世聖果。
+  detail_en: |
+    Icchantika means "one who just keeps desiring". The early six-fascicle Nirvāṇa Sūtra said icchantikas cannot become buddhas; Daosheng insisted they can, and Dharmakṣema's longer Nirvāṇa Sūtra later declared that all beings have buddha-nature.
+
+    **Two kinds in the Laṅkāvatāra**: those who have abandoned all wholesome roots, and bodhisattvas who vow never to enter nirvāṇa so as to save beings (icchantikas of great compassion).
+
+    **Yogācāra**: the "no lineage" of the five lineages corresponds to the icchantika, who can never attain supramundane fruits.
+  quotes:
+    - text: 一闡提有二種：一者，捨一切善根，及於無始眾生發願。
+      source: 《楞伽阿跋多羅寶經》卷1
+      source_en: Laṅkāvatāra-sūtra (Guṇabhadra), fasc. 1
+      ref: T16n0670_p0487b20
+      refEnd: T16n0670_p0487b21
+      note_en: There are two kinds of icchantika.
+    - text: 一切眾生悉有佛性
+      source: 《大般涅槃經》卷6
+      source_en: Mahāparinirvāṇa-sūtra (Dharmakṣema), fasc. 6
+      ref: T12n0374_p0402c08
+      refEnd: T12n0374_p0402c09
+      note_en: All sentient beings have buddha-nature.
+  related: [ gotra, kusala-moral, tathagatagarbha, mithya-drsti ]

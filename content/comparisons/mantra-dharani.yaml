@@ -1,0 +1,78 @@
+id: mantra-dharani
+title_zh: 咒（真言）與陀羅尼
+title_en: Mantra and dhāraṇī
+terms: [ mantra, dharani ]
+summary_zh: 陀羅尼原指「總持」——持善不失、遮惡不生的能力，後來指較長的咒；mantra 是具有神聖力量的語句，密教稱真言，多指短咒。界線並不嚴格。
+summary_en: Dhāraṇī first meant "total retention" — the power to hold the good and block the bad — and later a longer spell; mantra is a sacred formula, called "true word" in esoteric Buddhism, usually short. The line between them is loose.
+table:
+  columns:
+    - { zh: 咒（mantra）, en: Mantra }
+    - { zh: 陀羅尼（dhāraṇī）, en: Dhāraṇī }
+  rows:
+    - label: { zh: 字根, en: Root }
+      cells:
+        - { zh: √man「思惟」, en: √man "to think" }
+        - { zh: √dhṛ「持」, en: √dhṛ "to hold" }
+    - label: { zh: 原義, en: Original sense }
+      cells:
+        - { zh: 思惟的工具、神聖語句, en: Instrument of thought; sacred formula }
+        - { zh: 總持（記憶與定慧的能力）, en: Retention (memory and concentration) }
+    - label: { zh: 後世用法, en: Later usage }
+      cells:
+        - { zh: 多指短咒（真言）, en: Usually short formulas }
+        - { zh: 多指長咒, en: Usually long formulas }
+explanation_zh: |
+  《大智度論》：「陀羅尼，秦言能持，或言能遮。」陀羅尼本是菩薩的能力——聽聞後能憶持不忘，並遮止惡法生起。後來為幫助記憶而濃縮的咒句也稱陀羅尼。
+
+  《心經》稱般若波羅蜜多「是大神咒，是大明咒，是無上咒，是無等等咒」，此處「咒」即 mantra。
+
+  漢譯常把兩者都譯作「咒」，所以「大悲咒」雖名為咒，原題是「陀羅尼」。
+explanation_en: |
+  Dazhidu lun: "Dhāraṇī means, in the Qin language, 'able to hold', or 'able to block'." It was originally a bodhisattva's power to remember whatever is heard and to block evil; later the condensed formulas used as memory aids were also called dhāraṇī.
+
+  The Heart Sūtra calls the perfection of wisdom "the great divine mantra, the great bright mantra, the unsurpassed mantra, the unequalled mantra" — here 咒 is mantra.
+
+  Chinese often renders both as 咒, so the "Great Compassion Mantra" is titled a dhāraṇī in the original.
+questions:
+  - type: mcq
+    q_zh: 陀羅尼的意譯是？
+    q_en: Dhāraṇī is rendered in Chinese as…
+    options:
+      - { zh: 總持, en: total retention }
+      - { zh: 真言, en: true word }
+      - { zh: 偈頌, en: verse }
+    answer: 0
+    explain_zh: 字根 √dhṛ「持」；能持善法、能遮惡法。
+    explain_en: From √dhṛ "to hold" — holding the good, blocking the bad.
+  - type: mcq
+    q_zh: 密教所稱的「真言」對應哪個梵語？
+    q_en: The esoteric "true word" corresponds to…
+    options:
+      - { zh: mantra, en: mantra }
+      - { zh: dhāraṇī, en: dhāraṇī }
+      - { zh: gāthā, en: gāthā }
+    answer: 0
+    explain_zh: mantra 譯真言、咒。
+    explain_en: Mantra is rendered 真言 or 咒.
+  - type: tf
+    q_zh: 陀羅尼最初是指菩薩憶持不忘的能力，而不只是咒語。
+    q_en: Dhāraṇī originally meant a bodhisattva's power of retention, not just a spell.
+    answer: true
+    explain_zh: 後來才濃縮為咒句的形式。
+    explain_en: Only later did it condense into spell form.
+  - type: mcq
+    q_zh: 《心經》「是大神咒，是大明咒」的「咒」是？
+    q_en: The 咒 in the Heart Sūtra's "great divine mantra" is…
+    options:
+      - { zh: mantra, en: mantra }
+      - { zh: dhāraṇī, en: dhāraṇī }
+      - { zh: sūtra, en: sūtra }
+    answer: 0
+    explain_zh: 玄奘譯《心經》此處梵本作 mantra。
+    explain_en: The Sanskrit Heart Sūtra has mantra here.
+  - type: tf
+    q_zh: 咒與陀羅尼的區分非常嚴格，不可混用。
+    q_en: Mantra and dhāraṇī are strictly distinguished and never interchanged.
+    answer: false
+    explain_zh: 長咒多稱陀羅尼、短咒多稱真言，但界線並不嚴格。
+    explain_en: Long ones tend to be dhāraṇī, short ones mantra, but the line is loose.

@@ -1,0 +1,436 @@
+# 三界、四無色、禪支；覺支與道品
+
+- id: kamadhatu
+  skt: kāmadhātu
+  deva: कामधातु
+  pali: kāmadhātu
+  zh: 欲界
+  zhAlt: [ 欲界天, 欲有 ]
+  en: desire realm
+  enAlt: [ sense-sphere, sensual realm, realm of desire, kama-dhatu ]
+  root: kāma「欲」＋ dhātu「界」 · kāma "desire" + dhātu "realm"
+  short_zh: 三界之一：有飲食、睡眠、男女等欲的眾生所居；從地獄到六欲天，共二十處。
+  short_en: Desire realm — lowest of the three realms, inhabited by beings with desires for food, sleep and sex; from the hells to the six desire heavens, twenty places in all.
+  detail_zh: |
+    《俱舍論》：「地獄傍生鬼，人及六欲天，名欲界二十。」八大地獄、傍生、鬼、四大洲的人，以及四天王天、忉利天、夜摩天、兜率天、樂變化天、他化自在天。
+
+    欲界的心是「散心」，不是定心；要離欲界貪、得初禪，才能生到色界。人道就在欲界之中。
+  detail_en: |
+    Abhidharmakośa: "Hells, animals, ghosts, humans and the six desire heavens are called the twenty [places] of the desire realm." The eight great hells, animals, ghosts, humans of the four continents, and the six heavens from the Four Kings up to Paranirmitavaśavartin.
+
+    Desire-realm mind is scattered, not concentrated; only by abandoning desire-realm craving and attaining the first dhyāna can one be born in the form realm. The human world lies within the desire realm.
+  quotes:
+    - text: 地獄傍生鬼，人及六欲天，名欲界二十
+      source: 《阿毘達磨俱舍論》卷8
+      source_en: Abhidharmakośabhāṣya, fasc. 8
+      ref: T29n1558_p0040c25
+      refEnd: T29n1558_p0040c26
+      note_en: Hells, animals, ghosts, humans and the six desire heavens are called the twenty [places] of the desire realm.
+  related: [ traidhatuka, rupadhatu, arupyadhatu, gati ]
+  compare: [ three-realms ]
+
+- id: rupadhatu
+  skt: rūpadhātu
+  deva: रूपधातु
+  pali: rūpadhātu
+  zh: 色界
+  zhAlt: [ 色界天, 色有, 四禪天 ]
+  en: form realm
+  enAlt: [ fine-material realm, realm of form, rupa-dhatu ]
+  root: rūpa「色」＋ dhātu「界」 · rūpa "form" + dhātu "realm"
+  short_zh: 三界之二：已離欲界貪而仍有微妙色身的天界；依四禪分為十七處（《俱舍論》頌）。
+  short_en: Form realm — second of the three realms; heavens of beings free of sensual desire who still have subtle bodies, divided by the four dhyānas into seventeen places (Abhidharmakośa verse).
+  detail_zh: |
+    《俱舍論》在欲界二十處之後說：「此上十七處，名色界。」初禪三天、二禪三天、三禪三天、四禪八天（含五淨居天）。
+
+    生於色界由修四禪而得，沒有飲食、男女之欲，但仍有清淨微妙的色身與宮殿。各派計數不一：迦濕彌羅的有部論師不另立大梵天，只計十六天；上座部也計十六處（另含無想有情天）。
+  detail_en: |
+    After the twenty places of the desire realm the Abhidharmakośa says: "Above these, seventeen places are called the form realm." Three heavens each for the first three dhyānas and eight for the fourth (including the five pure abodes).
+
+    Birth here comes from the four dhyānas; there is no desire for food or sex, but there are still pure, subtle bodies and palaces. Counts differ: the Kashmiri Vaibhāṣikas do not list the Great Brahmā heaven separately and count sixteen; Theravāda also counts sixteen planes (including the non-percipient beings).
+  quotes:
+    - text: 此上十七處，名色界
+      source: 《阿毘達磨俱舍論》卷8
+      source_en: Abhidharmakośabhāṣya, fasc. 8
+      ref: T29n1558_p0040c27
+      note_en: Above these, seventeen places are called the form realm.
+  related: [ traidhatuka, kamadhatu, arupyadhatu, dhyana ]
+  compare: [ three-realms ]
+
+- id: arupyadhatu
+  skt: ārūpyadhātu
+  deva: आरूप्यधातु
+  pali: arūpadhātu
+  zh: 無色界
+  zhAlt: [ 無色界天, 無色有 ]
+  en: formless realm
+  enAlt: [ immaterial realm, realm of formlessness, arupa-dhatu ]
+  root: ā-rūpya「無色」＋ dhātu「界」 · ārūpya "formless"
+  short_zh: 三界之三：無色身、唯有心識的境界；依四無色定分為四種生處，沒有空間上的處所。
+  short_en: Formless realm — highest of the three realms; existence without body, only mind. Divided into four by the formless attainments, with no spatial location.
+  detail_zh: |
+    《俱舍論》：「無色界無處，由生有四種。」無色界沒有色法，所以沒有方位處所；只依修空無邊處等四無色定而生，分四種生。
+
+    無色界天壽命極長，但仍在輪迴之中；非想非非想處天是三界的頂點，稱「有頂」。
+  detail_en: |
+    Abhidharmakośa: "The formless realm has no place; by birth it is fourfold." With no matter there is no location; it is divided only by birth through the four formless attainments.
+
+    Lifespans there are immensely long, yet still within saṃsāra; the sphere of neither perception nor non-perception is the summit of the three realms, "the peak of existence".
+  quotes:
+    - text: 無色界無處，由生有四種
+      source: 《阿毘達磨俱舍論》卷8
+      source_en: Abhidharmakośabhāṣya, fasc. 8
+      ref: T29n1558_p0040c29
+      note_en: The formless realm has no place; by way of birth it is of four kinds.
+  related: [ traidhatuka, akasanantyayatana, naivasamjnanasamjnayatana ]
+  compare: [ three-realms ]
+
+- id: akasanantyayatana
+  skt: ākāśānantyāyatana
+  deva: आकाशानन्त्यायतन
+  pali: ākāsānañcāyatana
+  zh: 空無邊處
+  zhAlt: [ 無量空處, 空處, 空無邊處定 ]
+  en: sphere of infinite space
+  enAlt: [ infinite space, base of boundless space, realm of infinite space ]
+  root: ākāśa「虛空」＋ ānantya「無邊」＋ āyatana「處」 · "space-infinity-sphere"
+  short_zh: 四無色定之一：超越一切色想，觀虛空無邊而住；也指其生處。
+  short_en: Sphere of infinite space — first formless attainment; passing beyond all perception of form and dwelling on space as boundless. Also its realm of birth.
+  detail_zh: |
+    《中阿含經》：「度一切色想，滅有對想，不念若干想，無量空處，是無量空處成就遊。」修行者厭離色身的束縛，捨棄一切色想，只觀無邊的虛空。
+
+    **名稱陷阱**：空無邊處是有為的定與生處；「虛空無為」是無為法。兩者都譯有「空」字，但完全不同。
+  detail_en: |
+    Madhyamāgama: "Passing beyond all perception of form, with perception of resistance ended, not attending to perceptions of diversity — 'space is infinite' — one dwells having attained the sphere of infinite space." Tired of the constraints of the body, the meditator drops all perception of form and attends only to boundless space.
+
+    **Naming trap**: this is a conditioned attainment and realm; "unconditioned space" (ākāśa) is an unconditioned dharma. Both use "space", but they are entirely different.
+  quotes:
+    - text: 度一切色想，滅有對想，不念若干想，無量空處，是無量空處成就遊
+      source: 《中阿含經》卷24（第97經）
+      source_en: Madhyamāgama, fasc. 24, sūtra 97
+      ref: T01n0026_p0582a20
+      refEnd: T01n0026_p0582a22
+      note_en: Passing beyond all perception of form, ending perception of resistance, not attending to perceptions of diversity — 'infinite space' — one dwells having attained the sphere of infinite space.
+  related: [ arupyadhatu, akasa, vijnananantyayatana, samapatti ]
+  compare: [ three-realms ]
+
+- id: vijnananantyayatana
+  skt: vijñānānantyāyatana
+  deva: विज्ञानानन्त्यायतन
+  pali: viññāṇañcāyatana
+  zh: 識無邊處
+  zhAlt: [ 無量識處, 識處 ]
+  en: sphere of infinite consciousness
+  enAlt: [ infinite consciousness, base of boundless consciousness ]
+  root: vijñāna「識」＋ ānantya「無邊」＋ āyatana「處」 · "consciousness-infinity-sphere"
+  short_zh: 四無色定之二：超越空無邊處，觀心識無邊而住。
+  short_en: Sphere of infinite consciousness — second formless attainment; going beyond infinite space and dwelling on consciousness as boundless.
+  detail_zh: |
+    《中阿含經》：「度一切無量空處，無量識處，是無量識處成就遊。」覺察到「觀虛空無邊」的那個心識本身也無邊，便捨空而緣識。
+  detail_en: |
+    Madhyamāgama: "Passing beyond the sphere of infinite space entirely — 'consciousness is infinite' — one dwells having attained the sphere of infinite consciousness." Noticing that the consciousness contemplating boundless space is itself boundless, the meditator drops space and takes consciousness as object.
+  quotes:
+    - text: 度一切無量空處，無量識處，是無量識處成就遊
+      source: 《中阿含經》卷24（第97經）
+      source_en: Madhyamāgama, fasc. 24, sūtra 97
+      ref: T01n0026_p0582a22
+      refEnd: T01n0026_p0582a23
+      note_en: Passing beyond the sphere of infinite space entirely — 'infinite consciousness' — one dwells having attained the sphere of infinite consciousness.
+  related: [ arupyadhatu, akasanantyayatana, akincanyayatana ]
+  compare: [ three-realms ]
+
+- id: akincanyayatana
+  skt: ākiṃcanyāyatana
+  deva: आकिंचन्यायतन
+  pali: ākiñcaññāyatana
+  zh: 無所有處
+  zhAlt: [ 無所有處定 ]
+  en: sphere of nothingness
+  enAlt: [ nothingness, base of nothingness, realm of nothingness ]
+  root: a-kiṃcana「無任何物」＋ āyatana「處」 · akiṃcana "nothing whatsoever"
+  short_zh: 四無色定之三：超越識無邊處，觀「無所有」而住。佛陀出家後曾隨阿羅邏迦羅摩修得此定。
+  short_en: Sphere of nothingness — third formless attainment; going beyond infinite consciousness and dwelling on "there is nothing". The Buddha learned it from Ārāḍa Kālāma after leaving home.
+  detail_zh: |
+    《中阿含經》：「度一切無量識處，無所有處，是無所有處成就遊。」
+
+    佛陀出家後先後隨阿羅邏迦羅摩修得無所有處、隨鬱陀羅羅摩子修得非想非非想處，但認為這些仍不是究竟解脫而離去。
+  detail_en: |
+    Madhyamāgama: "Passing beyond the sphere of infinite consciousness entirely — 'there is nothing' — one dwells having attained the sphere of nothingness."
+
+    After leaving home the Buddha mastered this under Ārāḍa Kālāma and the next sphere under Udraka Rāmaputra, but left both, judging them not final liberation.
+  quotes:
+    - text: 度一切無量識處，無所有處，是無所有處成就遊
+      source: 《中阿含經》卷24（第97經）
+      source_en: Madhyamāgama, fasc. 24, sūtra 97
+      ref: T01n0026_p0581b25
+      refEnd: T01n0026_p0581b26
+      note_en: Passing beyond the sphere of infinite consciousness entirely — 'nothing at all' — one dwells having attained the sphere of nothingness.
+  related: [ arupyadhatu, vijnananantyayatana, naivasamjnanasamjnayatana ]
+  compare: [ three-realms ]
+
+- id: naivasamjnanasamjnayatana
+  skt: naivasaṃjñānāsaṃjñāyatana
+  deva: नैवसंज्ञानासंज्ञायतन
+  pali: nevasaññānāsaññāyatana
+  zh: 非想非非想處
+  zhAlt: [ 非有想非無想處, 有頂, 非想天 ]
+  en: sphere of neither perception nor non-perception
+  enAlt: [ neither perception nor non-perception, peak of existence, base of neither-perception-nor-non-perception ]
+  root: na-eva saṃjñā na-asaṃjñā「非想非非想」＋ āyatana「處」 · "neither perception nor non-perception"
+  short_zh: 四無色定之四：想極微細，非有粗想、亦非全無想；三界的最高處，稱「有頂」。
+  short_en: Sphere of neither perception nor non-perception — fourth formless attainment; perception so subtle it is neither present (coarsely) nor wholly absent. The summit of the three realms, "peak of existence".
+  detail_zh: |
+    《中阿含經》：「度一切無所有處，非有想非無想處，是非有想非無想處成就遊。」
+
+    此處粗想已無，但細想仍在，所以「非想」又「非非想」。雖是世間最高的禪定，仍有煩惱種子，報盡還會退墮。聖者由此定進一步入滅盡定。
+  detail_en: |
+    Madhyamāgama: "Passing beyond the sphere of nothingness entirely — 'neither perception nor non-perception' — one dwells having attained that sphere."
+
+    Coarse perception is gone but subtle perception remains — hence "neither perception nor non-perception". Though the highest worldly absorption, affliction-seeds remain and one falls back when its result is spent. Noble ones go from here into the attainment of cessation.
+  quotes:
+    - text: 度一切無所有處，非有想非無想處，是非有想非無想處成就遊
+      source: 《中阿含經》卷24（第97經）
+      source_en: Madhyamāgama, fasc. 24, sūtra 97
+      ref: T01n0026_p0581b29
+      refEnd: T01n0026_p0581c01
+      note_en: Passing beyond the sphere of nothingness entirely — 'neither perception nor non-perception' — one dwells having attained the sphere of neither perception nor non-perception.
+  related: [ arupyadhatu, akincanyayatana, nirodha-samapatti, samjna ]
+  compare: [ three-realms ]
+
+- id: samapatti
+  skt: samāpatti
+  deva: समापत्ति
+  pali: samāpatti
+  zh: 等至
+  zhAlt: [ 三摩鉢底, 正受, 三摩跋提 ]
+  en: meditative attainment
+  enAlt: [ attainment, absorption, samapatti, meditative absorption ]
+  root: sam-ā-√pad「到達、進入」 · sam-ā-√pad "to arrive at, enter"
+  short_zh: 身心平等而至的定境；包括四禪、四無色定、無想定、滅盡定等。
+  short_en: Meditative attainment — a state reached when body and mind are evened out; includes the four dhyānas, the formless attainments, and the attainments of non-perception and cessation.
+  detail_zh: |
+    samāpatti 音譯「三摩鉢底」，舊譯「正受」，玄奘譯「等至」——由定力使身心平等，到達安和的境地。
+
+    **定的幾個名稱**：samādhi（三摩地、等持）指心一境性的心所，散心中也有；samāpatti（等至）指已經到達的定境，專指有心或無心的深定；dhyāna（靜慮）專指色界四禪。所以「九次第定」——四禪、四無色、滅盡——在梵文中多稱 samāpatti。
+  detail_en: |
+    Samāpatti, transliterated 三摩鉢底 and formerly rendered 正受 "right reception", is Xuanzang's 等至 "evenly arrived": through concentration body and mind are made even and reach a state of ease.
+
+    **Names for concentration**: samādhi is the mental factor of one-pointedness, present even in ordinary minds; samāpatti is an attainment actually reached, a deep state with or without mind; dhyāna names specifically the four form-realm absorptions. The "nine successive attainments" (four dhyānas, four formless, cessation) are mostly called samāpatti.
+  quotes:
+    - text: 此本等至八，前七各有三，謂味淨無漏，後味淨二種
+      source: 《阿毘達磨俱舍論》卷28
+      source_en: Abhidharmakośabhāṣya, fasc. 28
+      ref: T29n1558_p0146b18
+      refEnd: T29n1558_p0146b19
+      note_en: The fundamental attainments are eight; the first seven each have three kinds — tainted by craving, pure, and uncontaminated; the last has two, tainted and pure.
+  related: [ samadhi, dhyana, asamjni-samapatti, nirodha-samapatti ]
+  compare: [ samadhi-names ]
+
+- id: priti
+  skt: prīti
+  deva: प्रीति
+  pali: pīti
+  zh: 喜支
+  zhAlt: [ 喜, 喜覺支, 踊躍 ]
+  en: rapture
+  enAlt: [ joy, zest, delight, priti, piti ]
+  root: √prī「喜悅」 · √prī "to please, delight"
+  short_zh: 初禪、二禪的禪支與七覺支之一：離欲後身心踊躍歡喜。唯識、俱舍歸為喜受，上座部歸為行蘊。
+  short_en: Rapture — a factor of the first two dhyānas and one of the seven factors of awakening; the elated joy of body and mind after leaving sense desire. Yogācāra and the Kośa class it as feeling; Theravāda as a formation.
+  detail_zh: |
+    《中阿含經》初禪：「離欲、離惡不善之法，有覺有觀，離生喜樂，得初禪成就遊。」二禪則是「定生喜樂」。喜在初禪、二禪中有，到三禪捨離。
+
+    **各宗分類不同**：唯識與《俱舍論》把禪支的「喜」算作喜受（受蘊）；上座部阿毗達摩則以 pīti 為獨立的心所（行蘊），與樂受（sukha）明確區分——喜像口渴的人聽說有水，樂像真正喝到水。
+
+    **名稱陷阱**：此「喜」（prīti）不是四無量心的「喜」（muditā，隨喜他人之樂）。
+  detail_en: |
+    Madhyamāgama on the first dhyāna: "Secluded from desire and from unwholesome dharmas, with initial and sustained thought, with rapture and pleasure born of seclusion, one dwells having attained the first dhyāna." The second has "rapture and pleasure born of concentration"; rapture is dropped in the third.
+
+    **Classified differently**: Yogācāra and the Abhidharmakośa count it as the feeling of joy (feeling aggregate); Theravāda Abhidhamma makes pīti a separate mental factor (formations aggregate), clearly distinct from pleasant feeling (sukha) — rapture is a thirsty man hearing of water, pleasure is drinking it.
+
+    **Naming trap**: this 喜 (prīti) is not the 喜 of the four immeasurables (muditā, rejoicing in others' happiness).
+  quotes:
+    - text: 離欲、離惡不善之法，有覺、有觀，離生喜樂，得初禪成就遊
+      source: 《中阿含經》卷1（第2經）
+      source_en: Madhyamāgama, fasc. 1, sūtra 2
+      ref: T01n0026_p0422b11
+      refEnd: T01n0026_p0422b13
+      note_en: Secluded from desire, secluded from evil and unwholesome dharmas, with initial and sustained thought, with rapture and pleasure born of seclusion, one dwells having attained the first dhyāna.
+  related: [ dhyana, sukha, bodhyanga, mudita, vedana ]
+  compare: [ rapture-pleasure ]
+
+- id: sukha
+  skt: sukha
+  deva: सुख
+  pali: sukha
+  zh: 樂
+  zhAlt: [ 樂受, 樂支, 安樂 ]
+  en: pleasure
+  enAlt: [ happiness, bliss, ease, pleasant feeling, sukha ]
+  root: 'su「好」＋ kha「（車軸）孔」：轉動順暢 · su "good" + kha "axle-hole": running smoothly'
+  short_zh: 適悅的感受；三受之一，也是初禪至三禪的禪支。三禪之樂最為殊勝。
+  short_en: Pleasure — agreeable feeling; one of the three feelings, and a factor of the first three dhyānas. The pleasure of the third dhyāna is the highest.
+  detail_zh: |
+    sukha 傳統詞源是「好的車軸孔」——車輪轉動順暢，比喻身心安適。與之相對的 duḥkha 是「壞的軸孔」。
+
+    《中阿含經》三禪：「離於喜欲，捨無求遊，正念正智而身覺樂，謂聖所說、聖所捨、念、樂住、空，得第三禪成就遊。」三禪捨離了喜的踊躍，只剩寧靜的樂。
+
+    **俱舍與唯識**：《俱舍論》說初禪、二禪的「樂」支其實是輕安，三禪的樂才是樂受。
+  detail_en: |
+    The traditional etymology of sukha is "a good axle-hole" — a wheel turning smoothly, body and mind at ease; its opposite duḥkha is "a bad axle-hole".
+
+    Madhyamāgama on the third dhyāna: "Free of desire for rapture, dwelling in equanimity without seeking, mindful and clearly knowing, feeling pleasure in the body — what the noble ones call dwelling in equanimity, mindfulness and pleasure — one dwells having attained the third dhyāna." The excitement of rapture is gone; only quiet pleasure remains.
+
+    **Kośa and Yogācāra**: the Abhidharmakośa says the "pleasure" of the first two dhyānas is really pliancy; only the third dhyāna's is the feeling of pleasure.
+  quotes:
+    - text: 離於喜欲，捨無求遊，正念正智而身覺樂，謂聖所說、聖所捨、念、樂住、空，得第三禪成就遊
+      source: 《中阿含經》卷1（第2經）
+      source_en: Madhyamāgama, fasc. 1, sūtra 2
+      ref: T01n0026_p0422b17
+      refEnd: T01n0026_p0422b19
+      note_en: Free of desire for rapture, dwelling in equanimity without seeking, mindful and clearly knowing, one feels pleasure in the body — what the noble ones declare, what the noble ones relinquish, mindful, dwelling in pleasure, empty — one dwells having attained the third dhyāna.
+  related: [ vedana, priti, dhyana, prasrabdhi ]
+  compare: [ rapture-pleasure ]
+
+- id: bodhyanga
+  skt: bodhyaṅga
+  deva: बोध्यङ्ग
+  pali: bojjhaṅga
+  zh: 七覺支
+  zhAlt: [ 覺支, 七覺分, 七菩提分 ]
+  en: factors of awakening
+  enAlt: [ seven factors of awakening, seven factors of enlightenment, awakening factors, bojjhanga ]
+  root: bodhi「覺」＋ aṅga「支、分」 · bodhi "awakening" + aṅga "limb"
+  short_zh: 念、擇法、精進、喜、輕安、定、捨七種導向覺悟的心理要素；三十七道品之一組。
+  short_en: The seven factors of awakening — mindfulness, investigation, energy, rapture, pliancy, concentration and equanimity; one group of the thirty-seven aids to awakening.
+  detail_zh: |
+    《雜阿含經》：「念覺分、擇法覺分、精進覺分、喜覺分、猗覺分、定覺分、捨覺分。」（「猗」即輕安。）
+
+    **平衡運用**：心昏沉時修擇法、精進、喜三覺支以策發；心掉舉時修輕安、定、捨三覺支以收攝；念覺支則一切時都需要。七覺支能對治五蓋。
+  detail_en: |
+    Saṃyuktāgama: "The awakening factor of mindfulness, of investigation of dharmas, of energy, of rapture, of pliancy, of concentration, of equanimity." (猗 is pliancy.)
+
+    **Balancing**: when the mind is sluggish, develop investigation, energy and rapture to rouse it; when restless, develop pliancy, concentration and equanimity to settle it; mindfulness is needed always. The seven counteract the five hindrances.
+  quotes:
+    - text: 念覺分、擇法覺分、精進覺分、喜覺分、猗覺分、定覺分、捨覺分。
+      source: 《雜阿含經》卷27（第718經）
+      source_en: Saṃyuktāgama, fasc. 27, sūtra 718
+      ref: T02n0099_p0193b16
+      refEnd: T02n0099_p0193b17
+      note_en: The awakening factor of mindfulness, the awakening factor of investigation of dharmas, … the awakening factor of equanimity.
+  related: [ smrti, dharmapravicaya, virya, priti, prasrabdhi, samadhi, upeksa, nivarana ]
+
+- id: dharmapravicaya
+  skt: dharmapravicaya
+  deva: धर्मप्रविचय
+  pali: dhammavicaya
+  zh: 擇法
+  zhAlt: [ 擇法覺支, 擇法覺分 ]
+  en: investigation of dharmas
+  enAlt: [ discrimination of dharmas, investigation of phenomena, analysis of dharmas ]
+  root: dharma「法」＋ pra-vi-√ci「揀擇」 · pravicaya "sifting, examination"
+  short_zh: 七覺支之二：以慧揀擇諸法的善惡、真偽；本質即慧心所。
+  short_en: Investigation of dharmas — second of the seven factors of awakening; sifting dharmas with wisdom, true from false, wholesome from unwholesome. Its substance is the mental factor wisdom.
+  detail_zh: |
+    擇法覺支就是慧——《俱舍論》說「慧謂於法能有簡擇」。在七覺支中，念先把所緣持住，擇法再加以揀擇分辨，然後引發精進、喜等。
+
+    阿毗達磨（對法）的「法」與「擇」密切相關：《俱舍論》以「淨慧」及隨行為對法的自性。
+  detail_en: |
+    The investigation factor is wisdom — the Abhidharmakośa says "wisdom is the capacity to discern dharmas". Among the seven, mindfulness first holds the object, investigation then sifts it, and energy, rapture and the rest follow.
+
+    Abhidharma is closely tied to this sifting of dharmas: the Kośa defines abhidharma as pure wisdom with its accompaniments.
+  quotes:
+    - text: 慧謂於法能有簡擇。
+      source: 《阿毘達磨俱舍論》卷4
+      source_en: Abhidharmakośabhāṣya, fasc. 4
+      ref: T29n1558_p0019a20
+      note_en: Wisdom is the capacity to discern dharmas.
+  related: [ prajna, bodhyanga, abhidharma, vipasyana ]
+
+- id: samyakprahana
+  skt: samyakprahāṇa
+  deva: सम्यक्प्रहाण
+  pali: sammappadhāna
+  zh: 四正勤
+  zhAlt: [ 四正斷, 四意斷, 正勤 ]
+  en: four right efforts
+  enAlt: [ right exertions, four right exertions, four right strivings, right efforts ]
+  root: samyak「正」＋ prahāṇa「斷、勤」 · prahāṇa "abandoning" (Pāli padhāna "striving")
+  short_zh: 已生惡令斷、未生惡令不生、未生善令生、已生善令增長的四種精進。三十七道品之一組。
+  short_en: The four right efforts — abandoning arisen evil, preventing unarisen evil, producing unarisen good, increasing arisen good. One group of the thirty-seven aids.
+  detail_zh: |
+    《雜阿含經》說「四正斷」：斷斷（已生惡法令斷）、律儀斷（未生惡法令不起）、隨護斷（已生善法令增長）、修斷（未生善法令生起）。
+
+    **譯名**：梵文 prahāṇa 是「斷」，巴利 padhāna 是「精勤」，所以漢譯有「正斷」與「正勤」兩種。本質是精進心所。
+  detail_en: |
+    The Saṃyuktāgama speaks of the "four right abandonings": abandoning arisen evil, restraining unarisen evil, guarding and increasing arisen good, and developing unarisen good.
+
+    **The name**: Sanskrit prahāṇa means "abandoning", Pāli padhāna "striving", hence the two Chinese renderings 正斷 and 正勤. Its substance is the mental factor energy.
+  quotes:
+    - text: 有四正斷。何等為四？一者斷斷，二者律儀斷，三者隨護斷，四者修斷。
+      source: 《雜阿含經》卷31（第876經）
+      source_en: Saṃyuktāgama, fasc. 31, sūtra 876
+      ref: T02n0099_p0221a15
+      refEnd: T02n0099_p0221a17
+      note_en: There are four right abandonings. Which four? First, abandoning by abandoning; second, abandoning by restraint; third, abandoning by guarding; fourth, abandoning by cultivation.
+  related: [ virya, kusala-moral, akusala ]
+
+- id: rddhipada
+  skt: ṛddhipāda
+  deva: ऋद्धिपाद
+  pali: iddhipāda
+  zh: 四神足
+  zhAlt: [ 四如意足, 神足, 如意足 ]
+  en: bases of power
+  enAlt: [ four bases of power, bases of spiritual power, roads to power, iddhipada ]
+  root: ṛddhi「神通、成就」＋ pāda「足、基礎」 · ṛddhi "success, power" + pāda "foot, base"
+  short_zh: 欲、精進（勤）、心、觀（思惟）四種三摩地，是引發神通與成就的基礎。三十七道品之一組。
+  short_en: The four bases of power — concentration driven by desire, energy, mind and investigation; the foundation for supernormal powers and accomplishment. One group of the thirty-seven aids.
+  detail_zh: |
+    《雜阿含經》：「欲定斷行成就如意足」——依強烈的意欲而得定，加上斷行（四正勤），成就如意足。其餘三者以精進、心（一心專注）、思惟為主導。
+
+    「如意足」意為能使所欲成就的基礎；「神足」則強調由此引發的神通。
+  detail_en: |
+    Saṃyuktāgama: "the base of power accomplished through concentration of desire and the formations of striving" — concentration gained through strong aspiration, joined with striving (the right efforts). The other three are led by energy, mind (single focus) and investigation.
+
+    如意足 means "the basis for accomplishing what one wishes"; 神足 stresses the supernormal powers that arise from it.
+  quotes:
+    - text: 欲定斷行成就如意足。
+      source: 《雜阿含經》卷7（第179經）
+      source_en: Saṃyuktāgama, fasc. 7, sūtra 179
+      ref: T02n0099_p0047a07
+      note_en: The base of power accomplished through concentration of desire and the formations of striving.
+  related: [ samadhi, chanda, virya ]
+
+- id: bala
+  skt: bala
+  deva: बल
+  pali: bala
+  zh: 力
+  zhAlt: [ 五力, 力波羅蜜 ]
+  en: power
+  enAlt: [ powers, five powers, strength, power perfection ]
+  root: 「力量」 · "strength"
+  short_zh: 信、精進、念、定、慧五根增長而不被障礙所壞時稱五力；又為十波羅蜜的第九「力」。
+  short_en: Power — faith, energy, mindfulness, concentration and wisdom, when grown strong enough not to be overcome, are the five powers; also the ninth of the ten perfections.
+  detail_zh: |
+    **五力**：《雜阿含經》：「信力、精進力、念力、定力、慧力。」同樣五法，能生起增上作用時稱「根」，堅固不被對立面摧伏時稱「力」——信力破不信，精進力破懈怠，念力破失念，定力破散亂，慧力破無明。
+
+    **力波羅蜜**：《成唯識論》十波羅蜜中，「力有二種，謂思擇力、修習力」，是菩薩於十地中特別增上的修行。
+  detail_en: |
+    **Five powers**: Saṃyuktāgama: "the power of faith, of energy, of mindfulness, of concentration, of wisdom." The same five are "faculties" when they exert a dominant influence, and "powers" when firm enough not to be overthrown by their opposites — faith defeats unbelief, energy laziness, mindfulness forgetfulness, concentration distraction, wisdom ignorance.
+
+    **Perfection of power**: among the ten perfections, the Cheng weishi lun says "power is of two kinds: the power of reflection and the power of cultivation".
+  quotes:
+    - text: 信力、精進力、念力、定力、慧力。
+      source: 《雜阿含經》卷26（第673經）
+      source_en: Saṃyuktāgama, fasc. 26, sūtra 673
+      ref: T02n0099_p0185c02
+      note_en: The power of faith, the power of energy, the power of mindfulness, the power of concentration, the power of wisdom.
+    - text: 願有二種：謂求菩提願、利樂他願。力有二種：謂思擇力、修習力。智有二種：謂受用法樂智、成熟有情智。
+      source: 《成唯識論》卷9
+      source_en: Cheng weishi lun, fasc. 9
+      ref: T31n1585_p0051b16
+      refEnd: T31n1585_p0051b18
+      note_en: Vows are of two kinds — the vow seeking awakening and the vow to benefit others. Power is of two kinds — the power of reflection and the power of cultivation. Wisdom is of two kinds — the wisdom enjoying the Dharma and the wisdom maturing beings.
+  related: [ indriya, sraddha, virya, smrti, samadhi, prajna, paramita ]
